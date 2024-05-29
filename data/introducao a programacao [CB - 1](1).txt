@@ -1,0 +1,18 @@
+Introducao a programacao - Conceitos Basicos
+
+Considerando o codigo escrito na linguagem C: 
+
+int vetor[10];
+
+for (int i = a ; i <= b ; i++){
+    printf(“%d “, vetor[i]);
+}
+
+Para imprimir todos os itens do vetor, qual deve ser o valor de a e b?
+
+Alternativas
+
+A. a=1 e b=9
+B. a=0 e b=9 
+C. a=1 e b=10
+D. a=0 e b=10

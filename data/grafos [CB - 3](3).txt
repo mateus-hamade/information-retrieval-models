@@ -1,0 +1,11 @@
+Grafos - Conceitos Basicos
+
+E uma linguagem de consulta que utiliza um modelo baseado em grafos:
+
+Alternativas
+
+A. SQL
+B. SPARQL
+C. Cypher
+D. PL/SQL
+E. T-SQL

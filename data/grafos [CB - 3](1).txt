@@ -1,0 +1,11 @@
+Grafos - Conceitos Basicos
+
+No que se refere a teoria dos grafos, assinale a opcao correta.
+
+Alternativas
+
+A. Na teoria dos grafos, o circulo Sk corresponde ao grafo bipartido completo K1,k.
+B. O circulo e uma arvore com um no interno e k folhas.
+C. As estrelas podem ser descritas como os unicos grafos conectados em que, no maximo, um vertice tem grau maior que dois.
+D. A estrela e um tipo especial de arvore e, da mesma forma que ocorre com qualquer arvore, pode ser codificada por uma sequencia Prufer.
+E. Uma estrela com tres arestas e chamada arvore.

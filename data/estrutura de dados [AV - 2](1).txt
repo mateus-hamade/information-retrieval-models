@@ -1,0 +1,16 @@
+Algoritmos e Estrutura de Dados - Arvores
+
+Considere as afirmacoes abaixo sobre estruturas de dados em arvore.    
+
+I – Uma arvore AVL (Adelson-Velskii e Landis) e uma arvore na qual as alturas das subarvores esquerda e direita de cada no diferem no maximo em um elemento.
+II – A arvore B e uma estrutura de dados que foi projetada para minimizar o numero de acessos a memoria secundaria, sendo que cada no associado pode ter mais de uma chave.
+III – Uma arvore rubro-negra e uma arvore B+ que possui um bit extra para armazenar a cor de cada no.    
+
+Esta CORRETO o que consta em: 
+
+Alternativas
+
+A. I e II, apenas.
+B. I e III, apenas.
+C. II, apenas.
+D. III, apenas.  E I, II e III.

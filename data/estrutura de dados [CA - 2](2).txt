@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos - Complexidade de Algoritmos
+
+Em bancos de dados e sistemas de arquivos, a árvore B* é uma variação da árvore B que melhora a utilização do espaço e o balanceamento da árvore. Considerando uma árvore B* de ordem m, qual é a complexidade de tempo do algoritmo de inserção em uma árvore B*?
+
+Alternativas
+
+A. O(1)
+B. O(log n)
+C. O(m log n)
+D. O(n log n)

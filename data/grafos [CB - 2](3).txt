@@ -1,0 +1,8 @@
+Grafos - Conceitos Basicos
+
+Considere que o grafo nao orientado representado na figura acima possua as seguintes caracteristicas: Nesse caso, e correto afirmar que o grafo G1 possui quatro vertices, nomeados de A, B, C e D, e cinco arcos, que conectam pares de vertices, conforme especificado em A1.
+
+Alternativas
+
+A. Certo 
+B. Errado

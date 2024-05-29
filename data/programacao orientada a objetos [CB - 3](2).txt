@@ -1,0 +1,11 @@
+Programacao Programacao Orientada a Objetos - Conceitos Basicos
+
+Algumas das caracteristicas da linguagem de programacao orientada a objetos sao as listadas a seguir, a excecao de uma. Assinale-a.
+
+Alternativas
+
+A. Os programas sao decompostos em objetos.
+B. O foco e mais em um dado do que no procedimento.
+C. Objetos podem comunicar com os demais por meio de metodos.
+D. Dados podem ser protegidos por funcoes externas.
+E. POO segue uma abordagem de cima para baixo.

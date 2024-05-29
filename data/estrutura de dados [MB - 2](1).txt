@@ -1,0 +1,13 @@
+Algoritmos e Estrutura de Dados - Métodos de busca
+
+Considere a sequência de chaves armazenadas em um array ordenado: 5, 10, 15, 20, 25, 30, 35, 40. Suponha que o número 17 é inserido na posição correta, resultando no array: 5, 10, 15, 17, 20, 25, 30, 35, 40.
+
+Qual será a sequência de índices acessados ao realizar uma busca binária para encontrar o número 35 no novo array?
+Se o número 17 fosse removido, qual seria a nova sequência de índices acessados ao realizar uma busca binária para encontrar o número 35 no array original?
+
+Alternativas
+
+A. 4, 6, 8 (com 17), 4, 6, 7 (sem 17)
+B. 4, 6, 7 (com 17), 4, 5, 6 (sem 17)
+C. 4, 7, 8 (com 17), 4, 6, 7 (sem 17)
+D. 4, 5, 6 (com 17), 4, 5, 6 (sem 17)

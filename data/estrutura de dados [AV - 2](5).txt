@@ -1,0 +1,18 @@
+Algoritmos e Estrutura de Dados - Arvores
+
+Considere as seguintes assertivas sobre árvores de busca binária e suas variantes:
+
+I. Em árvores de busca binária balanceadas como as AVL, a altura máxima é garantida em O(log n), onde n é o número de elementos na árvore.
+II. Árvores B+ são uma variação de árvores de busca binária que permitem mais de dois filhos por nó.
+III. Em árvores de busca binária, a profundidade de busca é sempre O(h), onde h é a altura da árvore, que pode variar dependendo da distribuição dos dados.
+IV. Árvores 2-3-4 são árvores de busca que garantem que a altura da árvore seja O(log n) no pior caso.
+
+Escolha a alternativa correta:
+
+Alternativas
+
+A. Todas as assertivas estão corretas.
+B. Todas as assertivas estão incorretas.
+C. Apenas a assertiva I está correta.
+D. Apenas as assertivas II e III estão corretas.
+E. Apenas as assertivas III e IV estão corretas.

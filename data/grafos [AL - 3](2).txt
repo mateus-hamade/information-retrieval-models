@@ -1,0 +1,11 @@
+Grafos - Algoritmos
+
+A obtencao das componentes fortemente conexas de um grafo dirigido G = (V, E) e feita da seguinte forma:
+
+Alternativas
+
+A. Aplicacao da busca em profundidade em G, para obtencao dos tempos de termino para cada vertice, e aplicacao da busca em profundidade em G, considerando os vertices em ordem decrescente dos tempos de termino.
+B. Aplicacao da busca em profundidade em G, para obtencao dos tempos de termino para cada vertice, e aplicacao da busca em profundidade no grafo transposto GT = (V, ET ), considerando os vertices em ordem decrescente dos tempos de termino.
+C. Aplicacao da busca em profundidade em G, para obtencao dos tempos de termino para cada vertice, e aplicacao da busca em largura no grafo transposto GT = (V, ET ), considerando os vertices em ordem decrescente dos tempos de termino.
+D. Aplicacao da busca em profundidade em G, para obtencao dos tempos de descoberta para cada vertice, e aplicacao da busca em profundidade no grafo transposto GT = (V, ET ), considerando os vertices em ordem crescente dos tempos de descoberta.
+E. Aplicacao da busca em profundidade no grafo transposto GT = (V, ET ), para obtencao dos tempos de descoberta para cada vertice, e aplicacao da busca em profundidade em G, considerando os vertices em ordem decrescente dos tempos de descoberta.

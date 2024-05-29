@@ -1,0 +1,15 @@
+Programacao Conceitos basicos de programacao - Conceitos Basicos
+
+I - Uma classe define o modelo de um objeto, ou seja, todas as caracteristicas que o objeto contem foram definidas na classe. E importante considerar que uma classe nao representa nenhum objeto em particular, pois e so um modelo.  
+II - O termo objeto e o termo instancia sao sinonimos e para usar um objeto apos sua criacao, devemos enviar mensagens, onde uma mensagem e a forma de comunicacao entre objetos.  
+III - O encapsulamento e o processo de proteger os membros de uma classe (atributos e metodos), permitindo que somente os membros necessarios (publicos) sejam acessados pelos usuarios da classe.  IV - A sobrecarga de metodos e a capacidade de definir mais de um metodo com o mesmo nome, mas com assinaturas diferentes em duas classes.  
+
+Em relacao aos itens analisados, podemos afirmar que:
+
+Alternativas
+
+A. somente o item IV e falso.
+B. os itens I, II e III sao falsos.
+C. o item II e IV sao falsos.
+D. os itens II, III e IV sao verdadeiros.
+E. somente o item I e verdadeiro.

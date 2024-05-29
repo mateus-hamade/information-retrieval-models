@@ -1,0 +1,8 @@
+Grafos - Conceitos Basicos
+
+Um grafo nao direcionado e dito conectado quando ha pelo menos um caminho entre dois vertices quaisquer do grafo. 
+
+Alternativas
+
+A. Certo
+B. Errado

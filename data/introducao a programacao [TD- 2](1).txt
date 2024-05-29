@@ -1,0 +1,19 @@
+Introducao a Programacao - Tipos de dados
+
+Considere uma lista dinamicamente encadeada, onde cada no possui a seguinte estrutura desenvolvida na linguagem de programacao C:
+
+struct celula { 
+	int info;                        
+	struct celula *next; 
+};
+
+Suponha que a variavel p e um ponteiro do tipo struct celula apontando para o primeiro elemento da lista. Dessa maneira, e utilizado como auxiliar para percorrer a lista. Assumindo como pre-condicao que a lista nao esteja vazia e que o campo next do ultimo elemento da lista e NULL, qual opcao permite percorrer e imprimir os elementos da lista?
+
+Alternativas
+
+A. for(;p!=NULL;p->next)         printf("\n%d",p->info);
+B. for(;p==NULL;p=p->next)       printf("\n%d",p->info);
+C. for(;p!=NULL;p=p->next)       printf("\n%d",p->info); 
+D. for(;p->next!=NULL;p=p->next) printf("\n%d",p->info); 
+E. for(;p->next!=NULL;p->next)   printf("\n%d",p->info); 
+

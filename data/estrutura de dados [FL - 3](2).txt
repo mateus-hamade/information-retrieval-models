@@ -1,0 +1,11 @@
+Algoritmos e Estrutura de Dados - Filas
+
+Suponha que queiramos inserir o dado de valor ‘13’ na fila. Considerando ULTIMO=4 e TOPO=8, apos a insercao, teremos, com os dados listados na ordem padrao da fila (do mais antigo para o mais recente), a seguinte configuracao:
+
+Alternativas
+
+A. Dados da fila: 13,0,1,21,5,7,9; indices dos elementos livres: 3,9,8.
+B. Dados da fila: 0,1,21,5,7,9,13; indices dos elementos livres: 8,3,9.
+C. Dados da fila: 9,5,-1,0,7,16,13; indices dos elementos livres: 8,3,9.
+D. Dados da fila: 13,9,5,-1,0,7,16; indices dos elementos livres: 3,9,6.
+E. Dados da fila: 9,7,5,21,1,0,13; indices dos elementos livres: 3,9,6.

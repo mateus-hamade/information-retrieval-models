@@ -1,0 +1,10 @@
+Programacao Programacao Orientada a Objetos - Conceitos Basicos
+
+Em orientacao a objetos, ha um principio que se refere ao grau em que os elementos (metodos e atributos) de uma classe estao relacionados e servem a uma unica responsabilidade. Trata-se de
+
+Alternativas
+
+A. encapsulamento.
+B. polimorfismo.
+C. acoplamento.
+D. coesao.

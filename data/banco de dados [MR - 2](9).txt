@@ -1,0 +1,16 @@
+Banco de Dados - Modelo relacional
+
+Seja o esquema relacional:  
+
+create table X1( A1 int not null primary key, B1 int)
+create table X2( A2 int not null primary key, B2 int)
+create table X3( A1 int not null unique, A2 int, B3 int, foreign key(A1) references X1(A1), foreign key(A2) references X2(A2))  
+
+Para o esquema apresentado, a relacao que existe entre as tabelas X1, X2 e X3 e descrita por:
+
+Alternativas
+
+A. cada elemento de X1 pode estar relacionado a zero, a um ou a mais elementos de X3.
+B. cada elemento de X1 pode estar relacionado, via X3, a zero, a um ou a mais elementos de X2.
+C. cada elemento de X2 pode estar relacionado, via X3, a apenas um elemento de X1.
+D. cada elemento de X2 pode estar relacionado a zero ou apenas a um elemento de X3.

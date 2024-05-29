@@ -1,0 +1,17 @@
+Banco de Dados - PL-SQL
+
+Sobre o uso de excecoes com a linguagem PL/SQL no Oracle 12c, analise as afirmacoes a seguir:  
+
+I. A instrucao RAISE_APPLICATION_ERROR no Oracle 12c permite especificar um texto e um numero entre -20.000 e -20.999 para um determinado erro. 
+II. Uma excecao pode ser explicitamente levantada (raised) por um programa PL/SQL usando a instrucao RAISE. 
+III. A clausula EXCEPTION em um bloco PL/SQL sempre deve ser seguida pelo codigo e nome da excecao definida na biblioteca de exceptions do Oracle 12c.
+
+E correto o que se afirma em:
+
+Alternativas
+
+A. I e II, apenas.
+B. III, apenas.
+C. II, apenas.
+D. I, apenas.
+E. I, II e III.

@@ -1,0 +1,32 @@
+Introducao a Programacao - Conceitos Basicos
+
+Considerando-se o codigo escrito na linguagem C:
+
+#include <stdio.h>
+#include <stdlib.h>
+
+void compute(int *a, int b){
+    *a = 10;
+    b = *a + 2;
+}
+
+int main() {
+    int a, b;
+
+    a = 1; b = 2;
+
+    compute(&a,b);
+
+    printf(“a=%d e b=%d\n”,a,b);
+
+    return 0;
+}
+
+Qual e o resultado da execucao do codigo?
+
+Alternativas
+
+A. a = 1 e  b = 2
+B. a = 1 e  b = 12
+C. a = 10 e b = 2
+D. a = 10 e b = 12

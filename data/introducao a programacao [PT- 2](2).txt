@@ -1,0 +1,11 @@
+Introducao a Programacao - Ponteiros
+
+Na linguagem C, como declarar um ponteiro de funcao denominado funcao_ptr que recebe um inteiro e retorna um inteiro?
+
+Alternativas
+
+A. int *funcao_ptr;
+B. int (*funcao_ptr)(int);
+C. int **funcao_ptr(int*);
+D. int funcao_ptr(int*);
+

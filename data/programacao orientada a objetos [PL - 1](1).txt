@@ -1,0 +1,11 @@
+Programacao Programacao Orientada a Objetos - Polimorfismo
+
+O que e polimorfismo em programacao orientada a objetos?
+
+Alternativas
+
+A. Um padrao de design de software que envolve a criacao de objetos imutaveis.
+B. Tecnica em que objetos de diferentes classes sao tratados da mesma forma.
+C. Uma classe que nao pode ser instanciada diretamente, sendo modelo de classes.
+D. Um conceito que envolve a protecao de atributos de uma classe.
+E. Uma forma de criptografar informacoes em objetos, serializando os dados.

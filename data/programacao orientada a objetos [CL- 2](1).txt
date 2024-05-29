@@ -1,0 +1,12 @@
+Programacao Orientada a Objetos - Classes
+
+Sobre o uso de classes abstratas na programacao orientada a objetos utilizando a linguagem de programacao Java, assinale alternativa INCORRETA:
+
+Alternativas
+
+A. As classes abstratas devem ter todos seus metodos abstratos, ou seja, nenhum corpo de metodo e permitido.
+B. O proposito de uma classe abstrata e servir como uma superclasse para outras classes.
+C. Uma classe abstrata nao pode ser instanciada.
+D. Uma subclasse de uma classe abstrata que nao implementa todos os metodos abstratos herdados se torna uma subclasse abstrata.
+E. As classes abstratas nao fornecem subsidio para heranca multipla, isto e, uma subclasse de uma classe abstrata nao pode estender nenhuma outra classe.
+

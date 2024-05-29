@@ -1,0 +1,11 @@
+Grafos - Conceitos Basicos
+
+O jantar dos filosofos, formulado por Dijkstra, e um problema classico da teoria de Sistemas Operacionais. Assinale a alternativa que melhor apresenta o tipo de contexto onde o problema do jantar dos filosofos e empregado.
+
+Alternativas
+
+A. Processos de gestao de thead e de fila.
+B. Semaforos assincronos.
+C. Processos de modularizacao.
+D. Processos de gestao de Arvore AVL e pilha.
+E. Processos que competem por acesso exclusivo a um recurso.

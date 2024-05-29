@@ -1,0 +1,20 @@
+Grafos - Conceitos Basicos
+
+CIDADE | DISTANCIA (KM) | CAMINHO
+A        0                -
+B        1                A
+C        2                B
+D        3                C
+E        5                B
+F        7                E 
+
+A tabela acima apresenta o resultado da aplicacao do algoritmo de Dijkstra para a obtencao do caminho minimo para o deslocamento entre diversas cidades.  A partir dos dados da tabela, conclui-se que
+
+Alternativas
+
+A. a menor distancia entre as cidades A e F e de 15 km.
+B. o menor caminho entre as cidades A e D e de 2 km.
+C. um viajante devera passar obrigatoriamente na cidade C, para percorrer o menor caminho entre as cidades A e F.
+D. um viajante devera se deslocar na sequencia A – B – E – F, para percorrer o menor caminho entre as cidades A e F.
+E. um viajante tera que se deslocar 5 km, para percorrer o menor caminho entre a cidade B e a cidade E.
+

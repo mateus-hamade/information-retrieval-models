@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados - Arvores
+
+Em um sistema de gerenciamento de banco de dados, a estrutura de dados Árvore B desempenha um papel crucial na organização e recuperação eficiente de dados. Ao considerar as propriedades das Árvores B, qual das seguintes afirmações é verdadeira?
+
+Alternativas
+
+A. Flexibilidade de Tamanho: Uma característica essencial das Árvores B é sua capacidade de acomodar um número variável de chaves em cada nó, tornando-as ideais para indexação em conjuntos de dados de tamanhos diversos.
+B. Inserção e Exclusão Dinâmicas: Diferentemente de outras estruturas de árvore, as Árvores B permitem a inserção e exclusão dinâmicas de chaves, sem exigir reestruturação frequente da árvore para manter o balanceamento.
+C. Benefícios de Balanceamento Parcial: Ao contrário das Árvores AVL, as Árvores B não requerem um balanceamento rigoroso em cada operação, o que as torna mais eficientes para manipulação de grandes conjuntos de dados em tempo real.
+D. Preservação de Ordem: Em uma Árvore B, as chaves são organizadas em ordem crescente em cada nível da árvore, facilitando operações de busca binária e reduzindo a complexidade das consultas.

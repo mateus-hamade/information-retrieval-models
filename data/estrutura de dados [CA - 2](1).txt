@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos - Complexidade de Algoritmos
+
+Suponha que você esteja implementando uma Árvore AVL para armazenar informações sobre os funcionários de uma empresa. Cada nó da árvore contém dados como o nome do funcionário, cargo, salário, e assim por diante. Considerando que a Árvore AVL mantém uma estrutura de dados balanceada, qual é a complexidade de espaço necessária para armazenar informações de n funcionários na árvore?
+
+Alternativas
+
+A. O(n)
+B. O(log n)
+C. O(h)
+D. O(1)

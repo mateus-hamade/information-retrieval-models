@@ -1,0 +1,11 @@
+Programacao Orientada a Objetos - Conceitos Basicos 
+
+Com relacao aos conceitos de Programacao Orientada a Objetos e correto afirmar que:
+
+Alternativas
+
+A. Para uma classe ser considerada abstrata, todos os seus metodos devem ser abstratos. Em Java, para se definir uma classe abstrata deve-se utilizar a palavra chave abstract no inicio de sua declaracao.
+B. Polimorfismo e o principio pelo qual duas ou mais classes derivadas de uma mesma superclasse podem invocar metodos que tem a mesma identificacao (assinatura) mas comportamentos distintos, especializados para cada classe derivada, usando para tanto uma referencia a um objeto do tipo da superclasse.
+C. O encapsulamento e alcancado por meio da definicao da visibilidade publica aos atributos e metodos.
+D. Interface pode ser considerada como a forma com que um objeto se apresenta para outros, no que diz respeito aos seus atributos e metodos. Em Java, uma mesma classe nao pode implementar mais de uma interface.
+E. A heranca e um mecanismo que permite que uma classe herde todo o comportamento e os atributos de outra classe. Em Java, pode-se implementar tanto a heranca unica quanto a heranca multipla.

@@ -1,0 +1,16 @@
+Banco de Dados - Algebra relacional
+
+Para um estudo do tema Educacao, foram coletados dados de escolas e de professores em todos os municipios brasileiros. Esses dados foram armazenados em duas relações (tabelas), organizadas de acordo com o seguinte modelo relacional:
+
+ESCOLA (cod-escola, nome-escola, cod-municipio, quantidade-alunos)
+PROFESSOR (CPF, nome-prof, data-nascimento, cod-municipio-residencia, cod-escola-prof)  
+
+A chave primaria de ESCOLA e cod-escola, e a de PROFESSOR e CPF. A coluna cod-escola-prof em PROFESSOR e uma chave estrangeira e indica em que escola o professor leciona. Considere a utilizacao dos operadores de Projecao (π ou PROJETE), Selecao (σ ou SELECIONE) e Juncao (Imagem associada para resolucao da questao ou JUNTE) da Algebra Relacional. Que sequencia de operacoes, em Algebra Relacional, produz como resultado uma relacao R-X com CPF e nome dos professores que NAO residem no mesmo municipio onde lecionam?
+
+Alternativas
+
+A. R-X ← SELECIONE CPF, nome-prof de PROFESSOR onde cod-municipio-residencia e diferente de cod-municipio
+B. R-A ← JUNTE PROFESSOR a ESCOLA onde cod-municipio-residencia e diferente de cod-municipio R-X ← PROJETE CPF, nome-prof de R-A
+C. R-A ← SELECIONE CPF, nome-prof de PROFESSOR R-X ← JUNTE R-A a ESCOLA onde cod-escola-prof = cod-escola
+D. R-A ← JUNTE PROFESSOR a ESCOLA onde cod-escola-prof = cod-escola R-B ← SELECIONE R-A onde cod-municipio-residencia e diferente de cod-municipio R-X ← PROJETE CPF, nome-prof de R-B
+E. R-A ← PROJETE CPF, nome-prof de PROFESSOR R-B ← JUNTE R-A a ESCOLA onde cod-escola-prof = cod-escola R-X ← SELECIONE R-B onde cod-municipio-residencia e diferente de cod-municipio

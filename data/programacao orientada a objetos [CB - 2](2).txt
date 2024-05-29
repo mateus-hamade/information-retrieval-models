@@ -1,0 +1,14 @@
+Programacao Orientada a Objetos - Conceitos Basicos
+
+De acordo com as afirmacoes abaixo sobre programacao orientada a objetos, analise as afirmativas abaixo e de valores Verdadeiro (V) ou Falso (F).
+
+I. XML e uma linguagem de marcacao que permite a representacao estruturada de dados. 
+II. Pode-se criar documentos XML personalizados usando tags especificas, tornando-o uma linguagem extensivel. 
+III. Tags em XML sao case-sensitive, ou seja, <Tag> e <tag> sao consideradas diferentes.  Assinale a alternativa que apresenta a sequencia correta de cima para baixo.
+
+Alternativas
+
+A. V - V - V
+B. V - V - F
+C. F - V - V
+D. V - F - F

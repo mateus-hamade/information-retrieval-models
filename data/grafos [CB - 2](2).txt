@@ -1,0 +1,11 @@
+Grafos - Conceitos Basicos
+
+Sobre o uso de grafos de causa e efeito, assinale a alternativa correta.
+
+Alternativas
+
+A. Esse tipo de grafo ajuda na definicao de testes que exploram ambiguidades e incompletudes das especificacoes.
+B. E uma tecnica util para especificacoes grandes, pois um unico grafo pode resumir de maneira simples toda a especificacao.
+C. O grafo e construido apos a particao do dominio de entrada, escolhendo-se, como causa, um valor por particao e, como efeito, a saida esperada.
+D. Por construcao, o grafo de causa e efeito elimina todas as ambiguidades e incompletudes da especificacao.
+E. Os nodos de um grafo de causa e efeito representam os estados do sistema e podem assumir qualquer valor.

@@ -1,0 +1,17 @@
+Banco de Dados - Modelo relacional
+
+De acordo com modelo entidade relacionamento (MER). Analise as afirmativas abaixo e de valores Verdadeiro (V) ou Falso (F).  
+
+( ) O Modelo Entidade-Relacionamento e especificamente projetado para representar dados de forma fisica, sem se preocupar com a visao logica dos usuarios.
+( ) A chave primaria de uma entidade e um atributo (ou conjunto de atributos) que identifica exclusivamente cada instancia da entidade no banco de dados.
+( ) Atributo descritivo e uma propriedade ou caracteristica de uma relacao (versus de uma entidade).  
+
+Assinale a alternativa que apresenta a sequencia correta de cima para baixo:
+
+Alternativas
+
+A. F - F - F
+B. V - V - F
+C. V - F - F
+D. F - V - V
+E. V - V - V

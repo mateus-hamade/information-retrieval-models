@@ -1,0 +1,8 @@
+Grafos - Conceitos Basicos
+
+Para modelar a rede que conecta todos os computadores em uma sala de escritorio com a menor metragem possivel de cabos, e adequado utilizar um grafo G cujos vertices representem os possiveis pares (u, v) de computadores e cujas arestas representem o comprimento dos cabos necessarios para ligar os computadores u e v, determinando-se o caminho minimo, que contenha todos os vertices de G, a partir de um dado vertice v. 
+
+Alternativas
+
+A. Certo 
+B. Errado

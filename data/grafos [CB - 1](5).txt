@@ -1,0 +1,8 @@
+Grafos - Conceitos Basicos
+
+Uma arvore de espalhamento de um grafo ponderado conectado e minima se a soma dos pesos de todas as arestas for minima. 
+
+Alternativas
+
+A. Certo 
+B. Errado

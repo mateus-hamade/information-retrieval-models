@@ -1,0 +1,22 @@
+Grafos - Algoritmos
+
+O codigo abaixo pode ser utilizado para atravessar um grafo. 
+
+Entrada: um grafico G e um vertice v de G 
+Saida: todos os vertices alcancaveis de v marcados  
+
+funcao DFS(G,v):  
+    marque v para todas as arestas adjacentes a v, faca:  
+        se: vertice w nao estiver marcado, entao:  Chame recursivamente DFS(G,w)  
+        fim se  
+    fim para  
+fim funcao    
+
+Entre os diversos tipos de algoritmos utilizados para atravessar grafos, esse codigo implementa o algoritmo   
+
+Alternativas
+
+A. busca em profundidade ou Depth-First Search.
+B. busca em largura ou Breadth-First Search.
+C. busca melhor-primeiro ou Best-First Search
+D. busca exaustiva ou Brute-Force Search.

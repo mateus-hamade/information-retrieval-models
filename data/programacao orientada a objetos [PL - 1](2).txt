@@ -1,0 +1,12 @@
+Programacao Orientada a Objetos - Polimorfismo
+
+Sobre o paradigma de programacao orientada a objetos, assinale a alternativa que identifica uma das vantagens do uso de polimorfismo.
+
+Alternativas
+
+A. Agrupar dados e metodos que operam sobre esses dados em uma unica entidade.
+B. Herdar atributos ou metodos da superclasse.
+C. Abstrair elementos essenciais de um sistema e criar classes que representam entidades do mundo real.
+D. Criar modelos de classe.
+E. Utilizar objetos distintos e continuar executando a mesma acao, sendo que essa acao se moldara ao objeto corrente.
+

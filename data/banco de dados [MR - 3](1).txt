@@ -1,0 +1,17 @@
+Banco de Dados - Modelo relacional
+
+Sobre o uso do tipo de dados varchar(MAX) na criacao de uma tabela relacional, analise as afirmativas a seguir. 
+
+I. Define colunas de caracteres com tamanho fixo, de acordo com o parametro MAX estabelecido por ocasiao da instalacao do SQL Server.
+II. Colunas assim definidas podem ser usadas na chave primaria, mas nao podem ser especificadas numa chave estrangeira. 
+III. Colunas assim definidas sao armazenadas juntamente com as demais colunas da tabela.
+
+Sobre essas afirmativas, e correto afirmar que:
+
+Alternativas
+
+A. nenhuma e verdadeira;
+B. somente I e verdadeira;
+C. somente II e verdadeira;
+D. somente III e verdadeira;
+E. todas sao verdadeiras.

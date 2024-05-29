@@ -1,0 +1,16 @@
+Programacao Programacao Orientada a Objetos - Conceitos Basicos
+
+De acordo com as afirmacoes abaixo sobre programacao orientada a objetos, analise as afirmativas abaixo e de valores Verdadeiro (V) ou Falso (F).  
+
+( ) Em programacao orientada a objetos, uma classe e uma estrutura que define o comportamento e as propriedades de um objeto. 
+
+( ) Heranca multipla e uma caracteristica comum em programacao orientada a objetos, permitindo que uma classe herde de varias classes pai. 
+
+( ) Encapsulamento em programacao orientada a objetos envolve tornar todas as propriedades de uma classe publicas para facilitar o acesso.  Assinale a alternativa que apresenta a sequencia correta de cima para baixo.
+
+Alternativas
+
+A. V - V - V
+B. V - V - F
+C. F - V - V
+D. V - F - F

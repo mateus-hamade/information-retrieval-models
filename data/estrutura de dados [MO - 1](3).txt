@@ -1,0 +1,11 @@
+Algoritmos e Estrutura de Dados Algoritmos - Metodos de Ordenacao
+
+Qual das seguintes afirmacoes sobre algoritmos de ordenacao e correta?
+
+Alternativas
+
+A. O algoritmo Bubble Sort tem uma complexidade de tempo de O(nlogn).
+B. O algoritmo Quick Sort e um algoritmo de ordenacao estavel.
+C. O algoritmo Insertion Sort e menos eficiente em termos de tempo de execucao do que o algoritmo Selection Sort.
+D. O algoritmo Merge Sort utiliza uma estrategia de divisao e conquista.
+E. O algoritmo Radix Sort e um algoritmo de comparacao.

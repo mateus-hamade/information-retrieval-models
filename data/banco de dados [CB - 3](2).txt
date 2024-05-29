@@ -1,0 +1,10 @@
+Banco de Dados - Conceitos Basicos
+
+Assinale a alternativa que nao apresentaria erro durante a execucao de um comando em SQL, levando-se em consideracao a existencia de uma tabela denominada disciplina, nela contendo um campo denominado nome.
+
+Alternativas
+
+A. SELECT COUNT(nome) DISTINCT FROM disciplina
+B. SELECT DISTINCT COUNT(nome) AS total FROM disciplina
+C. SELECT COUNT(DISTINCT nome) FROM disciplina AS total
+D. SELECT COUNT(DISTINCT nome) AS total FROM disciplina

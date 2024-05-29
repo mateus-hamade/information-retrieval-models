@@ -1,0 +1,27 @@
+Introducao a Programacao - Conceitos Basicos
+
+O chefe do departamento de TI da Security10 enviou para Joao, por e-mail, o programa simples em linguagem C, mostrado abaixo, com intuito de aferir os conhecimentos do novo contratado sobre seguranca de software.  
+
+void LerParametros (char *arg);
+
+void main (int argc, char *argv[]) {
+    if (arg > 1){
+        printf ("Parametros informados: %s\n", argv[1]);
+        LerParametros (argv[1]);
+    }  
+}
+ 
+void LerParametros (char *arg) {
+    char buffer[10];
+    strcpy (buffer, arg);
+    printf (buffer);
+} 
+
+Junto ao codigo, estava a mensagem: “Joao, por favor, verifique esse codigo. Sei que estamos fazendo algo errado e, com isso, expondo uma vulnerabilidade de seguranca comum em programacao, mas nao consigo perceber qual. Falamos mais sobre isso na segunda”. Joao, ao analisar o codigo enviado, concluiu que esse apresenta como vulnerabilidade
+
+Alternativas
+
+A uma Falha de Segmentacao (do ingles, Segmentation Fault) na linha L5.
+B uma Falha de Segmentacao (do ingles, Segmentation Fault) na linha L4. 
+C um Estouro de buffer (do ingles, Buffer Overflow) na linha L9. 
+D um Estouro de buffer (do ingles, Buffer Overflow) na linha L10.

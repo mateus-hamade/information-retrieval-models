@@ -1,0 +1,11 @@
+Algoritmos e Estrutura de Dados Algoritmos - Conceitos Basicos
+ 
+Em algoritmos, os dados ______________ sao mais utilizados em tres tipos basicos: numerico, literal e logico. E os dados ________________ permitem organizar dados complexos, nos quais as informacoes sao compostas por diversos campos.  Assinale a alternativa que preenche, correta e respectivamente, as lacunas do trecho acima.
+
+Alternativas
+
+A. simples – completos
+B. estruturados – simples
+C. simples – estruturados
+D. completos – estruturados
+E. estruturados – estruturados

@@ -1,0 +1,11 @@
+Algoritmos e Estrutura de Dados Algoritmos - Metodos de Ordenacao
+
+Seja um array de inteiros de 32 bits com 10.000 elementos, gerados e posicionados aleatoriamente nesse array. Nessas condicoes, qual algoritmo ira ordenar esse array com um consumo de tempo, em seu caso medio, proporcional ao consumo de tempo do pior caso do Quick sort?
+
+Alternativas
+
+A. Bucket sort
+B. Heap sort
+C. Insertion sort
+D. Merge sort
+E. Tree sort

@@ -1,0 +1,12 @@
+Programacao Orientada a Objetos - Conceitos Basicos
+
+Considerando os conceitos de programacao orientada a objetos e a linguagem de programacao Java, assinale a alternativa correta.
+
+Alternativas
+
+A. Uma classe deve possuir apenas um construtor
+B. Um objeto pode ser instanciado a partir de uma classe abstrata
+C. O encapsulamento e implementado pela keyword “final”
+D. Heranca e implementada pela keyword “static”
+E. Interface e implementada pela keyword “implements”
+

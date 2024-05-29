@@ -1,0 +1,13 @@
+Programacao Programacao Orientada a Objetos - Conceitos Basicos
+
+O paradigma orientado a objetos possui quatro pilares fundamentais, sendo eles abstracao, encapsulamento, heranca e polimorfismo. Estes pilares orientam tecnicas e conceitos robustos para o desenvolvimento utilizando este paradigma. 
+
+Assinale a alternativa correta sobre o que e late binding (ligacao tardia) em relacao ao pilar polimorfismo.
+
+Alternativas
+
+A. E a capacidade de associar um metodo chamado em tempo de criacao do projeto
+B. E a capacidade de associar um metodo chamado em tempo de compilacao
+C. E a capacidade de associar um metodo chamado com a implementacao correta durante o tempo de execucao, ao em vez de durante o tempo de compilacao
+D. E a capacidade de criar as classes e vincular a outras em tempo de execucao
+

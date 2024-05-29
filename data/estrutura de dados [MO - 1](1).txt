@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos - Metodos de Ordenacao
+
+Em algoritmos de ordenação, diversas estruturas de dados baseadas em árvores são utilizadas para melhorar a eficiência. Considere os seguintes modelos de ordenação que utilizam árvores: Heap Sort, Tree Sort e Quick Sort (quando implementado com uma árvore de partição). Qual das seguintes afirmações é verdadeira sobre a complexidade de tempo e as características dessas abordagens?
+
+Alternativas
+
+A. Heap Sort, que utiliza uma árvore heap, tem complexidade de tempo O(n log n) e é eficiente em termos de espaço, mas não garante estabilidade na ordenação.
+B. Tree Sort, que utiliza uma árvore binária de busca (BST), tem complexidade de tempo O(n log n) no pior caso e é eficiente em termos de espaço e estabilidade.
+C. Quick Sort, quando implementado com uma árvore de partição, tem complexidade de tempo O(n log n) no pior caso e é eficiente em termos de espaço e estabilidade.
+D. Heap Sort, Tree Sort e Quick Sort implementado com árvore de partição, todos têm complexidade de tempo O(n log n) garantida no pior caso e garantem estabilidade na ordenação.

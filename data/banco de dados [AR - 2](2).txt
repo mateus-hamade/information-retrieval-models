@@ -1,0 +1,11 @@
+Banco de Dados - Algebra relacional
+
+A Algebra Relacional possui varios operadores binarios. Dentre os operadores listados abaixo, o unico NAO binario e a(o)
+
+Alternativas
+
+A. divisao
+B. projecao
+C. juncao natural
+D. juncao externa esquerda
+E. produto cartesiano

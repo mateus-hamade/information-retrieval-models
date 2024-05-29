@@ -1,0 +1,10 @@
+Programacao Orientada a Objetos - Conceitos Basicos
+
+Assinale o recurso de programacao orientada a objetos em que o compilador ira selecionar as funcionalidades que um programa ira utilizar de forma dinamica, durante sua execucao.
+
+Alternativas
+
+A. Heranca
+B. Polimorfismo
+C. Encapsulamento
+D. Instancia

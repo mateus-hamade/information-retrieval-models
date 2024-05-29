@@ -1,0 +1,20 @@
+Introducao a programacao - Conceitos Basicos
+
+Analise o codigo a seguir escrito em C: 
+
+int main() {
+    int var=9;
+
+    [comando]
+
+    return 0;
+}
+
+Assinale a alternativa que apresenta uma instrucao que, ao ser inserida na linha 5 do codigo, ira apresentar em tela o valor “81”. 
+
+Alternativas
+
+A. printf(var^2);
+B. printf(var*var);
+C. printf(“%d”, var^2);
+D. printf(“%d”, var*var);

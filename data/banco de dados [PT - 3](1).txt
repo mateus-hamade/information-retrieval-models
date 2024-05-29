@@ -1,0 +1,11 @@
+Banco de Dados - Processamento de transacoes
+
+Quanto aos SGBD’s, em geral, os termos “atualizacao perdida”, “dependencia sem commit” e “analise inconsistente” referem-se
+
+Alternativas
+
+A. a tres problemas de falta de integridade referencial.
+B. a tres problemas de concorrencia.
+C. respectivamente a um problema de concorrencia e dois problemas de integridade referencial.
+D. respectivamente a um problema de integracao, um problema de iteracao e um problema de consistencia.
+E. respectivamente a um problema de integridade referencial e dois problemas de concorrencia.

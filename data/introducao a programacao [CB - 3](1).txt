@@ -1,0 +1,24 @@
+Introducao a Programacao - Conceitos Basicos
+
+Joao pretendia escrever um trecho de codigo na linguagem C contendo o seguinte loop:
+    int i;     
+    for (i = 5; i >= 0; i = i - 1) { 
+        printf("Valor: %d\n", i); 
+    }
+
+Entretanto, sem querer, Joao inverteu a ordem das expressoes no comando for, e digitou o codigo como segue:
+    int i;     
+    for (i = 5; i = i - 1; i >= 0) {
+        printf("Valor: %d\n", i);
+    }
+
+Assinale a lista completa dos valores exibidos nesse trecho pela execucao da versao equivocada produzida por Joao.
+
+Alternativas
+
+A 4, 3, 2, 1
+B 4, 3, 2, 1, 0
+C 5
+D 5, 4, 3, 2, 1
+E 5, 4, 3, 2, 1, 0
+

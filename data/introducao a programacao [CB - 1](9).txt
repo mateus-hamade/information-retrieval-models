@@ -1,0 +1,28 @@
+Introducao a programacao - Conceitos Basicos
+
+Analise o codigo abaixo escrito em C. 
+
+int main() {
+    int a = 0;
+
+    while(a < 100) {
+        if((a % 2) == 0) {
+                a++;
+        }
+
+        else {
+                a = a + 3;
+        }
+    }
+
+    return
+}
+
+Assinale, a seguir, um conceito ou estrutura de programacao que NAO foi utilizado no codigo.
+
+Alternativas
+
+A Variavel.
+B Recursividade.
+C Estrutura condicional.
+D Estrutura de repeticao.

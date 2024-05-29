@@ -1,0 +1,24 @@
+Introducao a Programacao - Classes
+
+Na linguagem C#, modificadores de acesso sao palavras-chave usadas para especificar a acessibilidade declarada de um tipo ou membro. Existem quatro modificadores de acesso:
+
+public, protected, internal e private. Correlacione as colunas a seguir:
+
+Acessibilidade declarada 1 - public 2 - protected 3 - internal 4 - protected internal 5 - private
+
+Significado 
+( ) O acesso nao e restrito. 
+( ) O acesso e limitado para o tipo de recipiente.
+( ) O acesso e limitado ao conjunto atual ou tipos derivados da classe que contem. 
+( ) O acesso e limitado ao conjunto atual. 
+( ) O acesso e limitado a classe que contem classes ou tipos derivados da classe que contem.
+
+A alternativa que apresenta o resultado encontrado na 2a coluna e
+
+Alternativas
+
+A 1-3-4-5-2.
+B 1-4-3-5-2.
+C 1-5-4-3-2.
+D 1-5-4-2-3.
+

@@ -1,0 +1,13 @@
+Grafos - Complexidade de Algoritmos
+
+Uma das medidas de qualidade do codigo de um software e a Complexidade, que pode ser medida por meio da complexidade ciclomatica. Considere um grafo de fluxo que possui 5 nos e 12 arcos. 
+
+Qual a complexidade ciclomatica desse grafo? 
+
+Alternativas
+
+A. 9
+B. 11
+C. 15
+D. 17
+E. 19

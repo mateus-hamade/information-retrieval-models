@@ -1,0 +1,16 @@
+Programacao Orientada a Objetos - Conceitos Basicos
+
+A respeito dos conceitos relacionados ao paradigma de Programacao Orientada a Objetos(POO), analise as afirmativas a seguir. 
+
+I. A heranca entre classes possibilita que determinada classe, conhecida como superclasse, transfira toda a sua estrutura, incluindo atributos e metodos, para outras classes, conhecidas como classes filhas. 
+II. O encapsulamento propoe a ocultar detalhes de implementacao e visibilidade dos dados das classes, o que aumenta a seguranca e evita a manipulacao indevida dos objetos. 
+III. Para a aplicacao do polimorfismo em programas orientados a objetos e necessaria a existencia de uma hierarquia de classes, pois, na pratica, este conceito se resume em substituir metodos e atributos herdados em uma classe filha para modificar o seu comportamento em relacao a superclasse. 
+
+Esta correto o que se afirma em
+
+Alternativas
+
+A. I, II e III.
+B. II, apenas.
+C. I e II, apenas.
+D. I e III, apenas.

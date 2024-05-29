@@ -1,0 +1,34 @@
+Introducao a Programacao - Bibliotecas
+
+#include <gtk/gtk.h>
+
+int main(int argc, char *argv[]){
+    GtkWinget *window;
+    GtkWinget *label;
+
+    gtk_init (&argc, &argv);
+
+    window = gtk_window_new (GTK_WINDOW_TOPLEVEL);
+    gtk_window_set_title (GTK_WINDOW (window), "Teste");
+
+    g_signal_connect (window, "destroy",
+        G_CALLBACK (gtk_main_quit), NULL);
+    
+    label = gtk_label_new ("Rotulo");
+    gtk_container_add (GTK_CONTAINER (window), label);
+    gtk_windget_show_all (window);
+    gtk_main();
+
+    return 0;
+}
+
+Considerando que o codigo em linguagem C acima usa o toolkit GTK+, assinale a opcao correta a respeito desse codigo.
+
+Alternativas
+
+A. O metodo gtk_window_new executa em loop, mesmo apos a funcao g_signal_connect ser invocada, ate que o processo receba um sinal do tipo sigkill.
+B. O metodo gtk_window_new e executado durante a execucao do metodo g_signal_connect
+C. Pelo menos dois widgets GTK sao criados durante a execucao do programa.
+D. Um label GTK+ e tambem um conteiner de widgets.
+E. O metodo gtk_windget_show_all (window) e assincronamente chamado quando a janela principal do programa e minimizada.
+

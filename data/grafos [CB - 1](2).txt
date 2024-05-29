@@ -1,0 +1,11 @@
+Grafos - Conceitos Basicos
+
+Considere um programa de computador unico que pode ser representado por um grafo de fluxo de controle com 9 arestas e 8 nos.  Qual o limite superior para o numero de testes que devem ser projetados e executados para garantir a cobertura de todas as instrucoes do programa?
+
+Alternativas
+
+A. 1
+B. 2
+C. 3
+D. 4
+E. 5

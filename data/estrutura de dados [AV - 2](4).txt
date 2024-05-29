@@ -1,0 +1,16 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados - Arvores
+
+Sobre arvores de pesquisa binaria, analise as assertivas abaixo e assinale a alternativa correta.   
+
+I. Admitem todas as operacoes sobre conjuntos dinamicos, no pior caso, cada operacao demora um tempo 1(n) em uma arvore com n elementos.
+II. As arvores vermelho-preto sao uma variante de arvores de pesquisa binaria. 
+III. Em uma arvore de pesquisa binaria construida aleatoriamente, nao ha como medir o tempo esperado para cada operacao. 
+IV. Uma arvore vermelho-preto e uma arvore de pesquisa balanceada, chamada arvore B.
+
+Alternativas
+
+A. Todas as assertivas estao corretas.
+B. Todas as assertivas estao incorretas.
+C. Apenas a assertiva I esta correta.
+D. Apenas as assertivas I e II estao corretas.
+E. Apenas as assertivas III e IV estao corretas.

@@ -1,0 +1,19 @@
+Banco de Dados - Modelo relacional
+
+Considere o esquema de banco de dados relacional a seguir: 
+
+LOCALIDADE ( id_loc , nome_localidade, cidade, estado ) 
+COORDENADOR ( id_coord , nome_coord, id_loc )  
+
+Restricoes de integridade:  Tabela LOCALIDADE: id_loc e chave primaria; nome_localidade = NULO; cidade = NULO; estado = {‘PR’ ou ‘SC’ ou ‘RS’}. 
+Tabela COORDENADOR: id_coord e chave primaria; nome_coord = NULO; id_loc e chave estrangeira e referencia LOCALIDADE(id_loc).
+
+A equipe que administra o banco de dados em tela decidiu converte-lo de uma versao centralizada para uma distribuida. Para isso, decidiu que a divisao dos dados sera guiada pelo criterio do estado ao qual a localidade pertence. Ou seja, apos distribuir os registros de localidade por fragmentos, os dados da tabela COORDENADOR serao distribuidos em funcao do criterio de localidade apresentado. No que concerne a divisao a ser realizada na tabela COORDENADOR, a fragmentacao de suas tuplas (linhas) dever ser classificada como:
+
+Alternativas
+
+A. hibrida.
+B. horizontal derivada.
+C. horizontal primaria.
+D. vertical.
+E. replicacao.

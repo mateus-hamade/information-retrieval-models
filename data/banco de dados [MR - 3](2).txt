@@ -1,0 +1,11 @@
+Banco de Dados - Modelo relacional
+
+A relacao de entidade fraca como em “funcionario tem dependente”, no modelo relacional de dados, devera
+
+Alternativas
+
+A. ter uma chave estrangeira composta da chave primaria de funcionario mais uma identificacao propria.
+B. ter uma chave estrangeira composta da chave primaria de dependente mais uma identificacao propria.
+C. ter sua chave primaria composta da chave primaria de funcionario mais a chave primaria da entidade fraca.
+D. especificar a chave primaria de dependente como replica identica a chave primaria de funcionario.
+E. especificar a chave primaria de funcionario como uma composicao da chave primaria de dependente mais uma identificacao propria.

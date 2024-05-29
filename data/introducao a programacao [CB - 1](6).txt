@@ -1,0 +1,27 @@
+Introducao a programacao - Conceitos Basicos
+
+Analise o codigo abaixo escrito em C. 
+
+int main() {
+    int a, b;
+
+    a = 3;
+    b = 7;
+
+    int c = a * (b + a);
+
+    c = b;
+
+    printf(“%d”; c);
+
+    return
+}
+
+Assinale, a seguir, o valor impresso ao final da execucao do codigo.
+
+Alternativas
+
+A. 7
+B. 10
+C. 24
+D. 30

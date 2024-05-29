@@ -1,0 +1,20 @@
+Algoritmos e Estrutura de Dados Algoritmos - Metodos de Ordenacao
+
+Relacione adequadamente as colunas a seguir sobre os metodos de ordenacao a sua descricao correspondente. 
+
+1. Bubble Sort. 2. Merge Sort. 3. Quick Sort. 4. Selection Sort. 5. Insertion Sort. 
+
+( ) Divide a lista em sublistas menores; ordena essas sublistas e as mescla para obter a lista ordenada. 
+( ) Algoritmo de comparacao que percorre repetidamente a lista; compara elementos adjacentes e troca-os se estiverem na ordem errada. 
+( ) Divide a lista em duas partes; ordena-as individualmente e combina-as para obter a lista ordenada. 
+( ) Algoritmo que seleciona iterativamente o elemento minimo da lista e coloca-o na posicao correta. 
+( ) Algoritmo de comparacao que escolhe um elemento como pivo; divide a lista em dois subconjuntos e ordena-os recursivamente. 
+
+A sequencia esta correta em
+
+Alternativas
+
+A. 1, 3, 2, 5, 4.
+B. 5, 1, 2, 4, 3.
+C. 3, 4, 1, 5, 2.
+D. 4, 5, 3, 1, 2.

@@ -1,0 +1,11 @@
+Introducao a programacao - Conceitos Basicos
+
+Assinale o modo correto para a atribuicao de uma string na linguagem C.
+
+Alternativas
+
+A. char xxx[] = "Exemplo de string";
+B. set xxx = "Exemplo de string";
+C. str xxx[] = "Exemplo de string";
+D. string xxx = "Exemplo de string";
+E. var xxx = "Exemplo de string";

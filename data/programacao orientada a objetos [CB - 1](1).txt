@@ -1,0 +1,18 @@
+Programacao Programacao Orientada a Objetos - Conceitos Basicos
+
+A Programacao Orientada a Objetos (POO) diz respeito a um padrao de desenvolvimento que e seguido por muitas linguagens. Esse padrao utiliza como base os seguintes pilares principais:  
+
+I. Abstracao. 
+II. Polimorfismo. 
+III. Encapsulamento. 
+IV. Heranca.  
+
+Quais estao corretos?
+
+Alternativas
+
+A. Apenas I.
+B. Apenas II e III.
+C. Apenas I, III e IV.
+D. Apenas II, III e IV.
+E. I, II, III e IV.

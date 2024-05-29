@@ -1,0 +1,11 @@
+Programacao Orientada a Objetos - Conceitos Basicos
+
+No OOP (programacao orientada a objetos), os objetos se relacionam para alcancar um determinado resultado, sendo que cada objeto e responsavel por tratar uma parte do problema. Em UML a documentacao de um programa deve-se se mostrar como os objetos se relacionam. Uma abordagem classica dos tipos de relacionamento sao descritas a seguir, exceto:
+
+Alternativas
+
+A. sobreposicao
+B. agregacao
+C. associacao
+D. dependencia
+E. composicao

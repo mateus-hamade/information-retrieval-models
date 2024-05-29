@@ -1,0 +1,10 @@
+Introducao a programacao - Conceitos Basicos
+
+Em uma linguagem de programacao estruturada, como a linguagem C, e comum dividir o codigo em conjuntos de instrucoes que realizam determinada tarefa e que podem ser reaproveitados em mais de um momento ao longo do codigo. Estes conjuntos podem ser caracterizados como procedimentos ou funcoes. Sao definicoes de procedimentos e funcoes, EXCETO:
+
+Alternativas
+
+A. Funcoes retornam valor.
+B. Procedimentos nao retornam valor.
+C. Funcoes e procedimentos sao sinonimos.
+D. Funcoes podem ser utilizadas em expressoes aritmeticas dentro de um codigo.

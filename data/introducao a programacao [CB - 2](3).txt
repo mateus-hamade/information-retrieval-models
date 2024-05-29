@@ -1,0 +1,22 @@
+Introducao a Programacao - Conceitos Basicos
+
+Analise o codigo a seguir escrito em C:
+int main() {
+    for(int count=0; count<10;count++) {
+        if((count%3) == 0) {     
+            printf(“1”);                                      
+        } else {
+            printf(“0”);
+        }        
+    }                    
+    return 0;  
+}
+
+Assinale a alternativa que apresenta a saida impressa por tal codigo.
+
+Alternativas
+
+A “0110110110”.
+B “0010010010”.
+C “1101101101”. 
+D “1001001001”. 

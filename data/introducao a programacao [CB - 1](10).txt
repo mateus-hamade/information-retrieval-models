@@ -1,0 +1,16 @@
+Introducao a programacao - Conceitos Basicos
+
+Quanto as principais caracteristicas das linguagens: Java, C e C++, analise as afirmativas abaixo e de valores Verdadeiro (V) ou Falso (F).
+
+( ) A maioria dos codigos escritos em C pode ser compilada em C++.
+( ) A linguagem C e considerada como tipicamente orientada a objetos.
+( ) As IDE's Eclipse e NetBeans nao comportam o desenvolvimento em Java.
+
+Assinale a alternativa que apresenta a sequencia correta de cima para baixo: 
+
+Alternativas
+
+A. V - F - F
+B. V - V - F
+C. F - V - V 
+D. F - F - V

@@ -1,0 +1,10 @@
+Banco de Dados - Modelo relacional
+
+Sobre o mapeamento do modelo entidade-relacionamento para o modelo relacional, durante o projeto de um banco de dados relacional, e INCORRETO afirmar que:
+
+Alternativas
+
+A. um relacionamento muitos-para-muitos no modelo entidade-relacionamento sempre gera uma relacao no modelo relacional.
+B. um relacionamento um-para-muitos no modelo entidade-relacionamento sempre gera uma relacao no modelo relacional.
+C. um relacionamento ternario no modelo entidade-relacionamento pode gerar uma relacao no modelo relacional.
+D. uma hierarquia de especializacao de entidades no modelo entidade-relacionamento pode gerar uma unica relacao no modelo relacional.

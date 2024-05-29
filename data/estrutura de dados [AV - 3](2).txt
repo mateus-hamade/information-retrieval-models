@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados - Arvores
+
+Considere uma árvore rubro-negra, uma estrutura de dados frequentemente usada para implementar árvores de busca balanceadas. Essas árvores possuem propriedades únicas que garantem um desempenho eficiente em operações de inserção, exclusão e pesquisa. Sobre as características das árvores rubro-negras, qual das seguintes afirmações está correta?
+
+Alternativas
+
+A. Propriedade de Balanceamento: Uma árvore rubro-negra mantém o balanceamento, garantindo que a altura de qualquer nó seja no máximo duas vezes a altura do nó mais curto.
+B. Cor dos Nós: Em uma árvore rubro-negra, todos os nós vermelhos devem ter filhos pretos, mantendo assim a estrutura balanceada.
+C. Número de Filhos por Nó: Árvores rubro-negras são árvores binárias, onde cada nó pode ter no máximo dois filhos, garantindo uma estrutura ordenada.
+D. Invariante de Caminho Preto: Em uma árvore rubro-negra, o caminho da raiz até qualquer folha deve ter o mesmo número de nós pretos, garantindo um equilíbrio nas alturas dos caminhos.

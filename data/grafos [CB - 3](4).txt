@@ -1,0 +1,11 @@
+Grafos - Conceitos Basicos 
+
+As entradas de uma matriz de incidencia que representa um grafo onde uma das dimensoes sao vertices e a outra sao arestas, sao representadas apenas por:
+
+Alternativas
+
+A. um valor (numero de vertices).
+B. um valor (numero de arestas).
+C. dois valores (numeros de vertices e de arestas).
+D. tres valores (0, 1 e 2).
+E. dois valores (0 e 1).

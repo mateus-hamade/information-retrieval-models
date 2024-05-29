@@ -1,0 +1,11 @@
+Introducao a programacao - Conceitos Basicos
+
+Assinale a alternativa que NAO contenha um tipo de dado primitivo e seu modificador na linguagem de programacao C: 
+
+Alternativas
+
+A. signed int 
+B. long int 
+C. signed character 
+D. unsigned long int 
+E. unsigned int 

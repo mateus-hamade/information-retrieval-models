@@ -1,0 +1,11 @@
+Banco de Dados - Modelo Relacional
+
+O desempenho e a otimizacao de consultas em bancos de dados, alem dos cuidados basicos necessarios, depende da indexacao, uma vez que normalmente ha uma enorme area de armazenagem. O indice mais utilizado, e usualmente adotado por default em gerenciadores de bancos de dados relacionais, e conhecido genericamente como:
+
+Alternativas
+
+A. B-tree;
+B. Cluster;
+C. Bitmap;
+D. Tabela Hash;
+E. Arvore binaria.

@@ -1,0 +1,10 @@
+Introducao a programacao - Conceitos Basicos
+
+Na linguagem C, qual a forma de se incluir um cabecalho em uma determinada rotina?
+
+Alternativas
+
+A. #include <stdio.h
+B. #insert <stdio.h>
+C. #include <stdio.h>
+D. #insert <stdio.h>

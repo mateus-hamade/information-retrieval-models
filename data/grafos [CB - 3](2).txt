@@ -1,0 +1,11 @@
+Grafos - Conceitos Basicos
+
+Assinale a opcao correta a respeito de teoria dos grafos.
+
+Alternativas
+
+A. Um caminho e dito simples se passa exatamente uma vez por cada um dos vertices do grafo, e e unitario se passa exatamente uma vez por cada uma das arestas.
+B. O comprimento de um percurso em um grafo nao valorado corresponde a soma dos custos de percorrer cada aresta, e em um grafo valorado e igual ao numero de arestas que o compoem.
+C. Um ciclo que passa por todas as arestas de um grafo e dito hamiltoniano, e um circuito elementar que passa por todos os vertices denomina-se euleriano.
+D. O problema do caixeiro viajante consiste em analisar todos os circuitos hamiltonianos existentes para n - 1 pontos.
+E. Segundo o conceito de conexidade em grafos orientados, nao e necessario que haja um caminho ligando qualquer par de vertices; se isso ocorrer, diz-se que o grafo e fortemente conexo, tal que, dados dois vertices, qualquer um pode ser atingido a partir do outro.

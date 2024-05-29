@@ -1,0 +1,11 @@
+Grafos - Conceitos Basicos
+
+E uma nocao simples, abstrata e intuitiva, usada para representar a ideia de alguma especie de relacao entre os objetos. Graficamente, aparece representado por uma figura com nos ou vertices. Trata-se dos
+
+Alternativas
+
+A. objetos geometricos.
+B. triangulos.
+C. grafos.
+D. dados.
+E. registros.

@@ -1,0 +1,16 @@
+Banco de Dados- Modelo relacional
+
+Analise as afirmativas abaixo sobre modelos Entidade-Relacionamento.    
+1. Sao modelos abstratos cujo objetivo e descrever de forma conceitual um banco de dados.
+2. As entidades representadas no modelo correspondem aos atores envolvidos na operacao do software do respectivo banco de dados.  
+3. O produto da modelagem e um diagrama escrito na notacao BPMN, denominado Diagrama ER.    
+
+Assinale a alternativa que indica todas as afirmativas corretas. 
+
+Alternativas
+
+A. E correta apenas a afirmativa 1.
+B. Sao corretas apenas as afirmativas 2 e 3.
+C. Sao corretas apenas as afirmativas 1 e 2.
+D. Sao corretas apenas as afirmativas 1 e 3.
+E. Sao corretas as afirmativas 1, 2 e 3.

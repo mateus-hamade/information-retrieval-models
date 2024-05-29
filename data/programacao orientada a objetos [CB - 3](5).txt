@@ -1,0 +1,11 @@
+Programacao Programacao Orientada a Objetos - Conceitos Basicos
+
+A programacao orientada a objetos e um paradigma de programacao que utiliza objetos e suas interacoes para desenvolver solucoes de software. Qual dos seguintes conceitos avancados e um mecanismo utilizado para estender ou modificar a funcionalidade de uma classe sem alterar sua estrutura interna?
+
+Alternativas
+
+A. Heranca.
+B. Polimorfismo.
+C. Encapsulamento.
+D. Padrao de Projeto Decorator.
+E. Abstracao.

@@ -1,0 +1,10 @@
+Grafos - Conceitos Basicos
+
+Qual e a quantidade maxima de arestas que um grafo G com 100 vertices deve ter para que G seja conexo e aciclico?
+
+Alternativas
+
+A. 98.
+B. 99.
+C. 100.
+D. 101.

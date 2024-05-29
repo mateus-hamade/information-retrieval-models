@@ -1,0 +1,12 @@
+Programacao Programacao Orientada a Objetos - Conceitos Basicos
+
+Em programacao orientada a objetos, modificador de acesso, tambem chamado de visao de metodo ou ainda visao de atributo, e a palavra-chave que define a visibilidade de um atributo, metodo ou classe. Na linguagem de programacao Java sao definidos os seguintes modificadores de acesso: __________, que e visivel na mesma classe, em suas subclasses e em outras classes; __________, que e visivel somente dentro da mesma classe e __________, que e visivel somente dentro da mesma classe e em suas subclasses.  Os modificadores de acesso que preenchem respectivamente as lacunas sao
+
+Alternativas
+
+A. public | private | package.
+B. package | private | protected.
+C. protected | private | public.
+D. package | protected | public.
+E. public | private | protected.
+

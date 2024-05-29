@@ -1,0 +1,11 @@
+Algoritmos e Estrutura de Dados - Filas
+
+Muitas vezes o uso de encadeamento simples acarreta a necessidade de incluir um comando de repeticao (laco) para fazer um ponteiro (ou indexador) percorrer a estrutura a partir do inicio ate ele se posicionar no penultimo elemento da estrutura, demandado possivelmente por uma insercao e/ou uma delecao. No exemplo em questao, pela forma de implementacao escolhida, podemos afirmar que isso ocorre sempre que se fizer uma operacao de
+
+Alternativas
+
+A. insercao na fila de dados.
+B. delecao na fila de dados.
+C. insercao na pilha de elementos livres.
+D. delecao na pilha de elementos livres.
+E. delecao em ambas, fila de dados e pilha de elementos livres.

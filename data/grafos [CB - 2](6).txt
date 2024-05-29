@@ -1,0 +1,11 @@
+Grafos - Conceitos Basicos
+
+Um grafo consiste num conjunto de nos (ou vertices) e num conjunto de arcos (ou arestas). E correto afirmar que o grau de um no e
+
+Alternativas
+
+A. o numero de arcos incidentes nesse no.
+B. um numero associado ao arco, tambem chamado de peso.
+C. a distancia entre este no e um outro no qualquer do grafo.
+D. a posicao deste no em relacao ao no raiz do grafo
+E. o numero de pares ordenados que formam o arco.

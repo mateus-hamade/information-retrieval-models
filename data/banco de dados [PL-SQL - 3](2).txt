@@ -1,0 +1,20 @@
+Banco de Dados - PL-SQL
+
+O schedule de um conjunto de transacoes representa a ordem em que cada operacao de cada transacao e executada. Deve-se levar em consideracao que, em um sistema multitarefa, as operacoes das transacoes serao intercaladas, pois a sua execucao serial representaria desperdicio de recursos. 
+
+Considere as transacoes T1 e T2, onde w e write e r e read: 
+T1: r1(X); X:= X -10; w1(X); r1(Y); Y:= Y + 10; w1(Y); 
+T2: r2(Y); Y := Y - 20; w2(Y); r2(X); X := X + 20; w2(X); 
+
+Considere o schedule para essas duas transacoes: 
+Schedule: r1(X); w1(X); r2(Y); w2(Y); r1(Y); w1(Y); r2(X); w2(X);
+
+Assinale a alternativa que classifica corretamente esse schedule
+
+Alternativas
+
+A. Correto e serializavel.
+B. Correto e nao serializavel.
+C. Incorreto e serializavel.
+D. Incorreto e nao serializavel.
+E. Correto e parcialmente serializavel.

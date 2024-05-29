@@ -1,0 +1,10 @@
+Programacao Programacao Orientada a Objetos - Conceitos Basicos
+
+Qual das alternativas abaixo, sobre o numero de objetos criados durante a execucao de um programa orientado a objetos, e VERDADEIRA?
+
+Alternativas
+
+A. O numero de objetos criados nao depende do numero de classes contidas no programa.
+B. Em um programa com N classes havera pelo menos N objetos criados.
+C. Em um programa com N classes havera exatamente N objetos criados.
+D. Em um programa com N classes havera no maximo N objetos criados.

@@ -1,0 +1,19 @@
+Programacao Orientada a Objetos - Conceitos Basicos
+
+A respeito da orientacao a objetos, julgue os proximos itens. 
+
+I. Ha linguagens de programacao orientadas a objetos em que a determinacao do metodo a ser executado em resposta a uma mensagem pode ocorrer na compilacao ou pode ser adiada ate a execucao do codigo. 
+II. Uma subclasse pode herdar atributos e metodos das suas superclasses. Em uma hierarquia C++, as visibilidades dos atributos e dos metodos herdados nao podem, em uma subclasse, ser diferentes das suas visibilidades nas superclasses. 
+III. Um atributo cujo valor e compartilhado entre as instancias de uma classe tem escopo de classe. Um atributo com escopo de classe e, na linguagem Java, um atributo estatico (static). Em UML, nos diagramas de classe, os atributos com escopo de classe sao identificados por uma sublinha. 
+IV. Em UML, uma agregacao e um relacionamento todo-parte. Em uma agregacao, um objeto nao pode ser parte de mais de um todo. Alem disso, objetos que sao as partes de um todo devem ser destruidos quando o todo e destruido. 
+V. Uma classe de associacao (association class) permite que sejam acrescentados atributos e metodos a uma associacao. Por exemplo, determinada classe pode ser criada para conter atributos e metodos de uma associacao entre duas outras classes. 
+
+Estao certos apenas os itens.
+
+Alternativas
+
+A. I, II e IV.
+B. I, III e V.
+C. I, IV e V.
+D. II, III e IV.
+E. II, III e V.

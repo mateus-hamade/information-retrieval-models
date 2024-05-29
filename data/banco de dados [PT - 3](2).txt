@@ -1,0 +1,17 @@
+Banco de Dados - Processamento de transacoes
+
+Um historico (schedule) S de n transacoes ordena uma sequencia de operacoes sobre objetos do banco de dados, entre elas, de leitura (r) ou gravacao (w). Dado um historico parcial Si: rj(A), wk(A), pode-se dizer que ele ordena duas operacoes, onde rj(A) representa operacao de leitura sobre o objeto A na transacao Tj, seguida da operacao wk(A) representando uma operacao de escrita sobre o objeto A na transacao Tk. Considere um banco de dados com objetos X e Y, duas transacoes T1 e T2, e os historicos parciais S1, S2, e S3 descritos abaixo. 
+
+S1: r2(X), r1(X), r2(Y), r1(X), r2(Y), w2(Y) ... 
+S2: r2(X), r2(Y), r1(X), r1(Y), w1(X) ... 
+S3: r2(Y), r2(Y), r1(X), r1(Y), w1(X), w2(X)
+
+Quais historicos apresentam operacoes conflitantes?
+
+Alternativas
+
+A. Apenas S3.
+B. Apenas S1 e S2.
+C. Apenas S1 e S3.
+D. Apenas S2 e S3.
+E. S1, S2 e S3.

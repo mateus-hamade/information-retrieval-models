@@ -1,0 +1,34 @@
+Introducao a Programacao - Classe
+
+Considere o codigo escrito na linguagem C# mostrado a seguir
+
+using System.IO;
+using System;
+
+public class Veiculo {
+    public virtual void mover(){    
+        Console.Write("Movendo"); 
+    }
+}
+
+public class Automovel:Veiculo {
+    public override void mover() {
+        Console.Write("Acelerando"); 
+    }
+}
+
+public class Fusca:Automovel {
+    public override void mover() {   
+        Console.Write ("Passeando");
+    }
+}
+
+O resultado produzido pela execucao desse codigo e:
+
+Alternativas
+
+A. Acelerando.
+B. Passeando.
+C. Movendo
+D. MovendoAcelerandoPasseando.
+E. AcelerandoPasseando.
