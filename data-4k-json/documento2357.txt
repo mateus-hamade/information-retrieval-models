@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
+
+Dispõe-se de uma estrutura de dados com 3 elementos já inseridos (A, B e C), nessa ordem, conforme abaixo.        Após, retira-se um elemento e, a seguir, incluem-se mais 3 elementos (D, E e F) nessa ordem. Finalmente, retiram-se 2 elementos, resultando como abaixo.        A estrutura de dados que insere e retira dados, conforme indicado acima, é  
+
+Alternativas:
+A. uma pilha.
+B. uma fila.
+C. um deque.
+D. uma árvore balanceada.
+E. uma lista invertida.

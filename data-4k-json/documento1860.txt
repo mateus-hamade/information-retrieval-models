@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+A respeito de estrutura de dados, julgue o item que se segue.     Uma árvore binária é dita equilibrada se a diferença entre as alturas das subárvores de cada nó — valor absoluto da diferença entre as alturas da subárvore direita e da subárvore esquerda — é, no máximo, igual a 1.  
+
+Alternativas:
+A. Certo
+B. Errado

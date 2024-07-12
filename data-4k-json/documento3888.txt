@@ -1,0 +1,10 @@
+Segurança da Informação Criptografia
+
+Considerando os contratos inteligentes em blockchain, assinale a afirmação correta.
+
+Alternativas:
+A. Contratos inteligentes não são vinculativos quando estabelecidos, mas meramente orientativos; embora apresentem potencial para simplificar e agilizar transações, a discussão em torno do seu reconhecimento legal e validação permanece como um ponto central de debate no âmbito jurídico.
+B. Contratos inteligentes são autoexecutáveis e operam sem a necessidade de intermediários; no contexto desse procedimento, os acordos formalizados são registrados em uma blockchain, garantindo transparência, segurança e imutabilidade, proporcionando uma redução de custos e um aumento na eficiência.
+C. A execução de contratos inteligentes pode ser alterada manualmente e de forma livre após sua implementação.
+D. Contratos inteligentes são exclusivamente usados em transações financeiras.
+E. Blockchain é uma tecnologia de registro centralizada e imutável que permite o armazenamento de dados e informações de forma segura e distribuída; o que o diferencia de bancos de dados ou softwares convencionais é sua resistência à adulteração, uma vez que a alteração de dados em um bloco requer a manipulação de todos os blocos anteriores.

@@ -1,0 +1,10 @@
+Banco de Dados DER - Diagrama de Entidade e Relacionamento
+
+Observe o seguinte Modelo Entidade Relacionamento a seguir.        O modelo ilustrado atende a regra de negócio:  
+
+Alternativas:
+A. um autor pode escrever diversos livros;
+B. cada livro pode ser escrito por diversos autores;
+C. para se tornar cliente, é necessário pelo menos uma compra;
+D. cliente e autor são especializações da entidade pessoa;
+E. os atributos ID podem armazenar letras, números e símbolos.

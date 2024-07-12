@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados Relacionais , Modelo relacional
+
+Texto associado Seja o atributo “identificacao” aquele que necessita, para implementar a semântica do caso, a demanda de não permissão de valores repetidos – ou seja, somente aceita valores únicos. No contexto do modelo relacional de banco de dados, ele é considerado um(a)
+
+Alternativas:
+A. atributo alternativo.
+B. atributo multivalorado.
+C. chave estrangeira.
+D. chave secundária.
+E. superchave mínima.

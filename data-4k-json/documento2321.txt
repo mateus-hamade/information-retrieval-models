@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+Assinale a alternativa que contém apenas algoritmos de ordenação de ordem quadrática.
+
+Alternativas:
+A. Bubble sort, Insertion sort, Quicksort
+B. Mergesort, Heapsort, Bubble sort
+C. Heapsort, Shell, Insertion sort
+D. Shell, Quicksort, Mergesort
+E. Selection sort, Shell, Mergesort

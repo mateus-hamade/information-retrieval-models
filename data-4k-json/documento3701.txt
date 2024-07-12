@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
+
+A respeito das estruturas de controle de fluxo, assinale a opção incorreta. 
+
+Alternativas:
+A. A instrução de desvio incondicional realiza a transferência do controle da execução para um lugar especificado no programa.
+B. As instruções iterativas permitem que uma instrução ou uma coleção de instruções sejam executadas nenhuma vez, uma vez ou mais vezes.
+C. As instruções compostas abstraem uma coleção de instruções para apenas uma única instrução.
+D. Seleção bidirecional e n-direcional ou múltipla são tipos de instruções de seleção.
+E. As instruções de seleção bidirecional e as construções de seleção múltipla são tipos de instruções iterativas.

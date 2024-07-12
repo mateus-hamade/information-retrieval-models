@@ -1,0 +1,10 @@
+Banco de Dados DW - Data Warehouse
+
+Um analista de dados está desenvolvendo um data warehouse para uma empresa de varejo. Ele precisa decidir se informações sobre uma venda devem ser armazenadas em uma tabela fato ou em uma tabela dimensão. Considerando-se as características de modelagem dimensional, uma informação que deve ser armazenada em uma tabela dimensão é a(o)
+
+Alternativas:
+A. data da venda
+B. quantidade de produtos vendidos
+C. custo total dos produtos vendidos
+D. imposto total pago pela venda
+E. valor total da venda

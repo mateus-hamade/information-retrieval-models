@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+Questão anulada A estrutura que, além de ser similar à fila, é apropriada para ampliar as características desta, permitindo inserir e retirar elementos tanto do início quanto do fim da fila, é o(a)
+
+Alternativas:
+A. árvore.
+B. lista duplamente encadeada.
+C. deque.
+D. fila circular.
+E. pilha.

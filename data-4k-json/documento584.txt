@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+Para resumir ou acumular os valores obtidos nas colunas de uma tabela, da linguagem SQL pode-se utilizar as funções
+
+Alternativas:
+A. value.
+B. scalar.
+C. column.
+D. statistical.
+E. calculation.

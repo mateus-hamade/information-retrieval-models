@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
+
+A pesquisa de dados envolve a determinação da chave pesquisada estar ou não entre os dados pesquisados e, caso  esteja, que seja encontrada sua localização. Em computação, a pesquisa tem um papel importante, pois de posse do  campo chave a ser pesquisado fica mais fácil encontrar determinado arquivo, ou mesmo qualquer item que se queira  buscar.  Já  a  classificação  envolve  a  organização  dos  dados  em  uma  determinada  ordem,  por  exemplo:  crescente,  decrescente, ordem alfabética, numérica, entre outros. Acerca dos algoritmos de pesquisa e classificação, analise as  afirmativas a seguir.  I. Diz-se que o algoritmo 0(log n) tem um tempo de execução linear. II. A pesquisa binária executa em 0(log n) vezes, pois cada passo remove metade dos elementos restantes.  III. O algoritmo de classificação por inserção executa no tempo 0(n²), no pior caso e no caso médio.  IV.No pior caso, a primeira chamada à classificação por intercalação tem de fazer 0(n) comparações para preencher os n slots no array final.   Estão corretas apenas as afirmativas  
+
+Alternativas:
+A. I e II.
+B. II e III.
+C. II e IV.
+D. III e IV.

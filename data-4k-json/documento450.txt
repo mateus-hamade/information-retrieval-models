@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados
+
+O processo de otimização de um banco de dados, com o objetivo de melhorar o desempenho e a eficiência das consultas, é: 
+
+Alternativas:
+A. Indexação de Banco de Dados.
+B. Normalização de Banco de Dados.
+C. Recuperação de Banco de Dados.
+D. Segurança de Banco de Dados.
+E. Tuning de Banco de Dados.

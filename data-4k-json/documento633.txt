@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados Orientados a Objetos
+
+Em sistemas distribuídos, a partição de rede é uma situação em que os nós de um banco de dados distribuídos são divididos em grupos isolados devido a falhas na comunicação. Durante uma partição de rede, podem ocorrer divergências nos dados armazenados em diferentes grupos de nós, o que pode comprometer a consistência do banco de dados. Para mitigar esse problema, foram propostos modelos de consistência que fornecem garantias específicas durante uma partição de rede. O modelo de consistência ____________ é conhecido por permitir leituras e escritas mesmo durante uma partição de rede. Assinale a alternativa que preenche corretamente a lacuna do trecho acima. 
+
+Alternativas:
+A. forte
+B. eventual
+C. linearizável
+D. causal
+E. serializável

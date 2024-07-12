@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Estrutura de Dados ( assuntos)
+
+   O código acima implementa a função ABC, que permite rearranjar um vetor v[0 .. n-1] de tal modo que ele fique em ordem crescente, ou seja, v[0] ≤ . . . ≤ v[n-1]. Com base nessas informações, assinale a opção correta.  
+
+Alternativas:
+A. A função ABC é um algoritmo de intercalação estável.
+B. A função ABC altera o tamanho do vetor original.
+C. O tempo que a função consome para fazer o serviço é independente do número de comparações entre elementos do vetor.
+D. O consumo de tempo é proporcional ao número de movimentações, ou seja, de cópias de elementos do vetor de um lugar para outro. Esse número é igual a 2(r - p).
+E. O consumo de tempo da função é inversamente proporcional ao número de elementos do vetor.

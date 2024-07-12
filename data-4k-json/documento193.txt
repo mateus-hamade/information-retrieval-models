@@ -1,0 +1,9 @@
+Banco de Dados SQL Server
+
+No SQL Server 2019, a “tabela Cliente” do banco de dados “Exemplo” possui uma quantidade enorme de dados e como isso está gerando lentidão ao efetuar consulta por qualquer tipo de filtro, precisa efetuar um TUNE na “tabela Cliente”, porém, já foram criados novos index e mesmo assim a demora ainda persiste. Analisando a documentação da Microsoft, foi identificada a utilização de Partições (Partitions) e aplicação de um range separado por ano para garantir essa performance. Com isso, precisa-se executar algumas rotinas para separação dos arquivos e aplicar o conceito. Dentre essas rotinas pode-se citar:   I.   criar o scheme da partition. II.  adicionar um novo arquivo para grupo do banco de dados e adicionar os arquivos ao File Group. III. criar o range por ano yyyy do tipo Int.   É correto o que se afirma em
+
+Alternativas:
+A. II, apenas.
+B. I e II, apenas.
+C. I e III, apenas.
+D. I, II e III.

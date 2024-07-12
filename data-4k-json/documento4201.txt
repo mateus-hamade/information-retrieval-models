@@ -1,0 +1,9 @@
+Segurança da Informação Criptografia
+
+Como se distinguem os atributos de um sistema criptográfico simétrico em relação às características associadas à sua chave de cifragem? 
+
+Alternativas:
+A. Emprega chaves distintas para cifrar e decifrar mensagens.
+B. Necessita de uma infraestrutura centralizada para a gestão de chaves.
+C. Exige um conjunto de chaves pública e privada para o seu funcionamento.
+D. Utiliza a mesma chave para ambas as operações de criptografia e descriptografia.

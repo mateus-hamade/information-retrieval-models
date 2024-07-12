@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados
+
+Assinale a alternativa que apresenta o tipo de estrutura de dados caracterizada por um conjunto de dados dispostos por uma sequência de nós, em que a relação de sucessão desses elementos é determinada por um ponteiro que indica a posição do próximo elemento.
+
+Alternativas:
+A. Vetor.
+B. Lista ligada.
+C. Pilha.
+D. Fila.
+E. Árvore binária.

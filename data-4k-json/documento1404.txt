@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Estrutura de Controle e Repetição ( assuntos)
+
+Avalie as seguintes afirmativas associadas à programação estruturada: I. Uma variável declarada no contexto de uma função é automaticamente acessível às demais funções do programa. II. A passagem de variável por valor a uma função permite que a função altere o valor da variável. III. Uma estrutura de seleção ou repetição, se fizer parte de outra estrutura de seleção ou repetição, deve estar completamente contida nesta. Assinale a alternativa que contém a(s) afirmativa(s) CORRETA(S).  
+
+Alternativas:
+A. I, apenas.
+B. II e III, apenas.
+C. III, apenas.
+D. I e II, apenas.
+E. I, II e III.

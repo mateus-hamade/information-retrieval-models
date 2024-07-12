@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Uma das funções da lógica de programação é definir os passos para se resolver problemas do mundo real através de programas de computador criados nas linguagens de programação. Considere, nesse contexto, a estrutura de passos em pseudolinguagem abaixo.  Se for informado o valor 4000 para a variável salary será exibido o valor 
+
+Alternativas:
+A. 4400
+B. 4300
+C. 5000
+D. 4200
+E. 9000

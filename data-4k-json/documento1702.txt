@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+A seguir se apresenta um exemplo de pseudocódigo que apresenta o uso de uma função recursiva.  Analisando o cenário depois de executado, é correto afirmar que a quantidade de vezes em que houve execução da função e o valor final para ALFA serão, respectivamente, 
+
+Alternativas:
+A. 3 e 7.
+B. 4 e 9.
+C. 5 e 7.
+D. 5 e 9.

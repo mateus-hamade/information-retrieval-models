@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
+
+Utilizando a análise de complexidade de algoritmos, qual a complexidade de tempo de execução do seguinte código:       
+
+Alternativas:
+A. O (n Log n)
+B. O (n2 Log n)
+C. O (n / 2)
+D. O (n 2 )
+E. O (n)

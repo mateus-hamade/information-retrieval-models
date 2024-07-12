@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Os operadores lógicos são utilizados quando há necessidade de serem testadas duas ou mais condições dentro de um algoritmo simultaneamente. Pode-se afirmar que o xou é um operador de: 
+
+Alternativas:
+A. conjunção.
+B. disjunção.
+C. maior ou igual que.
+D. disjunção exclusiva.
+E. negação.

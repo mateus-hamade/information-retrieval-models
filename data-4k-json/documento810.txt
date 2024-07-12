@@ -1,0 +1,10 @@
+Banco de Dados DW - Data Warehouse
+
+Analise as assertivas abaixo sobre Data Warehouse: I. Um Data Mart é uma forma simples de Data Warehouse que armazena informações relacionadas a uma área ou assunto específico. II. A modelagem multidimensional fornece ao Data Warehouse um modelo que possibilita retratar a visão do negócio. III. Um Data Warehouse armazena dados estruturados e não estruturados. Quais estão corretas?
+
+Alternativas:
+A. Apenas I.
+B. Apenas II.
+C. Apenas III.
+D. Apenas I e II.
+E. I, II e III.

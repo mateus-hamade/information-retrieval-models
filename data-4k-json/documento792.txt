@@ -1,0 +1,10 @@
+Banco de Dados SQL , PostgreSQL
+
+Considerando o sistema de banco de dados relacional PostgreSQL versão 14, em um banco de dados, existem duas tabelas, A e B, com alguns valores populados, conforme abaixo:   Considere o resultado das duas seguintes queries em SQL: I. SELECT x FROM X UNION (SELECT y FROM Y LIMIT 1) II. SELECT x FROM X UNION SELECT y FROM Y LIMIT 1; Assinale a alternativa que representa o número de linhas resultantes das queries I e II, respectivamente. 
+
+Alternativas:
+A. 1 – 1.
+B. 6 – 1.
+C. 6 – 6.
+D. 4 – 4.
+E. 4 – 1.

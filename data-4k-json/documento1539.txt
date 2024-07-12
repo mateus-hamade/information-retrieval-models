@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Assinale a alternativa correta com relação à estrutura de arquivos.
+
+Alternativas:
+A. Uma árvore é considerada balanceada se, e somente se, para qualquer nó, a altura de suas duas sub-árvores difere de no máximo uma unidade. Exemplos de árvores balanceadas são as árvores AVL.
+B. Uma árvore é considerada desbalanceada se, e somente se, para qualquer nó, a altura de suas duas sub-árvores difere de, no máximo, uma unidade. Exemplos de árvores balanceadas são as árvores AVL.
+C. Uma árvore é considerada degenerarda se, e somente se, para qualquer nó, a altura de suas duas sub-árvores difere de, no máximo, uma unidade. Exemplos de árvores balanceadas são as árvores AVL.
+D. Uma árvore AVL é uma árvore na qual as alturas das sub-árvores esquerda e direita de cada nó diferem no mínimo por uma unidade.
+E. Na inserção em uma árvore AVL utiliza-se um processo de balanceamento que pode ser de 2 tipos gerais: Rotação simples ou Rotação complexa.

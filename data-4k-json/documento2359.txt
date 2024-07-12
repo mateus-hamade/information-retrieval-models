@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+Considere a estrutura de dados abaixo.        Escolha a alternativa que preenche corretamente as lacunas na ordem apresentada.     A referida estrutura é uma __________ e permite acessar através de seu ELO os registros em ordem _________.  
+
+Alternativas:
+A. pilha – de empilhamento
+B. fila – de chegada dos elementos
+C. fila – alfabética crescente
+D. lista encadeada – alfabética crescente
+E. lista encadeada – de chegada dos elementos

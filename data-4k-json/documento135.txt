@@ -1,0 +1,9 @@
+Banco de Dados SQL Server
+
+O comando a ser executado numa instalação SQL Server para conceder permissão de execução de uma stored procedure X num esquema (schema) Y a um papel (role) Z é:
+
+Alternativas:
+A. GRANT EXECUTE ON OBJECT::Y.X TO Z
+B. ALLOW EXECUTE(X) FOR Y.Z
+C. FOR X IN Y ALLOW EXECUTE TO Z
+D. GRANT USER Z EXEC X UNDER Y

@@ -1,0 +1,10 @@
+Segurança da Informação Backup em Segurança da Informação
+
+Conforme descrito na NBR ISO/IEC 27001:2013, quando da elaboração de um plano de backup, convém que os seguintes itens sejam levados em consideração, à exceção de um. Assinale-o.
+
+Alternativas:
+A. que as cópias de segurança sejam armazenadas em uma localidade remota, a uma distância suficiente para escapar de dados de um desastre ocorrido no local principal
+B. que sejam produzidos registros completos e exatos das cópias de segurança e documentação apropriada sobre os procedimentos de restauração da informação
+C. que as mídias de backup sejam testadas para garantir que elas sejam confiáveis no caso de uso emergencial
+D. que as cópias de segurança sejam protegidas através de encriptação
+E. que os testes de capacidade para restaurar os dados copiados sejam realizados em uma mídia de teste dedicada

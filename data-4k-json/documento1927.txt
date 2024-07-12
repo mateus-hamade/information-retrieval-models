@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
+
+No que se refere a linguagens de programação e estruturas de decisão/repetição em algoritmos de programação, julgue o item subsequente. A estrutura de decisão SE/ENTÃO/SENÃO, ou IF/THEN/ELSE, permite que seja sempre executado um comando. Isso porque, caso a condição seja verdadeira, o comando da condição SE/ENTÃO será executado; caso contrário, o comando da condição SENÃO (falsa) será executado.
+
+Alternativas:
+A. Certo
+B. Errado

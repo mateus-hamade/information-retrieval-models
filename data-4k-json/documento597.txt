@@ -1,0 +1,10 @@
+Banco de Dados Big Data
+
+Assinale a opção correta, a respeito de conceitos de big data.  
+
+Alternativas:
+A. Big data refere-se ao armazenamento de grandes volumes de dados em servidores locais, geralmente em formato estruturado.
+B. Os processos e modelos analíticos de big data são baseados somente em máquinas e não em humanos.
+C. Big data consiste de uma tecnologia que se resume ao uso de técnicas avançadas de criptografia para proteger informações confidenciais armazenadas em bancos de dados corporativos.
+D. Uma solução de big data inclui somente os dados principais, sendo descartados os domínios de dados e transações.
+E. Big data é um termo abrangente usado para descrever conjuntos de dados extremamente grandes que são difíceis de processar e analisar em um período de tempo razoável pelos métodos tradicionais.

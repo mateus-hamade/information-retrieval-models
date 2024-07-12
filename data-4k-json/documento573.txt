@@ -1,0 +1,10 @@
+Banco de Dados OLAP (On-line Analytical Processing)
+
+Os data warehouse e sistemas OLAP são baseados no modelo multidimensional em que se visualizam dados em um espaço Ndimensional em hipercubos. Os hipercubos podem ser do tipo
+
+Alternativas:
+A. dimensão ou fato.
+B. esparso ou denso.
+C. aditivo ou semiaditivo.
+D. indexado ou não indexado.
+E. balanceado ou não balanceado.

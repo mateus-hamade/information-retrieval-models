@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
+
+A estrutura de dados que implementa o princípio LIFO (Last in, First out), no qual o último elemento inserido é o primeiro a ser retirado, é:
+
+Alternativas:
+A. Fila.
+B. Pilha.
+C. Lista.
+D. Deque.

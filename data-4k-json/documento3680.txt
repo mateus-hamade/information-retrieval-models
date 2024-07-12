@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+Respeitando as ordens de inserção e de retirada dos dados, uma estrutura de 
+
+Alternativas:
+A. fila é também denominada LIFO ou LILO.
+B. fila é também denominada FIFO ou FILO.
+C. fila é também denominada FIFO ou LIFO.
+D. pilha é também denominada FIFO ou FILO.
+E. pilha é também denominada LIFO ou FILO.

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Questão anulada Os dados armazenados na memória CACHE devem ser substituídos periodicamente, essas substituições obedecem a alguns algoritmos. O objetivo desses algoritmos é aumentar o número de acertos, evitando as falhas na busca de novas instruções para o processador. Assinale a que NÃO corresponde a um algoritmo de substituição de dados:
+
+Alternativas:
+A. Bubble Sort – Ordenação por flutuação.
+B. FILA – FIFO.
+C. LRU – Least Recently Used.
+D. Escolha aleatória – Bloco de substituição aleatório.
+E. LFU – Least Frequently Used.

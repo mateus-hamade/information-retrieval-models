@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+ Analise o seguinte algoritmo, apresentado na forma de pseudolinguagem (Português Estruturado). Assuma que os valores lidos para a variável B, à medida que forem necessários, serão os valores obtidos a partir da seguinte sequência: 2, 4, 6, 8, 10, 12, 14, 16... Assim, o primeiro valor lido para B será 2, enquanto que o sétimo valor, se necessário, será 14.   Assinale a alternativa que apresenta uma dupla de valores corretos e coerentes para o valor lido para a variável A e para o respectivo valor da variável Soma impresso ao final da execução do algoritmo.
+
+Alternativas:
+A. A=4; Soma=20
+B. A=5; Soma=30
+C. A=4; Soma=30
+D. A=3; Soma=12
+E. A=5; Soma=56

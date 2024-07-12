@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Filas , Grafos ( assuntos)
+
+Considerando uma estrutura de dados do tipo “lista”, se tanto as operações de inserção quanto as operações de remoção são realizadas somente em um de seus extremos, então pode-se afirmar que essa estrutura recebe o nome de:
+
+Alternativas:
+A. pilha.
+B. árvore.
+C. espiral.
+D. galho.
+E. grafo.

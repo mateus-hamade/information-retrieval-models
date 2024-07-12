@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+A estrutura de dados usada em índices multiníveis dinâmicos em banco de dados relacionais, que garantem que tais estruturas sempre estejam balanceadas e que o espaço desperdiçado pela exclusão de itens de dados, se houver, nunca se torne excessivo, é denominada
+
+Alternativas:
+A. fila.
+B. hash.
+C. bitmap.
+D. árvore B.
+E. árvore binária.

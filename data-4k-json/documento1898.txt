@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Analise o seguinte algoritmo em pseudo-código e assinale a alternativa correta.      inteiro funcao_A (inteiro n)  início  inteiro f;  se ( n == 1) ou (n == 0) então   retorna 1;     f = funcao_A(n-1)*n;  retorna f;    fim. 
+
+Alternativas:
+A. A primeira chamada da “funcao_A” com o argumento 2 provoca uma segunda chamada da “funcao_A” com o argumento 1.
+B. Como o programa é iterativo, faz-se necessário mais uma variável além de “f”, por exemplo, para armazenar os diversos passos do processamento.
+C. Quando a “funcao_A” é chamada com um argumento de 1, a função retorna o argumento 0 e não necessita executar a iteração.
+D. O algoritmo retorna erro para quando o argumento passado possui um valor maior que 1000 e menor que o valor máximo de um número inteiro.
+E. Há um laço que é executado de 1 a n, multiplicando progressivamente cada número pelo produto móvel dado por “f = funcao_A(n-1)*n;”.

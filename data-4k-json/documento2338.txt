@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
+
+Em uma árvore AVL com grande quantidade de nós, o custo para inclusão de um nó no meio da árvore é proporcional a
+
+Alternativas:
+A. log(n)
+B. n
+C. n log(n)
+D. n2
+E. n2 log(n)

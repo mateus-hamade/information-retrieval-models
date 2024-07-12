@@ -1,0 +1,9 @@
+Banco de Dados DW - Data Warehouse
+
+Em ambientes de Data Warehouse, os dados inseridos são fitrados e recebem apenas operações de consulta e exclusão, sem que possam ser alterados. Esta característica é conhecida como: 
+
+Alternativas:
+A. variável com o tempo.
+B. não volátil.
+C. orientado por assunto.
+D. integrado.

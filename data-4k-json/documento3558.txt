@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Listas , Pilhas
+
+Texto associado As pilhas são listas encadeadas cujos elementos são retirados e acrescentados sempre ao final, enquanto as filas são listas encadeadas cujos elementos são retirados e acrescentados sempre no início.
+
+Alternativas:
+A. Certo
+B. Errado

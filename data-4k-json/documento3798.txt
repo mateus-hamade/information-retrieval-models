@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Grafos
+
+Grafo é um objeto formado por
+
+Alternativas:
+A. vértices, arestas e nós.
+B. vértices e arestas, apenas.
+C. vértices, apenas.
+D. arestas, apenas.
+E. nós, apenas.

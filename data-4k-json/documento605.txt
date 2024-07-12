@@ -1,0 +1,10 @@
+Banco de Dados Data Mining
+
+No modelo CRISP-DM (cross-industry standard process for data mining), a etapa que consiste em identificar se o modelo escolhido está apto a cumprir os objetivos definidos na primeira etapa, o entendimento do negócio, é denominada 
+
+Alternativas:
+A. entendimento dos dados.
+B. preparação dos dados.
+C. avaliação.
+D. implantação.
+E. modelagem.

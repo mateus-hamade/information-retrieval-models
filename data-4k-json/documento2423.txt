@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
+
+Considerando a área de complexidade algoritmos, assinale a opção que apresenta a classe assintótica, na notação O, com o menor tempo de resposta dada a mesma entrada de dados n.
+
+Alternativas:
+A. O(n)
+B. O(nlog(n))
+C. O(2n)
+D. O(log(n))

@@ -1,0 +1,9 @@
+Sistemas Operacionais Gerência de Memória , Virtualização
+
+A Memory Management Unit (MMU) é o componente responsável por gerenciar os acessos que a CPU envia à memória em decorrência da execução de um programa. Em relação à organização da memória física pela MMU, em um sistema com memória virtual usando paginação, a memória principal é dividida em: 
+
+Alternativas:
+A. linhas
+B. blocos
+C. quadros
+D. segmentos

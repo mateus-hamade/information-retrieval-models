@@ -1,0 +1,11 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Busca , Algoritmos de Ordenação
+
+Considere as afirmativas sobre  i) Métodos de pesquisa sequencial e de pesquisa binária  ii) Métodos de ordenação  Sabendo que N se refere ao número de elementos do conjunto, a alternativa em que i) e ii) estão ambas ERRADAS, é 
+
+Alternativas:
+A. i) O funcionamento do método pesquisa binária baseia-se no princípio de reduzir à metade, sucessivamente, o “universo de busca”. Desse princípio resulta sua eficiência.
+. ii) O método Quicksort é, essencialmente, uma aplicação do princípio “dividir para conquistar”.
+B. i) O método de pesquisa binária não pode ser aplicado quando os dados estão ordenados em ordem decrescente, mesmo se o código do método for readequado.
+C. i) No pior caso do método pesquisa sequencial são realizadas N comparações.
+D. i) A quantidade de comparações que o método de pesquisa binária realiza é aproximadamente igual ao número de vezes que N pode ser dividido por 2 até resultar 1, isto é, log2N. Assim, a ordem de complexidade do método é logarítmica.
+E. i) No melhor caso da pesquisa sequencial é realizada 1 comparação para se localizar um elemento.

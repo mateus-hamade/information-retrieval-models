@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
+
+Uma estrutura de dados pode ser entendida como um padrão de organização de dados que permita ao computador o acesso e utilização destes dados de forma facilitada. A literatura define diversos tipos de estrutura de dados. Cada uma delas possui características próprias, sendo indicadas na solução de problemas específicos. Assinale a alternativa que indica corretamente o nome da estrutura de dados que é unidimensional e que possui a característica de permitir acesso imediato apenas ao elemento mais recentemente inserido nela.
+
+Alternativas:
+A. matriz
+B. fila
+C. pilha
+D. árvore binária

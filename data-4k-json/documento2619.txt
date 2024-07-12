@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Considere o algoritmo abaixo, escrito em linguagem estruturada:      A = valor inicial  T = 0  Enquanto A < 10 faça      T = A + T      A = A + 1  Fim Enquanto      Supondo que A tenha como valores iniciais 5 e 2, os valores finais de T serão, respectivamente,  
+
+Alternativas:
+A. 26 e 35.
+B. 32 e 42.
+C. 35 e 44.
+D. 39 e 46.
+E. 45 e 54.

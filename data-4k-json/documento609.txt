@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados Paralelos e Distribuídos
+
+Com relação aos bancos de dados distribuídos, assinale a opção correta.
+
+Alternativas:
+A. Fragmentação e replicação são técnicas de armazenamento de dados distribuídos que não podem ser combinadas, ou seja, deve-se escolher uma das duas técnicas para ser implementada.
+B. Em um banco de dados distribuído heterogêneo, diferentes sites podem usar diferentes softwares de sistema de gerenciamento de banco de dados (SGBD).
+C. Os bancos de dados distribuídos são adequados apenas para pequenas organizações.
+D. Os bancos de dados distribuídos são utilizados exclusivamente para armazenar dados não relacionais.
+E. Nos bancos de dados distribuídos, a latência na transmissão de dados entre os nós do banco está ausente.

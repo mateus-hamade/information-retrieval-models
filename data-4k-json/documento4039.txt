@@ -1,0 +1,9 @@
+Segurança da Informação Firewall em Segurança da Informação , Sistemas de Prevenção-Detecção de Intrusão , Ataques e ameaças ( assuntos)
+
+Em uma rede de computadores de uma empresa, aconteceram muitas invasões. O gerente da rede implantou um sistema de segurança, com o objetivo de bloquear automaticamente uma atividade maliciosa detectada, através de configuração dos firewalls, visando ao encerramento das conexões suspeitas, de forma ativa. Esse tipo de sistema é conhecido pela sigla: 
+
+Alternativas:
+A. FAR
+B. MVS
+C. IPS
+D. IDS

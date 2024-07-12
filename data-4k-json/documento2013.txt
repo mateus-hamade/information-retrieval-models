@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Busca , Algoritmos de Ordenação ( assuntos)
+
+Um algoritmo de computador é composto por várias etapas que, em conjunto, executam uma determinada tarefa. Sobre os algoritmos de computadores, julgue o item a seguir.     Entre alguns exemplos, estão os algoritmos destinados à busca e à ordenação de dados e também os que percorrem grafos para o cumprimento de tarefas.  
+
+Alternativas:
+A. Certo
+B. Errado

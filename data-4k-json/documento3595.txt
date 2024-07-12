@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+Em se tratando de gerenciamento da informação, dados estruturados que descrevem, identificam, explicam, localizam e, portanto, facilitam a recuperação, uso e gestão de recursos de informação, são chamados de: 
+
+Alternativas:
+A. informação.
+B. sistema de informação.
+C. conhecimento.
+D. metadados.
+E. dicionário de dados.

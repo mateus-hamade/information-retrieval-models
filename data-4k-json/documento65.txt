@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+Os Bancos de Dados NoSQL foram projetados para gerenciarem grandes volumes de dados. É um exemplo de banco de dados orientado a grafos e indicado para armazenar pequenos registros que possuem interconexões complexas, como é o caso de dados em redes sociais.
+
+Alternativas:
+A. HBase.
+B. Redis.
+C. Cassandra.
+D. Neo4j.
+E. MongoDB.

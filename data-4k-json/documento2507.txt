@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Busca
+
+Analise o trecho de código a seguir. Avariável x representa o elemento de referência passado como parâmetro while( inicio <= termino ) { meio = ( inicio + termino ) / 2; if( a[ meio ].compareTo( x ) < 0 ) inicio = meio + 1; else if( a[ meio ].compareTo( x ) > 0 ) termino = meio - 1; else return meio; } A qual algoritmo esse código pertence?
+
+Alternativas:
+A. Busca binária
+B. Ordenação heapsort
+C. Busca sequencial
+D. Ordenação quicksort

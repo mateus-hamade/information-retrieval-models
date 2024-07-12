@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Busca
+
+Com referência à organização de arquivos, julgue o próximo item.  Uma vantagem do arquivo direto é poder determinar funções que gerem menor número de colisões.
+
+Alternativas:
+A. Certo
+B. Errado

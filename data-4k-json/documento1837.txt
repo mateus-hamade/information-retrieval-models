@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+Considere uma árvore binária cuja estrutura é percorrida em ordem [d, b, e, a, f, c, g] e em pré-ordem [a, b, d, e, c, f, g]. Qual é o percurso de pós-ordem da árvore binária?
+
+Alternativas:
+A. [d, e, f, g, b, c, a].
+B. [e, d, b, f, g, c, a].
+C. [e, d, b, g, f, c, a].
+D. [d, e, b, f, g, c, a].
+E. Nenhuma das anteriores.

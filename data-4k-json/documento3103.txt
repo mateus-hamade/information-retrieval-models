@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Uma linguagem de programação permite que os parâmetros de uma função sejam passados por valor ou por referência. Suponha que nessa linguagem seja definida uma função F(A,B) onde A e B são os parâmetros formais, sendo que A é passado por valor, e B é passado por referência. Durante a execução de F, somamos 2 ao valor de A e subtraímos 2 do valor de B. Caso F(X,Y) seja uma chamada da função, ao longo do programa, onde os parâmetros reais X e Y são variáveis cujos valores antes da chamada são, respectivamente, 10 e 20, esperamos que, ao terminar a função, os novos va- lores de X e Y sejam, respectivamente,
+
+Alternativas:
+A. 10 e 18
+B. 10 e 20
+C. 10 e 22
+D. 12 e 18
+E. 12 e 20

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Listas
+
+Uma estrutura de dados do tipo “lista encadeada” com 10 (dez) elementos, sendo que o primeiro e o último estão ligados entre si, recebe o nome de: 
+
+Alternativas:
+A. lista tríplice.
+B. lista de Zargov.
+C. lista encadeada circular.
+D. lista invertida.
+E. lista moderada.

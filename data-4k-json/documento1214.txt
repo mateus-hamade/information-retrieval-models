@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Vetores
+
+Dentre as opções a seguir, aquela que é uma característica dos vetores:
+
+Alternativas:
+A. armazena elementos de tipos distintos em posições distintas
+B. aumenta de tamanho no momento da execução do programa
+C. é representado em memória como uma sequência de bytes sucessivos
+D. é uma estrutura de dados dinâmica e ordenada com elementos do mesmo tipo

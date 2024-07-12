@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Hashing
+
+Considere o esquema com a distribuição das chaves (k) numéricas de uma tabela Hash a seguir.        Acerca do esquema, avalie se as afirmativas a seguir são falsas (F) ou verdadeiras (V).     I. A função Hash utilizada é h(k) = k mod 7.  II. Há colisão em duas das chaves.  III. A complexidade do algoritmo de busca é O(log n).     As afirmativas são, respectivamente,  
+
+Alternativas:
+A. V, V e F.
+B. V, F e F.
+C. F, V e V.
+D. F, V e F.
+E. F, F e F.

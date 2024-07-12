@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados
+
+Assinale a opção em que é apresentada a propriedade envolvida quando uma transação de banco de dados é completada com sucesso e as mudanças que ela fez no banco persistem, mesmo que existam falhas no sistema. 
+
+Alternativas:
+A. atomicidade
+B. consistência
+C. isolamento
+D. durabilidade
+E. inconsistência de dados

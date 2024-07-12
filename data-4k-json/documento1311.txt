@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Lógicas de Programação
+
+O raciocínio lógico leva a uma resposta que pode ser verdadeira ou falsa. Na construção de algoritmos para a solução de problemas computacionais, trabalha-se com esse tipo de raciocínio. A respeito desse assunto, julgue o item. Se, como entrada para o algoritmo apresentado a seguir, forem fornecidos os números 2, 12, 1, 5 e 7, então a saída será: “A soma é: 14”.  
+
+Alternativas:
+A. Certo
+B. Errado

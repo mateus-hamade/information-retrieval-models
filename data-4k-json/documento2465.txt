@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+A estrutura de dados especial, que associa chaves de pesquisa a valores, também chamada de tabela de dispersão, é conhecida pelo nome em inglês:
+
+Alternativas:
+A. hack
+B. fate
+C. hash
+D. doom

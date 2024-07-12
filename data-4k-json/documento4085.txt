@@ -1,0 +1,10 @@
+Segurança da Informação Criptografia
+
+A figura a seguir mostra uma representação visual de como os métodos criptográficos estão classificados, sendo divididos entre métodos clássicos e modernos.    Fonte: SINGH (2013).  A respeito dos métodos de criptografia é correto afirmar, EXCETO: 
+
+Alternativas:
+A. a criptografia é uma técnica que existe há milênios, sendo utilizada até mesmo no hieróglifo, antiga forma de escrita dos egípcios. Desta forma, possível perceber que a criptografia já estava sendo utilizada, debatida e aprimorada há aproximadamente 4000 anos.
+B. a utilização da criptografia foi originalmente proposta para proteger informações militares. Na Roma antiga, os planos de guerra eram criptografados antes de serem enviados aos campos de batalha. Desta forma, caso os inimigos interceptassem as mensagens enviadas, os mesmos não conseguiriam fazer bom uso delas, pois estariam ilegíveis.
+C. a evolução da criptografia sempre esteve acompanhada pela evolução da criptoanálise, área de estudo que visa entender os métodos criptográficos e descriptografar informações
+D. os processos criptográficos estão divididos em dois elementos, sendo eles: algoritmo e chave.
+E. a chave, na criptografia, é o procedimento que será executado para cifrar a informação.

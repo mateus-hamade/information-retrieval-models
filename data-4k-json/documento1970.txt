@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
+
+Considere o trecho de pseudocódigo abaixo:   A ordem de complexidade do trecho em questão é:   
+
+Alternativas:
+A. O(n)
+B. O(n2)
+C. O(n log n)
+D. O(n3)

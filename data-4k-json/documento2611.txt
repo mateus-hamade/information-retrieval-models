@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+Suponha a estrutura de dados E, cujo algoritmo de inserção de um novo valor é representado pelo seguinte pseudocódigo, onde M é o número de posições disponíveis em memória:  se t ≠ M então  t := t +1  E(t) := novo-valor  senão overflow  Qual o tipo da estrutura de dados E?  
+
+Alternativas:
+A. árvore.
+B. deque.
+C. fila.
+D. lista circular.
+E. pilha.

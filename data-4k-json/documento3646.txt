@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Estrutura de Dados ( assuntos)
+
+Texto associado No algoritmo apresentado, suponha que, após a leitura de Vetor, os cinco valores nele inseridos tenham sido os seguintes:  { 3, 1, 6, 2, 4}  Nesse caso, o conteúdo de Vetor, ao final da execução do algoritmo, será 
+
+Alternativas:
+A. { 0, 2, 1, 4, 0}.
+B. { 1, 2, 3, 4, 5}.
+C. { 1, 6, 2, 4, 3}.
+D. { 2, 2, 4, 0, 0}.
+E. { 4, 3, 1, 6, 2}.

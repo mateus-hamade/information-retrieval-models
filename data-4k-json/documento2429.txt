@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+Considere uma estrutura de dados em que cada elemento armazenado apresenta ligações de apontamento com seu sucessor e com o seu predecessor, o que possibilita que ela seja percorrida em qualquer sentido. Trata-se de
+
+Alternativas:
+A. uma fila.
+B. um grafo.
+C. uma lista duplamente encadeada.
+D. uma pilha.

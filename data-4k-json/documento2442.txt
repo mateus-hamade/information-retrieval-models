@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+Sobre algoritmos de ordenação, assinale a afirmativa correta.
+
+Alternativas:
+A. BubbleSort: Percorre a lista uma única vez, colocando o maior elemento no início da lista a cada iteração.
+B. QuickSort: Utiliza uma estrutura de árvore binária para ordenar os elementos, à medida que os insere na estrutura.
+C. SelectionSort: Encontra o menor elemento da lista e troca com o primeiro, repetindo o processo sempre começando da próxima posição da lista.
+D. HeapSort: Divide a lista em duas através de um pivô com os maiores elementos de um lado e os menores do outro, continuando essa divisão de forma recursiva.

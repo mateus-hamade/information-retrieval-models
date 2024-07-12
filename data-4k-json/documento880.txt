@@ -1,0 +1,10 @@
+Banco de Dados Gerência de Transações
+
+O acrônimo ACID traduz um conjunto de propriedades importantes que garantem a integridade das transações em um banco de dados, sendo a consistência e o isolamento duas dessas propriedades. Sobre elas, é correto afirmar que   
+
+Alternativas:
+A. a consistência garante que todas as transações sejam executadas em sua totalidade e havendo erro, as operações da transação deverão ser descartadas.
+B. o isolamento garante que toda transação deve respeitar as regras de integridade dos dados.
+C. a consistência garante que toda operação deve ser atômica, levando o banco de dados para uma transação posterior bem-sucedida.
+D. o isolamento tem por objetivo evitar que as transações em paralelo em sistemas multiusuários interfiram uma nas outras.
+E. a consistência afirma que os efeitos de uma transação são permanentes e só podem ser desfeitos desde que sejam resultados de uma transação posterior e bem-sucedida.

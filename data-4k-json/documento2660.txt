@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+  Assinale a opção que corresponde ao resultado correto da execução do algoritmo apresentado.
+
+Alternativas:
+A. 0 1 2 3 4 5 6 7 8 9
+B. 34
+C. 0 1 1 2 3 5 8 13 21 34
+D. 11
+E. 1

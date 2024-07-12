@@ -1,0 +1,10 @@
+Sistemas Operacionais Virtualização
+
+Assinale a opção em que é apresentado o componente que funciona como um template para o Docker e que pode até ser usado para criação de novas instâncias de si mesmo.
+
+Alternativas:
+A. contêiner Docker
+B. cliente Docker
+C. registro Docker
+D. serviço Docker
+E. imagem Docker

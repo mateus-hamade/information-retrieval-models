@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Fluxogramas
+
+Texto associado Considerando ainda o fluxograma apresentado, assinale a alternativa que apresenta quantas vezes o teste marcado com (*) na figura é executado. 
+
+Alternativas:
+A. 2.
+B. 3.
+C. 4.
+D. 5.
+E. 6.

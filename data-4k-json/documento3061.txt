@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Matrizes em Estrutura de Dados
+
+Os dados contidos num vetor V unidimensional com n2 posições, n > 2, são números inteiros e positivos tais que V[k] = k. Esses dados são transferidos, a partir de V[1], sequencialmente, para uma matriz M (nxn). A matriz é preenchida, linha por linha, de cima para baixo (de 1 a n). Cada linha é preenchida coluna por coluna, da esquerda para a direita (de 1 a n). Qual é o valor do conteúdo da célula M(p,q), conteúdo da p-ésima linha e da q-ésima coluna?
+
+Alternativas:
+A. (p-1) . n + q
+B. (p-1) . n - q
+C. (p+1) . n + q
+D. p . (n-1) + q
+E. p . (n+1) - q

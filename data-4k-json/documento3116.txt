@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Dado o algoritmo abaixo, expresso em pseucódigo:   Após a execução do algoritmo acima, as variáveis TRABY e VARX terão respectivamente os valores: 
+
+Alternativas:
+A. 17 e 26
+B. 15 e 24
+C. 18 e 27
+D. 16 e 25

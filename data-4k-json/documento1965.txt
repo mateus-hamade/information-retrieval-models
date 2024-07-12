@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação , Complexidade de Algoritmos
+
+Os algoritmos de ordenação são utilizados para os mais diversos cenários de dados. Apesar de terem o mesmo objetivo (ordenação), possuem diferentes complexidades em relação ao número (n) de elementos a serem ordenados. O “quiksort” se destaca como um dos algoritmos mais rápidos para ordenação. No pior caso, a complexidade “quicksort” será:
+
+Alternativas:
+A. O(logn)
+B. O(n logn)
+C. O(n)
+D. O(n²)
+E. O(n )

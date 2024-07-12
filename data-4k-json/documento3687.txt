@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Listas
+
+Texto associado A principal característica de uma lista encadeada é o fato de o último elemento da lista apontar para o elemento imediatamente anterior.
+
+Alternativas:
+A. Certo
+B. Errado

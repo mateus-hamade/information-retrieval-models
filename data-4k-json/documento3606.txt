@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados , Vetores
+
+Texto associado Vetores podem ser considerados como listas de informações armazenadas em posição contígua na memória.
+
+Alternativas:
+A. Certo
+B. Errado

@@ -1,0 +1,10 @@
+Programação HTML (HyperText Markup Language) , Linguagens de marcação
+
+Considere o seguinte trecho de um documento em HyperText Markup Language:  <nav id="layout1" class="layout1">   <a href="/tribunal/">Tribunal</a> |   <a href="/downloads/">Downloads</a> </nav>  Considere também o respectivo código de Cascading Style Sheets:  #layout1 {   display: flex;   flex-direction: row-reverse; } a { flex-shrink: initial; }  Ao ser renderizado por um navegador web padrão, o código HTML com a folha de estilo CSS acima exibe: 
+
+Alternativas:
+A. uma mensagem de erro no console;
+B. ‘Tribunal|Downloads’ alinhado à direita;
+C. ‘Downloads|Tribunal’ alinhado à direita;
+D. ‘Tribunal|Downloads’ alinhado à esquerda;
+E. ‘Downloads|Tribunal’ alinhado à esquerda.

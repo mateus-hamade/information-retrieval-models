@@ -1,0 +1,9 @@
+Banco de Dados OLAP (On-line Analytical Processing)
+
+Qual é a categoria de ferramenta OLAP que tem capacidade de oferecer análise datacube e slice and dice?
+
+Alternativas:
+A. DBMS
+B. MOLAP
+C. MQE
+D. ROLAP

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Estrutura de Dados ( assuntos)
+
+Os algoritmos abaixo apresentam uma versão muito simples de uma estrutura de dados conhecida. Para isso, é utilizado um vetor e não há preocupações com possíveis erros de operação ou de limites ultrapassados.    Qual a denominação da estrutura de dados implementada? 
+
+Alternativas:
+A. Árvore binária
+B. Fila
+C. Lista encadeada
+D. Pilha
+E. Registro

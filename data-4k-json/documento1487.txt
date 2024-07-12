@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Listas
+
+Uma _______________ é uma sequência finita de elementos ligados entre si, onde uma célula da dela, aponta para a próxima célula sequencialmente. Elas são úteis para representar conjuntos dinâmicos de dados. Assinale a alternativa que preencha corretamente a lacuna acima.
+
+Alternativas:
+A. árvore.
+B. lista.
+C. pilha.
+D. fila.
+E. tabela espelhada

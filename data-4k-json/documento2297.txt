@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Considere a seguinte expressão lógica de um programa, onde X e Y são variáveis numéricas: X < 7 OR Y = 15 AND X < 7 OR Y = 15 AND NOT (X < 7) Qual par de valores tornaria FALSA a expressão acima?
+
+Alternativas:
+A. X = 14 e Y = 5
+B. X = 14 e Y = 15
+C. X = 4 e Y = 5
+D. X = 4 e Y = 15
+E. X = 7 e Y = 15

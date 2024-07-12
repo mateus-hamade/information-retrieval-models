@@ -1,0 +1,9 @@
+Banco de Dados SQL Server
+
+Sobre a instalação do SQL Server 2019, assinale a alternativa que apresenta qual a porta default do tipo TCP que é utilizada no Banco de Dados do SQL Server e que é utilizada para “escutar” em uma porta fixa específica utilizando o SQL Server Configuration Manager.
+
+Alternativas:
+A. 80.
+B. 443.
+C. 1433.
+D. 8080.

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Considere a sequência 1, 1, 2, 3, 5, 8, 13, ..., onde: o primeiro e o segundo elementos possuem seus valores iguais a 1; e o valor de qualquer outro elemento é obtido pela soma dos dois elementos imediatamente antecessores (por exemplo, 8 é obtido de 3 + 5). Seja a classe ZZ, que possui um método denominado processa , que recebe um número inteiro n (n > 0), e retorna o n-ézimo elemento da sequência. O corpo do método processa da classe ZZ é:
+
+Alternativas:
+A. retorna ((n-1) + (n-2))
+B. se (n<3) retorna (1) senão retorna ((n-1) + (n- 2))
+C. se (n<3) retorna (1) senão retorna (processa (1) + processa(2))
+D. retorna (processa (n-1) + processa(n-2))
+E. se (n<3) retorna (1) senão retorna (processa (n- 1) + processa(n-2))

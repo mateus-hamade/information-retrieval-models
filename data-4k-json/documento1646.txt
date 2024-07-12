@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Listas
+
+Uma estrutura de dados onde existe uma coleção ordenada de entidades sendo a metodologia de busca com base no deslocamento relativo ao primeiro (cabeça) da coleção, chama-se:
+
+Alternativas:
+A. árvore.
+B. lista.
+C. pilha.
+D. fila.
+E. árvore binária.

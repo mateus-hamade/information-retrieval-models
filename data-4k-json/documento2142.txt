@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
+
+As estruturas de programação comprovadamente corretas, como sequência, decisão e repetição, são definidas em linguagens de programação para implementação de algoritmos. Analise o código abaixo que implementa essas estruturas e executa uma tarefa pré-definida.        Sobre esse código, assinale a afirmativa correta.  
+
+Alternativas:
+A. A estrutura de sequência é observada pela lógica algorítmica e fundamentada no conceito de máquina de Turing.
+B. A saída gerada é uma sequência infinita de 0s e 1s alternados impressos um em cada linha.
+C. Essas linhas de código implementam apenas as estruturas de repetição e decisão, não está presente a estrutura de sequência.
+D. Todas as três estruturas de programação, sequência, repetição e decisão, estão presentes, mas o código não gera a sequência de 0s e 1s alternados.

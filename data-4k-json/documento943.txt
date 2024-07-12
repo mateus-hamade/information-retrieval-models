@@ -1,0 +1,10 @@
+Banco de Dados BI (Business Intelligence)
+
+Considere o seguinte exemplo de relatório no Power BI: “O usuário deseja trabalhar com vários bancos de dados simultaneamente, conectando-os para a criação dos relatórios. Agora, considere a base de dados de uma rede mundial, no qual o usuário deseja fazer um comparativo entre o custo e as vendas do semestre”. Qual é o recurso do Power BI que permite definir um relacionamento e estabelecer uma conexão de dados entre duas tabelas de bancos de dados diferentes que possuem campos em comum?  
+
+Alternativas:
+A. Gerir Relação.
+B. Obter Dados.
+C. Gerir Segmentação.
+D. Expressões DAX.
+E. Estabelecer Conexão.

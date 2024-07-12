@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação , Estrutura de Dados ( assuntos)
+
+Em relação à programação de computadores, considere:  I. Métodos de passagem de parâmetros permitem que parâmetros sejam transmitidos entre o programa principal e os subprogramas, sendo que, na passagem de parâmetros por valor, o valor real é passado e uma variável local é criada para armazená-lo; nesse processo sempre será efetuada a cópia dessa variável.  II. Pilha é uma estrutura de dados com acesso restrito aos seus elementos ordenados pelo princípio FIFO; a pilha pode ser usada na avaliação de expressões numéricas, na recursividade e pelos compiladores, na passagem de parâmetros para as funções.  III. Prototipação é uma abordagem que envolve a produção de versões iniciais de um sistema futuro com a qual pode-se realizar verificações e experimentações para se avaliar algumas de suas qualidades antes que o sistema venha realmente a ser construído.  IV. Registro é uma estrutura básica que permite guardar coleções de dados de diferentes tipos, sendo normalmente utilizado quando um objeto tem diferentes atributos.  É correto o que consta APENAS em 
+
+Alternativas:
+A. I e III.
+B. II e IV.
+C. I, II e III.
+D. I, III e IV
+E. II, III e IV.

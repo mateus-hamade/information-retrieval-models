@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+Observe a estrutura do dataset ilustrado a seguir        Para armazenar o dataset ilustrado, é necessário utilizar o banco de dados NoSQL:   
+
+Alternativas:
+A. grafo;
+B. colunar;
+C. chave-valor;
+D. criptografado;
+E. orientado a documento.

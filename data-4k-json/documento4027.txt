@@ -1,0 +1,10 @@
+Segurança da Informação Análise de Vulnerabilidade e Gestão de Riscos
+
+Durante o processo de identificação de riscos, a organização deve identificar os riscos associados à perda de confidencialidade, integridade e disponibilidade de suas informações.  Uma organização adotou, em seu processo, a abordagem para identificação de riscos com base em eventos.  Essa abordagem consiste em: 
+
+Alternativas:
+A. refletir uma avaliação das consequências herdadas diretamente dos eventos envolvidos;
+B. identificar cenários operacionais, detalhados em termos de ativos, ameaças e vulnerabilidades;
+C. identificar cenários estratégicos, considerando as fontes de riscos e seus impactos no alcance dos riscos;
+D. construir, com base na análise de diferentes caminhos, cenários operacionais que as fontes de risco podem usar para alcançar seu objetivo;
+E. monitorar eventos relacionados ao risco, identificando fatores que podem influenciar um cenário de risco de segurança da informação.

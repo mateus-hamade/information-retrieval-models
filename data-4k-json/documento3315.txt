@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+Texto associado Uma das aplicações da estrutura de dados trie consiste na recuperação de informação, por meio da realização de operações primárias de consultas à procura de padrões e à procura de prefixos.  
+
+Alternativas:
+A. Certo
+B. Errado

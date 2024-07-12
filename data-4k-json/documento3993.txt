@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados Paralelos e Distribuídos , DW - Data Warehouse
+
+Sistemas de apoio à decisão coletam dados de diversas fontes e precisam realizar diversas operações de limpeza, transformação e integração para carregá-los em um banco de dados analítico pronto para consultas.  Para realizar as transformações necessárias nos dados oriundos de diversas fontes, os dados devem ser armazenados temporariamente em um(a):
+
+Alternativas:
+A. dashboard;
+B. cubo de dados;
+C. staging area;
+D. barramento;
+E. repositório de metadados.

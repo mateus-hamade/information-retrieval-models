@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Lógicas de Programação
+
+Formalização de algoritmo proposto em 1936, universalmente conhecido e aceito. Trata-se de um mecanismo simples, que formaliza a ideia de uma pessoa que realiza cálculos, denominado 
+
+Alternativas:
+A. Recursividade de Bird.
+B. Máquina de Redução.
+C. Máquina de Turing.
+D. Sistema de Post.
+E. Máquina com Pilhas.

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+Levando em conta as estruturas de dados, numere a coluna da direita de acordo com a da esquerda.  (1) Pilha  (2) Fila  (3) Árvore-B  (4) Árvore AVL  (5) Lista Ligada     ( ) Árvore binária balanceada pela altura de cada nó.  ( ) Árvore de busca multidirecional e balanceada.  ( ) Também chamada de lista LIFO (Last-In, First-Out).  ( ) Cada item é chamado nó e contém a informação do endereço seguinte.  ( ) Também chamada de lista FIFO (First-In, First-Out).  A ordem CORRETA de associação, de cima para baixo, é:  
+
+Alternativas:
+A. 4, 3, 1, 5, 2.
+B. 3, 4, 1, 5, 2.
+C. 4, 3, 2, 5, 1.
+D. 3, 4, 2, 5, 1.
+E. 4, 3, 5, 2, 1.

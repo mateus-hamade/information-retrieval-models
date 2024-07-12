@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
+
+Considere uma estrutura de dados do tipo pilha, denominada DOCAS, que suporta três operações básicas, definidas abaixo:    Ao final das operações, o elemento que se encontra no topo da pilha é 
+
+Alternativas:
+A. Itu.
+B. Lins.
+C. Bauru.
+D. Santos.
+E. Campinas.

@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Fluxogramas
+
+Acerca de pseudocódigo, descrição narrativa e fluxograma, que são usados para a descrição de algoritmos, julgue os próximos itens.  Uma forma universal de representação de um algoritmo, o fluxograma, ou diagrama de blocos, utiliza figuras geométricas a fim de ilustrar os passos a serem seguidos para a resolução de um problema.
+
+Alternativas:
+A. Certo
+B. Errado

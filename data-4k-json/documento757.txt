@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados
+
+Uma tabela de banco de dados que não possui dependências funcionais parciais está na
+
+Alternativas:
+A. primeira forma normal (1FN).
+B. segunda forma normal (2FN).
+C. terceira forma normal (3FN).
+D. normal de boyce-codd (BCNF).
+E. quarta forma normal (4FN).

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Recursividade
+
+Considere: zero é um número natural. O sucessor de um número natural é um número natural.  Assim, em termos de algoritmo, o enunciado trata da possibilidade de aplicação de uma técnica denominada 
+
+Alternativas:
+A. matriciação.
+B. integração.
+C. agregação.
+D. interação.
+E. recursão.

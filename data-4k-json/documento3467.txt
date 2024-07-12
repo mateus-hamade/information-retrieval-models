@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
+
+Texto associado A figura abaixo mostra uma aplicação da estrutura de dados pilha denominada MEC, inicialmente vazia, suportando três operações básicas, conforme definidas no Quadro I. Observe que o Quadro II apresenta uma seqüência de operações sobre a estrutura. Ao final das operações, o elemento que se encontra no topo da pilha é:  
+
+Alternativas:
+A. organizacional
+B. operacional
+C. estrategico
+D. gerencial
+E. tatico

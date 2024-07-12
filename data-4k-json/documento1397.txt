@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos
+
+Considere que na entrada do algoritmo PID foi aplicada o sinal , onde  é a função degrau unitário. Sabendo que a equação do algoritmo é     e que a saída  do algoritmo é mostrada na figura abaixo (onde o peso dos impulsos corresponde ao seu tamanho na escala vertical),     analise as seguintes alternativas: I. Da figura é possível determinar apenas os valores Kp e Ti . II. O algoritmo empregado é o PID ISA ou PID ideal, com parâmetros Kp = 2, Ti = 4 e Td = 1  . III. O algoritmo empregado é o PID paralelo ou clássico, com parâmetros Kp = 2, Ti = 4 e Td = 2. IV. Da figura é possível determinar os valores Kp, Ti  e Td . V. O algoritmo empregado é o PID ISA ou PID ideal, com parâmetros Kp = 2, Ti = 4 e Td  indeterminado.  É(são) correta(s) a(s) afirmativa(s):  
+
+Alternativas:
+A. II e IV.
+B. I e V.
+C. Apenas I.
+D. Apenas II.
+E. III e IV.

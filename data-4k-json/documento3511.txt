@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Listas
+
+São listas que, além de cada elemento indicar o elemento seguinte, também indicam aquele que o antecede, ou melhor, cada elemento é ligado a seu sucessor e a seu predecessor, possibilitando um caminhamento no sentido início-fim ou no sentido oposto (fim-início). O texto acima, sobre Estrutura de dados avançada, descreve listas: 
+
+Alternativas:
+A. globais;
+B. circulares;
+C. grafts;
+D. encadeadas;
+E. duplamente encadeadas.

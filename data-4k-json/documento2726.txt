@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Recursividade
+
+Uma das regras básicas para definir novos objetos ou conceitos é que a definição deve conter somente termos que tenham já sido definidos ou que sejam óbvios. Assim, um objeto definido em termos dele próprio é uma violação sérias dessa regra – um círculo vicioso. Por outro lado, existem muitos conceitos de programação que se auto definem. Restrições formais impostas às definições, tais como existência e unicidade, são satisfeitas e não deve ocorrer violação das regras. Tais definições são usadas primordialmente para se definir conjuntos infinitos e são chamadas de:
+
+Alternativas:
+A. Definições recursivas.
+B. Aferições interativas.
+C. Aferições recursivas.
+D. Definições interativas.

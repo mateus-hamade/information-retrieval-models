@@ -1,0 +1,9 @@
+Banco de Dados SQL
+
+Texto associado Há uma ligação entre as tabelas através de uma chave estrangeira na coluna CATEGORIA da tabela ALIMENTO que faz referência à coluna ID da tabela TIPO. De acordo com o banco de dados, assinale a instrução SQL para retornar a média de preços de cada categoria de alimentos, considerando somente os alimentos cujo preço é maior que 10,00.
+
+Alternativas:
+A. select tipo.descricao, sum(alimento.preco) / count(alimento.codigo) as media from alimento inner join tipo on tipo.id = alimento.categoria where alimento.preco > 10.00 group by 1;
+B. select tipo.descricao, avg(preco) as media from tipo left join alimento on tipo.classe = alimento.categoria where alimento.preco > 10.00;
+C. select avg(alimento.preco) as media from alimento left join tipo on tipo.id = alimento.categoria group by tipo.classe having sum(alimento.preco) > 10;
+D. select alimento.nome, alimento.preco / count(alimento.codigo) as media from tipo inner join alimento on tipo.id = alimento.codigo where alimento.categoria = 1  and alimento.preco >= 10.00;

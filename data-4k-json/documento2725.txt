@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+Durante a execução do programa os dados são armazenados na memória do computador. As localizações de memória em que esses dados são armazenados se denominam de:
+
+Alternativas:
+A. Estrutura de algoritmos.
+B. Estrutura de dados.
+C. Tipos de dados.
+D. Estrutura de arquivos.

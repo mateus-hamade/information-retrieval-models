@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Considerando a passagem de informações para funções, julgue os itens abaixo e, em seguida, assinale a opção correta.  I – O mecanismo usado para transmitir informações para uma função é denominado argumento.  II – Todos os parâmetros em uma função devem ser do mesmo tipo.  III – Quando a informação é passada por valor, a função chamada não pode alterar o valor de uma variável da função que chama.  IV – A utilização de ponteiros como parâmetros irá causar erro de sintaxe no momento da compilação.  A quantidade de itens certos é igual a 
+
+Alternativas:
+A. 1.
+B. 2.
+C. 3.
+D. 4.

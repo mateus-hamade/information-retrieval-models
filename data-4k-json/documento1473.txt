@@ -1,0 +1,8 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Após coletar um conjunto de dados com histórico de alunos, você foi designado para criar um modelo que classifique um aluno em um determinado conceito (A, B, C, D, E). Apesar de não esperar muita precisão em tal modelo, você conta com vários registros anonimizados para treino. Com base nesses dados, você investiga algoritmos para tal tarefa. Para isso, considere as duas questões abaixo. (I) Qual algoritmo poderia ser usado para criar um modelo autoexplicativo que classifique um aluno com base em seu histórico? (II) De qual tipo de algoritmo estamos falando? Considerando as opções a seguir, assinale a alternativa que apresenta a resposta correta para as duas questões.
+
+Alternativas:
+A. I. Quick Sort. II. Aprendizado não supervisionado.
+B. I. K-Means. II. Aprendizado supervisionado.
+C. I. Redes Neurais Adaline II. Random Tree.

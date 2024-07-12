@@ -1,0 +1,9 @@
+Banco de Dados Arquitetura de Banco de Dados , DW - Data Warehouse
+
+Atualmente, existem vários modelos arquiteturais de data warehousing, comumente chamados de arquiteturas de n camadas. As mais comuns são as arquiteturas de duas e três camadas. Com relação ao modelo arquitetural de três camadas, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.  ( ) O servidor que executa o sistema operacional e o banco de dados é a terceira camada, que mantém os dados e demais softwares. ( ) O data warehouse é uma segunda camada; trata-se de um front-end cujo software de ETL computam os dados e metadados de sistemas legados e de fontes externas, consolidando, resumindo e carregando-os no servidor de banco de dados operacional. ( ) A primeira camada inclui todos os softwares do cliente, os mecanismos do business intelligence, sistemas de suporte a decisão e business analytics do back-end; ela permite que os analistas, por meio de processamento OLAP, analisem os dados históricos consolidados nos data warehouses ou data lakes.  As afirmativas são, respectivamente,
+
+Alternativas:
+A. F – V – F.
+B. V – F – F.
+C. F – V – V.
+D. V – F – V.

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+O tipo de algoritmo cuja legibilidade depende muito de sua forma, incluindo aspectos de sua disposição em parágrafos (recuos), é conhecido como:
+
+Alternativas:
+A. gráfico de estruturas;
+B. diagrama hierárquico de fluxo;
+C. árvore de decisão;
+D. tabela de decisão;
+E. portugol.

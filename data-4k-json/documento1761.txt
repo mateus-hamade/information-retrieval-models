@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Lógicas de Programação
+
+Texto associado A questão baseia-se nas Figuras 5(a) e 5(b). A Figura 5(a) mostra, intencionalmente, apenas parte de um algoritmo, representado em pseudocódigo, onde algumas instruções foram suprimidas intencionalmente. As letras "A", "B", "C", "D", "G", "H", "K", "L" e "M" são variáveis lógicas, cujos conteúdos poderão ser somente "falso" ou "verdadeiro". A Figura 5(b) exibe as variáveis e respectivos conteúdos que serão atribuídos a essas variáveis durante a execução desse algoritmo.  Figura 5(a) - Algoritmo  Figura 5(b) - Variáveis e respectivos conteúdos Durante a execução do algoritmo, mostrado na Figura 5(a), serão atribuídas as variáveis lógicas "A", "B", "C", "D", "G", "H", "K", "L" e "M" os conteúdos constantes na Figura 5(b). Em consequência, executando-se esse algoritmo, serão exibidos os números: 
+
+Alternativas:
+A. 1 e 3.
+B. 2 e 3.
+C. 1, 4 e 6.
+D. 1, 5 e 6.
+E. 2, 4 e 6.

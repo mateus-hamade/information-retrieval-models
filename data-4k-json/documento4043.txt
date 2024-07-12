@@ -1,0 +1,9 @@
+Sistemas Operacionais Cloud Computing
+
+Uma empresa privada (Empresa X) vai instalar um modelo de negócio baseado em IaaS, que vai ser acessado por outras empresas. Isso significa que esse modelo da Empresa X vai funcionar para: 
+
+Alternativas:
+A. toda a infraestrutura ser das empresas contratantes, que providenciarão todas as instalações em ambiente terceirizado próprio, sendo que a Empresa X apenas será a parte de suporte a esses ambientes particulares de cada empresa
+B. os softwares usados pelas outras empresas estarem em um ambiente de nuvem terceirizado contratado pela Empresa X, que fará a gerência desse ambiente e cuidará da parte de segurança de dados, sendo a empresa terceirizada responsável pela infraestrutura física
+C. se ter ambiente no qual a Empresa X vai fornecer recursos de computação e armazenamento, cuja acesso será controlado pela internet e no qual as outras empresas vão poder implantar as suas aplicações, mas serão responsáveis por todo suporte destas, ficando a Empresa X responsável só em manter a infraestrutura
+D. a Empresa X disponibilizar um serviço de gerência de softwares e outras soluções tecnológicas, através de acesso pela internet, de modo que as outras empresas não vão precisar instalar, manter, atualizar ou mesmo desinstalar esses softwares, pois a responsabilidade de uso e suporte dos softwares será da Empresa X

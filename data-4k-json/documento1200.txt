@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Recursividade
+
+Quanto a Recursividade é INCORRETO afirmar: 
+
+Alternativas:
+A. A recursão é uma técnica que define um problema em termos de uma ou mais versões menores deste mesmo problema.
+B. Esta ferramenta pode ser utilizada sempre que for possível expressar a solução de um problema em função do próprio problema.
+C. Para se codificar programas de modo recursivo usa-se um procedimento ou sub-rotina, que permite dar um nome a um comando, o qual pode chamar a si próprio. Esta chamada pode ser diretamente recursiva, quando o procedimento P contiver uma referência explícita a si próprio, ou indiretamente recursiva, quando o procedimento P contiver uma referência a outro procedimento Q, que por sua vez contém uma referência direta ou indireta a P.
+D. Em se tratando de procedimentos recursivos pode-se ocorrer um problema de terminação do programa, como um “looping interminável ou infinito”.
+E. Um programa recursivo é mais elegante e menor que a sua versão iterativa, além de exibir com maior clareza o processo utilizado, desde que o problema ou os dados sejam naturalmente definidos através de recorrência. Além de exigir um menor espaço de memória e é, na grande maioria dos casos, mais rápido do que a versão iterativa.

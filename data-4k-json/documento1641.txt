@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Listas
+
+Que tipo de estrutura de dados está representada na Figura 1 abaixo?       
+
+Alternativas:
+A. Árvore binária.
+B. Fila.
+C. Pilha.
+D. Lista ligada.
+E. Vetor.

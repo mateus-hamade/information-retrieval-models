@@ -1,0 +1,9 @@
+Banco de Dados Banco de Dados Paralelos e Distribuídos
+
+O desafio de se armazenar e processar grandes volumes de dados com formatos diversos levou ao surgimento de bancos de dados não Relacionais (NoSQL). Essas demandas resultaram na necessidade de se desconsiderar em algumas características existentes em bancos de dados relacionais, em lugar de outras características mais flexíveis. Lidar com grandes quantidades de dados de forma estável e permitir que aplicações escalem a um custo baixo significa que características como a integridade garantida por meio de transações e a flexibilidade na criação de índices e consultas nem sempre serão possíveis. Considerando os NoSQL, analise as asserções a seguir.     I. Um sistema de armazenamento de chave-valor permite que os registros sejam armazenados e recuperados com base em uma chave e pode fornecer recursos de consulta limitados, mas não é um sistema de banco de dados completo.     II. Um documento no MongoDB é um objeto RTF (Rich Text Format) que possui, por padrão, um atributo _id que permite a realização de consultas e a recuperação do documento.     III. Como em muitos outros bancos de dados, no MongoDB o particionamento é feito com base no valor de um atributo especificado, chamado de atributo de particionamento ou chave de fragmento.     IV. No MongoDB os identificadores para os objetos inseridos, que podem ser usados como chaves para recuperar os objetos associados à chave, devem ser criados manualmente.     Estão corretas apenas as asserções 
+
+Alternativas:
+A. II e IV.
+B. II e III.
+C. I e IV.
+D. I e III.

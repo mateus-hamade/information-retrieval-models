@@ -1,0 +1,10 @@
+Banco de Dados Gerência de Transações , PostgreSQL
+
+A transação é executada em um banco de dados para realizar uma ou mais operações. Por exemplo, para atualizar um registro ou excluir um, o usuário realizará uma transação na tabela. Desta forma, tendo como referência o PostgreSQL, indique a opção correta sobre o comando ROLLBACK. 
+
+Alternativas:
+A. É usado para encerrar uma transação.
+B. É usado para iniciar uma transação.
+C. É usado para interromper uma transação.
+D. É usado para reverter as alterações.
+E. É usado para salvar as alterações.

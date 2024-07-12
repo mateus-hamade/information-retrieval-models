@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Relativo à busca digital em árvores binárias de busca, tem-se que:  I. Existem dois tipos de árvores conhecidas para a busca digital: TRIE e PATRICIA;  II. Numa busca digital, as chaves são representadas como uma cadeia de caracteres ou dígitos;  III. Os métodos de busca digital permitem a localização de todas as ocorrências de uma determinada sequência de caracteres dentro de um texto, com o tempo de resposta logarítmico em relação ao tamanho do texto;  IV. Uma vantagem da busca digital é que as chaves são “grandes” e com tamanho muito variável;  Assinale a alternativa CORRETA de acordo com as afirmações acima, utilizando V (Verdadeiro) e F (Falso):  
+
+Alternativas:
+A. V, F, V e V
+B. V, V, V e V
+C. F, F, V e V
+D. F, V, V e F

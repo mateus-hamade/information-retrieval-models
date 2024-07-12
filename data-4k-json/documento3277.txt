@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Texto associado Considerando o conceito de árvore binária de busca marque a alternativa CORRETA que define a figura apresentada:  
+
+Alternativas:
+A. Uma árvore binária de busca de tamanho 9 e profundidade 3, com raiz 4 e folhas 3, 1, 9 e 6.
+B. Uma árvore binária de busca de tamanho 7 e profundidade 3, com raiz 4 e folhas 1, 3, 6 e 9.
+C. Uma árvore binária de busca de tamanho 7 e profundidade 2, com raiz 4 e folhas 1, 3, 6 e 9.
+D. Uma árvore binária de busca de tamanho 9 e profundidade 2, com raiz 4 e folhas 3, 1, 9 e 6.

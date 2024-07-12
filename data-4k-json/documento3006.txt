@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
+
+Julgue os itens subsequentes, acerca dos tipos de estruturas árvores, pilhas e grafos.  Na estrutura do tipo pilha, são permitidas operações como encontrar o menor elemento e mostrar o seu sucessor.
+
+Alternativas:
+A. Certo
+B. Errado

@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+Analise a tabela a seguir:     Considere o seguinte comando SQL:  DELETE FROM PRODUTO  WHERE ID_MARCA NOT IN (2,4);  Quantos registros serão excluídos após a execução do comando SQL (acima)?  
+
+Alternativas:
+A. 1.
+B. 2.
+C. 3.
+D. 4.
+E. 5.

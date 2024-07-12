@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
+
+Uma estrutura de dados apresenta as seguintes características:     – o elemento a ser removido sempre é o que foi inserido mais recentemente na estrutura;  – sua funcionalidade em função do processo de inserção e remoção de elementos é do tipo LIFO (Last-In-First-Out).     Trata-se da estrutura de dados 
+
+Alternativas:
+A. Fila.
+B. Pilha.
+C. Grafo.
+D. Árvore.
+E. Lista ligada.

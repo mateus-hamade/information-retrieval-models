@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Filas
+
+Acerca dos modelos clássicos de Estruturas de Dados, aquela que define que os primeiros elementos a serem inseridos são os primeiros elementos a serem removidos (first in, first out) é classificada como:
+
+Alternativas:
+A. Vetor.
+B. Árvore AVL.
+C. Árvore Binária.
+D. Pilha.
+E. Fila.

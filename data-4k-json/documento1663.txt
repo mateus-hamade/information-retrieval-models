@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
+
+A complexidade do algoritmo de busca binária numa lista ordenada, com N elementos, é
+
+Alternativas:
+A. O (log N)
+B. O (N log N)
+C. O (N)
+D. O (N/2)
+E. O (N2 )

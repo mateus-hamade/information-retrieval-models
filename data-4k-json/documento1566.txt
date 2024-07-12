@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados
+
+A respeito das estruturas de dados e algoritmos amplamente utilizados na execução de operações de busca e indexação, analise as afirmativas abaixo e marque alternativa correta.  |. Busca sequencial é a mais elementar de todas as buscas. Considerando a busca em uma estrutura de dados com informações ordenadas, a busca sequencial será sempre menos eficiente do que a busca binária, no pior caso. A busca binária se beneficia do fato da estrutura de dados estar ordenada, isso facilita sua estratégia de busca. Il. As funções hash são usadas para mapearmos grandes conteúdos de informações que, mesmo tendo tamanho variável, retornaram como resultado informações de pequeno porte e de tamanho fixo. Tratam-se de funções probabilísticas, ou seja, devem resultar sempre no mesmo valor toda vez que receberem um mesmo dado como entrada. Ill. Árvores AVL possuem como uma de suas características O fato de serem balanceada. Isso significa que a altura sub árvore esquerda de qualquer nó tem a mesma altura da sua sub árvore direita.  
+
+Alternativas:
+A. Apenas as afirmativas | e Il estão corretas.
+B. Apenas a afirmativa | está correta.
+C. Apenas a afirmativa Ill está correta.
+D. Apenas as afirmativas II e Ill estão corretas.
+E. Todas as afirmativas estão corretas.

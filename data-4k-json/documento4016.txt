@@ -1,0 +1,10 @@
+Segurança da Informação Sistemas de Prevenção-Detecção de Intrusão , IPS (Intrusion Prevention System)
+
+O administrador de segurança do Tribunal de Justiça do Mato Grosso do Sul está implementando algumas regras no sistema de prevenção de intrusão (IPS) da rede local. Ele definiu um controle de acesso que determina quais usuários e dispositivos podem acessar um determinado host. Assim, se um usuário não autorizado tentar se conectar ao host, o IPS irá interrompê-lo.  O administrador de segurança está configurando um IPS baseado em:
+
+Alternativas:
+A. assinatura;
+B. anomalias;
+C. políticas;
+D. reputação;
+E. análise de protocolo estável.

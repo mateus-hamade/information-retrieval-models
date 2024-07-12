@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Analise a estrutura a seguir escrita em pseudocódigo:  início    inteiro: num, mult;    LEIA(num)    mult = num * num;    ESCREVA(mult);  fim     A estrutura do código acima é uma estrutura do tipo: 
+
+Alternativas:
+A. Repetição.
+B. Condicional.
+C. Sequencial.
+D. Primitiva.
+E. Nula.

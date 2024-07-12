@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+Referente a estruturas de dados, é CORRETO afirmar:
+
+Alternativas:
+A. Uma lista encadeada é uma coleção linear de objetos de uma classe autoreferenciada, chamados de nós. Pode ser acessada por meio de um ponteiro para o primeiro nó da lista. Os nós subsequentes são acessados por meio do membro ponteiro de link armazenado em cada nó.
+B. Por convenção, o ponteiro de link do último nó de uma lista é inicializado em 0 (zero).
+C. O tamanho (quantidade de elementos) de uma lista encadeada deve ser definido na hora da criação.
+D. Pilhas, filas e árvores são consideradas também estruturas de dados lineares, baseadas em listas encadeadas.
+E. Uma pilha usa método de inserção FIFO.

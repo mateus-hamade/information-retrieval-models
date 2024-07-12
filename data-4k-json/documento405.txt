@@ -1,0 +1,9 @@
+Banco de Dados SQL , Banco de Dados Relacionais
+
+O conceito de bancos de dados relacional foi definido na década de 1970, e até hoje permanece robusto, isto por que, sua base matemática foi muito bem definida por seu autor, Edgar F. Codd, Ao longo do tempo outras propostas foram surgindo como os bancos de dados não relacionais, desta forma, assinale a alternativa correta em relação a principal diferença entre um banco de dados SQL e um banco de dados NoSQL.
+
+Alternativas:
+A. Banco de dados NoSQL utilizando uma linguagem de operação chamada NotASQL, quando os bancos relacionais SQL, utilizando a linguagem SQL
+B. Banco de dados SQL é utilizado somente em sistemas web
+C. Banco de dados SQL são mais rápidos
+D. Banco de dados SQL é estruturado e baseado em tabelas, enquanto o banco de dados NoSQL é não estruturado ou flexível em termos de esquema

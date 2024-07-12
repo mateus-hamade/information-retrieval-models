@@ -1,0 +1,10 @@
+Segurança da Informação Ataques e ameaças
+
+Em um projeto de grande importância para o TJMS, durante o processo de planejar as respostas aos riscos, foi identificada uma ameaça, risco negativo, de alta prioridade.  O gerente do projeto decidiu por tratar a ameaça estabelecendo uma reserva de contingência, incluindo valores para tempo, dinheiro ou recursos para cuidar do risco, caso ocorra.  A estratégia empregada pelo gerente para lidar com a ameaça é do tipo:
+
+Alternativas:
+A. prevenir;
+B. escalar;
+C. mitigar;
+D. transferir;
+E. aceitar.

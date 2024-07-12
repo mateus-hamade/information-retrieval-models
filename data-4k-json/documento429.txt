@@ -1,0 +1,10 @@
+Banco de Dados Administração de banco de dados
+
+O MariaDB é um sistema de gerenciamento de banco de dados relacional de código aberto, que se originou como um fork do MySQL. Ele é compatível com a linguagem SQL e oferece recursos avançados, como alta performance, escalabilidade e segurança, sendo amplamente utilizado em aplicações web e empresariais. Ao criar um usuário no MariaDB, qual das seguintes opções permite definir privilégios para o usuário?  
+
+Alternativas:
+A. SETPERMISSIONS
+B. CREATE ROLE
+C. ALTER USER
+D. GRANTPRIVILEGES
+E. ADD USER PRIVILEGES

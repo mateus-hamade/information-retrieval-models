@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+O algoritmo de ordenação por intercalação faz uso de um paradigma também utilizado pelo algoritmo de ordenação quicksort e, embora ligeiramente diferentes, a estratégia é a mesma para ambos os algoritmos. Assinale a alternativa que apresenta corretamente o nome dessa estratégia de ordenação. 
+
+Alternativas:
+A. Equação de recorrência.
+B. Definição de pivô.
+C. Combinação.
+D. Dividir e conquistar.
+E. Árvore binária balanceada.

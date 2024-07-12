@@ -1,0 +1,10 @@
+Banco de Dados Álgebra relacional
+
+Qual das seguintes opções representa corretamente uma cardinalidade de "um para muitos" em um relacionamento entre duas tabelas?  
+
+Alternativas:
+A. (1, 1).
+B. (0, 1).
+C. (0, N).
+D. (1, N).
+E. (N, N).

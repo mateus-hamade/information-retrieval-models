@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Qual é a altura máxima de uma árvore vermelha e preta com N chaves?
+
+Alternativas:
+A. log(N)
+B. log(N) + 1
+C. 2log(N)
+D. 2log(N) + 1
+E. N/2

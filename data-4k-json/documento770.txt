@@ -1,0 +1,10 @@
+Banco de Dados Formas normais
+
+Qual é a finalidade da terceira forma normal (3NF) na normalização de um banco de dados? 
+
+Alternativas:
+A. Evitar a redundância de dados em uma tabela.
+B. Dividir uma tabela grande em tabelas menores e mais gerenciáveis.
+C. Garantir que cada tabela contenha apenas um tipo de informação.
+D. Garantir que todas as dependências funcionais estejam satisfeitas em uma tabela.
+E. Garantir que cada tabela contenha um único valor em cada célula.

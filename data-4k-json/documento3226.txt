@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Considere o algoritmo em pseudo linguagem:  início caracter: nome, sexo;       imprima (“Qual é o seu nome? ”);       leia(nome);       imprima (“Qual é o seu sexo? (f/m) ”);       leia (sexo);        se (sexo = ‘f’ E sexo = ‘F’)       então imprima (“Você é do sexo feminino. ”);       senão             se (sexo = ‘m’ E sexo = ‘M’)                   então imprima (“Você é do sexo masculino. ”);             senão                   imprima (“Você digitou um valor de sexo invalido ”);             fim se;       fim se; fim.  Sobre o algoritmo acima é correto afirmar que 
+
+Alternativas:
+A. a lógica do algoritmo está comprometida pela falta de um comando de repetição.
+B. em vez de utilizar comandos de decisão se aninhados, deveria ter sido usado um único comando de seleção múltipla, por isso a lógica ficou comprometida.
+C. se for digitada uma letra maiúscula ‘F’ ou minúscula ‘f’ será impresso Você é do sexo feminino.
+D. somente se a letra digitada para o sexo for diferente de ‘F’, ‘f’, ‘M’, ‘m’ é que a frase Você digitou um valor de sexo inválido será impressa.
+E. não importa o valor digitado no sexo, pois sempre será impresso Você digitou um valor de sexo inválido.

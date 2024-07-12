@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+Considere uma pilha de latas de sardinhas na prateleira de um supermercado.     Assinale a estrutura de dados que mais se assemelha ao modo como essas latas são manuseadas. 
+
+Alternativas:
+A. Array.
+B. Binary tree.
+C. Hashing.
+D. Linked list.
+E. Stack.

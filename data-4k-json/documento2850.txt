@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Na elaboração de algoritmos, uma outra forma de representação da  lógica de programação, sempre que for preciso  orientação  para  as  escolhas  quando  existem  situações  de  condições  no  algoritmo,  pode-se  utilizar  a  tabela  de  decisões, ou como é normalmente chamada, tabela verdade. A tabela verdade faz uso de operadores lógicos E, Ou e  Não,  que  podem  ser  utilizados  sozinhos  ou  em  conjunto  nas  estruturas  condicionais.  Analise  o  quadro  com os operadores lógicos em conjunto E e OU e complete a última coluna com a decisão.    A sequência está correta em 
+
+Alternativas:
+A. V, V, F, F, F, F, F.
+B. F, V, V, F, F, V, V.
+C. V, F, F, V, V, F, F.
+D. F, F, V, F, F, V, V.
+E. V, F, F, F, V, F, F.

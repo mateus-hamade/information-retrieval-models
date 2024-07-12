@@ -1,0 +1,10 @@
+Banco de Dados Data Mining
+
+Texto associado O fiscal de rendas Renan está explorando a base de dados sobre a situação fiscal de empresas que atuam no Rio de Janeiro, e encontrou os seguintes padrões:  • TIPO_EMPRESA ="MEI", RENDA _ANO= "NIVEL A",> QUANTIDADE_SOCIOS=1, SITUACAO_FISCAL="INADIMPLENTE" (suporte = 50%, confiança = 70%) • TIPO_EMPRESA="Simples", RENDA_ANO="NIVEL B"-> QUANTIDADE_SOCIOS= 2, SITUACAO_FISCAL="REGULAR" (suporte 30%, confiança = 80%)  A técnica de Mineração de dados que Renan aplicou para descobrir elementos que ocorrem em comum dentro de um determinado conjunto de dados foi:
+
+Alternativas:
+A. análise de cluster;
+B. modelos preditivos;
+C. árvores de decisão;
+D. regras de associação;
+E. técnicas de amostragem.

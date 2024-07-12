@@ -1,0 +1,10 @@
+Banco de Dados SQL , Banco de Dados Relacionais
+
+Considere o seguinte script SQL de um banco de dados relacional:              Assinale a consulta que imprime a descrição dos produtos que não são fornecidos por nenhum fornecedor  
+
+Alternativas:
+A. select produto.descricao from produto join fornecimento on produto.id != fornecimento.id_produto
+B. select produto.descricao from produto join fornecimento on produto.id = fornecimento.id_produto where id_fornecedor > all (select id from fornecedor)
+C. select produto.descricao from produto join fornecimento on produto.id = fornecimento.id_produto
+D. select produto.descricao from produto left join fornecimento on produto.id = fornecimento.id_produto where fornecimento.id_fornecedor is null
+E. select produto.descricao from produto right join fornecimento on produto.id = fornecimento.id_produto join fornecedor on fornecedor.id = fornecimento.id_fornecedor

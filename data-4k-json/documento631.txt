@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados
+
+Em relação aos conceitos de banco de dados, em qual tipo de banco as informações são organizadas em blocos de informações, classes, com identificadores e atributos?
+
+Alternativas:
+A. Relacional.
+B. Não relacional.
+C. Operacional.
+D. Distribuído.
+E. Orientado a objetos.

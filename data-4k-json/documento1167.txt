@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Grafos
+
+Em teoria dos grafos, um grafo conexo e acíclico é definido como: 
+
+Alternativas:
+A. desconexo.
+B. trivial
+C. ponte.
+D. árvore.

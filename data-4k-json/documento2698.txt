@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Busca
+
+Quando um arquivo sequencial está armazenado em um dispositivo de acesso direto (como um disco magnético), a consulta de um registro é feita de forma mais eficiente através do processo denominado de Pesquisa.
+
+Alternativas:
+A. Particionada.
+B. Binária.
+C. Randômica.
+D. Serial.
+E. Hierárquica.

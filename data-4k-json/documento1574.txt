@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Hashing
+
+A respeito de algoritmos de hash, julgue o item que se segue.       O uso de hashes na geração de assinaturas digitais garante a autenticidade, a confidencialidade e a integridade de uma informação.    
+
+Alternativas:
+A. Certo
+B. Errado

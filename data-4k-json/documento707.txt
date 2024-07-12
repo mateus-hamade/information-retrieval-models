@@ -1,0 +1,10 @@
+Banco de Dados SGBD - Sistema de Gerenciamento de Banco de Dados
+
+Em SGBDs relacionais, uma transação pode executar: 
+
+Alternativas:
+A. Somente uma operação de consulta, inserção, atualização ou exclusão.
+B. Várias operações de consulta, mas apenas uma operação de inserção, atualização ou exclusão.
+C. No máximo duas operações, sendo que uma delas deve ser de consulta.
+D. Somente uma operação de atualização ou exclusão, mas várias operações de consulta e inserção.
+E. Várias operações de consulta, inserção, atualização e exclusão.

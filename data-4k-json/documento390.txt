@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados Relacionais
+
+Considere:  I. Um relacionamento que necessita ser relacionado a outro relacionamento. II. Número (mínimo, máximo) de ocorrências de entidade associadas a uma ocorrência da entidade em questão através do relacionamento. III. A entidade somente pode existir quando relacionada à outra entidade. IV. Um relacionamento do tipo “produto compõe produto”. Em um Modelo Entidade Relacionamento (MER), I, II, III e IV são, respectivamente, representadas por: 
+
+Alternativas:
+A. entidade associativa, cardinalidade, entidade fraca, auto relacionamento.
+B. entidade associativa, entidade fraca, auto relacionamento, cardinalidade.
+C. auto relacionamento, cardinalidade, entidade fraca e entidade associativa.
+D. cardinalidade, auto relacionamento, cardinalidade e entidade fraca.
+E. entidade fraca, entidade associativa, auto relacionamento e cardinalidade.

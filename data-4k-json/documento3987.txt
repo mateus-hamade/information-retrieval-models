@@ -1,0 +1,10 @@
+Segurança da Informação Criptografia
+
+Um servidor público necessita enviar informações sigilosas sobre um projeto de pesquisa para os membros de sua equipe. Para evitar a interceptação e a leitura não autorizada dessas informações, o servidor protegeu os arquivos com criptografia assimétrica.  Um dos métodos criptográficos que pode ser utilizado na técnica de criptografia adotada é:
+
+Alternativas:
+A. IDEA;
+B. AES;
+C. MD5;
+D. Blowfish;
+E. RSA.

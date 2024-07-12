@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+Analise o trecho do algoritmo abaixo representado em português estruturado:         É correto afirmar que: 
+
+Alternativas:
+A. Trata-se do trecho de um algoritmo de pesquisa binária que só é possível ser empregada se os dados estiverem ordenados no sistema FIFO.
+B. Trata-se do trecho de um algoritmo de pesquisa sequencial que deve ter ordenado o vetor anteriormente para que pudesse ser empregada.
+C. Trata-se de um algoritmo de ordenação do tipo bubble sort onde é enviado ao fim da fila o maior elemento da lista.
+D. Trata-se de um trecho de algoritmo de pesquisa binária em um vetor que deve estar previamente ordenado em ordem crescente para seu emprego.
+E. Trata-se de um algoritmo de ordenação sequencial para que posteriormente seja possível pesquisar no vetor Nome.

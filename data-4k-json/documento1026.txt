@@ -1,0 +1,10 @@
+Banco de Dados OLAP (On-line Analytical Processing)
+
+O termo OLAP refere-se a um conjunto de ferramentas voltadas para acesso e análise ad hoc de dados, com o objetivo final de transformar dados em informações capazes de dar suporte as decisões gerenciais de forma amigável e flexível ao usuário e em tempo hábil. Uma das operações que deve estar presente em ferramentas OLAP é a drill Throught que ocorre
+
+Alternativas:
+A. quando o usuário pula um nível intermediário dentro de uma mesma dimensão. Por exemplo, a dimensão tempo é composta por ano, semestre, trimestre, mês e dia.
+B. quando o usuário passa de uma informação contida em uma dimensão para uma outra.
+C. quando o usuário aumenta o nível de detalhe da informação, diminuindo a granularidade (A granularidade determina quais os tipos de consultas podem ser feitas no DW).
+D. quando o usuário aumenta a granularidade, diminuindo o nível de detalhamento da informação.
+E. para modificar a posição de uma informação, trocar linhas por colunas de maneira a facilitar a compreensão dos usuários e girar o cubo sempre que tiver necessidade.

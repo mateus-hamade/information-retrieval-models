@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
+
+A pilha é uma estrutura de dados que permite a inserção e a remoção desses dados sempre por meio de regras predefinidas. Para que essas operações sejam realizadas, são utilizadas duas funções: push e pop. Com base nessa informação, considere que um programa possua uma pilha p, inicialmente vazia, e que as seguintes operações foram realizadas: PUSH(p, 10); PUSH(p, 5); PUSH(p, 3); PUSH(p, 50); POP(p); PUSH(p, 11); PUSH(p, 9); PUSH(p, 20); POP(p); POP(p).     Ao fim da execução desses comandos, quais serão o topo da pilha e o somatório dos elementos ainda dentro da pilha, respectivamente? 
+
+Alternativas:
+A. 50 e 68.
+B. 20 e 58.
+C. 11 e 29.
+D. 9 e 38.
+E. 3 e 29.

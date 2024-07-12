@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados Orientados a Objetos , Banco de Dados , Big Data
+
+Na implementação de sistemas de Big Data, é comum a utilização de tecnologias de Bancos de Dados NoSQL, que têm como característica principal não seguir ou ir além do Modelo Relacional e da linguagem SQL. Duas dessas tecnologias são os Bancos de Dados orientados a documentos e orientados a colunas, exemplificados, respectivamente, pelos softwares
+
+Alternativas:
+A. ArangoDB e MongoDB
+B. HBase e ArangoDB
+C. HBase e MongoDB
+D. MongoDB e ArangoDB
+E. MongoDB e HBase

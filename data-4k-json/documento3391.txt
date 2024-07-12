@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+O algoritmo abaixo é um algoritmo de ordenação:  proc insertionSort(int[] arr)       int tamanho <- tam(arr);       int i, j, aux;      para i de 1 incr 1 até tamanho-1 faça            aux <- arr[i];           para j de i-1 incr -1 até (j >= 0 e aux < arr[j]) faça                        arr[j+1] <- arr[j]; arr[j+1] <- aux;  
+
+Alternativas:
+A. por inserção.
+B. por troca.
+C. por seleção.
+D. QuickSort.
+E. BubbleSort.

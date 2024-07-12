@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Fluxogramas
+
+Considere o fluxograma a seguir.        A expressão lógica equivalente ao fluxograma, que executa a ação A é  
+
+Alternativas:
+A. (X NOT < 3) OR (Y NOT = 7) OR (Z NOT > 0) AND (X < 3) OR (Y NOT = 7) OR (Z NOT > 0)
+B. (X NOT < 3) AND (Y NOT = 7) AND (Z>0) OR (X <3) AND (Y NOT = 7) AND (Z NOT > 0) OR (X NOT < 3) AND (Y = 7 AND (Z NOT > 0)
+C. (X < 3) OR (Y NOT = 7) OR (Z NOT > 0)
+D. (X < 3) AND (Y = 7) AND (Z > 0) OR NOT( (X NOT < 3) AND (Y = 7) AND (Z > 0))
+E. NOT((X < 3) AND (Y = 7) AND (Z > 0)) (X < 3) AND (Y NOT = 7) AND (Z NOT > 0))

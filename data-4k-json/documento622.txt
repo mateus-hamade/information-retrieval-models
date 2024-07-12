@@ -1,0 +1,10 @@
+Banco de Dados Sistemas de Informações Gerenciais (SIG)
+
+A respeito do SIG, marcar C para as afirmativas Certas, E para as Erradas e, após, assinalar a alternativa que apresenta a sequência CORRETA: (_) O primeiro sistema a reunir as características de um SIG foi implementado no Canadá. (_) Seu desenvolvimento começou em meados da década de 1980. (_) Pode ser definido como um sistema destinado à aquisição, ao armazenamento, à manipulação, à análise, à simulação, à modelagem e à apresentação de dados. (_) O manejo de dados espaciais requer instrumentos especializados e complexos para obter, armazenar, recuperar e apresentar as informações. (_) Possibilita integrar, em uma única base de dados, informações representando um único aspecto do estudo de uma região.
+
+Alternativas:
+A. C - E - C - C - E.
+B. E - C - E - E - C.
+C. C - C - E - C - E.
+D. E - E - E - C - E.
+E. C - C - E - E - E.

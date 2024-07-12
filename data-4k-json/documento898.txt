@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+Quais caracteres são caracteres de comentários de múltiplas linhas em SQL? Considere o caractere ou conjunto de caracteres inicial(is), o texto em múltiplas linhas representado por e o caractere ou conjunto de caracteres final(is).
+
+Alternativas:
+A. ... –
+B. < ... >
+C. /* ... */
+D. <! ... !>
+E. <- ... ->

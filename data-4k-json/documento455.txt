@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+A realização de várias operações SQL simultâneas pode ser uma realidade frequente a depender da complexidade do sistema. Nesse caso, é fortemente recomendado o uso de transações SQL. Qual das seguintes afirmações é verdadeira sobre transações SQL?
+
+Alternativas:
+A. O uso de transações possibilita o gerenciamento de acesso simultâneo de várias transações aos dados, evitando conflitos e garantindo a integridade.
+B. O comando COMMIT é usado para encerrar uma transação, sendo as alterações desfeitas apenas em caso de falha.
+C. O aninhamento de transações não é permitido, pois as alterações internas são ocultas e independentes da transação principal.
+D. ROLLBACK é usado para encerrar uma transação, confirmando as alterações feitas em uma transação.
+E. A atomicidade garante que o banco de dados permaneça em um estado consistente, respeitando restrições e integridade de dados.

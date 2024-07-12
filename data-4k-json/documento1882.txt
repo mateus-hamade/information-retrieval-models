@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Fluxogramas
+
+Um programa tem uma tabela de 6 posições (numeradas de 1 a 6), conforme ilustra o exemplo no diagrama abaixo.                                                                  TAB   45   3   689   27   183   12                                                             Posição  1      2      3      4        5        6    O fluxograma a seguir faz operações sobre essa tabela; uma das operações é ler um valor do teclado.   Assinale a alternativa que descreve o que faz o fluxograma e como fica a tabela após serem executados os passos do fluxograma.  
+
+Alternativas:
+A. Desloca progressivamente o conteúdo de todas as posições (conteúdo da posição 1 vai para 2, da 2 para 3 e assim sucessivamente), descartando o valor da posição 6; coloca o valor lido pelo teclado na posição 1.
+B. Desloca progressivamente o conteúdo de todas as posições (conteúdo da posição 1 vai para 2, da 2 para 3 e assim sucessivamente), descartando o valor da posição 1; coloca o valor lido pelo teclado na posição 6.
+C. Desloca regressivamente o conteúdo de todas as posições (conteúdo da posição 6 vai para 5, da 5 para 4 e assim sucessivamente), descartando o valor da posição 1; coloca o valor lido pelo teclado na posição 6.
+D. Desloca regressivamente o conteúdo de todas as posições (conteúdo da posição 6 vai para 5, da 5 para 4 e assim sucessivamente), descartando o valor da posição 6; coloca o valor lido pelo teclado na posição 1.
+E. Todas as posições ficam iguais ao valor da posição 1; coloca o valor lido pelo teclado na posição 1.

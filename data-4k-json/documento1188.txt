@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Fluxogramas
+
+Julgue o item a seguir.       Os fluxogramas são ferramentas gráficas utilizadas no desenvolvimento de algoritmos para representar visualmente o processo de execução de um código. Eles são amplamente adotados devido à sua capacidade de oferecer uma visualização clara dos passos de um processo, sendo assim mais facilmente compreendidos por diferentes profissionais, inclusive aqueles fora da área de programação.   
+
+Alternativas:
+A. Certo
+B. Errado

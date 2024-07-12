@@ -1,0 +1,9 @@
+Arquitetura de Computadores Arquiteturas
+
+Qual é a principal função do UEFI (Unified Extensible Firmware Interface) em sistemas computacionais modernos?
+
+Alternativas:
+A. Gerenciar a comunicação entre dispositivos periféricos e o sistema operacional
+B. Substituir o BIOS (Basic Input/Output System) como interface de firmware padrão
+C. Criptografar dados armazenados no disco rígido para garantir a segurança do sistema
+D. Otimizar o desempenho da CPU por meio de algoritmos avançados de escalonamento

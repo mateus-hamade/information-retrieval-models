@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados Relacionais
+
+Assinale a alternativa que apresenta a representação correta do relacionamento, em um banco de dados relacional, para a seguinte regra: um fisioterapeuta pode atender a vários pacientes e um paciente pode ser atendido por vários fisioterapeutas.
+
+Alternativas:
+A. 1:n
+B. n:n
+C. n:1
+D. 1:1
+E. 0:1

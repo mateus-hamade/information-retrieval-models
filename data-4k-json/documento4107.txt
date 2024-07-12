@@ -1,0 +1,9 @@
+Segurança da Informação Malware
+
+Uma das formas de prevenir malwares é por meio da utilização de programas de antivírus atualizados para escanear, identificar e remover ameaças de malware de sistemas e redes. Assinalar a alternativa que apresenta dois softwares antivírus que podem ser utilizados para tal finalidade. 
+
+Alternativas:
+A. Avast Antivírus e Salesforce Antivírus.
+B. Avast Antivírus e AVG Antivirus.
+C. AVG Antivirus e QuickBooks Antivirus.
+D. Salesforce Antivírus e Kaspersky Antivirus.

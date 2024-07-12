@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Sabe-se que a Árvore é uma das mais importantes classes de estruturas de dados em computação e que a linha que liga dois Nós ou Nodos de uma Árvore é denominada: 
+
+Alternativas:
+A. Aresta
+B. Quina ou Extremo
+C. Raiz
+D. Folha
+E. Galho

@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Filas , Listas ( assuntos)
+
+Selecione a alternativa que tenha uma estrutura de dados baseado no princípio LIFO (Last in, First Out):
+
+Alternativas:
+A. pilha.
+B. fila.
+C. lista.
+D. array.

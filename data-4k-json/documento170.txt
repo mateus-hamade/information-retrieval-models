@@ -1,0 +1,9 @@
+Banco de Dados Conceitos Básicos em Banco de Dados , Banco de Dados
+
+Dentro de um sistema de gerenciamento de banco de dados (SGBD), as transações são definidas como processo e englobam vários passos em uma única operação, além de levar o banco de dados de um estado coerente para outro igualmente coerente. Para que isso ocorra, deve ser garantido que uma transação execute por inteiro ou não execute. Este conceito está relacionado a(à): 
+
+Alternativas:
+A. atomicidade.
+B. isolamento.
+C. velocidade.
+D. durabilidade.

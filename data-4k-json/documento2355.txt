@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Filas
+
+Dispõe-se de uma estrutura de dados com 6 elementos já inseridos, conforme abaixo.        Após, inserem-se dois elementos (G e H), resultando como abaixo.        A estrutura de dados que insere dados, conforme indicado acima, é  
+
+Alternativas:
+A. uma pilha.
+B. um deque.
+C. uma lista duplamente encadeada.
+D. uma lista invertida.
+E. uma fila.

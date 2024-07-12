@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Analise a seguinte representação de estrutura de dados.    Essa estrutura é denominada
+
+Alternativas:
+A. Árvore Binária.
+B. Árvore Quaternária.
+C. Grafo Cíclico Completo.
+D. Grafo Direcionado.
+E. Pilha Invertida.

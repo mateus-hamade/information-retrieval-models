@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Julgue o item a seguir, relativos a lógica de programação.  Considere a situação a seguir. Um programa tem de correlacionar os nomes Ana, Maria e Simone aos sobrenomes Costa, Oliveira e Santos, não necessariamente nessa ordem. A mulher de sobrenome Costa, que não é Ana, tem mais idade do que Simone, e a mulher de sobrenome Santos tem o dobro da idade das outras duas.Nessa situação, se uma lógica de programação for executada de forma adequada, os sobrenomes corretos de Ana, Maria e Simone serão, respectivamente, Oliveira, Costa e Santos.
+
+Alternativas:
+A. Certo
+B. Errado

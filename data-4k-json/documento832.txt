@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+As permissões para acesso às estruturas e operações em um banco de dados são concedidas através do comando SQL GRANT. Considere o seguinte comando SQL: GRANT ALL PRIVILEGES ON BUSINESS TO PEOPLE Sobre esse comando SQL, analise as assertivas abaixo e assinale a alternativa correta. I. PEOPLE pode ser um usuário ou uma ROLE. II. O usuário poderá conceder seus privilégios sobre a tabela BUSINESS a outros usuários. III. O usuário poderá fazer operações de INSERT, UPDATE ou DELETE na tabela BUSINESS. IV. O usuário poderá criar uma TRIGGER sobre a tabela BUSINESS.
+
+Alternativas:
+A. Todas estão corretas.
+B. Todas estão incorretas.
+C. Apenas II e III estão corretas.
+D. Apenas III e IV estão corretas.
+E. Apenas I, III e IV estão corretas.

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Considere o algoritmo em pseudocódigo abaixo.     De acordo com os fundamentos da aritmética computacional e com o pseudocódigo acima,  
+
+Alternativas:
+A. a conversão de números decimais negativos para binários também é realizada de forma correta pelo algoritmo.
+B. o número de dígitos em hexadecimal necessários para representar o binário resultante corresponde ao número de vezes que o comando enquanto é executado.
+C. mod indica o quociente e div indica o resto da divisão de numero por 2.
+D. ao ser transcrito para uma linguagem de programação sem alteração na lógica do algoritmo, poderão ocorrer erros na conversão de números decimais para binários.
+E. para fazer a conversão do binário resultante para seu correspondente negativo basta utilizar o comando binario ← binario * -1.

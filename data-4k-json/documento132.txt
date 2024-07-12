@@ -1,0 +1,9 @@
+Banco de Dados Gerência de Transações , Gatilhos (Triggers) , MySQL
+
+Num comando de criação de um trigger no MySQL, nas recentes edições, há um conjunto de elementos sintáticos que podem ser utilizados para determinar quando os procedimentos devem ser acionados e quais são esses procedimentos. As possíveis combinações de “quando x procedimento” válidas para triggers de transações são:
+
+Alternativas:
+A. AFTER/BEFORE combinados com ELETE/INSERT/UPDATE
+B. CREATION/REMOTION combinados com READ/WRITE
+C. IN/OUT combinados com CREATION/REMOTION
+D. INIT/END combinados com INPUT/OUTPUT

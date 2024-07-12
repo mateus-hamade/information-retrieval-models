@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Considere uma estrutura de dados do tipo árvore conforme figura a seguir:     Ao se aplicar na árvore acima o algoritmo de travessia Pré-Ordem, a partir da raiz, a ordem de visita dos nós será o descrito na alternativa: 
+
+Alternativas:
+A. 0 1 2 3 4 5 6 7
+B. 2 3 4 1 6 7 0 5
+C. 0 1 5 2 3 4 6 7
+D. 2 3 4 6 7 1 5 0
+E. 2 3 1 4 0 5 6 7

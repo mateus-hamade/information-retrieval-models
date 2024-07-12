@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Estrutura de Controle e Repetição
+
+No seguinte pseudocódigo, que contem uma seguinte estrutura de repetição, diga qual o valor final da variavel X:  
+
+Alternativas:
+A. 9
+B. 10
+C. 11
+D. 0
+E. Indefinido.

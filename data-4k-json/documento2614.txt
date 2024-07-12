@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Listas , Pilhas
+
+Atualmente quase todas as profissões interagem com o computador. A administração, por exemplo, utiliza muitas planilhas Excel com macros. A Biologia por outro lado trabalha com simuladores para criar novas molecas. Esses são apenas alguns exemplos de como o computador está derrubando barreiras e levando conhecimento e inovação tecnológica para todos os setores da sociedade. Grande parte desse avanço se deve também da utilização de algoritmos e estruturas de dados por parte dos profissionais de informática. A respeito dos algoritmos e da estrutura de dados, assinale a alternativa correta: 
+
+Alternativas:
+A. Uma pilha é uma estrutura de dados em que a inserção de um novo item se dá na base e a remoção de um item já existente se dá na outra extremidade, ou seja, no topo.
+B. Em uma árvore binária, os elementos à direita da raiz possuem chaves menores ou iguais à raiz.
+C. Uma lista possui a mesma funcionalidade de uma pilha. A diferença é que, na lista, a inserção e a remoção ocorrem na mesma extremidade.
+D. Deque é um caso particular de lista em que as inserções e remoções são permitidas apenas nas extremidades.
+E. Toda árvore binária com n nós possui exatamente n+2 sub-árvores vazias entre suas sub-árvores direitas e esquerdas.

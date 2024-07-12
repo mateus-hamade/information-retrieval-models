@@ -1,0 +1,9 @@
+Banco de Dados Conceitos Básicos em Banco de Dados , Banco de Dados
+
+Considere o diagrama relacional a seguir, no qual descreve um banco de dados construído para uma agência de publicidade:   Assinale a alternativa que traz uma afirmação CORRETA acerca do esquema apresentado. 
+
+Alternativas:
+A. Observando o modelo, é possível concluir que um único trabalho está relacionado a um único funcionário e vice-versa.
+B. A tabela “TrabalhoFuncionario” está representada incorretamente, pois não é possível ter duas chaves primárias em uma mesma tabela.
+C. Para agilizar as consultas ligadas às restrições de integridade referencial que envolvem o campo matrícula da tabela “Funcionario”, recomenda-se o uso de relacionamento do tipo herança.
+D. O diagrama informa que um único trabalho pode ter vários funcionários, além de que um único funcionário pode fazer parte de vários trabalhos.

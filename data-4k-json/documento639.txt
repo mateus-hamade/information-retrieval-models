@@ -1,0 +1,10 @@
+Banco de Dados Gerência de Transações
+
+Qual das seguintes técnicas de tolerância a falhas em sistemas distribuídos ajuda a proteger informações sensíveis por meio da codificação dos dados?
+
+Alternativas:
+A. Detecção de erros.
+B. Segurança de hardware.
+C. Backup de dados centralizado.
+D. Criptografia de dados.
+E. Controle de acesso ao software.

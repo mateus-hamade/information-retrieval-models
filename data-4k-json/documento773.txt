@@ -1,0 +1,10 @@
+Banco de Dados Métodos de acesso
+
+Qual das seguintes opções é um exemplo de implementação de acesso sequencial indexado?
+
+Alternativas:
+A. Hashing Extensível.
+B. Árvore B+.
+C. Índice primário denso.
+D. Índice secundário espesso.
+E. Espaço de endereçamento linear.

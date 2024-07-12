@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Considere uma estrutura de dados T como sendo uma árvore binária do tipo AVL. Como característica, essa estrutura de dados é uma árvore binária
+
+Alternativas:
+A. balanceada, em que, para qualquer nó de T, as alturas de suas duas subárvores (esquerda e direita) diferem de até uma unidade.
+B. balanceada, em que, para qualquer nó de T, as alturas de suas duas subárvores (esquerda e direita) são sempre idênticas.
+C. não balanceada, em que, para qualquer nó de T, as alturas de suas duas subárvores (esquerda e direita) diferem de até uma unidade.
+D. não balanceada, em que, para qualquer nó de T, as alturas de suas duas subárvores (esquerda e direita) são sempre idênticas.
+E. não balanceada, em que, para qualquer nó de T, as alturas de suas duas subárvores (esquerda e direita) diferem exatamente de uma unidade.

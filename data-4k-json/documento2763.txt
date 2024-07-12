@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Com relação à lógica de programação, julgue o próximo item.  O valor da variável e no fim da execução do seguinte algoritmo será 143.   var       a, b, c, d, e: Integer;  begin      a := 0;      b := 1;      e := a+b;      for c := 3 to 11 do      begin          e := e + (a + b);          d := a;          a := b;          b := b + d;    end;  end.  
+
+Alternativas:
+A. Certo
+B. Errado

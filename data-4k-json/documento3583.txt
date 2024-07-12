@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Vetores
+
+Texto associado Um array é um conjunto de elementos de tipos homogêneos, ou seja, todos os seus elementos são do mesmo tipo de dados. Uma estrutura, ou registro, é um conjunto de elementos heterogêneos, porque seus elementos não são obrigatoriamente do mesmo tipo de dados. 
+
+Alternativas:
+A. Certo
+B. Errado

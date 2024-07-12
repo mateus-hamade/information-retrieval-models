@@ -1,0 +1,10 @@
+Banco de Dados Oracle
+
+Considerando um banco de dados Oracle 19 aberto e funcionando em condições ideais, uma Analista foi solicitada a remover o tablespace tbs_trt18a, eliminando todas as restrições de integridade referencial que se referem às chaves primárias e únicas dentro de tbs_trt18a. Tendo os privilégios para tal ação, ela utilizou o comando: 
+
+Alternativas:
+A. DROP TABLESPACE tbs_trt18a REMOVING CONSTRAINTS KEEPING CONTENTS AND DATAFILES;
+B. DELETE TABLESPACE tbs_trt18a INCLUDING CONTENTS AND CONSTRAINTS;
+C. DROP TABLESPACE tbs_trt18a WITH CONTENTS AND CONSTRAINTS ON CASCADE;
+D. DROP TABLESPACE tbs_trt18a INCLUDING CONTENTS CASCADE CONSTRAINTS;
+E. DELETE TABLESPACE tbs_trt18a ADDING CONTENTS ON CASCADE CONSTRAINTS;

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Matrizes em Estrutura de Dados
+
+É uma variável composta, homogênea e multidimensional. Ela é formada por uma sequência de variáveis, todas do mesmo tipo, com o mesmo identificador (mesmo nome) e alocadas sequencialmente na memória. Uma vez que as variáveis têm o mesmo nome, o que as distingue são índices que referenciam sua localização dentro da estrutura. Uma variável dessa estrutura precisa de um índice para cada uma de suas dimensões. Assinale a alternativa que apresenta a estrutura de dados descrita no texto acima.
+
+Alternativas:
+A. lista linear
+B. arquivo
+C. registro
+D. matriz
+E. vetor

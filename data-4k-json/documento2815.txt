@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Vetores
+
+Considere o seguinte vetor:   [45, 58, 86, 104, 134, 250, 315, 367, 408, 410, 502, 510, 600, 785, 846, 901]   Utilizando-se uma pesquisa binária, o número máximo de buscas para encontrar a chave 600 será:   
+
+Alternativas:
+A. 5 acessos.
+B. 10 acessos.
+C. 4 acessos.
+D. 13 acessos.
+E. 3 acessos.

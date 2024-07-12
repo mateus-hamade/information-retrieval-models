@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
+
+O script a seguir foi executado duas vezes por um usuário.  !/bin/bash touch text.txt cat text.txt echo "# Este é um comentário" >> text.txt exit  Após a segunda execução, ao abrirmos o arquivo text.txt, ele
+
+Alternativas:
+A. conterá a linha "# Este é um comentário", apenas.
+B. conterá duas linhas, a primeira em branco e a segunda com "# Este é um comentário".
+C. conterá duas linhas, ambas com "# Este é um comentário".
+D. conterá uma linha “# Este é um comentário” seguida de uma linha em branco.
+E. estará vazio.

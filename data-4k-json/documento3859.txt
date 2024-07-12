@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Questão anulada  No que diz respeito a algoritmos e linguagens de programação, analise as afirmações a seguir.     1) É possível substituir comandos de condição (IF) por apenas comandos de repetição (WHILE) com as devidas no código.  2) A sequência de execução das instruções do algoritmo não tem importância, desde que todas sejam executadas em algum momento.  3) Um algoritmo não representa um programa de computador, e pode ser essencialmente executado por um ser humano se este tiver disponível tempo e memória suficientes.     Está(ão) correta(s), apenas: 
+
+Alternativas:
+A. 1.
+B. 2
+C. 1 e 2.
+D. 1 e 3.
+E. 3.

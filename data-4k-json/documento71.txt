@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados
+
+Os tipos de dados são uma parte fundamental da tecnologia da informação. Eles são a base de todas as informações digitais e são essenciais para a análise, o processamento e o armazenamento de dados. Assim sendo é CORRETA a afirmação indicada na opção.
+
+Alternativas:
+A. São exemplos de dados semiestruturados incluem e-mails, documentos, páginas da web, feeds de mídia social, arquivos de imagem e de áudio.
+B. Os dados estruturados não seguem uma estrutura rígida, mas eles têm um formato predefinido que permite a consulta e análise.
+C. Os dados semiestruturados são mais desafiadores para consultar e analisar, pois, geralmente, requerem técnicas mais avançadas de processamento de linguagem natural e inteligência artificial.
+D. Uma das principais vantagens dos dados estruturados é que eles podem ser facilmente consultados e analisados por meio de consultas SQL.
+E. Os dados não estruturados são geralmente armazenados em formatos como XML, JSON e YAML.

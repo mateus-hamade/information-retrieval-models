@@ -1,0 +1,10 @@
+Banco de Dados DER - Diagrama de Entidade e Relacionamento
+
+Qual a finalidade do modelo Entidade-Relacionamento Estendido (EER)? 
+
+Alternativas:
+A. Representar relacionamentos n-ários.
+B. Representar herança entre entidades.
+C. Representar relações reflexivas.
+D. Representar dependências funcionais entre atributos.
+E. Representar subtipos de entidades e suas especializações.

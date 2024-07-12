@@ -1,0 +1,10 @@
+Segurança da Informação Criptografia
+
+Na disciplina de criptografia, a proteção das informações trafegadas está relacionada ao conceito de 
+
+Alternativas:
+A. autenticação.
+B. confidencialidade dos dados.
+C. integridade dos dados.
+D. controle de acesso.
+E. irretratabilidade.

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+Ana precisa utilizar uma estrutura de dados para gerenciar trabalhos de impressão em uma impressora compartilhada por vários computadores em uma rede. As regras dessa estrutura devem permitir que os trabalhos sejam impressos na ordem em que forem enviados, ou seja, o primeiro a enviar um pedido de impressão deve ser o primeiro a ter sua solicitação atendida. Não deve ser permitido inserir pedidos de impressão no meio dos pedidos já realizados.  A estrutura de dados mais adequada para Ana utilizar é  
+
+Alternativas:
+A. pilha.
+B. lista encadeada ordenada.
+C. árvore binária.
+D. tabela hash.
+E. fila.

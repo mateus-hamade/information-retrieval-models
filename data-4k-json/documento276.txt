@@ -1,0 +1,10 @@
+Banco de Dados Recuperação de falhas
+
+Com relação à tolerância a falhas, avalie se as afirmativas a seguir são verdadeiras (V) ou falsas (F).  ( ) A tolerância a falhas é a capacidade de um sistema de continuar funcionando mesmo quando ocorrem falhas em seus componentes.  ( ) A redundância é uma técnica comum usada para aumentar a tolerância a falhas em sistemas críticos.  ( ) A tolerância a falhas é uma técnica que garante que um sistema nunca falhe.  As afirmativas são, respectivamente,
+
+Alternativas:
+A. F – V – F.
+B. V – V – F.
+C. F – F – V.
+D. V – F – F.
+E. V – V – V.

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Vetores
+
+Considere o problema de pesquisar por um número em um array ordenado contendo dez números. Se for utilizado o método da pesquisa binária, qual é o menor número de comparações que permite concluir que um número não está presente no array?
+
+Alternativas:
+A. 4
+B. 5
+C. 2
+D. 3
+E. 6

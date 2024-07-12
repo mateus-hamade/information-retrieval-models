@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
+
+Em estruturas de dados e algoritmos, encontramos uma estrutura chamada Pilha. A esse respeito, analise as assertivas e assinale a alternativa que aponta as corretas.  I. Uma Pilha é um contêiner de objetos que são inseridos e retirados de acordo com o princípio de que “o último que entra é o primeiro que sai” (LIFO).  II. Exemplo de implementação de uma pilha pode ser os navegadores para a Internet que armazenam os endereços mais recentemente visitados em uma pilha.  III. Pilhas são estruturas de dados muito complexas, porém não estão entre as mais importantes.  IV. É impossível inserir objetos em uma pilha a qualquer momento, mas somente o objeto recentemente inserido poderá ser removido a qualquer momento. 
+
+Alternativas:
+A. Apenas I e II.
+B. Apenas I e III.
+C. Apenas II e III.
+D. Apenas II, III e IV.
+E. I, II, III e IV.

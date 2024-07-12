@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+1. var 2. valores: vetor [1..5] de inteiro 3. resultado, x: real 4. 5. inicio 6. para i de 1 ate 5 faca 7. leia(valores) 8. x<- x + valores 9. fimpara 10. resultado <- x / 5 11. escreva("Resultado: ", resultado) 12. fimalgoritmo O resultado da lógica dos algoritmos precedente é a 
+
+Alternativas:
+A. média dos valores da matriz vetor.
+B. soma dos valores de 1 a 5, ou seja, 15.
+C. média dos valores de 1 a 5, ou seja, 3.
+D. soma dos valores da matriz vetor.
+E. ordenação dos valores de 1 a 5.

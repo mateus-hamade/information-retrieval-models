@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+Com relação às estruturas de informação e às operações associadas a cada tipo de estrutura, assinale a opção correta.  
+
+Alternativas:
+A. Dequeue( ) e enqueue(x) são exemplos de métodos em árvores.
+B. Root( ) e front( ) são exemplos de métodos em grafos.
+C. GetLast( ) e Parent( ) são exemplos de métodos em deques.
+D. AddFirst( ) e Edges( ) são exemplos de métodos em filas.
+E. Push(x) e Pop( ) são exemplos de métodos em pilhas.

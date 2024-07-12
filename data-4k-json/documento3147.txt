@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+Texto associado Existem duas formas de representar o armazenamento de dados estruturados: a sequencial, que é utilizada para estruturas de tamanho fixo, como arrays, e a encadeada, que é utilizada para estruturas de tamanho variado, como listas, pilhas e vetores.
+
+Alternativas:
+A. Certo
+B. Errado

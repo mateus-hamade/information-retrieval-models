@@ -1,0 +1,9 @@
+Banco de Dados MySQL
+
+Qual seria a sintaxe básica para criação de um novo usuário no MYSQL utilizando a linha de comando? 
+
+Alternativas:
+A. CREATE NEW USER <nome do usuário> PASSWORD <senha>;
+B. CREATE NEW USER <nome do usuário> IDENTIFIED BY <senha>;
+C. CREATE USER <nome do usuário> IDENTIFIED BY <senha>;
+D. CREATE USER <nome do usuário> PASSWORD <senha>;

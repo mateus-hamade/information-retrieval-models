@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+Texto associado  Com referência à tabela R1 descrita anteriormente, analise o comando SQL a seguir.     select * from R1 x, R1 y  where x.A > y.A and x.B = y.B     O número de linhas produzidas pela execução desse comando, sem contar a linha de títulos, é:   
+
+Alternativas:
+A. 0;
+B. 1;
+C. 2;
+D. 3
+E. 4

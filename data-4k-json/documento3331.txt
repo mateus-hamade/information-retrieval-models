@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Hashing
+
+A busca que utiliza uma tabela hash realiza comparação das chaves para encontrar a posição do elemento que está sendo buscado.  
+
+Alternativas:
+A. Certo
+B. Errado

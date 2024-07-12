@@ -1,0 +1,9 @@
+Banco de Dados Banco de Dados Relacionais
+
+Sistemas que se utilizam da estrutura de um banco de dados relacional, em sua concepção, devem ter o que se chama de normalização. A literatura vigente aponta 1FN, 2FN, 3FN e 4FN. A forma que implementa uma forma de verificação de dependência funcional Multivalorada é a:
+
+Alternativas:
+A. Quarta Forma Normal
+B. Segunda Forma Normal
+C. Terceira Forma Normal
+D. Primeira Forma Normal

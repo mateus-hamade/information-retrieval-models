@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Listas , Vetores
+
+A tabela a seguir deve ilustrar uma lista duplamente encadeada de cores, estruturada sobre os cinco elementos de um vetor.                                  Dado que a ordem correta das cores é Marrom-Verde-Azul-Vermelho-Amarelo, a coluna Cor, na tabela acima, deveria apresentar, de cima para baixo, os seguintes valores:  
+
+Alternativas:
+A. Marrom-Vermelho-Amarelo-Azul-Verde;
+B. Azul-Marrom-Verde-Vermelho-Amarelo;
+C. Amarelo-Azul-Marrom-Vermelho-Verde;
+D. Azul-Vermelho-Amarelo-Verde-Marrom;
+E. Verde-Azul-Vermelho-Marrom-Amarelo.

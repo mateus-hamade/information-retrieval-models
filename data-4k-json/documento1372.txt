@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Matrizes em Estrutura de Dados
+
+Maria treinou um classificador que distingue fotos de maças e laranjas. Após testar o classificador com uma amostra de 160 fotos, obteve a matriz de confusão a seguir.      Com base neste resultado, é correto afirmar que a acurácia deste classificador é 
+
+Alternativas:
+A. 0,075.
+B. 0,325.
+C. 0,675.
+D. 0,925.
+E. 0,982.

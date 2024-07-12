@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Grafos
+
+Texto associado  Considerando a terminologia e os conceitos básicos de grafos, julgue o item a seguir, relativo ao grafo precedente.     Os vértices A, B, C, D, J, K, L, M têm graus iguais, respectivamente, a 2, 4, 3, 2, 2, 2, 3, 2.  
+
+Alternativas:
+A. Certo
+B. Errado

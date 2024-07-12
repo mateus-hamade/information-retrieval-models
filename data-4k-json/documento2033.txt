@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Observe o algoritmo, a seguir, que utiliza procedimentos com passagem de parâmetros por valor e por referência.  Após a execução, serão impressos para NR, BC e JS, respectivamente, os seguintes valores:  
+
+Alternativas:
+A. 2018, VERDADEIRO e JOÃO_PESSOA
+B. 2017, FALSO e CAMPINA_GRANDE
+C. 2018, VERDADEIRO e CAMPINA_GRANDE
+D. 2017, FALSO e JOÃO_PESSOA
+E. 2018, FALSO e CAMPINA_GRANDE

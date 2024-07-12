@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Um analista especificou os dados que devem constar de um pedido de cliente. Um item de pedido (P) deve conter o nome do cliente (N), seu CGC (opcional), a data do pedido e uma lista de itens, contendo pelo menos um item. Cada item da lista deve conter obrigatoriamente o código do produto (CP) ,sua quantidade (Q) e seu preço unitário (PU).  A descrição formal de um pedido é:
+
+Alternativas:
+A. P = N + (CGC) + 1{CP+Q+PU}
+B. P = N + {CGC} +1(CP+Q+PU)
+C. P = N + CGC + *{CP+Q+PU}
+D. P = {N+ CGC + (CP+Q+PU)}
+E. P = {CGC} + N{CP+Q+PU}

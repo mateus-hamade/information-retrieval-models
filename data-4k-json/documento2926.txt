@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Filas , Pilhas
+
+Observe  as figuras I e II,  que  representam  duas  estruturas  de dados.                                          Essas estruturas de dados são denominadas respectivamente:
+
+Alternativas:
+A. fila e lista.
+B. fila e pilha.
+C. fila e vetor
+D. vetore lista.
+E. vetore pilha.

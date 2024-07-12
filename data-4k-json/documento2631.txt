@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Texto associado A execução de Chamada_recursiva ( 1 ) faz com que o algoritmo rode indefinidamente. Para este caso, os cinco primeiros valores impressos são 
+
+Alternativas:
+A. 1, 0, 3, 1 e 0.
+B. 1, 0, 3, 1 e 2.
+C. 1, 0, 3, 2 e 0.
+D. 1, 0, 3, 2 e 3.
+E. 1, 0, 3, 2 e 1.

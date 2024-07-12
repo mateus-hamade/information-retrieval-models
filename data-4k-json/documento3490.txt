@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Assinale a opção que apresenta a estrutura do tipo árvore, na qual o grau de cada nó é menor ou igual a dois.
+
+Alternativas:
+A. Árvore alinhada
+B. Árvore amarrada
+C. Árvore binária
+D. Árvore dupla

@@ -1,0 +1,10 @@
+Banco de Dados Conceitos Básicos em Banco de Dados , Administração de banco de dados
+
+Em um sistema de banco de dados, _______________ é um conjunto de permissões pré-definidas que pode ser assinalado a um usuário em um banco de dados. Assinale a alternativa que preenche corretamente a lacuna do trecho acima. 
+
+Alternativas:
+A. política de senha
+B. perfil de acesso
+C. controle de acesso
+D. autenticador
+E. back-up

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
+
+programa principal inteiro i, contagem = 10, limite = 10; para (i = 0; i > limite; i = i + 1) faça contagem = contagem – 1; fim para imprime(contagem); fim programa  Com base no algoritmo precedente, escrito em pseudocódigo, assinale a opção que corresponde ao tipo de estrutura em que se realiza o decréscimo da variável contagem.
+
+Alternativas:
+A. estrutura de controle
+B. estrutura de repetição
+C. estrutura condicional
+D. atributo
+E. função

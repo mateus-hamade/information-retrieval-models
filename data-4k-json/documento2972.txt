@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Ao entrevistar um conjunto de usuários, uma analista de sistemas coletou os seguintes requisitos:  Os atendentes podem cadastrar, atualizar e excluir pedidos. Todos os pedidos são cadastrados com o status “aberto”. O status de um pedido é único e corresponde à situação em que ele se encontra a cada momento. Após ter suas informações completamente fornecidas, um pedido é passado para o departamento de ativação, que muda seu status para “ativando” e muda, posteriormente, para “atendido” quando o atendimento se encerra. Uma vez que um pedido não está mais em aberto, ele não pode ser modificado para atender a solicitações externas. Sobre um mesmo pedido, considere as seguintes proposições e seu significado pretendido:  P: o pedido está em aberto. Q: o pedido está ativando. R: o pedido está atendido. M: o pedido pode ser modificado.  Para os requisitos descritos, vale a seguinte fórmula da lógica proposicional:
+
+Alternativas:
+A. M → Q
+B. M → R
+C. M → P
+D. P → ¬M
+E. P → Q → R

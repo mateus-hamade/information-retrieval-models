@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Considere a árvore balanceada AVL abaixo:        Caso seja inserido o elemento 20 e as operações de balanceamento sejam realizadas, caso necessário. Realizando o percurso na árvore em in-ordem, qual é a sequência de visita dos nós?  
+
+Alternativas:
+A. 7, 15, 20, 22, 30, 45
+B. 7, 20, 15, 22, 30, 45
+C. 7, 22, 15, 45, 30, 20
+D. 22, 15, 7, 30, 20, 45
+E. 22, 20, 15, 7, 45, 30

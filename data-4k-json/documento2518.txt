@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Texto associado Para o mesmo algoritmo, caso os valores lidos para m e n tenham sido, respectivamente, 10 e 6, o valor de a ao término da execução do programa será:
+
+Alternativas:
+A. 12
+B. 20
+C. 24
+D. 32
+E. 40

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos
+
+Assinale a alternativa correta sobre o funcionamento do algoritmo de Dijkstra, um algoritmo de caminho mínimo usado em grafos.
+
+Alternativas:
+A. Vértice inicial e, em seguida, explora apenas os vizinhos principais apenas, diminuindo o custo para alcançar cada um deles.
+B. Inicia com vários vértices, depois, explora cada um dos vizinhos, atualizando o custo por etapas para alcançar cada um.
+C. Vértice inicial e, em seguida, explora todos os seus vizinhos, atualizando o custo para alcançar cada um deles.
+D. Inicia com vários vértices, explora todos os vizinhos da esquerda e depois os da direita, atualizando o custo para alcançar por sequência.
+E. Dois vértices iniciais, em seguida, não explora os vizinhos, mas calcula diminuindo o custo para alcançar cada um deles.

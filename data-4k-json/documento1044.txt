@@ -1,0 +1,10 @@
+Banco de Dados DER - Diagrama de Entidade e Relacionamento
+
+O modelo de dados entidade-relacionamento foi desenvolvido para facilitar o projeto de banco de dados, permitindo especificação de um esquema de empresa que representa a estrutura lógica geral de um banco de dados. Selecione a alternativa que mostra os três elementos básicos de um Modelo Entidade Relacionamento. 
+
+Alternativas:
+A. Entidades; Atributos; Classes
+B. Entidades; Chaves; Relacionamentos
+C. Classes; Atributos; Relacionamentos
+D. Queries; Atributos; Relacionamentos
+E. Entidades; Atributos; Relacionamentos

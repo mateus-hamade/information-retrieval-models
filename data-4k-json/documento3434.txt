@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
+
+A respeito de estruturas de controle de fluxo em algoritmos, julgue os próximos itens.  A estrutura de repetição para utiliza variáveis de controle que definem exatamente o número máximo de vezes que a sequência de instruções será executada.
+
+Alternativas:
+A. Certo
+B. Errado

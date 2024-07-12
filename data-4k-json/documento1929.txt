@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
+
+Qual estrutura de dados determina que o princípio da retirada de um elemento deva ser obrigatoriamente do último que foi armazenado.
+
+Alternativas:
+A. Um vetor.
+B. Uma fila.
+C. Um grafo.
+D. Uma pilha.
+E. Uma árvore.

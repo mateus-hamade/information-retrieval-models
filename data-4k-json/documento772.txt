@@ -1,0 +1,10 @@
+Banco de Dados SGBD - Sistema de Gerenciamento de Banco de Dados
+
+Quais são as etapas do ciclo de vida do gerenciamento de dados?
+
+Alternativas:
+A. Modelagem, projeto, implementação, monitoramento e manutenção.
+B. Definição, armazenamento, análise, visualização e controle.
+C. Criação, leitura, atualização, exclusão e auditoria.
+D. Coleta, armazenamento, análise, interpretação e ação.
+E. Planejamento, criação, manutenção, aprimoramento e descarte.

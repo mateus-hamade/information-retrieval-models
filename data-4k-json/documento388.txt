@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+Considere as tabelas abaixo:         cliente (cod_cliente, nome_cliente, endereço, cidade, UF)         vendedor (cod_vendedor, nome_vendedor, faixa_comissao, salario) O script SQL abaixo lista os nomes e códigos dos vendedores que têm salário fixo maior que R$ 1.000,00 e clientes que residem no Rio de Janeiro.      SELECT cod_cliente, nome_cliente           FROM cliente              WHERE UF = 'RJ' SELECT cod_vendedor, nome_vendedor                  FROM vendedor                     WHERE salario > 1000;  Considerando que se queira combinar o resultado conjunto de duas instruções SELECT e que cada SELECT tem o mesmo número de colunas com tipos de dados similares, no espaço destacado  entre as instruções SELECT deve ser inserido o comando: 
+
+Alternativas:
+A. LIKE
+B. FORMAT
+C. JOIN
+D. BETWEEN
+E. UNION

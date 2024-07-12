@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Estrutura de Controle e Repetição
+
+No que se refere à estrutura de programação e lógica, julgue os próximos itens.  Considerando-se o algoritmo abaixo, que apresenta uma estrutura de repetição com teste no início, caso o resultado de  seja falso, será executada a instrução ou o bloco de instruções imediatamente posterior a Fim-Enquanto.   
+
+Alternativas:
+A. Certo
+B. Errado

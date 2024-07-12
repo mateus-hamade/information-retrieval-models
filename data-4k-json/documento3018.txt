@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Com relação a estruturas de dados e árvores, julgue os próximos itens.  Árvores binárias com n nós, em que cada nó possui apenas um único filho, possuem altura máxima dada por h = 1 + |log n|.
+
+Alternativas:
+A. Certo
+B. Errado

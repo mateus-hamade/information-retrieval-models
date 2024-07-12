@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Considere uma árvore Patricia construída para armazenar as seguintes chaves: A = 011001; B = 110010; C = 100101; D = 001011; E = 011010; F = 110101. A altura da árvore Patricia resultante, considerando-se sua raiz no nível zero, é
+
+Alternativas:
+A. dois.
+B. três.
+C. quatro.
+D. cinco.
+E. seis.

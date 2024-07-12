@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Texto associado Considerando o algoritmo apresentado, pode-se afirmar que, após a sua execução, a soma dos valores de todas as posições de M será igual a  
+
+Alternativas:
+A. 1.
+B. 10.
+C. 100.
+D. 1000.
+E. 10000.

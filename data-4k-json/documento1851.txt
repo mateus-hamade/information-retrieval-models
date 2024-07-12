@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+O problema da ordenação consiste em rearranjar um vetor v[0..n-1] em ordem crescente, ou seja, permutar os elementos do vetor de modo que tenhamos v[0] ≤ v[1] ≤ . . . ≤ v[n-1]. Em relação aos algoritmos de ordenação, é correto afirmar que os algoritmos
+
+Alternativas:
+A. Radix sort e Quick sort, assintoticamente, têm complexidade de tempo igual a Θ(log2 n), no pior caso.
+B. Quicksort e Selection Sort, assintoticamente, têm a mesma complexidade de tempo, no pior caso.
+C. Merge sort e Selection Sort, assintoticamente, têm complexidade de tempo igual a Θ(log2 n), no pior caso.
+D. Radix sort e Quicksort, assintoticamente, têm a mesma complexidade de tempo, no pior caso.

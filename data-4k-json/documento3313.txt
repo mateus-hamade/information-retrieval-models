@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Texto associado A inserção, em uma árvore (2,4)T, de um novo item k como um nodo externo no mesmo nível dos nodos externos existentes, preserva a propriedade da profundidade da árvore.  
+
+Alternativas:
+A. Certo
+B. Errado

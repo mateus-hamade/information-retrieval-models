@@ -1,0 +1,9 @@
+Banco de Dados DER - Diagrama de Entidade e Relacionamento
+
+Uma empresa de software vai iniciar a fase de modelagem de dados de um sistema. No momento, ela está avaliando instrumentos para criar o Modelo Conceitual de Dados. Um instrumento útil para essa fase de modelagem conceitual é:
+
+Alternativas:
+A. o Diagrama Entidade-Relacionamento
+B. o Modelo Relacional Dinâmico de Dados
+C. a Estrutura de Tabelas de Índices e Queries
+D. o Diagrama Hierárquico de Tabelas e Tuplas

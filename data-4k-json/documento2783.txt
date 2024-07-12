@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
+
+Considerando o pseudocódigo a seguir, calcule a complexidade ciclomática do algoritmo:  
+
+Alternativas:
+A. 11
+B. 7
+C. 3
+D. 4
+E. 2

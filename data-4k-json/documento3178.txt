@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Texto associado Caso os valores lidos para a e b sejam, respectivamente, 4 e 6, então o valor impresso para X será:  
+
+Alternativas:
+A. 22
+B. 44
+C. 66
+D. 88
+E. 100

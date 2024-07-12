@@ -1,0 +1,10 @@
+Banco de Dados PostgreSQL
+
+Em um banco de dados PostgreSQL 13 aberto e funcionando em condições ideais, deseja-se criar a tabela Tab_TRT18 utilizando o comando SELECT, com o valor 1 no campo Vara, o valor Juiz1 no campo NomeJuiz e o valor vt1goiania@trt18.jus.br no campo Email. O comando correto é:
+
+Alternativas:
+A. SELECT Vara AS 1, NomeJuiz AS 'Juiz1', Email AS 'vt1goiania@trt18.jus.br' INTO Tab_TRT18;
+B. SELECT 1 AS Vara, 'Juiz1' AS NomeJuiz, 'vt1goiania@trt18.jus.br' AS Email INTO Tab_TRT18;
+C. SELECT INTO Tab_TRT18 (1 AS Vara, 'Juiz1' AS NomeJuiz, 'vt1goiania@trt18.jus.br' AS Email);
+D. SELECT INTO Tab_TRT18 Vara AS 1, NomeJuiz AS 'Juiz1', Email AS 'vt1goiania@trt18.jus.br';
+E. SELECT VALUES (1 AS Vara, 'Juiz1' AS NomeJuiz, 'vt1goiania@trt18.jus.br' AS Email) INTO Tab_TRT18;

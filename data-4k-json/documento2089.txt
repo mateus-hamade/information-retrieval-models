@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+Série temporal consiste em
+
+Alternativas:
+A. estrutura em que os dados podem ser marcados como verdadeiros ou falsos por padrão.
+B. estrutura de dados numéricos que têm um número infinito de valores possíveis.
+C. estrutura de dados qualitativos medidos negativamente por padrão.
+D. estrutura de dados que podem ser medidos sem métrica definida.
+E. estrutura de dados que rastreiam mudanças nos valores de uma métrica ao longo do tempo.

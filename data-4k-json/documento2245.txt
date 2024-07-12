@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
+
+Texto associado Sobre critérios de teste baseados em fluxo de dados, no trecho de código apresentado, o número mínimo de caminhos para satisfazer o critério de teste todos-du-caminhos com respeito à variável x é
+
+Alternativas:
+A. 1
+B. 2
+C. 3
+D. 4

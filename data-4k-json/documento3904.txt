@@ -1,0 +1,9 @@
+Programação PHP , Linguagens de programação
+
+Na linguagem de programa PHP é possível definir um Array, conjunto de dados, em uma variável, utilizando: 
+
+Alternativas:
+A. arr = [ ]
+B. arr = { }
+C. arr = push( )
+D. arr = ( )

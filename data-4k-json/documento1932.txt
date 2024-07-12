@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Os operadores relacionais são símbolos utilizados entre dois valores do mesmo tipo e que têm como resultado um valor lógico. Dentre as alternativas abaixo, aquela que contêm um símbolo que não representa um operador relacional é a  
+
+Alternativas:
+A. =
+B. -<
+C. <>
+D. >=
+E. <

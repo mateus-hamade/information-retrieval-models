@@ -1,0 +1,10 @@
+Banco de Dados Big Data
+
+Assinale a alternativa que apresenta corretamente o conceito de volume no contexto de Big Data.
+
+Alternativas:
+A. É a velocidade com que os dados são gerados, coletados e processados.
+B. Refere‑se à variedade de tipos de dados, estruturados e não estruturados, que são manipulados em sistemas de Big Data.
+C. Refere‑se à quantidade massiva de dados que precisa ser armazenada e gerenciada, o que frequentemente exige sistemas de armazenamento escaláveis.
+D. É a veracidade dos dados, ou seja, a confiabilidade e a qualidade dos dados em sistemas de Big Data.
+E. Volume refere‑se à complexidade dos algoritmos de processamento de dados utilizados em sistemas de Big Data.

@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Fluxogramas
+
+Texto associado Para especificar a estrutura de armazenamento, endereçamento, acesso, alocação física e manipulação de dados, é fundamental utilizar o fluxograma como uma representação UML (Unified Modelling Language) do processo de modelagem física.  
+
+Alternativas:
+A. Certo
+B. Errado

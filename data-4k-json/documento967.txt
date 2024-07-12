@@ -1,0 +1,10 @@
+Banco de Dados Big Data
+
+A ideia básica do Data Lake é simples;todos os dados emitidos pela organização serão armazenados em uma única estrutura de dados chamada Data Lake. Assinale, a seguir, um dos estágios para a implementação de um Data Lake.
+
+Alternativas:
+A. Descarregamento para Data Mining.
+B. Descarregamento para Data Warehouse.
+C. Transformação dos dados brutos em dados estruturados.
+D. Transformação dos dados brutos em dados semiestruturados.
+E. Indexação de todos os registros (criação de índices no banco para todas as tabelas).

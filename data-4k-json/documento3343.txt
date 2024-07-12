@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Grafos
+
+Um grafo não direcionado é dito conectado quando há pelo menos um caminho entre dois vértices quaisquer do grafo.  
+
+Alternativas:
+A. Certo
+B. Errado

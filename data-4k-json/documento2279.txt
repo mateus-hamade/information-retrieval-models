@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Considere o código-fonte abaixo, desenvolvido na linguagem de programação “Portugol”:        O número visualizado ao final da execução deste código-fonte é  
+
+Alternativas:
+A. 1.
+B. 2.
+C. 3.
+D. 4.

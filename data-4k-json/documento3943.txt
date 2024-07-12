@@ -1,0 +1,9 @@
+Sistemas Operacionais Unix , Sistemas Operacionais , Segurança de sistemas operacionais
+
+Considerando uma máquina na qual está instalado um sistema UNIX, o diretório que NÃO necessita de uma cópia de segurança é o: 
+
+Alternativas:
+A. /etc
+B. /usr
+C. /dev
+D. /home

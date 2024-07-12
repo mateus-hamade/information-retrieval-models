@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Listas
+
+Sobre alocação sequencial e alocação encadeada de uma lista linear, é CORRETO afirmar:
+
+Alternativas:
+A. Na alocação encadeada, é preciso que os elementos sejam alocados fisicamente na memória.
+B. Não existe diferença entre as duas maneiras de alocação.
+C. A alocação sequencial não é necessariamente alocada em sequência fisicamente.
+D. Na alocação sequencial, além da lógica sequencial, a lista também é alocada fisicamente em sequência.

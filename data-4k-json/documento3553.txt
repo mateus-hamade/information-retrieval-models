@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Recursividade
+
+Texto associado O algoritmo  determina o valor máximo do vetor por meio de uma solução recursiva.
+
+Alternativas:
+A. Certo
+B. Errado

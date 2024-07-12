@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados Relacionais
+
+Quanto aos bancos de dados relacionais, assinale a alternativa correta.
+
+Alternativas:
+A. JOIN, por si só, é uma restrição de integridade.
+B. Um INDEX é um procedimento armazenado que é executado automaticamente, quando ocorre um evento específico, como: a inserção; a atualização ou a exclusão de registros.
+C. Chave estrangeira é uma restrição de integridade que garante a unicidade e a identificação única de cada registro em uma tabela.
+D. A principal função da chave primária é ser utilizada para armazenar dados temporários durante uma transação.
+E. A restrição CASCADE permite que ações realizadas em chaves primárias sejam automaticamente refletidas nas chaves estrangeiras relacionadas.

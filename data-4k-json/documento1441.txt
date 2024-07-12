@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Considere um vetor com n elementos. O método de ordenação
+
+Alternativas:
+A. é chamado de estável (stable) se não altera a posição relativa de elementos com mesmo valor depois da ordenação. Por exemplo, o vetor v[ 77, 55, 22, 33, 44, 22] tem dois elementos iguais a 22; um método de ordenação estável mantém o 22 da posição 3 antes do 22 da posição 6.
+B. por Seleção (Selection Sort) é de ordem de complexidade cúbica ou O (n3) e sua estratégia é ir comparando e trocando os elementos de posição, colocando os maiores nas posições finais do vetor.
+C. da Bolha (Bubble Sort) é de ordem de complexidade cúbica ou O (n3) e sua estratégia é ir comparando e trocando os elementos de posição, colocando os menores nas posições iniciais do vetor.
+D. Quicksort, que é sempre O (log n), utiliza um pivô para dividir o vetor em uma sublista da direita e uma da esquerda, de modo que todo elemento da sublista da esquerda seja maior que os da direita. Em seguida, ordenam-se, pelo mesmo processo, as duas sublistas de forma recursiva.
+E. Quicksort, devido ao loop interno complexo (que o torna duas vezes mais lento que o Heapsort) não necessita de memória adicional e é sempre O (log n) qualquer que seja a ordem inicial dos elementos. Este é o método a ser usado para aplicações que não podem tolerar variações no tempo esperado de ordenação.

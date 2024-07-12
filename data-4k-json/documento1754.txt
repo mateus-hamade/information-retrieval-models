@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Vetores
+
+Acerca das estruturas homogêneas de dados e dos conceitos da programação orientada a objetos, julgue o item. As operações somar, inserir e apagar elementos são consideradas como operações de atualização de um vetor. 
+
+Alternativas:
+A. Certo
+B. Errado

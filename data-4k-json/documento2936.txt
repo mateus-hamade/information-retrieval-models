@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Fluxogramas
+
+                                                                  Dado o fluxograma acima, se N receber o valor 4 e X o valor 3, a saída na tela será:
+
+Alternativas:
+A. 22
+B. 93
+C. 6
+D. 276
+E. 20

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
+
+Em lógica de programação, as estruturas de controle controlam o fluxo de execução de um programa ou função. Assim, as instruções ou sentenças são organizadas em três tipos de estruturas de controle. São eles:
+
+Alternativas:
+A. ordem, sequência e combinação.
+B. fifo, lifo e deque.
+C. sentença, seleção (decisão) e repetição.
+D. pilha, framework e lista.
+E. encadeada, sequencial e estática.

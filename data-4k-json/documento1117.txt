@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos , Estrutura de Dados ( assuntos)
+
+PV-DM (do inglês, Paragraph Vector Distributed Memory) é um método de aprendizado de máquina utilizado no processamento de dados textuais. A ideia central é prever uma palavra (de contexto) a partir de um conjunto de palavras amostrado aleatoriamente – palavras de contexto e ID de parágrafo. Quando aplicado sobre um conjunto de documentos textuais (por exemplo, os processos deferidos arquivados no TJ-AC), qual a vantagem desse método em relação ao método BOW, baseado em contagem de palavras? 
+
+Alternativas:
+A. Ter menor custo computacional.
+B. Resultar em vetores mais compactos.
+C. Considerar a ordem das palavras.
+D. Ter maior expressividade dos vetores.

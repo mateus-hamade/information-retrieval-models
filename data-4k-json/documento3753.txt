@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Grafos
+
+Um algoritmo que pode ser usado para caminhar pela estrutura e retornar informações úteis para a resolução do problema. Uma estrutura de links do tipo "Wikipedia" é um modelo que pode ser representado por esta categoria de algoritmo, ou seja, os vértices são os artigos e "existe uma aresta do artigo X para o artigo Y se e somente se X contém um link para Y". As características elencadas representam um algoritmo
+
+Alternativas:
+A. genético.
+B. de programação dinâmica.
+C. de divisão e conquista.
+D. de programação linear.
+E. de exploração de grafo.

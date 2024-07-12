@@ -1,0 +1,9 @@
+Banco de Dados SGBD - Sistema de Gerenciamento de Banco de Dados
+
+Visões (views) são procedimentos fornecidos pelos SGBDs para trabalhar com consultas prontas, como uma tabela virtual, que não armazena dados. Considerando as características de visões, assinale a afirmativa INCORRETA.
+
+Alternativas:
+A. Uma visão pode ser uma consulta ou uma tabela derivada de uma visão ou de algumas tabelas.
+B. Entre as vantagens de trabalhar com visões, estão a possibilidade de se ter um acesso limitado e controlado dos dados.
+C. Ao usar uma visão, o usuário ou administrador tem a impressão de lidar com uma tabela real, pois o conteúdo e o comportamento da visão é o mesmo de uma tabela real.
+D. Em uma visão são apresentados somente os dados relevantes, e não toda a base de dados. Os dados apresentados mediante a visão não podem ser alterados a todo instante no banco de dados.

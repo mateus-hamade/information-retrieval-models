@@ -1,0 +1,10 @@
+Sistemas Operacionais Gerência de Memória , Virtualização
+
+O uso de memória virtual permite que mais segmentos sejam carregados na memória por vez, o que permite um aumento no número de processos executando. A partir disso é interessante perceber algumas situações que afetam o desempenho do sistema. A partir deste contexto, avalie a seguintes afirmações.  I. Quanto mais processos executando, pior o nível de ocupação da CPU, uma vez que quando um processo é interrompido para fazer E/S ou por bloqueio, temos vários outros para assumir seu lugar na CPU. II. Um número elevado de processos ignorar acaba tendo um péssimo nível de ocupação da CPU, uma vez que com o crescimento do número de processos teríamos uma maior ocupação, mas com mais processos é capaz de todos terem tão poucas páginas que ficam o tempo todo causando falta de páginas e, com isso, não podem ocupar a CPU. Essa situação recebe o nome de thrashing. III. Quanto mais processos executando menos falhas de páginas temos, uma vez que cada processo passa a ocupar menos páginas e, com isso, passa a ser mais provável que uma página requisitada não esteja na memória.  Está(ão) correta(s) a(s) afirmativa(a):
+
+Alternativas:
+A. I, apenas.
+B. II, apenas.
+C. III, apenas.
+D. I e II, apenas.
+E. I, II e III.

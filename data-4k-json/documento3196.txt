@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Tipos de Dados
+
+Em linguagens de programação, não é considerado um tipo de dados PRIMITIVO:  
+
+Alternativas:
+A. Inteiro.
+B. Matriz.
+C. Real.
+D. Booleano.

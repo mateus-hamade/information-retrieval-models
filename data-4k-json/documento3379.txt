@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Recursividade
+
+O código de Huffman é utilizado para
+
+Alternativas:
+A. compactar dados (compressão sem perdas).
+B. detectar erros por meio de criptografia.
+C. identificar o canal na multiplexação CDM.
+D. identificar o canal na multiplexação WDM
+E. atribuir sigilo às informações.

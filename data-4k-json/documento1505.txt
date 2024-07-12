@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+É um algoritmo de ordenação por inserção: 
+
+Alternativas:
+A. Seleção Direta.
+B. Quick Sort.
+C. Bubble Sort.
+D. Árvore Binária.
+E. Ordenação Shell.

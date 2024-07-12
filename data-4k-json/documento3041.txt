@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Texto associado Ao final da execução do programa, o valor impresso para a variável x foi:
+
+Alternativas:
+A. 0
+B. 5
+C. 10
+D. 15
+E. 20

@@ -1,0 +1,9 @@
+Banco de Dados SQL Server
+
+O recurso OLTP in-memory do SQL Server 2019 tem a função de
+
+Alternativas:
+A. armazenamento de sessão de cache do IIS.
+B. recurso apenas para utilização de BI.
+C. armazenar os dados em memória física para garantir que os dados não fiquem bloqueados.
+D. redução de baixa latência ao trafegar os dados em rede.

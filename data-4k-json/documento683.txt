@@ -1,0 +1,9 @@
+Banco de Dados Modelagem de dados
+
+Como é conhecida na modelagem conceitual a entidade que NÃO tem seus próprios atributos-chave? 
+
+Alternativas:
+A. Entidade derivada
+B. Entidade fraca
+C. Entidade parcial
+D. Entidade regular

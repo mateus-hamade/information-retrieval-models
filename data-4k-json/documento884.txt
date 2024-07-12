@@ -1,0 +1,10 @@
+Banco de Dados DER - Diagrama de Entidade e Relacionamento
+
+A Figura 1 abaixo apresenta um Diagrama de Entidade Relacionamento (DER):        Sobre o DER da Figura 1, é correto afirmar que:  
+
+Alternativas:
+A. Todo PROFESSOR é VOLUNTÁRIO.
+B. Todo COLABORADOR é PROFESSOR e VOLUNTÁRIO.
+C. Todo COLABORADOR é PROFESSOR ou VOLUNTÁRIO.
+D. Nem todo COLABORADOR é PROFESSOR ou VOLUNTÁRIO.
+E. Nem todo PROFESSOR é COLABORADOR.

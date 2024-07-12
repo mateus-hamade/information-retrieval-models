@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
+
+Observe a sequência de operações realizada em uma pilha P, inicialmente vazia.  PUSH(P,"B") PUSH(P,"R") PUSH(P,"A") PUSH(P,"S") PUSH(P,"I") PUSH(P,"L") PUSH(P,"2") PUSH(P,"0") PUSH(P,"1") PUSH(P,"1") TOP(P) POP(P) TOP(P) POP(P) POP(P) POP(P)  Após essa sequência, que elemento é retornado pela operação TOP(P)? 
+
+Alternativas:
+A. 1
+B. 2
+C. I
+D. L
+E. S

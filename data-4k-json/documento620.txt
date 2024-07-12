@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados Relacionais
+
+Entre os fatores que influenciam o desempenho de um banco de dados em operações de busca, os índices se destacam pela facilidade de uso em relação ao ganho obtido. Assinale o tipo de índice mais frequente em instalações de bancos de dados relacionais.
+
+Alternativas:
+A. Árvores B.
+B. Bitmaps.
+C. Full text.
+D. Redes neurais.
+E. Tabelas HASH.

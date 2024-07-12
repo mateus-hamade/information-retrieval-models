@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+A execução de uma expressão lógica obedece como prioridade a ordem dos operadores 
+
+Alternativas:
+A. Or, And e Not.
+B. Not, And e Or.
+C. And, Not e Or.
+D. And, Or e Not.
+E. Not, Or e And.

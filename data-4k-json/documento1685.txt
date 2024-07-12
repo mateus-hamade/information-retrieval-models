@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
+
+Na classificação de algoritmos por meio de seu método de design, aquele que reduz a complexidade exponencial para a complexidade polinomial para muitos problemas e mantém uma tabela para subproblemas já resolvidos é denominado 
+
+Alternativas:
+A. programação dinâmica.
+B. método ganancioso (greedy method).
+C. dividir e conquistar.
+D. programação linear.
+E. redução (transformar e conquistar).

@@ -1,0 +1,10 @@
+Programação Programação Orientada a Objetos
+
+Qual dos seguintes conceitos vinculado ao princípio fundamental da programação orientada a objetos (POO) em Java permite a reutilização de código ao estender uma classe existente?
+
+Alternativas:
+A. Polimorfismo;
+B. Interface;
+C. Herança;
+D. Abstração;
+E. Encapsulamento.

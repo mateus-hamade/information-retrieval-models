@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Busca
+
+Qual o algoritmo de busca que se baseia no princípio de dividir os dados na posição central, testando o elemento a ser encontrado com o elemento que está nessa posição (central)? Considere que, caso o elemento sendo buscado não seja o elemento central, então metade do conjunto de dados já pode ser descartado.
+
+Alternativas:
+A. Busca binária.
+B. Busca serial.
+C. Busca sequencial.
+D. Busca ordenada.

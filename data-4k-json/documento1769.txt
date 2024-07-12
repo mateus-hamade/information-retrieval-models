@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Na programação de computadores, as funções são bastante empregadas. Neste contexto, analisa-se a figura que contém um pseudocódigo com o emprego de uma função.  Após a execução, os valores finais das variáveis SOL e LUA são, respectivamente: 
+
+Alternativas:
+A. 720 e 24
+B. 720 e 12
+C. 120 e 24
+D. 120 e 12

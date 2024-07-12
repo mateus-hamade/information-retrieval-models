@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Conforme as leis fundamentais da álgebra booleana, cada expressão ou identidade algébrica dedutível a partir dos postulados em uma álgebra booleana continua válida se todas as ocorrências dos operadores + e · e os elementos identidade 0 e 1 são trocados um pelo outro. O enunciado se refere ao
+
+Alternativas:
+A. Princípio da Possibilidade.
+B. Princípio da Operação.
+C. Princípio da Identidade.
+D. Princípio da Validade.
+E. Princípio da Dualidade.

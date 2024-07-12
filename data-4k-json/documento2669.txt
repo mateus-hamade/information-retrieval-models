@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Texto associado Com base no algoritmo, pode-se afirmar que, para valores de a1, a2 e a3 maiores ou iguais a 1, o número de vezes que a variável N é incrementada é igual a:
+
+Alternativas:
+A. a1 − a2 + a3
+B. a1 + a2 − a3
+C. a1 + a2 + a3
+D. a1 x a2 x a3
+E. a1 ÷ a2 ÷ a3

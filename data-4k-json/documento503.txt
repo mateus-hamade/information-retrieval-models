@@ -1,0 +1,10 @@
+Banco de Dados SQL Server , SGBD - Sistema de Gerenciamento de Banco de Dados
+
+Qual dos seguintes elementos é responsável pelo controle granular do acesso e da manipulação dos dados armazenados em um sistema de banco de dados (SGBD) SQL Server, incluindo a definição de restrições de acesso a nível de campo e a possibilidade de restringir certas operações de leitura e gravação? 
+
+Alternativas:
+A. Gerenciamento de usuários, roles e permissões.
+B. Gerenciamento de jobs e rotinas agendadas.
+C. Implementação de índices e otimização de consultas.
+D. Estruturas, objetos e componentes físicos e lógicos que fazem parte da base de dados.
+E. Modelagem conceitual e lógica do banco de dados.

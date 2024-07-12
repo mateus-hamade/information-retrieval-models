@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Hashing
+
+Texto associado No uso de funções de hash, a resolução de colisões por encadeamento utiliza uma lista para armazenar todos os elementos que compartilham o mesmo valor de hash. 
+
+Alternativas:
+A. Certo
+B. Errado

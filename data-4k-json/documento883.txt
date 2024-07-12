@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+Texto associado Considerando a tabela PRODUTO, apresentada na Figura 2, quantos registros serão excluídos pelo comando SQL abaixo?  
+
+Alternativas:
+A. 0
+B. 2
+C. 3
+D. 4
+E. 6

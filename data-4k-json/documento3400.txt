@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Considere o pseudocódigo abaixo que define a função fatorial:    Qual dos seguintes aspectos é possível observar neste pseudocódigo? 
+
+Alternativas:
+A. Aninhamento de laços.
+B. Laço infinito.
+C. Desvio incondicional.
+D. Estrutura de seleção.
+E. Recursão.

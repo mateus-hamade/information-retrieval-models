@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados
+
+Maria criou um banco de dados no qual há uma tabela com uma coluna X que não aceita valores nulos. Entretanto, como o sistema que mantém essa tabela é novo, na carga inicial dos dados essa coluna não existe. Como Maria não quer abrir mão do impedimento de valores nulos, Maria poderia carregar as linhas incompletas desde que, na coluna X, usasse a cláusula: 
+
+Alternativas:
+A. skip;
+B. check;
+C. default;
+D. float;
+E. case when ... then ... end.

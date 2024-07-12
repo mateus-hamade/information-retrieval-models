@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
+
+A temperatura média corporal de uma pessoa costuma variar entre 36 °C e 37,3 °C; mais do que isso caracteriza a febrícula (até 37,8 °C), a febre (acima de 37,8 °C até 39 °C) e a febre alta (mais de 39 °C).      Internet: <ifsc.edu.br> (com adaptações).    Tendo como referência o texto precedente, julgue o item seguinte, relativo a construção de algoritmos e estruturas de controle, seleção, repetição e desvio.  Em um algoritmo desenvolvido para identificar um dos cenários (normal ou anormal) referentes à temperatura corporal de uma pessoa, serão necessárias pelo menos quatro estruturas do tipo se-então-senão.
+
+Alternativas:
+A. Certo
+B. Errado

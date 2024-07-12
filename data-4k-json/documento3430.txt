@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Um algoritmo bem desenvolvido deve ter qualidades, tais como: ser bem definido, não ser ambíguo, ser eficaz e 
+
+Alternativas:
+A. complexo
+B. equivalente
+C. eficiente
+D. independente
+E. modificável

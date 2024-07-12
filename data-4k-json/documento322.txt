@@ -1,0 +1,10 @@
+Banco de Dados Big Data
+
+Em big data, os dados que são intermediários entre o início e o fim do processo são os dados 
+
+Alternativas:
+A. de destino.
+B. transacionais.
+C. de análise.
+D. de staging.
+E. de origem.

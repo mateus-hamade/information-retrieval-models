@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+Acerca de classificação de dados, julgue os itens subsecutivos.  Independentemente do vetor de entrada, o algoritmo Quick Sort divide o vetor ao meio, ordenando cada metade recursivamente e intercalando as duas metades ordenadas.
+
+Alternativas:
+A. Certo
+B. Errado

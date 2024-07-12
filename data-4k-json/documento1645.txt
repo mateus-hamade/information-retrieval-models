@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+O algoritmo de ordenação decrescente onde cada entidade é comparada com o seu posterior e, se maior, invertidas as posições sucessivamente, até que a coleção esteja ordenada, é chamado :
+
+Alternativas:
+A. selection sort.
+B. digital sort.
+C. bubble sort.
+D. quick sort.
+E. random sort.

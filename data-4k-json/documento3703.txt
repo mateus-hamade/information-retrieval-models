@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+Em relação a estruturas de dados, avalie a correspondência existente entre as estruturas de dados Lineares e Não Lineares com suas respectivas coleções de dados:    A correta associação entre os elementos das duas tabelas é: 
+
+Alternativas:
+A. a1, b1, c1, d2, e2, f2.
+B. a2, b2, c1, d1, e1, f2.
+C. a1, b2, c2, d2, e1, f1.
+D. a2, b1, c2, d1, e2, f1.
+E. a1, b1, c2, d2, e2, f1.

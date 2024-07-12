@@ -1,0 +1,9 @@
+Banco de Dados Banco de Dados Paralelos e Distribuídos
+
+Um Banco de Dados Distribuído (BDD) é uma coleção de múltiplos bancos de dados logicamente interrelacionados e distribuídos por uma rede de computadores. O controle de concorrência se baseia no bloqueio, exatamente como na maioria dos sistemas não distribuídos. Todavia, requisições para testar, impor e liberar bloqueios se tornam mensagens e, por essa razão, o controle de concorrência em BDD tem como premissa o tratamento da:
+
+Alternativas:
+A. sobrecarga.
+B. atualização de regras.
+C. autonomia local.
+D. independência de localização.

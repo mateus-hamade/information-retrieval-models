@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Dentre os métodos para construção de algoritmos, o Cartesiano é aquele que segue o princípio de:
+
+Alternativas:
+A. Planejamento reverso.
+B. Primeiro que entra, primeiro que sai.
+C. Dividir para conquistar.
+D. Primeiro que entra, último que sai.

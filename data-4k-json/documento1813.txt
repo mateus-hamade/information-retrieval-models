@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Algoritmos de Busca
+
+Analise o algoritmo de busca binária a seguir.        Considerando o vetor v[0...9] com dez elementos (n = 10) e os seguintes valores:  v = 5 10 15 20 25 30 35 40 45 50     a quantidade de comparações necessárias entre o vetor e o valor procurado para que o algoritmo encontre o valor x = 15 é:  
+
+Alternativas:
+A. 1
+B. 2
+C. 3
+D. 5
+E. 10

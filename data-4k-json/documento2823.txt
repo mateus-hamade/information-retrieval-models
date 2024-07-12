@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Vetores
+
+Algoritmo Exemplo Var v: vetor [0..7]: inteiro Var n, p, u, a: inteiro Início    Para p de 0 até 7 passo 1 faça       leia (n)       v[p] ← n     Fim_para     p ← 0     u ← 8     Enquanto (u < > 2) faça         Enquanto (p < > (u-1)) faça           Se (v[p] > v[p+1]) então               a ← v[p]               v[p] ← v[p+1]               v[p+1] ← a            Fim_se            p ← p + 1          Fim_enquanto          p ← 0          u ← u - 1        Fim_enquanto   Fim  Considerando-se que v receba os valores 12, 21, 3, 9, 57, 33, 27 e 41, nessa ordem, após executar todos os laços de repetição as posições 4 e 5 do vetor v conterão, respectivamente, os valores
+
+Alternativas:
+A. 33 e 41.
+B. 21 e 27.
+C. 57 e 33.
+D. 27 e 33.
+E. 21 e 12.

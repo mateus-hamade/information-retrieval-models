@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Hashing
+
+A colisão é um efeito característico dos algoritmos de resumo de mensagem e ocorre, com maior frequência, quanto menor for o tamanho do bloco de bits do resumo (digest) gerado pelo algoritmo.     No caso do SHA1 (Short Hash Algorithm 1), o tamanho do bloco do resumo é 
+
+Alternativas:
+A. 32 bits.
+B. 64 bits.
+C. 128 bits.
+D. 160 bits.
+E. 320 bits.

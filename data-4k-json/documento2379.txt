@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Julgue o item subsequente, relativo à lógica de programação.     A expressão aritmética a seguir tem valor igual a 12.0.  2^3/2^{6/2+1}-5*2-3^{2-1}   
+
+Alternativas:
+A. Certo
+B. Errado

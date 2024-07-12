@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+Um tipo de algoritmo muito usado na resolução de problemas computacionais são os algoritmos de ordenação. Assinale a única alternativa que esteja tecnicamente incorreta quanto a especificar exatamente algoritmos de ordenação simples.
+
+Alternativas:
+A. Quick Sort
+B. Smart Sort
+C. Insertion Sort
+D. Bubble Sort

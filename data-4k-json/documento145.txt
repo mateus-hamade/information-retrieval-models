@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados , SQL , Administração de banco de dados
+
+Na tabela de Curso, são armazenadas informações sobre nome, data de criação e total de alunos de um curso específico, sendo o código um campo autoincrementado com um número inteiro, todas as vezes que um curso é inserido no banco. Esse código é a chave primária desta tabela. A tabela Conceito armazena valores de conceito de curso, que só podem ser números inteiros entre 1 e 5, a data em que foram atribuídos, o código do conceito, gerado de modo análogo ao código de curso da tabela Curso, sendo a chave primária da tabela, e o código de curso a que o conceito se vincula, de modo que esse segundo código é a chave estrangeira responsável pela relação entre as tabelas Curso e Conceito. Qual das alternativas abaixo permite uma consulta em SQL cujo resultado seja uma lista apenas com os nomes de curso cujo conceito é maior ou igual a 2? 
+
+Alternativas:
+A. SELECT crs.nome, cct.conceito_curso FROM curso as crs, conceito as cct WHERE cct.conceito curso >= 2;
+B. FROM curso as crs INNER JOIN conceito as cct ON crs.codigo = cct.fk codigo curso AND cct.conceito curso > = 2;
+C. LEFT JOIN conceito as cct ON crs.codigo = cct.fk_codigo_curso AND cct.conceito_curso > = 2;
+D. RIGHT JOIN conceito as cct cct.conceito_curso > = 1;
+E. WHERE crs.codigo = cct.fk_codigo_curso;

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+No que se refere a estruturas de dados é INCORRETO afirmar: 
+
+Alternativas:
+A. Numa fila dupla, os elementos podem ser inseridos e removidos de qualquer um dos extremos da fila.
+B. Em qualquer situação é possível usar uma única fila dupla para representar duas filas simples.
+C. A implementação de uma fila dupla normalmente é mais eficiente com uma lista duplamente encadeada que com uma encadeada simples.
+D. Pela definição de fila, se os elementos são inseridos por um extremo da lista linear, eles só podem ser removidos pelo outro.
+E. Numa lista singularmente encadeada, para acessar o último nodo é necessário partir do primeiro e ir seguindo os campos de ligação até chegar ao final da lista.

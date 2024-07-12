@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Tipos de Dados
+
+Texto associado As lacunas I, II e III são preenchidas, correta e respectivamente, por:
+
+Alternativas:
+A. FALSE, FALSE e TRUE.
+B. TRUE, TRUE e FALSE.
+C. TRUE, FALSE e FALSE.
+D. FALSE, TRUE e TRUE.
+E. TRUE, TRUE e TRUE.

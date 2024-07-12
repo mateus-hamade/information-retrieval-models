@@ -1,0 +1,9 @@
+Banco de Dados Modelo relacional
+
+Sobre o modelo relacional de dados, é CORRETO afirmar que: 
+
+Alternativas:
+A. o número de atributos de uma relação é denominado cardinalidade da relação.
+B. um atributo de uma relação não pode fazer parte de uma chave primária e de uma chave estrangeira ao mesmo tempo.
+C. todos os atributos de uma relação possuem o mesmo domínio.
+D. um atributo de uma relação na primeira forma normal possui um domínio atômico.

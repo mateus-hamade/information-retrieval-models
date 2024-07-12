@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+A respeito de algoritmos e estruturas de dados, julgue o próximo item.  O algoritmo de ordenamento por inserção tem o menor número de trocas quando o vetor está ordenado de forma inversa à ordem do procedimento. 
+
+Alternativas:
+A. Certo
+B. Errado

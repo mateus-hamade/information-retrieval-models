@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Considere o seguinte algoritmo “ALG1” (escrito via VisuAlg 3.07)   Se for inserido como entrada o valor 14, será escrito como resposta o valor: 
+
+Alternativas:
+A. 79
+B. 86
+C. 106
+D. 119

@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Lógicas de Programação
+
+Texto associado Se um trecho de algoritmo tiver de ser executado repetidamente e o número de repetições for indefinido, então é correto o uso, no início desse trecho, da estrutura de repetição Enquanto.
+
+Alternativas:
+A. Certo
+B. Errado

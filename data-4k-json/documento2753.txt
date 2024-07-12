@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
+
+Com relação à estrutura de controle enquanto <teste> faça ... fim enquanto, avalie se as afirmativas a seguir são falsas (F) ou verdadeiras (V): ✓ A condição de saída do loop ocorre quando o <teste> é VERDADEIRO. ✓ O teste de controle da estrutura é realizado no início da execução. ✓ O fluxo de execução das instruções contidas no loop permanece se o resultado do <teste> é FALSO. As afirmativas são respectivamente:
+
+Alternativas:
+A. F, F e V.
+B. F, V e F.
+C. F, V e V.
+D. V, V e F.
+E. V, F e V.

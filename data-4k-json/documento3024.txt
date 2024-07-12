@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Considerando os operadores A = Falso e B = Verdadeiro, serão somente Verdadeiros numa tabela-verdade os resultados
+
+Alternativas:
+A. "A ou B" e "Não B".
+B. "A ou B" e "A e B".
+C. "Não A" e "Não B".
+D. "Não A" e "A e B".
+E. "Não A" e "A ou B".

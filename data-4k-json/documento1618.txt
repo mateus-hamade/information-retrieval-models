@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+A Estrutura de dados (ED) é um modo particular de armazenamento e organização de dados em um computador de modo que possam ser usados eficientemente. Analise a imagem a seguir:  Qual estrutura de dados representa a imagem: 
+
+Alternativas:
+A. Pilha.
+B. Fila.
+C. Grafo.
+D. Vetor de vetores.
+E. Árvore binária.

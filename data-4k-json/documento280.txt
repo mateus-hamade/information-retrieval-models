@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados Relacionais
+
+As propriedades ACID são essenciais no contexto do processamento de transações em bancos dados relacionais. As propriedades que correspondem as letras C e D são, respectivamente,
+
+Alternativas:
+A. completude e desacoplamento
+B. coordenação e deslocamento.
+C. commit e delete.
+D. cooperação e distribuição.
+E. consistência e durabilidade.

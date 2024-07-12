@@ -1,0 +1,10 @@
+Segurança da Informação Segurança de sistemas de informação
+
+A equipe de Tecnologia da Informação do TJMS conduziu recentemente um teste de usabilidade do aplicativo Hermes, visando a aprimorar a experiência dos usuários. Durante esse teste, foram avaliadas as novas funcionalidades implementadas. Uma delas é a visualização do mandado em PDF, que possibilita a identificação das regiões da cidade com maior concentração de mandados e sugere a melhor rota para o seu cumprimento. No entanto, os oficiais de justiça com mais de 50 anos expressaram algumas insatisfações com a plataforma.  Dentre as potenciais insatisfações em relação à experiência com o aplicativo, aquela que se refere ao cenário de uso associado a esse segmento de usuários diz respeito à: 
+
+Alternativas:
+A. interface confusa e pouco intuitiva, dificultando a navegação pela plataforma;
+B. ausência de uma seção de recomendações personalizadas baseadas no histórico de mandados dos usuários;
+C. falta de opções de acessibilidade para aumentar o tamanho da fonte no aplicativo;
+D. falta de opções de mandados que atendam às preferências dos clientes;
+E. dificuldade em acessar a plataforma por meio de navegação web, limitando a conveniência para muitos usuários.

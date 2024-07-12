@@ -1,0 +1,10 @@
+Banco de Dados PostgreSQL
+
+No PostgreSQL 13 o comando CREATE MATERIALIZED VIEW executa a consulta de definição da visão materializada e o seu resultado é usado para “popular” a visão quando o comando é executado. Posteriormente, a visão pode ser 
+
+Alternativas:
+A. atualizada por meio da execução do comando REFRESH MATERIALIZED VIEW.
+B. excluída por meio da execução do comando XCLUDE MVIEW.
+C. modificada por meio da execução do comando ALTER MATERIALIZED VIEW.
+D. atualizada por meio da execução do comando UPDATE MATERIALIZED VIEW.
+E. reconstruída por meio da execução do comando REFRESH MVIEW.

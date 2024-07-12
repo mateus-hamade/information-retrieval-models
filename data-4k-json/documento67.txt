@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+Dentre os tipos de dados para armazenamento de data e hora em bancos de dados Microsoft SQL Server, assinale a alternativa cujo tipo de data armazena data e hora com precisão de até 100 ns. É uma boa escolha para cenários, onde é necessário armazenar o valor de tempo até frações de segundo, e ainda, sua precisão é ajustável, e seu tamanho depende da precisão escolhida. 
+
+Alternativas:
+A. TIME.
+B. DATETIME.
+C. DATETIME2.
+D. SMALLDATETIME.
+E. DATETIMEOFFSET.

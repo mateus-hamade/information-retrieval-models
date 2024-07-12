@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Busca
+
+Considere o algoritmo de busca:  Testar o elemento a m (a índice m) sorteado aleatoriamente e compará-lo ao argumento de busca x. Se o elemento for igual a x, a busca termina. Se menor que x todos os elementos com índices menores ou iguais a m podem ser descartados dos próximos testes e se for maior que x todos aqueles que possuem índices maiores ou iguais a m também podem ser descartados.  Tal algoritmo é denominado busca 
+
+Alternativas:
+A. linear.
+B. em tabelas.
+C. binária.
+D. Knuth-Morris-Pratt.
+E. Boyer-Moore.

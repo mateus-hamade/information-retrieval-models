@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Em relação ao Portugol, Diagrama de Blocos e Diagrama de Chapin, é CORRETO afirmar que:
+
+Alternativas:
+A. São instruções que podem ser interpretadas por programas como um navegador web, por exemplo.
+B. São passos obrigatórios e posteriores à codificação de bons programas de computadores.
+C. Através destes documentos, experts no assunto dão dicas de soluções de problemas específicos de controle de fluxo dentro de uma solução algorítmica.
+D. Com estas representações podemos comunicar soluções algorítmicas.
+E. São formas de codificação de programas de computadores.

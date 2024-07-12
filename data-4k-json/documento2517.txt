@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
+
+Considere uma estrutura de dados do tipo Pilha, apresentada a seguir.                                     A partir desse estado da pilha e supondo que, inicialmente, as variáveis x, y e z contenham, respectivamente, os valores 40, 50 e 60, foram realizadas as seguintes operações sobre a pilha: PUSH z PUSH y PUSH x POP y POP z POP x Após a realização dessas operações, os valores finais de x, y e z são, respectivamente,
+
+Alternativas:
+A. 40, 50 e 60.
+B. 40, 60 e 50.
+C. 50, 40 e 60.
+D. 60, 40 e 50.
+E. 60, 50 e 40.

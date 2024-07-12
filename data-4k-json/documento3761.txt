@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Considere:    Dado o algoritmo representado na forma de português estruturado, o valor de saída contido na variável RESP será 
+
+Alternativas:
+A. 342.
+B. 6.
+C. 22.
+D. 86.
+E. 0.

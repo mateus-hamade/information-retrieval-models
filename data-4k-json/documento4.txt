@@ -1,0 +1,10 @@
+Banco de Dados Big Data
+
+Com relação a noções de big data, julgue os itens que se seguem.   I Como qualquer tecnologia, soluções de big data também apresentam algumas restrições. Por exemplo, elas não podem ser utilizadas na área da saúde para determinar a causa de uma doença, porque esse é um procedimento complexo que somente pode ser executado por pessoas devidamente capacitadas — nesse caso, os médicos.  II Big data é qualquer tipo de fonte de dados que possui, no mínimo, as seguintes três características: volume de dados extremamente grande; velocidade de dados extremamente alta; e variedade de dados extremamente ampla.  III Para que as organizações obtenham os conhecimentos corretos, a tecnologia big data não permite que elas executem as operações de armazenar e administrar as grandes quantidades de dados de si próprias.  IV Big data é uma combinação de tecnologias de gestão de dados que evoluíram ao longo dos anos, razão por que não é considerado um mercado único.  Estão certos apenas os itens 
+
+Alternativas:
+A. I e III.
+B. I e IV.
+C. II e IV.
+D. II e V.
+E. III e V.

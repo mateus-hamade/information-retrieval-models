@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados Relacionais
+
+Assinale a alternativa FALSA no contexto de projeto de bancos de dados relacionais. 
+
+Alternativas:
+A. Cada campo de uma tabela pode assumir valores pertencentes a um conjunto de valores especificado para a sua coluna.
+B. As linhas de uma tabela não estão ordenadas.
+C. Os campos de uma tabela podem ser vazios ou nulos.
+D. Uma chave estrangeira é uma coluna onde os valores são chaves primárias de uma tabela.
+E. A chave primária de uma linha em uma tabela não pode ser a combinação de mais de uma coluna.

@@ -1,0 +1,10 @@
+Programação Visual Basic , Linguagens de programação
+
+Em qual dos seguintes cenários o uso de uma linguagem visual seria mais apropriado?
+
+Alternativas:
+A. Implementação de funções matemáticas avançadas para cálculos científicos;
+B. Desenvolvimento de um compilador para uma nova linguagem de programação;
+C. Criação de um protótipo interativo para uma aplicação de design de interiores;
+D. Programação de sistemas operacionais de baixo nível;
+E. Desenvolvimento de um algoritmo complexo de criptografia.

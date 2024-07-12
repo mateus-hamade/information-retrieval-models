@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Vetores
+
+Assinale a estrutura de dados linear e estática, caracterizada por uma sequência de elementos de um mesmo tipo de dado e que são armazenados em posições consecutivas de memória.
+
+Alternativas:
+A. Matriz.
+B. Lista ligada.
+C. Registro.
+D. Árvore binária.
+E. Vetor.

@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Texto associado Considerando a figura acima, que ilustra um diagrama representando a hierarquia para a resolução de um problema em módulos, julgue os itens a seguir.  A variável V3, declarada no algoritmo A, pode ser utilizada pelos algoritmos A, B, D, E e F.
+
+Alternativas:
+A. Certo
+B. Errado

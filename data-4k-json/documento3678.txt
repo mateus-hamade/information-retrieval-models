@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados , Vetores
+
+Vetores associativos, caches e sets 
+
+Alternativas:
+A. especificam a profundidade de um nó nas árvores binárias (distância de um nó até a raiz).
+B. são tipicamente implementados por tabelas hash, usadas na indexação de grandes volumes de dados.
+C. especificam as ordens de grandeza em uma estrutura DEQUE.
+D. são elementos especificados no modelo conceitual de dados.
+E. devem ser especificados pelos usuários de bancos de dados durante o projeto lógico.

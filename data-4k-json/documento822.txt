@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados
+
+O comando ALTER TABLE é utilizado para alterar a estrutura de uma tabela. Assinale a alternativa correta sobre o comando ALTER TABLE. 
+
+Alternativas:
+A. Não é possível adicionar ou remover constraints de uma tabela usando o comando ALTER TABLE.
+B. Através do comando ALTER TABLE é possível alterar o tipo de dado (domínio) de um campo (coluna) e o SGBD fará a correta conversão automática dos dados em todas as situações.
+C. O comando ALTER TABLE faz parte da DDL da SQL e, depois de executado, não será desfeito pela execução de um comando ROLLBACK
+D. Não é possível reduzir o tamanho de um campo através do comando ALTER TABLE
+E. A adição de mais campos em uma tabela não pode ser feita através do comando ALTER TABLE.

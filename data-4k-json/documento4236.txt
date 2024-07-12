@@ -1,0 +1,9 @@
+Segurança da Informação Noções de Segurança , Segurança física e lógica
+
+Segurança física e lógica são dois aspectos fundamentais da segurança da informação que visam proteger ativos e recursos valiosos de uma organização contra ameaças internas e externas. Ambos os aspectos desempenham papéis complementares na garantia da integridade, confidencialidade e disponibilidade dos dados e sistemas. Sobre as características da segurança física e lógica, assinale a alternativa que se refere à uma medida considerada como uma prática de segurança física. 
+
+Alternativas:
+A. Criptografar dados sensíveis.
+B. Implementar câmeras de segurança.
+C. Utilizar firewalls para proteger a rede.
+D. Atualizar regularmente o sistema operacional.

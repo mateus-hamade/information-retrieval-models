@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados
+
+A prática de dividir uma tabela grande em tabelas menores para reduzir a redundância e melhorar o desempenho das consultas é denominada:
+
+Alternativas:
+A. Fragmentação de Banco de Dados.
+B. Indexação de Banco de Dados.
+C. Integridade Referencial.
+D. Tuning de Banco de Dados.
+E. Normalização de Banco de Dados.

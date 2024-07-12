@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados Relacionais
+
+A construção dos modelos que formam a documentação de um banco de dados é importante para garantir o acompanhamento de suas mudanças ao longo do tempo. Uma dependência funcional ocorre quando um valor A depende de um valor B, ou seja, uma coluna depende de outra coluna da mesma tabela. Selecione a alternativa que descreve o tipo de dependência que ocorre quando um item da tabela depende de uma parte da chave primária concatenada da tabela, e não da chave toda. 
+
+Alternativas:
+A. Funcional total
+B. Funcional parcial
+C. Funcional transitiva
+D. Funcional lógica
+E. Funcional física

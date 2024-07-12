@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos
+
+Considere o algoritmo a seguir:        Assinale a alternativa que corresponde à apresentação do problema.  
+
+Alternativas:
+A. Dados três valores numéricos distintos, colocá-los em ordem decrescente.
+B. Dados três valores numéricos distintos, colocá-los em ordem crescente.
+C. Dados três valores alfanuméricos distintos, colocá-los em ordem alfabética crescente.
+D. Dados três valores numéricos distintos, colocá-los em ordem aleatória.
+E. Dados três valores alfanuméricos distintos, colocá-los em ordem alfabética decrescente.

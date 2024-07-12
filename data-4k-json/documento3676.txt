@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+  As árvores usadas como estruturas de pesquisa têm características especiais que garantem sua utilidade e propriedades como facilidade de acesso aos elementos procurados em cada instante. A esse respeito, considere as afirmações abaixo.  I - A árvore representada na figura (I) acima não é uma árvore AVL, pois as folhas não estão no mesmo nível.  II - A sequência 20, 30, 35, 34, 32, 33 representa um percurso sintaticamente correto de busca do elemento 33 em uma árvore binária de busca.  III - A árvore representada na figura (II) acima é uma árvore binária, apesar da raiz não ter filhos.  É(São) correta(s) APENAS a(s) afirmativa(s) 
+
+Alternativas:
+A. I.
+B. II.
+C. III.
+D. I e II.
+E. II e III.

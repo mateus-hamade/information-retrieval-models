@@ -1,0 +1,9 @@
+Banco de Dados PostgreSQL
+
+Um dos recursos disponíveis em um banco de dados é poder fazer o backup dos dados. No PostgreSQL, corresponde ao comando empregado para fazer o backup dos dados: 
+
+Alternativas:
+A. dumpdb
+B. pg_dump
+C. backupdb
+D. mysqldump

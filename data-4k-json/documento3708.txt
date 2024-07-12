@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Considere uma árvore B de grau mínimo igual a 2 (o que significa que cada nó pode ter, no máximo, 3 chaves) inicialmente vazia, na qual são inseridas as chaves N, D, T, B, Z, K, R, F, G, nesta ordem, as quais são comparadas com base na ordem do alfabeto. Considerando o algoritmo de inserção em uma única passagem, conclui-se que 
+
+Alternativas:
+A. a altura da árvore resultante será 3.
+B. B estará em um nó interno.
+C. o nó raiz conterá a chave K.
+D. haverá 4 nós folhas.
+E. F e G pertencerão à mesma folha.

@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Analise o algoritmo abaixo, no qual ocorre passagem de parâmetros por referência de ST para X e de LG para W e por valor de NR para Y.  Ao final da execução, serão mostrados para as variáveis ST, NR e LG, respectivamente, os seguintes conteúdos: 
+
+Alternativas:
+A. JUAZEIRO, 2021 e FALSO.
+B. ARACATI, 2021 e VERDADEIRO.
+C. ARACATI, 2020 e VERDADEIRO.
+D. JUAZEIRO, 2022 e VERDADEIRO.

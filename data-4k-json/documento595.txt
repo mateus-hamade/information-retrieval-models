@@ -1,0 +1,10 @@
+Banco de Dados PostgreSQL
+
+No PostgreSQL 12, o pg_restore é um utilitário para restaurar um banco de dados de um arquivo criado pelo pg_dump. Assinale a opção que apresenta o argumento que deve ser inserido, ao fazer uso desse utilitário via linha de comando, para criar o banco de dados de destino, caso ele não exista, antes de restaurar nele. 
+
+Alternativas:
+A. --data-only
+B. --create
+C. --schema
+D. --format
+E. --index

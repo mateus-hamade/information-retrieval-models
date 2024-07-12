@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+A respeito do tipo de dados abstrato DEQUE, é incorreto afirmar que:
+
+Alternativas:
+A. implementação básica de DEQUE é um buffer circular.
+B. o tipo de dados abstrato DEQUE é uma extensão da estrutura de dados fila.
+C. este tipo de estrutura de dados suporta inserção e remoção tanto em seu final, quanto em seu início.
+D. em BlockingDeque é uma DEQUE que espera por espaço quando armazenar e que um elemento exista para retirar.
+E. suas funções básicas são conhecidas como ENQUEUE, que adiciona um elemento, e DEQUEUE, que remove um elemento.

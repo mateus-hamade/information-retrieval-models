@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+A respeito de lógica, estrutura e linguagem de programação, julgue o item seguinte.     Os operadores lógicos e e ou possuem, respectivamente, as funções de conjunção e disjunção.  
+
+Alternativas:
+A. Certo
+B. Errado

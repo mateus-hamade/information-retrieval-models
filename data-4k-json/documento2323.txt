@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Recursividade
+
+Considere a função recursiva ‘func’ definida por     func(1) = 1  func(n) = (n - 1) * func(n - 1)     Quais são os valores de func(4) e func(5), respectivamente? 
+
+Alternativas:
+A. 24 e 120
+B. 12 e 24
+C. 6 e 24
+D. 1 e 2
+E. 2 e 6

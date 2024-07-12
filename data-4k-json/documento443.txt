@@ -1,0 +1,10 @@
+Banco de Dados Conceitos Básicos em Banco de Dados , Banco de Dados Relacionais
+
+É o resultado do processamento de dados, dando‑lhes contexto e significado. É quando os dados são organizados, estruturados e relacionados a um determinado contexto, tornando‑os compreensíveis.  O texto acima refere‑se ao conceito de
+
+Alternativas:
+A. informação.
+B. conhecimento.
+C. inteligência.
+D. conhecimento tácito.
+E. conhecimento explícito.

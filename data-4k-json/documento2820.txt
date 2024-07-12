@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Fluxogramas
+
+Considere o fluxograma abaixo.                            Se forem lidos para as variáveis A e B, respectivamente, os valores 4 e 4 será exibido o valor
+
+Alternativas:
+A. 47994.
+B. 276.
+C. 1338.
+D. 4372.
+E. 20.

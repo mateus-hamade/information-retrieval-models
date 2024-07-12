@@ -1,0 +1,9 @@
+Engenharia de Software RUP (Rational Unified Process) - Processo Unificado Rational , Processos de Software
+
+O processo de desenvolvimento de software pode ser definido como o conjunto de atividades organizadas para definir, desenvolver, testar e manter um software. O modelo iterativo e incremental que incentiva o feedback de cada uma das fases é o
+
+Alternativas:
+A. espiral.
+B. unified process (UP).
+C. V-shaped.
+D. cascata.

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Estrutura de Dados ( assuntos)
+
+O seguinte pseudocódigo implementa a operação chamada de “remove caracteres” que recebe uma string (variável chamada “texto”) e um char (variável chamada “letra”). A cada ocorrência de “letra” na string “texto”, o caractere anterior é removido, assim como a própria “letra”. Veja um exemplo após a aplicação da operação “remove caracteres” na string “Aman#ha tem p#rova”, onde a variável letra tem valor ‘#’: “Amaha tem rova”. O pseudocódigo abaixo usa uma estrutura de dados (chamada de “EstruturaDados” no pseudocódigo abaixo), onde utilizamos as operações de remoção (removeED), inserção (adicionarED) e tamanho (tamanhoED) dessa estrutura de dados, onde a operação de remoção remove e retorna um elemento da estrutura de dados, a operação de inserção adiciona um elemento e a operação de tamanho retorna quantos elementos estão na estrutura de dados.   Assinale a alternativa que indica qual deve ser a estrutura de dados utilizada no lugar de “EstruturaDados” para que o pseudocódigo acima, caso implementado em uma linguagem de programação, execute corretamente a operação “remove caracteres”.
+
+Alternativas:
+A. Fila.
+B. Heap.
+C. Pilha.
+D. Árvore AVL.
+E. Árvore Rubro Negra.

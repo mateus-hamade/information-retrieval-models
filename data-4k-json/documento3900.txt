@@ -1,0 +1,9 @@
+Engenharia de Software Gestão de Projetos em Engenharia de Software
+
+A respeito dos padrões de projeto Factory Method e Abstract Factory, é correto afirmar:
+
+Alternativas:
+A. Factory Method separa uma abstração da sua implementação, de modo que as duas possam variar independentemente, enquanto o Abstract Factory define uma interface para criar um objeto, mas deixa as subclasses decidirem qual classe será instanciada.
+B. Factory Method fornece uma maneira de acessar, sequencialmente, os elementos de uma agregação de objetos sem expor sua representação subjacente, enquanto o Abstract Factory fornece uma interface unificada para um conjunto de interfaces em um subsistema.
+C. Factory Method define uma interface para criar um objeto, mas deixa as subclasses decidirem qual classe a ser instanciada, enquanto o Abstract Factory fornece uma interface para criação de famílias de objetos relacionados ou dependentes sem especificar suas classes concretas.
+D. Factory Method separa a construção de um objeto complexo da sua representação, de modo que o mesmo processo de construção possa criar diferentes representações, enquanto o Abstract Factory evita o acoplamento do remetente de uma solicitação ao seu destinatário, dando a mais de um objeto a chance de tratar a solicitação

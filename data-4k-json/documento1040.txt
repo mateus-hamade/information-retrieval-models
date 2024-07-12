@@ -1,0 +1,10 @@
+Banco de Dados Modelagem de dados
+
+Um dos momentos mais críticos no processo de desenvolvimento de um software é a modelagem de banco de dados. Selecione a alternativa que mostra a sequência correta das etapas de modelagem de dados em banco de dados.
+
+Alternativas:
+A. Identificação do problema; Modelagem conceitual; Modelagem lógica; Modelagem física.
+B. Modelagem conceitual; Identificação do problema; Modelagem lógica; Modelagem física.
+C. Modelagem lógica; Identificação do problema; Modelagem conceitual; Modelagem física.
+D. Identificação do problema; Modelagem lógica; Modelagem conceitual; Modelagem física
+E. Identificação do problema; Modelagem física; Modelagem lógica; Modelagem conceitual.

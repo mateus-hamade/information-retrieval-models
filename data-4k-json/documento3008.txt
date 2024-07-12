@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Grafos
+
+Julgue os itens subsequentes, acerca dos tipos de estruturas árvores, pilhas e grafos.  Um grafo é formado por um par de conjuntos de vértices e arestas, não podendo o conjunto de vértices ser particionado em subconjuntos.
+
+Alternativas:
+A. Certo
+B. Errado

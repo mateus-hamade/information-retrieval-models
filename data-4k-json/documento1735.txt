@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
+
+Em um determinado treinamento de pessoal de TI, para facilitar o aprendizado sobre o funcionamento da estrutura de dados PILHA, utilizou-se o jogo de trocas, cujas regras são apresentadas a seguir.  JOGO DAS TROCAS - REGRAS Para começar o jogo, o jogador recebe duas pilhas, P1 e P2. P1 está preenchida com quatro fichas, identificadas por nomes fictícios e empilhadas em ordem alfabética CRESCENTE a partir do topo.   P2 está inicialmente vazia. Uma ficha desempilhada de P1 é imediatamente empilhada em P2. A operação (P2,pop) acarreta impressão do nome que está na ficha desempilhada e descarte da ficha. Para ganhar o jogo, o jogador precisa determinar corretamente, dentre sequências derivadas da sequência inicial, por troca da posição de seus elementos, qual delas poderia ser impressa com essas operações. No início do jogo, foram dadas as pilhas P2, vazia, e P1 preenchida com as seguintes operações de empilhamento: push(P1,Zeus); push(P1,Hades); push(P1,Cibele); push(P1, Apolo). Considerando-se esse cenário, qual seria a sequência possível de ser impressa, da esquerda para a direita, de acordo com as regras do JOGO DAS TROCAS? 
+
+Alternativas:
+A. Apolo, Zeus, Cibele, Hades
+B. Hades, Apolo, Zeus, Cibele
+C. Zeus, Cibele, Apolo, Hades
+D. Hades, Apolo, Cibele, Zeus
+E. Cibele, Hades, Apolo, Zeus

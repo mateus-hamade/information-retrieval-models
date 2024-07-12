@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Os percursos em profundidade de uma árvore binária, conhecidos como pré-ordem e pós-ordem, são, respectivamente
+
+Alternativas:
+A. Pré-ordem: visitar a raiz, percorrer a subárvore esquerda em pré-ordem e depois percorrer a subárvore direita em pré-ordem.
+B. Pós-ordem: percorrer a subárvore direita em pós-ordem, percorrer a subárvore esquerda em pós-ordem e, por último, visitar a raiz.
+C. Pré-ordem: visitar a raiz, percorrer a subárvore direita em pré-ordem e depois percorrer a subárvore esquerda em pré-ordem.
+D. Pós-ordem: percorrer a subárvore esquerda em pós-ordem, percorrer a subárvore direita em pós-ordem e, por último, visitar a raiz.
+E. Pré-ordem :visitar a raiz, percorrer a subárvore direita em pré-ordem e depois percorrer a subárvore esquerda em pré-ordem.

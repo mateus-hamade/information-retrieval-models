@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Texto associado Ao final da execução do algoritmo apresentado, o valor da variável cont será:
+
+Alternativas:
+A. 64
+B. 12
+C. 16
+D. 32
+E. 128

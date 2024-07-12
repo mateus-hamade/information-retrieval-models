@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Para a pesquisa em memória primária, a árvore de pesquisa é uma estrutura de dados muito eficiente para armazenar informação. Sobre árvores de pesquisa em memória primária, analise as assertivas e, em seguida, assinale a alternativa que apresenta as corretas.  I. Ela é particularmente adequada quando existe necessidade de considerar todos ou alguma combinação de requisitos tais como: acesso direto e sequencial eficientes, facilidade de inserção e retirada de registros, e boa taxa de utilização de memória.  II. Em uma árvore binária de pesquisa, existem apontadores para subárvores esquerda e direita em cada nó.  III. Apesar de sua estrutura relativamente simples, a pesquisa em uma árvore binária de pesquisa é bastante complexa.  IV. Atingir um apontador nulo em um processo de pesquisa significa uma pesquisa sem sucesso (o registro procurado não está na árvore).  
+
+Alternativas:
+A. Apenas I e II.
+B. Apenas I e III.
+C. Apenas I, II e IV.
+D. Apenas II e III.
+E. Apenas II, III e IV.

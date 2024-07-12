@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Listas
+
+Questão anulada O método de inserção e remoção de dados de uma Lista é chamado de: 
+
+Alternativas:
+A. FIFO.
+B. LIFO.
+C. PUSH.
+D. Balanceamento.
+E. Bolha.

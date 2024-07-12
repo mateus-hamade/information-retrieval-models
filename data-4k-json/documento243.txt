@@ -1,0 +1,10 @@
+Banco de Dados Sistemas de Informações Gerenciais (SIG)
+
+Existem várias abordagens para a ingestão de dados, sendo cada uma delas adequada para determinado tipo de necessidade e de cenário. No caso da ingestão de dados em tempo real, streaming, os dados são 
+
+Alternativas:
+A. coletados e processados em intervalos regulares, por exemplo, diariamente ou semanalmente.
+B. capturados e processados continuamente à medida que são gerados.
+C. processados em pequenos lotes, com o processamento ocorrendo em intervalos curtos, mas não instantâneos.
+D. processados apenas após um evento específico ser acionado, como, por exemplo, uma transação em banco de dados ou um clique de usuário.
+E. armazenados em um data lake ou data warehouse, antes de qualquer forma de processamento ou de análise.

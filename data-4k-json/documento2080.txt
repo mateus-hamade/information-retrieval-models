@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
+
+As operações “push” e “pop” aplicam-se às estruturas de dados do tipo
+
+Alternativas:
+A. array.
+B. árvore binária.
+C. fila.
+D. hash.
+E. pilha.

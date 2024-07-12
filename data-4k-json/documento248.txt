@@ -1,0 +1,10 @@
+Banco de Dados Modelo relacional
+
+A tabela PESSOA, criada segundo os conceitos do Modelo Relacional para a realização de estudos na área da saúde, possui os seguintes atributos:             PESSOA (CPF, nome, sexo, idade, RG, renda, município-residência, UF-residência) A chave primária dessa tabela é o atributo CPF.  Nesse contexto, considere as seguintes dependências funcionais (DF) definidas para alguns dos atributos da tabela PESSOA:  CPF → nome CPF → renda CPF → município-residência Município-residência → UF-residência RG → nome  Considerando-se a definição da primeira, da segunda e da terceira formas normais, 1FN, 2FN e 3FN, respectivamente, a tabela PESSOA NÃO está na
+
+Alternativas:
+A. 1FN, devido à DF CPF → nome
+B. 2FN, devido à DF CPF → RG
+C. 2FN, devido à DF RG → nome
+D. 3FN, devido à DF CPF → renda
+E. 3FN, devido à DF Município-residência → UF-residência

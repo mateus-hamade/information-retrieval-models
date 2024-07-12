@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Busca
+
+Qual a sequência esperada de leitura de blocos de um disco, usando o algoritmo do elevador, quando, após serem lidos primeiro o bloco 8 e depois o bloco 10, se encontram na fila de espera os blocos 12, 3, 54, 25, 49, 6 e 15?  
+
+Alternativas:
+A. 6 , 3 , 12 , 15 , 25 , 49 e 54
+B. 12 , 3 , 54 , 25 , 49 , 6 e 15
+C. 12 , 15 , 6 , 3 , 25 , 49 e 54
+D. 12 , 15 , 25 , 49 , 54 , 6 e 3
+E. 54 , 49 , 25 , 15 , 12 , 6 e 3

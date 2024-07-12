@@ -1,0 +1,9 @@
+Banco de Dados SQL Server
+
+Foi definido um AD para gerenciamento de acessos ao domínio e feita a configuração do AD com uma nova instalação do SQL Server. Com isso, o Always On precisa ser habilitado. Sobre o assunto, analise as proposições abaixo e assinale (V) para Verdadeiro ou (F) para Falso.   ( ) Utilizar o Transact-SQL. ( ) Utilizar o powershell. ( ) Utilizar o bash do Linux.   Assinale a alternativa que apresenta a sequência correta.
+
+Alternativas:
+A. F / V / V
+B. V / F / F
+C. F / F / V
+D. V / V / F

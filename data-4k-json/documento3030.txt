@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Texto associado No algoritmo apresentado, o valor impresso para z ao final do algoritmo é:
+
+Alternativas:
+A. 0
+B. 5
+C. 8
+D. 10
+E. 16

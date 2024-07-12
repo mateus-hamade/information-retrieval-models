@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
+
+Texto associado Na estrutura de repetição “faça-enquanto”, a condição é testada antes da execução do código da iteração; na estrutura “repita-até”, por sua vez, a condição é testada após a execução do código. 
+
+Alternativas:
+A. Certo
+B. Errado

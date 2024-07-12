@@ -1,0 +1,9 @@
+Banco de Dados SQL
+
+No contexto dos fundamentos de Bancos de dados, SQL é a sigla para linguagem de consulta estruturada utilizada na realização de consultas e no gerenciamento de bancos de dados, englobando três sublinguagens, DML, DDL e DCL. Nesse sentido, dois exemplos de comandos pertencentes à DML são
+
+Alternativas:
+A. DELETE e SELECT.
+B. REVOKE e GRANT.
+C. UPDATE e ALTER
+D. CREATE e DROP.

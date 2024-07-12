@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados
+
+Uma árvore AVL é uma estrutura de dados muito usada para armazenar dados em memória. Ela possui algumas propriedades que fazem com que sua altura tenha uma relação muito específica com o número de elementos nela armazenados. Para uma folha, cuja altura é igual a um, tem-se uma árvore AVL com 6 nós.  Qual é a altura máxima que esta árvore pode ter? 
+
+Alternativas:
+A. 6
+B. 5
+C. 4
+D. 3
+E. 2

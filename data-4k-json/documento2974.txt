@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
+
+Um vetor ordenado de inteiros com 2N+1 elementos, com N=0, será usado para criar uma árvore binária de busca da seguinte maneira: o elemento central, de índice N, será usado para criar a raiz; depois, serão inseridos na árvore todos os elementos na seguinte ordem de índices: N-1, N+1, N-2, N+2, ..., 1, 2N-1, 0, 2N.  Assumindo que a altura de uma folha é zero, qual será a altura resultante dessa árvore?
+
+Alternativas:
+A. Log2 N
+B. Log2 (2N+1)
+C. N
+D. N+1
+E. 2N+1

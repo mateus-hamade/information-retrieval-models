@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Conceitos Básicos e Algoritmos
+
+A respeito dos conceitos de função e avaliação de expressões, julgue o item subsequente.      Assuma-se o seguinte algoritmo.  dim a[3]  a[0]=1  a[1]=10  a[2]=101  para i = 0 até 2      escreva(a[i]&3)     Considerando-se & como o operador binário E, é correto afirmar que o resultado apresentado será o seguinte.  1  2   1 
+
+Alternativas:
+A. Certo
+B. Errado

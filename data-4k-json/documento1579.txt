@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+O algoritmo KNN (K-nearest neighbors ou k-vizinhos mais próximos) se insere na categoria de
+
+Alternativas:
+A. aprendizado por reforço.
+B. aprendizado não supervisionado.
+C. aprendizado supervisionado.
+D. redução de dimensionalidade.
+E. modelo paramétrico.

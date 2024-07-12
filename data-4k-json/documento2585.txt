@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
+
+Em computação, uma pilha é uma estrutura de dados elementar que admite remoção de elementos e inserção de novos elementos. Ela é uma estrutura sujeita a uma regra de operação. Essa regra é tecnicamente conhecida como
+
+Alternativas:
+A. FIFO.
+B. LIFO.
+C. FILO.
+D. Flip-Flop.
+E. Bubble sort.

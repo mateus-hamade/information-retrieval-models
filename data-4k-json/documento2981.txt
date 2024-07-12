@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Filas
+
+Por sua política de acesso FIFO (First In, FIrst Out), que trata dos elementos na ordem de sua chegada, a estrutura de dados que é tipicamente utilizada em simulações ou tratamento de eventos em interfaces gráficas é denominada
+
+Alternativas:
+A. pilha (stack).
+B. fila (queue).
+C. árvore (tree).
+D. vetor (array).
+E. grafo (graph).

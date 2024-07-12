@@ -1,0 +1,9 @@
+Banco de Dados SQL
+
+SQL é uma linguagem de banco de dados abrangente: tem instruções para definição de dados, consultas e atualizações.  Sobre a SQL, assinale a alternativa incorreta.
+
+Alternativas:
+A. No comando INSERT, os valores devem ser listados na mesma ordem em que os atributos correspondentes foram especificados no comando CREATE TABLE.
+B. O comando CREATE TABLE é usado para especificar uma nova relação, dando-lhe um nome e especificando seus atributos e restrições iniciais.
+C. O comando UPDATE é usado para excluir uma ou mais tuplas de uma relação.
+D. A forma básica do comando SELECT, às vezes chamada de mapeamento ou bloco select-from-where, é composta pelas três cláusulas: SELECT, FROM e WHERE.

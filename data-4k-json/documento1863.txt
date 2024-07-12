@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+  Considere que os números na tabela acima representem uma seqüência de nós percorridos em uma árvore binária para encontrar o valor 194. Sabendo que essa seqüência está incorreta, então, para se encontrar o valor 194, é suficiente trocar
+
+Alternativas:
+A. o nó de índice 2 pelo de índice 8.
+B. o nó de índice 4 pelo de índice 8.
+C. o nó de índice 3 pelo de índice 6.
+D. o nó de índice 2 pelo de índice 4.

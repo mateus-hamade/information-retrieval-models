@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+Correlacione os algoritmos internos de ordenação de listas da coluna à esquerda com sua descrição, na coluna à direita.  1) Bubblesort.   2) Ordenação por Seleção   3) Ordenação por Inserção  4) Shellsort   5) Quicksort   ( ) Escolhe-se um pivot e particiona-se a lista em duas sublistas: uma com os elementos menores que ele e outra com os maiores, que, ao serem ordenadas e combinadas com o pivot, geram uma lista ordenada. O processo é aplicado às partições para ordená-las. Embora tenha uma complexidade de pior caso de O(n2 ), no caso médio é de O(n log n).   ( ) Encontra-se o menor item do vetor. Troca-se com o item da primeira posição do vetor. Repetem-se essas duas operações com os n − 1 itens restantes, depois com os n − 2 itens, até que reste apenas um elemento.  ( ) Método preferido dos jogadores de cartas. A cada momento existem duas partes na lista: uma ordenada (destino) e outra não ordenada (fonte). Inicialmente a lista destino tem apenas o primeiro elemento, e a fonte os demais elementos. Em cada passo a partir de i=2, seleciona-se o i-ésimo item da lista fonte. Deve-se colocá-lo no lugar apropriado na lista destino, de acordo com o critério de ordenação.   ( ) É uma extensão de um outro algoritmo de ordenação conhecido e permite trocas de elementos distantes um do outro, não necessariamente adjacentes. Os itens separados de h posições são rearranjados. Todo h-ésimo item leva a uma lista ordenada. Tal lista é dita estar h-ordenada.   ( ) Varre-se a lista trocando-se de posição os elementos adjacentes fora de ordem. Varre-se a lista até que não haja mais trocas e, neste caso, a lista está ordenada.  A sequência correta, de cima para baixo, é:   
+
+Alternativas:
+A. 1, 2, 3, 4, 5.
+B. 5, 2, 3, 4, 1.
+C. 1, 4, 5, 3, 2.
+D. 5, 4, 2, 3, 1.
+E. 1, 3, 2, 4, 5.

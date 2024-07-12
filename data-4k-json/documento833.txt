@@ -1,0 +1,10 @@
+Banco de Dados PL-SQL , Oracle
+
+Considere o seguinte comando: CREATE OR REPLACE PROCEDURE questao AS BEGIN   FOR k IN (SELECT * FROM PESSOA)   LOOP    cont := cont+1;    DBMS_OUTPUT.PUT_LINE('NOME: '||k.NOME);  END LOOP; END; Analise as assertivas abaixo e assinale a alternativa correta. I. A opção [OR REPLACE] é opcional na sintaxe da criação da procedure e irá sobrescrever a procedure. II. O comando LOOP não possui EXIT e nem EXIT WHEN, por isso será infinito. III. A saída irá mostrar a lista de nomes da tabela PESSOA. IV. A quantidade de vezes que o LOOP será executado é determinada pela quantidade de tuplas da tabela PESSOA. 
+
+Alternativas:
+A. Todas estão corretas.
+B. Todas estão incorretas.
+C. Apenas II e III estão corretas.
+D. Apenas III e IV estão corretas.
+E. Apenas I, III e IV estão corretas.

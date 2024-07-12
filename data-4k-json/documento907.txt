@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados
+
+Considerando os sistemas gerenciadores de bancos de dados, a maioria deles contém um módulo denominado otimizador, cuja função principal é
+
+Alternativas:
+A. implementar mecanismos de segurança dos dados contidos no banco de dados.
+B. realizar a conexão mais eficiente com a rede de comunicação de dados.
+C. duplicar o conteúdo dos dados a serem utilizados em uma consulta.
+D. determinar a forma mais adequada para que os dados do banco de dados ocupem menos espaço de armazenamento permanente.
+E. determinar o(s) modo(s) mais eficiente(s) para que o sistema gerenciador execute a consulta solicitada pelo usuário.

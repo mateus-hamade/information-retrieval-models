@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+Texto associado O procedimento Ordena, apresentado abaixo, no qual A é um vetor e n é a quantidade de elementos nesse vetor, implementa a lógica para classificar, em ordem decrescente, os números do vetor A.  procedimento Ordena(A,n)         inicio           para i de 1 ate n faca             j = i;             para k de j + 1 ate n faca           se A[k] < A[j] entao j = k;         fimpara       t = A[i]; A[i] = A[j]; A[j] = t;     fimpara fimprocedimento 
+
+Alternativas:
+A. Certo
+B. Errado

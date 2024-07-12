@@ -1,0 +1,10 @@
+Arquitetura de Computadores Arquiteturas
+
+O analista Matheus está encarregado de projetar um sistema computacional para suportar uma aplicação de processamento de dados em larga escala que requer alta disponibilidade, processamento paralelo e capacidade de recuperação rápida de falhas.  Diante dessas exigências, ao avaliar os componentes e as arquiteturas de sistemas computacionais mais adequados, Matheus deve escolher a configuração do sistema que inclui:
+
+Alternativas:
+A. um processador de alto desempenho com a maior frequência de clock disponível no mercado;
+B. uma arquitetura de computação em nuvem distribuída, com ênfase em serviços de escalabilidade automática e balanceamento de carga;
+C. um sistema operacional de tempo real para garantir a máxima eficiência em processamento de dados;
+D. discos rígidos tradicionais (HDDs) para armazenamento de dados, devido ao seu baixo custo por gigabyte;
+E. um único servidor de alta capacidade para centralizar o processamento e armazenamento de dados.

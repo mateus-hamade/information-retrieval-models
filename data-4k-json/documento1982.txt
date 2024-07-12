@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Grafos , Listas ( assuntos)
+
+Sobre alguns tipos de estruturas de dados utilizadas em computação, assinale a alternativa incorreta.
+
+Alternativas:
+A. Listas
+B. Árvores
+C. Malha
+D. Grafos

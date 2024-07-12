@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Fluxogramas
+
+Considerando o tema, tipos de algoritmos, assinale a alternativa que representa o tipo de algoritmo que mais se aproxima da definição: “Um dos tipos de algoritmos mais usados que consiste em analisar a descrição do problema e escrever o passo a passo para sua solução através de símbolos gráficos pré-definidos. A vantagem do uso desse tipo de algoritmo está no entendimento facilitado pela utilização de elementos gráficos”.
+
+Alternativas:
+A. Fluxograma
+B. Descrição Narrativa
+C. Pseudocódigo ou Portugol
+D. Algoritmo tabelado

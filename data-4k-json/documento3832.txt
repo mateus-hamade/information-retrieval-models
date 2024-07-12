@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Vetores
+
+Suponha que o primeiro elemento do vetor no pseudocódigo abaixo esteja posicionado no índice 1.  Qual o resultado final da variável "vetor" a partir da entrada {5,4,3,2,8}? 
+
+Alternativas:
+A. {2,3,4,5,8}
+B. {4,3,2,1,7}
+C. {5,3,2,1,7}
+D. {6,5,4,3,9}
+E. {8,2,3,4,5}

@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Acerca do tipo de dados árvore, julgue os próximos itens.   Quando não é possível prever antecipadamente quantos nós serão necessários para a criação e utilização de uma árvore binária, utilizam-se, na sua implementação, listas encadeadas.  
+
+Alternativas:
+A. Certo
+B. Errado

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Deseja-se chamar uma sub-rotina Quadrado, dentro de um programa principal, passando a ela um parâmetro x. Tal parâmetro conterá, como entrada, um certo valor inteiro e, como saída, receberá esse valor elevado ao quadrado. O tipo de passagem de parâmetro que permite que x seja um parâmetro tanto de entrada como também de saída da sub-rotina é denominado passagem de parâmetro 
+
+Alternativas:
+A. ubíqua.
+B. ambígua.
+C. independente
+D. por referência.
+E. por valor.

@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Leia as afirmativas a seguir: I. No contexto da lógica de programação, um algoritmo é uma sequência finita de passos que levam à execução de uma tarefa. Ou seja, o algoritmo pode ser visto como uma receita, uma sequência de instruções que dão cabo de uma meta específica. II. Nos bancos de dados relacionais, os relacionamentos entre as tabelas não são codificados explicitamente na sua definição. Em vez disso, fazem-se implicitamente pela presença de atributos chave. Marque a alternativa CORRETA:
+
+Alternativas:
+A. As duas afirmativas são verdadeiras.
+B. A afirmativa I é verdadeira, e a II é falsa.
+C. A afirmativa II é verdadeira, e a I é falsa.
+D. As duas afirmativas são falsas.

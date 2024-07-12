@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Filas
+
+Sobre estrutura de dados, analise as afirmativas a seguir e marque a alternativa correta:  I-Tanto filas como pilhas são listas lineares.  II- Uma pilha possui regime de LIFO (last in first out) enquanto uma fila possui o regime FIFO (first in first out). 
+
+Alternativas:
+A. Ambas as afirmativas estão corretas.
+B. Somente a afirmativa I está correta.
+C. Somente a afirmativa II está correta.
+D. Nenhuma das afirmativas está correta.

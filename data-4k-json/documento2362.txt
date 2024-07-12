@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+A expressão lógica de um trecho de programa é representada abaixo.     (X NOT = 3) AND (Y NOT < 12) AND (Z NOT > 9) OR  (X = 3) AND (Y NOT < 12) AND (Z NOT > 9) OR  (Z NOT > 9)     Pode-se simplificar a expressão acima, mantendo a mesma lógica, usando apenas  
+
+Alternativas:
+A. (X NOT = 3) AND (Z > 9)
+B. (X = 3) AND (Y < 12) OR (Z NOT > 9)
+C. (Y < 12) OR (Z NOT > 9)
+D. (Z NOT > 9)
+E. (X NOT = 3) OR (Y < 12) AND (Z > 9)

@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+Qual é o tipo de algoritmo de ordenação que tem como princípio percorrer o vetor diversas vezes, a cada passagem fazendo o maior elemento se mover para o final da estrutura?
+
+Alternativas:
+A. Double sort
+B. Heap sort
+C. Merge sort
+D. Bubble sort

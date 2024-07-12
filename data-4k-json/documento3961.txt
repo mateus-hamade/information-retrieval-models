@@ -1,0 +1,10 @@
+Engenharia de Software Desenvolvimento de Software
+
+Os analistas do TJMS possuem convenções de código-fonte bem definidas, que orientam o bom desenvolvimento de novos sistemas. As convenções de código-fonte do TJMS ajudam a manter os códigos bem estruturados e fáceis de manutenir.  Ao reforçar a boa estruturação e a clareza do código-fonte, as convenções do TJMS mitigam diretamente o antipadrão de software conhecido como:
+
+Alternativas:
+A. fim da linha;
+B. espera ativa;
+C. fluxo de lava;
+D. âncora de barco;
+E. código espaguete.

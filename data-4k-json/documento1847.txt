@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Tomando como base as propriedades de transitividade e simetria de transposição da notação assintótica, considere as seguintes afirmativas: I f(n) = Θ(g(n)) e g(n) = Θ(b(n)), logo f(n) = Θ(b(n)) II f(n) = O(g(n)) se e somente se g(n) = Ω(f(n)) III f(n) = O(g(n)) se e somente se g(n) = O(f(n)) IV f(n) = O(g(n)) e g(n) = O(b(n)), logo f(n) = Ω(b(n)) Em relação ao exposto, estão corretas as afirmativas 
+
+Alternativas:
+A. I e II.
+B. II e IV.
+C. I e III.
+D. III e IV.

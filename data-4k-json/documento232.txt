@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados
+
+A deduplicação de dados é uma técnica importante no gerenciamento de informações, especialmente em ambientes onde grandes volumes de dados são gerados e armazenados. Essa técnica é necessária em ambientes onde grandes volumes de dados são gerados porque pode ajudar a reduzir o consumo de armazenamento e a aumentar a eficiência dos processos de análise de dados. A deduplicação de dados é útil, por exemplo, no domínio da medicina, em que há grandes conjuntos de dados genômicos que são analisados para identificar padrões e mutações associadas a doenças específicas. Nesse cenário, a deduplicação é vital para assegurar a precisão das análises, pois, se amostras de DNA de um mesmo paciente são coletadas e sequenciadas em diferentes momentos e locais, pode haver uma repetição inadvertida dessas amostras no banco de dados. Nesse contexto, a deduplicação de dados é crucial para a integridade da pesquisa, pois dados duplicados podem levar a interpretações errôneas, como a superestimação da prevalência de uma mutação genética rara. A técnica de deduplicação de dados consiste em um processo de
+
+Alternativas:
+A. agregação de dados, que combina duplicatas em um único conjunto de dados.
+B. compactação de dados, que reduz o tamanho de um conjunto de dados, eliminando duplicatas.
+C. restauração de dados, que recupera dados duplicados e otimiza o processo de backup.
+D. replicação de dados, que permite gerar cópias de um conjunto de dados, aumentando a disponibilidade dos mesmos.
+E. redução de dados, que remove duplicatas de um conjunto de dados, mantendo apenas uma única instância de cada dado.

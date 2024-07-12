@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Considere o seguinte pseudocódigo:  Função misteriosa(a: inteiro)  Início  Se (a<1) então retorna -1;  Se (a==1) então retorna 2;  Se (a>1) então retorna (misteriosa(a-1)* misteriosa(a-2));  Fim  Para tentar descobrir o que a função misteriosa faz, um aluno experimentou a função com os valores de entrada 1, 3 e 4 e obteve os seguintes resultados, respectivamente: 
+
+Alternativas:
+A. 2, -4 e 8.
+B. -4, 2 e 16.
+C. 2, 6 e 8.
+D. 4, -2 e 32.
+E. 2, -2 e 4.

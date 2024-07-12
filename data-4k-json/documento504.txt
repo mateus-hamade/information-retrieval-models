@@ -1,0 +1,10 @@
+Banco de Dados PL-SQL
+
+Considere as afirmativas relacionadas à linguagem PL/SQL no Oracle 12c apresentadas a seguir. Registre V, para verdadeiras, e F, para falsas:        (  )O Oracle Advanced Compression oferece várias técnicas de compactação de dados para otimizar o armazenamento de dados, podendo ser utilizado em funções e procedimentos PL/SQL. Dentre essas técnicas, a compressão de tabelas, partições e índices.     (  )Em PL/SQL, as exceções podem ser geradas explicitamente pelo desenvolvedor, usando o comando RAISE. Esse comando permite associar um código de erro a uma exceção interna do Oracle.     (  )A instrução PRAGMA AUTONOMOUS_TRANSACTION indica que o bloco PL/SQL terá seu próprio controle de transação independente do procedimento ou função que o chamou.        Assinale a alternativa com a sequência correta:  
+
+Alternativas:
+A. V − F − V
+B. V − V − F.
+C. F − F − V.
+D. V − F − F.
+E. F − V − V.

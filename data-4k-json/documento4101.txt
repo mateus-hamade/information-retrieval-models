@@ -1,0 +1,10 @@
+Sistemas Operacionais Virtualização
+
+Sobre Azure Virtual Machines (Máquinas Virtuais do Azure) é correto afirmar, EXCETO: 
+
+Alternativas:
+A. As Máquinas Virtuais do Azure são a base do modelo de infraestrutura como serviço (IaaS) do Azure. IaaS é uma infraestrutura de computação instantânea, provisionada e gerenciada pela Internet.
+B. As responsabilidades associadas à configuração e manutenção de máquinas virtuais são apenas do cliente.
+C. Você pode usar máquinas virtuais de acordo com a demanda e pagar apenas pelo que usar.
+D. Você pode implementar diversas máquinas virtuais e configurar cada máquina com diferentes softwares e configurações para oferecer suporte a cenários de operação separados, como desenvolvimento, teste e implantação.
+E. Uma máquina virtual fornece seu próprio sistema operacional, armazenamento e recursos de rede e pode executar uma ampla variedade de aplicativos.

@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Filas
+
+A estrutura de dados fila também é conhecida por um acrônimo que usa as iniciais de palavras na língua inglesa, refletindo o funcionamento dessa estrutura de dados. Esse acrônimo é: 
+
+Alternativas:
+A. LIFO
+B. FIFO
+C. BTREE
+D. XTREE

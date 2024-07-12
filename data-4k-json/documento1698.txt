@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Considere a existência de uma linguagem de programação na qual, na invocação de uma função, a passagem dos parâmetros seja exclusivamente por valor. O código abaixo está escrito nessa linguagem e os comentários (“//”) explicam o significado de cada linha. Que valor será atribuído à variável “b” após a execução do seguinte código? a = 100                // atribui o valor 100 à variável “a” f(a + 1)                // invoca a execução da função “f” b = a                   // atribui o valor da variável “a” à variável “b”  def f(a) {             // define a função “f”     a = a + 10 }  Assinale a alternativa CORRETA.
+
+Alternativas:
+A. 101
+B. 110
+C. 100
+D. 111
+E. 11

@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+Assinale a opção em que a instrução SQL apresentada, quando executada, permite mostrar a quantidade de contratos ativos de determinado órgão no ano de 2023.  
+
+Alternativas:
+A. SELECT SUM (*) FROM contrato WHERE situacao IN 'ATIVO' AND ano= 2023;
+B. SELECT AVG (*) WHERE situacao = 'ATIVO' AND ano= 2023;
+C. SELECT COUNT (*) WHERE situacao IN 'ATIVO' OR ano= 2023;
+D. SELECT MAX (*)
+E. SELECT COUNT (*) WHERE situacao IN 'ATIVO' AND ano= 2023;

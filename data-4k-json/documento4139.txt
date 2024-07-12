@@ -1,0 +1,10 @@
+Engenharia de Software Frameworks
+
+Docker é um framework para a construção e gestão de contêineres (máquinas virtuais de sistema operacional). Para exibir os processos rodando em um container, deve-se executar o comando:
+
+Alternativas:
+A. docker servisse;
+B. docker tag;
+C. docker volume;
+D. docker top;
+E. docker commit.

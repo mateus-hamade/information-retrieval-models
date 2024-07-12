@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+O algoritmo de busca e de ordenação que encontra o menor elemento e o troca com a primeira posição, depois o segundo menor com a segunda posição, e assim sucessivamente (n-1 vezes), usa o método de
+
+Alternativas:
+A. seleção.
+B. inserção.
+C. ordenação por fusão (MergeSort ).
+D. ordenação por troca (BubbleSort).

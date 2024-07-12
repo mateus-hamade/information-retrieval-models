@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Questão anulada  Analise o trecho do algoritmo abaixo.        Assinale a alternativa correta, em relação à saída do código acima.  
+
+Alternativas:
+A. 0
+B. 3
+C. 6
+D. 8
+E. 12

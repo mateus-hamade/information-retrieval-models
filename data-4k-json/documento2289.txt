@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Fluxogramas
+
+Considere os cinco fluxogramas abaixo, identificados pelas letras A, B, C, D e E, que geram valores da variável X e imprimem esses valores dentro de uma faixa controlada.   O objetivo dos fluxogramas é imprimir valores de X, na faixa de 1 a 10 (incluindo os limites). Porém um dos fluxogramas imprime valor(es) fora desta faixa. Qual é este fluxograma? 
+
+Alternativas:
+A. Fluxograma A.
+B. Fluxograma B.
+C. Fluxograma C.
+D. Fluxograma D.
+E. Fluxograma E.

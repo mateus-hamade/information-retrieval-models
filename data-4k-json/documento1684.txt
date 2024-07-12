@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
+
+      As complexidades dos algoritmo1 e algoritmo2 precedentes são, respectivamente, iguais a  
+
+Alternativas:
+A. O(2^n) e O(n).
+B. O(2^n) e O(2^n).
+C. O(n) e O(n).
+D. O(log(n)) e O(n).
+E. O(2^n) e O(log(n)).

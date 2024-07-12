@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Hashing
+
+A respeito de algoritmos de hash, julgue o item que se segue.       Hash é o resultado único e de tamanho fixo de um método criptográfico aplicado sobre uma informação, conhecido como função de resumo.   
+
+Alternativas:
+A. Certo
+B. Errado

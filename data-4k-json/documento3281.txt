@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Em relação às árvores de pesquisa, assinale a opção correta. 
+
+Alternativas:
+A. Esse tipo de árvore consiste de nós e arcos e, ao contrário das árvores naturais, é representada de baixo para cima, com a raiz no topo e as folhas na base.
+B. O arco de um caminho é denominado comprimento do caminho.
+C. O número de filhos permitido por nó e as informações armazenadas em cada nó diferenciam os diversos tipos de árvores de pesquisa existentes.
+D. A altura de uma árvore de pesquisa não vazia é o nível mínimo de um nó na árvore.
+E. Um nó folha é aquele com grau de saída um, ou também nó terminal.

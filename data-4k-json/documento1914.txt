@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+O algoritmo a seguir mostra o uso de passagem de parâmetros por referência de NN para VN e de GG para VG e por valor de SS para VS.     Após a execução desse algoritmo, os valores finais das variáveis NN, SS e GG serão, respectivamente:  
+
+Alternativas:
+A. 2019, SÃO FRANCISCO e VERDADEIRO
+B. 2019, SÃO PEDRO e FALSO
+C. 2020, SÃO FRANCISCO e FALSO
+D. 2020, SÃO PEDRO e VERDADEIRO

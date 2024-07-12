@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Analise o algoritmo abaixo escrito em pseudocódigo (Portugol).   algoritmo "Questão"  var    a, b, c: inteiro  inicio   a ← 0   b ← 1   c ← 2   repita   a ← a + 1   b ← b + a * 2   c ← c + b - a     até_que (a > 2)  fimalgoritmo     Ao final da execução do algoritmo acima, qual serão, respectivamente, os valores das variáveis "a", "b" e "c"?  
+
+Alternativas:
+A. 0, 1 e 2.
+B. 2, 7 e 9.
+C. 2, 12 e 15.
+D. 3, 13 e 19.
+E. 3, 30 e 37.

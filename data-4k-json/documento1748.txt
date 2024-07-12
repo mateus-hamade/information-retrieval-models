@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Filas
+
+Para uma estrutura de dados do tipo fila com as funções adicionar(valor), remover() e procurar(índice), assuma uma fila P com os seguintes valores iniciais {1, 6, 9, 12, 15}, em que o elemento mais à esquerda da fila é acessado com índice zero(0). A partir desse contexto, são realizadas as seguintes operações em sequência: 1. P.remover() 2. P.adicionar(8) 3. P.adicionar(3) 4. P.remover() Após a execução da operação 4, a operação P.procurar(3) é executada, a qual retorna o valor
+
+Alternativas:
+A. 8
+B. 4
+C. 1
+D. 12
+E. 6

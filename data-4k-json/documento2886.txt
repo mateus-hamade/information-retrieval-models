@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
+
+A respeito de estruturas de dados, julgue o item seguinte.  Se P for uma pilha de dados, então a operação Top(P)retornará e removerá o item que estiver no topo da pilha.
+
+Alternativas:
+A. Certo
+B. Errado

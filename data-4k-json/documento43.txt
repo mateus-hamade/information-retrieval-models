@@ -1,0 +1,9 @@
+Banco de Dados SQL
+
+As triggers podem ser criadas, alteradas e removidas usando comandos SQL específicos, permitindo que administradores de banco de dados gerenciem facilmente a lógica de negócios associada às tabelas do banco de dados. Sobre as características de triggers, assinale a afirmativa INCORRETA. 
+
+Alternativas:
+A. São compostas de três componentes: o evento, a condição e a ação.
+B. São acionadas com a intervenção do usuário, ou seja, o usuário vê o gatilho sendo disparado.
+C. Podem ser definidas para executar uma ação em resposta a uma consulta SELECT em uma tabela.
+D. São executadas ou acionadas apenas se ocorrer um evento, ou seja, uma operação de manipulação de dados.

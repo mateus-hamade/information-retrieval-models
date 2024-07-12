@@ -1,0 +1,9 @@
+Banco de Dados Banco de Dados Relacionais
+
+A procedure SalvarContasPagar está com um tempo demorado de comunicação dentro de uma transaction e, com isso, foi identificado que está faltando o argumento ____________________ para garantir que as tabelas não fiquem aguardando o término da transaction.   Assinale a alternativa que preenche corretamente a lacuna.
+
+Alternativas:
+A. WITH (NOLOCK)
+B. NOAWAIT
+C. TABLOCKX
+D. XLOCK

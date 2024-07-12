@@ -1,0 +1,10 @@
+Banco de Dados SGBD - Sistema de Gerenciamento de Banco de Dados
+
+A principal diferença entre um SGBD e um SGBDR está no fato de que um SGBD 
+
+Alternativas:
+A. é o termo genérico para um sistema que gerencia bancos de dados, enquanto um SGBDR é um tipo específico de SGBD que fornece integridade relacional.
+B. fornece controle redundante de dados, ao passo que um SGBDR não fornece.
+C. fornece relações um-para-um, e um SGBDR fornece apenas relações um-para-muitos.
+D. é um termo genérico para um sistema que não suporta chaves estrangeiras; por sua vez, um SGBDR refere-se a sistemas que suportam chaves estrangeiras.
+E. suporta apenas SQL ANSI, assim como um SGBDR suporta apenas MySQL.

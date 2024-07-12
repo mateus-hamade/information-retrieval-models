@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Recursividade
+
+Analise as afirmativas a seguir a respeito de algoritmos recursivos.     I. Diz-se que uma rotina é recursiva se a sua definição envolver uma chamada a ela mesma. Neste sentido, o termo recursão é equivalente ao termo indução utilizado por matemáticos.  II. Cada algoritmo recursivo possui um algoritmo iterativo equivalente e vice-versa, mas que pode ter mais ou menos complexidade em sua construção.  III. Uma função recursiva possui duas partes: caso base e caso recursivo.  IV. Um algoritmo pode ser chamado de iterativo quando ele requer a repetição implícita de um processo até que determinada condição seja satisfeita.  V. A recursividade possibilita a escrita de um código mais enxuto, com maior legibilidade e simplicidade.     Assinale a alternativa que possui alguma afirmação INCORRETA. 
+
+Alternativas:
+A. I e II.
+B. I e V.
+C. II e III.
+D. III e IV.

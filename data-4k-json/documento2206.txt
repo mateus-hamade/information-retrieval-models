@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+Para o método de ordenação Quicksort, a ordem de complexidade do pior caso e do caso médio, respectivamente, é
+
+Alternativas:
+A. θ(n2 ) e θ(n2 ).
+B. θ(n2 ) e θ(n lg n ).
+C. θ(n lg n ) e θ(n2 ).
+D. θ(n lg n ) e θ(n lg n ).
+E. θ(n lg n ) e θ(n).

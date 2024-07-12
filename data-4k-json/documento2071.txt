@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
+
+No VB.Net, a classe que representa uma coleção do tipo último que entra, primeiro que sai (LIFO) é:
+
+Alternativas:
+A. ArrayList
+B. Dictionary
+C. Hashtable
+D. Queue
+E. Stack

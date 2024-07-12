@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Listas
+
+Texto associado     Sobre os trechos de código acima, é INCORRETO afirmar que:  
+
+Alternativas:
+A. A função fun3 remove um elemento do final da lista encadeada.
+B. A função fun1 adiciona um novo elemento no final da lista encadeada.
+C. A função fun4 adiciona um novo elemento no início da lista encadeada.
+D. As funções fun1 e fun4 são funções que adicionam novos elementos na lista encadeada.
+E. A função fun2 pode ser utilizada para encontrar um nó da lista que tenha o valor value, que é passado como argumento para a função.

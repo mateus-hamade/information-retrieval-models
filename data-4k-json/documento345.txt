@@ -1,0 +1,10 @@
+Banco de Dados OLAP (On-line Analytical Processing)
+
+Ferramentas OLAP fornecem apoio computacional ao processamento analítico, para tomada de decisão em uma arquitetura de BI. Tal apoio ocorre por meio da implementação de operadores específicos.  Entre os principais tipos de operadores específicos de OLAP em data warehouses, incluem-se operadores de
+
+Alternativas:
+A. álgebra relacional
+B. cálculo relacional
+C. upload e de download
+D. agregação, de drill-down e de roll-up
+E. junção interna ou externa e de agrupamentos

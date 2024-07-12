@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+Considere:  I. Estrutura de dados que possui uma sequência de células, na qual cada célula contém um objeto de algum tipo e o endereço da célula seguinte.  II. Podem ser orientados, regulares, completos e bipartidos e possuir ordem, adjacência e grau.  III. Possuem o método de varredura esquerda-raiz-direita (e-r-d).  Os itens de I a III descrevem, respectivamente,  
+
+Alternativas:
+A. árvores binárias, listas ligadas e arrays.
+B. arrays, árvores binárias e listas ligadas.
+C. grafos, árvores binárias e arrays.
+D. listas ligadas, grafos e árvores binárias.
+E. grafos, listas ligadas e árvores binárias.

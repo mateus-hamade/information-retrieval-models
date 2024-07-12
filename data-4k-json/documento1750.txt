@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Listas
+
+Considere a seguinte definição de uma estrutura de dados: “é uma sequência de células, sendo que cada célula contém um objeto e o endereço da célula seguinte; todos os objetos são do mesmo tipo”. Assinale a alternativa que apresenta uma estrutura de dados com essas características.
+
+Alternativas:
+A. Grafo.
+B. Matriz.
+C. Árvore binária.
+D. Árvore ternária.
+E. Lista encadeada.

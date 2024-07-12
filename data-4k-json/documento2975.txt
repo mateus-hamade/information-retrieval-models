@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Considere o pseudocódigo abaixo.  Função teste(inteiro a, inteiro b): inteiro var x: inteiro Início  x ← a a ← b b ← x  retorna (b * (x + a) / 2)  Fim.  Algoritmo Principal var a, b: inteiro Início Leia (a, b) imprima (teste(a,b))  Fim  Considerando que a e b receberam, respectivamente, os valores 4 e 3, conclui-se que será impresso o valor
+
+Alternativas:
+A. 19.
+B. 17.
+C. 28.
+D. 13.
+E. 14.

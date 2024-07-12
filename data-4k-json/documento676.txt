@@ -1,0 +1,9 @@
+Banco de Dados Banco de Dados
+
+É entendido como segunda forma normal‟ em banco de dados a tabela que atenda a seguinte formalidade:
+
+Alternativas:
+A. os valores de seus atributos são monovalorados.
+B. todo atributo da tabela deve ser dependente funcional da chave completa e, não, de parte da chave.
+C. os valores de seus atributos são atômicos e monovalorados.
+D. todo atributo da tabela deve ser dependente funcional da chave completa e, não, de parte da chave e seus atributos são atômicos e monovalorados.

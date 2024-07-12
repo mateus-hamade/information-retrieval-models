@@ -1,0 +1,10 @@
+Programação JavaScript , Linguagens de programação
+
+   Assinale a opção em que é apresentado o resultado da execução do trecho de código precedente, desenvolvido em JavaScript.
+
+Alternativas:
+A. 5
+B. 10
+C. 20
+D. 120
+E. ReferenceError: y is not defined

@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Busca
+
+Julgue o item a seguir, relativo ao conceito de construção de algoritmos.     O algoritmo a seguir apresenta um exemplo de busca sequencial.    
+
+Alternativas:
+A. Certo
+B. Errado

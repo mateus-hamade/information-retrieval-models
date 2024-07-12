@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Hashing
+
+Um analista de sistemas está projetando um sistema que requer a implementação de uma estrutura de dados para representar um conjunto de elementos, onde a busca por um elemento específico deve ser realizada de forma eficiente. Qual estrutura de dados é mais apropriada para essa situação?
+
+Alternativas:
+A. Árvore binária;
+B. Fila;
+C. Pilha;
+D. Lista Encadeada;
+E. Hash table.

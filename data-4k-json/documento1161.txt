@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Fluxogramas
+
+Analise o seguinte fluxograma:                 Após a execução do algoritmo será exibido ao usuário o valor:  
+
+Alternativas:
+A. 14
+B. 15
+C. 16
+D. 17
+E. 18

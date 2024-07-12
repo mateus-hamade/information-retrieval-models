@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Observe a configuração de uma árvore B, onde uma página pode ter no máximo 4 filhas, contendo as chaves 7, 10, 15, 18, 20, 22, 26, 30, 35, 40.         Após a inserção da chave 5, a configuração das chaves do nó raiz da árvore seria  
+
+Alternativas:
+A. 5, 20, 30
+B. 10, 20, 30
+C. 5, 30
+D. 10, 30
+E. 20, 30

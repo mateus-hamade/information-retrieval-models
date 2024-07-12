@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Fluxogramas
+
+Considere o fluxograma abaixo.        De acordo com a lógica expressa pelo fluxograma, conclui-se que  
+
+Alternativas:
+A. a solicitação da senha é encerrada quando o usuário fornece a senha admin.
+B. somente o usuário com a senha admin consegue alterar a variável SENHA.
+C. o usuário com a senha admin avaliada como verdadeira nunca chega ao comando que exibe ACESSO OK.
+D. quando a SENHA_ATUAL não confere, esta é inicializada com “x”.
+E. após acessar o comando que exibe ACESSO OK a estrutura de repetição finaliza.

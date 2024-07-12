@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados , Pilhas
+
+Texto associado O armazenamento do tipo FIFO (first in, first out) é encontrado na estrutura de dados do tipo pilha.
+
+Alternativas:
+A. Certo
+B. Errado

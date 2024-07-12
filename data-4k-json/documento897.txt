@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+São operadores lógicos SQL: 1. ALL 2. NOT 3. LIKE 4. SOME 5. BETWEEN  Assinale a alternativa que indica todas as afirmativas corretas.
+
+Alternativas:
+A. São corretos apenas os operadores 1, 2, 3 e 4.
+B. São corretos apenas os operadores 1, 2, 3 e 5.
+C. São corretos apenas os operadores 1, 3, 4 e 5.
+D. São corretos apenas os operadores 2, 3, 4 e 5.
+E. São corretos os operadores 1, 2, 3, 4 e 5.

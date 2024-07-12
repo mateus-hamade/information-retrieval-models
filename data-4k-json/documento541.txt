@@ -1,0 +1,10 @@
+Banco de Dados Data Mining
+
+Texto associado Observe a seguinte estrutura do conjunto de dados PESSOA que contém dados sobre pessoas e a sua renda anual.     O conjunto de dados PESSOA será usado para a tarefa de aprendizagem supervisionada de classificação com a finalidade de prever se a renda (Classe) de uma pessoa excede 50 mil por ano. Para isso, a operação de pré-processamento de dados que deve ser executada no conjunto de dados PESSOA é:
+
+Alternativas:
+A. exclusão da coluna do tipo categórica "Classe" que possui outlier;
+B. discretização das colunas do tipo categórica "Sexo, Raça / Etnia e Educação";
+C. normalização por padronização das colunas do tipo categórica "Ocupação e Classe_trabalho";
+D. normalização das colunas do tipo continua "Idade, Ganho_capital, Anos_estudo e Horas_trabalhadas";
+E. imputação de valores com base na média dos valores existentes na coluna do tipo categórica "Sexo" que possui valores faltantes.

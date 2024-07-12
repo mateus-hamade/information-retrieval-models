@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Qual a diferença entre uma Árvore B e uma Árvore B+?
+
+Alternativas:
+A. A Árvore B armazena registros apenas nas folhas, enquanto a Árvore B+ armazena registros em todos os nós internos.
+B. A Árvore B+ é uma árvore binária, enquanto a Árvore B não tem restrições quanto ao número de filhos de um nó.
+C. A Árvore B permite acesso aleatório aos registros, enquanto a Árvore B+ permite apenas acesso sequencial.
+D. A Árvore B+ é uma árvore balanceada, enquanto a Árvore B não é.
+E. A Árvore B é uma árvore de busca, enquanto a Árvore B+ é uma árvore de ordenação.

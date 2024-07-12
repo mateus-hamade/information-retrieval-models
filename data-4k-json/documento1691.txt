@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
+
+João pretende armazenar uma coleção de dados referentes a cerca de um milhão de pessoas. Cada pessoa tem como chave de acesso um número inteiro sequencial, que não se repete.  Empregando uma estrutura de Tabela Hash, João conseguiria obter, praticamente, acesso com complexidade:
+
+Alternativas:
+A. O(1)
+B. O(log N)
+C. O(N)
+D. O(N log N)
+E. O(N2)

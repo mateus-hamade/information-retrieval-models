@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+É a descrição de um padrão de comportamento, expressado em termos de um repertório bem definido e finito de ações " primitivas" , das quais damos por certo que elas podem ser executadas. A descrição refere-se a: 
+
+Alternativas:
+A. Sequenciamento.
+B. Algoritmo.
+C. Compilador.
+D. Modularização.

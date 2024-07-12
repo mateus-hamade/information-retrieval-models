@@ -1,0 +1,9 @@
+Programação JavaScript , Linguagens de programação , CSS (Cascading Style Sheets) ( assuntos)
+
+Determinado usuário com conhecimentos avançados em tecnologia da informação estava navegando em um portal de notícias da sua cidade, quando observou que era possível inserir trechos em HTML nos campos de comentários das reportagens. Esse comportamento chamou a atenção do usuário, que resolveu testar se também era possível adicionar códigos JavaScript; logo, foi verificado que o teste foi bem-sucedido, pois nenhum bloqueio foi detectado ao adicionar esse tipo de código. A vulnerabilidade observada pelo usuário na situação hipotética torna possível um ataque conhecido como Cross-Site Scripting (XSS), que explora a falta de tratamento adequado das informações digitadas pelos usuários. Analise as afirmativas a seguir sobre o tipo de ataque em questão.   I. O objetivo é enviar comandos JavaScript e css que serão executados pelo servidor com comportamentos prejudiciais ao usuário. II. Uma forma de burlar algoritmos de tratamento de XSS é utilizar os códigos JavaScript mascarados como, por exemplo, em notação hexadecimal. III. Um exemplo de ataque pode ser: adicionar um código JavaScript para coletar os dados de autenticação digitados pelo usuário e, em seguida, realizar uma requisição ajax para outra aplicação enviando-os.   Está correto o que se afirma apenas em 
+
+Alternativas:
+A. I.
+B. II.
+C. III.
+D. II e III.

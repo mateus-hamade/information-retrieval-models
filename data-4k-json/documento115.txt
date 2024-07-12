@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+Assinale a alternativa que apresenta a finalidade principal da linguagem SQL em bancos de dados. 
+
+Alternativas:
+A. Definir a estrutura física do banco de dados
+B. Manipular e consultar dados no banco de dados
+C. Gerenciar a segurança do sistema
+D. Criar interfaces de usuário para o banco de dados
+E. Estabelecer relacionamentos entre tabelas

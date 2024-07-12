@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+Na Informática as estruturas de dados são formas de se estruturar informações de modo a serem registradas e processadas pelo computador. Nesse contexto, as estruturas de dados que são do tipo LIFO – Last In First Out – onde o último elemento inserido será o primeiro a ser retirado são as (os):
+
+Alternativas:
+A. filas.
+B. grafos.
+C. mapas.
+D. pilhas.
+E. árvores.

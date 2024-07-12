@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Hashing
+
+A respeito de algoritmos de hash, julgue o item que se segue.       A ferramenta mais utilizada para reduzir a probabilidade de acontecerem colisões em uma função de resumo (hash) é o ajuste de distribuição, de maneira que, quanto mais heterogênea e dispersa for a função resumo, menor será a sua probabilidade de colisão.  
+
+Alternativas:
+A. Certo
+B. Errado

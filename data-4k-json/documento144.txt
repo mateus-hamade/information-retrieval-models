@@ -1,0 +1,10 @@
+Banco de Dados Modelagem de dados , Banco de Dados , Formas normais ( assuntos)
+
+Assinale a alternativa que representa corretamente o conceito de chave estrangeira no contexto dos bancos de dados relacionais: 
+
+Alternativas:
+A. Em uma tabela, a chave estrangeira consiste em uma coluna que identifica exclusivamente uma linha. O seu propósito é identificar, de modo exclusivo, um valor.
+B. Em uma tabela, a chave estrangeira consiste em uma coluna que identifica exclusivamente uma linha. O seu propósito é relacionar tabelas, para viabilizar consultas combinadas.
+C. Em uma tabela, a chave estrangeira consiste em uma ou mais colunas que se relacionam com a chave primária de outra tabela. O seu propósito é relacionar tabelas para viabilizar consultas combinadas.
+D. Em uma tabela, a chave estrangeira consiste em uma ou mais colunas que se relacionam com a chave primária de outra tabela. O seu propósito é identificar, de modo exclusivo, um valor.
+E. Em uma tabela, a chave estrangeira consiste em uma coluna que identifica, de modo exclusivo, um valor existente em outra tabela. O seu propósito é tornar as consultas de dados mais rápidas em função da redundância de informações.

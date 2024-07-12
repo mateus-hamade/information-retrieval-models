@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Listas
+
+Sobre listas lineares, é CORRETO afirmar que
+
+Alternativas:
+A. na representação encadeada, um elemento pode ser inserido em qualquer posição da lista sem movimentar os elementos subsequentes de suas atuais posições na memória.
+B. se os elementos são incluídos em uma lista por uma das extremidades e retirados pela outra, essa lista é uma pilha.
+C. na representação encadeada, a exclusão de um elemento provoca a movimentação dos demais elementos de suas atuais posições de memória.
+D. na representação vetorial, a inserção de um elemento em qualquer posição da lista é feita com esforço computacional constante.
+E. filas podem ser implementadas apenas através da representação vetorial.

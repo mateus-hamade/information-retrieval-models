@@ -1,0 +1,10 @@
+Banco de Dados SGBD - Sistema de Gerenciamento de Banco de Dados
+
+Um sistema de gerenciamento de banco de dados (SGBD) deve garantir quatro propriedades durante as transações. Desta forma, marque a propriedade na qual os usuários devem ter a certeza de que todas as ações serão executadas ou nenhuma delas é executada. 
+
+Alternativas:
+A. Atomicidade.
+B. Consistência.
+C. Isolamento.
+D. Durabilidade.
+E. Persistência.

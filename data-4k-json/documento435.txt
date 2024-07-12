@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+Dadas as tabelas Escritor (cpf, nome), Livro(isbn, titulo, data_publicacao) e Publica(cpf, isbn), como ficam as cláusulas From e Where de uma consulta SQL para exibir os nomes dos escritores dos livros ainda sem data de publicação? Considere que os atributos sublinhados são chaves primárias.
+
+Alternativas:
+A. From Publica P join Livro L on (P.isbn = L.isbn) Where L.data_publicacao is null
+B. From Publica P join Livro L on (P.isbn = L.isbn) Where L.data_publicacao in null
+C. From Escritor E join Livro L on (E.cpf = P.cpf AND P.isbn = L.isbn) Where L.data_publicacao is null
+D. From Escritor E join Publica P on (E.cpf = P.cpf) join Livro L on (P.isbn = L.isbn) Where L.data_publicacao is null
+E. From Escritor E join Publica P on (E.cpf = P.cpf) join Livro L on (P.isbn = L.isbn) Where L.data_publicacao in null

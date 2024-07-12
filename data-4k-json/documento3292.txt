@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+A respeito de algoritmos, estruturas de dados e objetos, julgue o  item  que se segue.   A estrutura de dados aplicada às linguagens de programação visa, do ponto de vista teórico, identificar e desenvolver modelos matemáticos que resolvam problemas e, do prático, criar representações concretas dos objetos e desenvolver rotinas capazes de atuar sobre essas representações, de acordo com o modelo considerado.  
+
+Alternativas:
+A. Certo
+B. Errado

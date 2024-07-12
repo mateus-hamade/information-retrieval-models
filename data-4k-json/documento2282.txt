@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Texto associado Qual é a característica principal desse algoritmo?
+
+Alternativas:
+A. É baseado na utilização de recursividade.
+B. É controlado por comandos de desvio incondicional.
+C. Utiliza comandos de repetição.
+D. Pode permanecer em laço infinito.
+E. É baseado na abordagem dividir e conquistar.

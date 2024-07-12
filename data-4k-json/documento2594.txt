@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Analisando as seguintes afirmações a respeito das árvores B: I. A árvore B de ordem M possui raiz com, no mínimo 2, e, no máximo, M subárvores; II. O “B” de árvore B refere-se à mesma ser uma árvore binária; III. É impossível a construção de uma árvore B de ordem um; IV. Todos os nós externos de uma árvore B devem estar no mesmo nível; V. Uma árvore B com n nós internos é uma árvore M-múltipla de busca balanceada com altura da ordem de O(log n). Verifica-se que 
+
+Alternativas:
+A. apenas o item II é falso.
+B. os itens I, II e V são falsos.
+C. apenas o item V é falso.
+D. os itens II, III e V são falsos.
+E. os itens II, IV e V são falsos.

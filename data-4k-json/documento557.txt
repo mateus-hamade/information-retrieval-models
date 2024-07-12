@@ -1,0 +1,10 @@
+Banco de Dados Conceitos Básicos em Banco de Dados , Banco de Dados
+
+Quanto às propriedades ACID de bancos de dados, a especificação “qualquer transação é uma proposição do tipo tudo ou nada” significa
+
+Alternativas:
+A. Correção.
+B. Durabilidade.
+C. Isolamento.
+D. Atomicidade.
+E. Integração.

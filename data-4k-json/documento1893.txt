@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Texto associado Ao final da execução do algoritmo, que valor deve estar associado a vet[15]?
+
+Alternativas:
+A. 0
+B. 7
+C. 27
+D. 44
+E. 57

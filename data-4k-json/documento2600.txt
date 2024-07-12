@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Tipos de Dados , Estrutura de Dados ( assuntos)
+
+Acerca de tipos de dados e estruturas de dados, é CORRETO afirmar que:
+
+Alternativas:
+A. os tipos básicos de dados, também conhecidos como tipos primitivos, não possuem estrutura sobre seus valores, sendo assim NÃO são indivisíveis.
+B. arranjos são tipos de dados estruturados capazes de agrupar componentes do mesmo tipo e possuem tamanho máximo predefinido.
+C. conjuntos são tipos de dados estruturados que servem para agregar componentes de tipos diferentes.
+D. sequências e registros NÃO são tipos de dados estruturados.
+E. os tipos de dados definidos pelo usuário são estruturas de dados definidas, com a finalidade de representar os tipos de dados que não foram previstos pelas linguagens de programação

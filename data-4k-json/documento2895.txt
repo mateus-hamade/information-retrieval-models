@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Fluxogramas
+
+Existem diversas formas de expressar um algoritmo. Em particular, nos fluxogramas, os símbolos, da esquerda para a direita,     representam, respectivamente,
+
+Alternativas:
+A. terminador e exibição.
+B. terminador e processo.
+C. processo e exibição.
+D. decisão e exibição.
+E. decisão e processo.

@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Acerca das estruturas homogêneas de dados vetor e matriz e dos conceitos de pilhas, filas e árvores binárias, julgue o item.     Nas árvores binárias, os nós da direita sempre possuem valor superior ao do nó‐pai.  
+
+Alternativas:
+A. Certo
+B. Errado

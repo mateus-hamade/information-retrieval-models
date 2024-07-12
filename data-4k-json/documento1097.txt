@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
+
+Das opções abaixo, qual faz referência ao tipo de estrutura de dados que estabelece uma política de entrada e saída LIFO (last in, first out), o último elemento a entrar é o primeiro a sair?
+
+Alternativas:
+A. Árvore
+B. Pilha
+C. Fila
+D. Matriz

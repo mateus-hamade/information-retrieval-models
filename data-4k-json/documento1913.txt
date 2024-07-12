@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Filas
+
+Assinale a alternativa que preenche a lacuna corretamente sobre listas lineares. “A estrutura de dados _____________, permite a inserção e a eliminação de elementos em ambas as extremidades.”
+
+Alternativas:
+A. Fila.
+B. Deque.
+C. Grafos.
+D. Árvore.
+E. Pilha.

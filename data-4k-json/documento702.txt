@@ -1,0 +1,9 @@
+Banco de Dados Modelagem de dados , SGBD - Sistema de Gerenciamento de Banco de Dados
+
+Assinale o tipo de modelo de banco de dados será utilizado pelo DBA durante a implementação do banco de dados no SGBD escolhido pela instituição, permitindo uma visão clara do como as tabelas irão se relacionar e os tipos de relacionamento que deverão ser utilizados. 
+
+Alternativas:
+A. Modelo conceitual
+B. Modelo físico
+C. Modelo em rede
+D. Modelo representacional

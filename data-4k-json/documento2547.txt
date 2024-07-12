@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Analise o retorno para o seguinte algoritmo.  A saída produzida pelo código acima é  
+
+Alternativas:
+A. 1, 1, 2, 3, 5, 8, 13, 21
+B. 1 1, 2, 3, 5, 8, 13, 19
+C. 1, 1, 2, 3, 5, 8, 13
+D. 1 1, 2, 3, 5, 8, 13,
+E. 1, 1, 2, 3, 5, 8, 13,

@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Considerando os fundamentos de lógica de programação e os operadores lógicos utilizados nas linguagens de programação, atente-se para a expressão abaixo. C * (B – A) <= D – B / C Qual seria o resultado da execução dessa expressão, caso o valor das variáveis fossem: A=3; B=6; C=2 e D=9 ?
+
+Alternativas:
+A. “true” ou “verdadeiro”.
+B. “false” ou “falso”.
+C. 6.
+D. 9.

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Texto associado Para entender melhor as regras de negócio percebidas nos requisitos de número 10, 11 e 21, e para auxiliar a programação dessas regras, a equipe de TI, contratada pelo Sr. Hiroshito, montou o pseudocódigo a seguir:    Considerando a entrada de notas entre 0 e 10, o pseudocódigo apresentado  
+
+Alternativas:
+A. não está correto, pois se a nota1 e a nota3 forem iguais e maiores que a nota2, será calculada a média entre a nota1 e a nota2, gerando um resultado incorreto.
+B. não está correto, pois se as três notas forem iguais, a variável media não receberá nenhum valor e, consequentemente, o bloco que verifica se o aluno será aprovado ou reprovado irá causar um erro.
+C. expressa adequadamente a lógica para implementar as regras de negócio presentes nos requisitos citados.
+D. não está correto, pois se um aluno tiver média maior do que 7 e número de faltas maior do que 25% do número de aulas, aparecerá a mensagem “Aprovado”.
+E. não está correto, pois se um aluno tiver média menor do que 7 e número de faltas igual a 25% do número de aulas, aparecerá a mensagem “Aprovado”.

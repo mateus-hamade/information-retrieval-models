@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Com relação a árvores binárias é INCORRETO afirmar: 
+
+Alternativas:
+A. Uma árvore binária é uma coleção finita de n>0 nodos que não pode ser nula.
+B. Uma árvore binária, cuja raiz armazena o elemento R, é denominada árvore de busca binária se todo elemento armazenado na subárvore esquerda é menor que R, nenhum elemento armazenado na subárvore direita é menor que R e as subárvores esquerda e direita também são árvores de busca binária.
+C. É um caso especial de árvore em que nenhum nodo tem grau superior a 2, isto é, nenhum nodo tem mais que dois filhos.
+D. Existe um nodo especial denominado raiz e os demais nodos são particionados em T1 e T2 estruturas disjuntas de árvores binárias. T1 é denominado subárvore esquerda e T2 subárvore direita da raiz.
+E. É uma árvore que pode ser nula.

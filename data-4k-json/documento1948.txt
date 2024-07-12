@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Listas
+
+A estrutura de dados denominada Lista Ligada (Lista Encadeada) é uma estrutura de dados
+
+Alternativas:
+A. linear e estática.
+B. hierárquica e dinâmica.
+C. linear, composta por células, sendo que, de uma forma geral, cada uma aponta para o próximo elemento da lista.
+D. hierárquica, composta por células, sendo que uma célula genérica aponta para três outras células.
+E. estática, composta por células, sendo que uma célula genérica aponta tanto para o próximo elemento da lista quanto para o elemento anterior da lista.

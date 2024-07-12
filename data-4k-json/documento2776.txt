@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+No algoritmo apresentado abaixo, ocorre passagem de parâmetro por valor de Y para M e por referência de N para W.  Após a execução, os valores de N, da função F2014(Y) e de X serão, respectivamente: 
+
+Alternativas:
+A. 13, 24 e 4.
+B. 14, 24 e 4.
+C. 14, 120 e 5.
+D. 13, 120 e 5.

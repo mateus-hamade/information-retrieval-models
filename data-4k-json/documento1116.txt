@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos
+
+Considere a sentença a seguir.  s: “O acesso ao auditório também pode ser feito através de uma rampa”  Aplicando a função f à sentença, obtém-se o seguinte resultado:  f(s) = “acesso auditório pode ser feito através rampa”  A tarefa de tratamento de dados textuais realizada pela função f é: 
+
+Alternativas:
+A. filtragem de conectivos.
+B. lematização.
+C. remoção de ruído.
+D. filtragem de stop words.

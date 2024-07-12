@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Busca , Estrutura de Dados ( assuntos)
+
+Considere a árvore binária de busca (BST) abaixo para responder à questão.        Qual é a sequência de chaves que constrói a referida árvore binária de busca (BST), inicialmente vazia? 
+
+Alternativas:
+A. 23 – 7 – 29 – 15 – 4 – 25 – 13 – 35 – 17
+B. 23 – 13 – 35 – 7 – 4 – 29 – 15 – 25 – 17
+C. 23 – 29 – 7 – 17 – 13 – 4 – 35 – 25 – 15
+D. 23 – 25 – 7 – 15 – 4 – 13 – 35 – 29 – 17
+E. 23 – 7 – 29 – 17 – 4 – 35 –15 – 25 – 13

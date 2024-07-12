@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Julgue o item a seguir, a respeito de algoritmos e técnicas supervisionadas e não supervisionadas de aprendizado de máquina e aprendizagem profunda.     Os algoritmos baseados em árvore de decisão definem modelos com uma técnica para estimar a probabilidade de um evento ocorrer sob determinada circunstância, usando-se uma estimativa a priori da probabilidade de sua ocorrência.  
+
+Alternativas:
+A. Certo
+B. Errado

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+Assinale a alternativa que indica uma vantagem dos algoritmos de agrupamento Hierárquicos sobre os Particionais.  
+
+Alternativas:
+A. Encontram grupos disjuntos.
+B. Não usam distância euclidiana.
+C. Não exigem o número de grupos.
+D. São computacionalmente eficientes.
+E. Podem usar diferentes tipos de distância.

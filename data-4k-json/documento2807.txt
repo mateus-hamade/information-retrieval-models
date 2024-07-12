@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+Em relação aos algoritmos de ordenação, é correto afirmar que:
+
+Alternativas:
+A. o quicksort é muito eficiente e adequado quando se tem uma quantidade pequena de elementos.
+B. a inserção direta possui um grande número de variáveis envolvidas no algoritmo, resultando em uma necessidade maior de memória.
+C. no quicksort o tamanho máximo da pilha pode ultrapassar o número de elementos do vetor.
+D. o bubble sort é pouco eficiente para ordenar grandes quantidades de informações.
+E. a seleção direta precisa de muito espaço adicional durante sua execução, e tem desempenho inferior ao bubble sort.

@@ -1,0 +1,9 @@
+Banco de Dados Banco de Dados
+
+As formas normais são uma série de procedimentos aplicados em um banco de dados para garantir que as suas tabelas estejam bem estruturadas e não contenham nenhum tipo de anomalia, seja de inclusão, atualização ou exclusão.  Sobre as formas normais em banco de dados, analise as afirmativas a seguir.  I. A primeira forma normal considera que os únicos valores de atributos permitidos são os valores atômicos (ou indivisíveis).  II. Se a chave primária de uma relação tiver um único atributo, o teste para a segunda forma normal deve ser aplicado obrigatoriamente.  III. De acordo com a terceira forma normal, não deve haver dependência transitiva de um atributo não chave sobre a chave primária.  Estão corretas as afirmativas
+
+Alternativas:
+A. I e II, apenas.
+B. I e III, apenas.
+C. II e III, apenas.
+D. I, II e III.

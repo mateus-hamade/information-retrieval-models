@@ -1,0 +1,10 @@
+Sistemas Operacionais Administração de usuários (AD - Active Directory)
+
+Ao acessar um computador usando o Windows Admin Center, um usuário final tem acesso à maioria dos recursos, mas não tem acesso à Área de Trabalho Remota.  Sabendo que está implementado o controle de acesso baseado em função, a função desse usuário é:
+
+Alternativas:
+A. administrador;
+B. administrador do Hyper-V;
+C. escritor;
+D. leitor;
+E. semiadministrador.

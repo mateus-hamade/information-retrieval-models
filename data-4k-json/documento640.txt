@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados
+
+Qual das seguintes técnicas de tolerância a falhas em sistemas distribuídos atua na reexpedição de dados ou pacotes de dados advindos de detecção de erros de comunicação ou perda de pacotes? 
+
+Alternativas:
+A. Detecção de erros.
+B. Mecanismo de retransmissão.
+C. Backup de dados centralizado.
+D. Criptografia de dados.
+E. Controle de concorrência.

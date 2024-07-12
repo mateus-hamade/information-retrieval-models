@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados
+
+O que é um "índice não clusterizado" em um banco de dados? 
+
+Alternativas:
+A. Um índice que é criado automaticamente pelo sistema para acelerar as operações de inserção de dados em uma tabela.
+B. Classificam e armazenam as linhas de dados da tabela ou exibição com base em seus valores de chave.
+C. Um índice que define um conjunto de regras para a consistência dos dados em uma tabela.
+D. Um índice que acelera a recuperação de dados em uma tabela, mas não afeta a ordem física dos registros.
+E. Um índice que permite a criação de consultas complexas envolvendo várias tabelas relacionadas.

@@ -1,0 +1,10 @@
+Banco de Dados PL-SQL , Oracle
+
+O PL/SQL do Oracle 19G disponibiliza para analistas e desenvolvedores duas funções de error-reporting que podem ser utilizadas nos códigos PL/SQL em tratamento de exceções. Os nomes dessas duas funções são 
+
+Alternativas:
+A. SQLError e SQLException.
+B. SQLCode e SQLErrm.
+C. SQLRestric e SQLErr.
+D. SQLBlock e SQLFail.
+E. SQLTry e SQLCatch.

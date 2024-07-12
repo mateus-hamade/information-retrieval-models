@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+Com relação a dado, informação e conhecimento, julgue o item subsecutivo.   O conhecimento é obtido a partir de um conjunto de informações inseridas em um mesmo e específico contexto. 
+
+Alternativas:
+A. Certo
+B. Errado

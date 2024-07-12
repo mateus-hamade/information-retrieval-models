@@ -1,0 +1,9 @@
+Segurança da Informação Segurança de sistemas de informação , Infra estrutura de Chaves Publicas (PKI) , Protocolo SSL
+
+Com relação ao uso e funcionamento do Secure Sockets Layer (SSL) para proteção de conexões TCP entre um cliente e um servidor, o procedimento correto a ser realizado pelo cliente é: 
+
+Alternativas:
+A. verificar o certificado, usar criptografia AES, cifrar o Segredo Pré-Mestre (PMS) com a chave pública do servidor e enviar o PMS ao servidor
+B. usar criptografia DES para criptografar e RSA para descriptografar a mensagem, gerando um Segredo Pré-Mestre (PMS), e enviar o PMS para o servidor
+C. usar um algoritmo específico de chave simétrica, análogo ao do servidor; gerar um Segredo Pré-Mestre (PMS) com a chave privada; e enviar o PMS cifrado para o servidor
+D. verificar o certificado, extrair a chave pública do servidor, gerar um Segredo Pré-Mestre (PMS), cifrar o PMS com a chave pública do servidor e enviar o PMS cifrado ao servidor

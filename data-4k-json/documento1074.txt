@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Hashing
+
+Em relação a sistemas de gerenciamento de banco de dados não relacionais NoSQL, julgue o item que se segue.     Hashes Redis são coleções não ordenadas de strings exclusivas que agem como os conjuntos de uma linguagem de programação; como tal, os hashes Redis assemelham-se aos dicionários Python, Java HashMaps e Ruby hashes.  
+
+Alternativas:
+A. Certo
+B. Errado

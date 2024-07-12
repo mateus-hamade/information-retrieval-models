@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Estrutura de Dados ( assuntos)
+
+No que diz respeito às estruturas de dados, considere os procedimentos e funções a seguir. • INIT(H) cria a pilha H vazia • PUSH(H,alfa) insere alfa na pilha H • POP(H )desempilha  a pilha H • PILHA VAZIA(H) testa se a pilha H está vazia • STR(alfa) converte um valor inteiro em caractere • CONCATENA(x,alfa) concatena x e alfa Observe o algoritmo abaixo.                                   Se for lido o valor 25 para alfa,o valor de saída do algoritmo para x será:
+
+Alternativas:
+A. 11001
+B. 11010
+C. 11011
+D. 11101
+E. 11110

@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+Texto associado Considerando as tabelas apresentadas na Figura 2, qual o comando SQL poderá ser executado para que sejam retornados os nomes das marcas e a quantidade de produtos relacionados a cada marca? 
+
+Alternativas:
+A. SELECT M.NOME, SUM(P.DESCRICAO) FROM MARCA M, PRODUTO P WHERE M.ID = P.ID_MARCA HAVING P.DESCRICAO;
+B. SELECT M.NOME, COUNT(P.ID) FROM MARCA M, PRODUTO P WHERE M.ID = P.ID_MARCA GROUP BY M.NOME;
+C. SELECT M.NOME, SUM(P.ID) FROM MARCA M, PRODUTO P WHERE M.ID = P.ID_MARCA GROUP BY P.DESCRICAO;
+D. SELECT M.NOME, P.ID_MARCA FROM MARCA M, PRODUTO P WHERE M.ID = P.ID_MARCA;
+E. SELECT M.NOME, COUNT(P.ID) FROM MARCA M, PRODUTO P WHERE M.ID = P.ID;

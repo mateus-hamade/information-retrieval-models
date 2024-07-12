@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Texto associado Comr elação ao programa anterior, é correto afirmar que a linha 29, ao executar o programa, a saída será: 
+
+Alternativas:
+A. 4
+B. 1
+C. 2
+D. 3
+E. 0

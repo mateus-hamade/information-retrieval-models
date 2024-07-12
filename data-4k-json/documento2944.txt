@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Grafos
+
+Acerca dos conceitos de grafo, assinale a opção correta.
+
+Alternativas:
+A. O laço de um vértice v é o número de arestas que incidem em v.
+B. Um grafo é considerado completo quando todos seus vértices têm o mesmo grau k.
+C. Os exemplos de tipos de grafos incluem pseudógrafos, multígrafos, grafos com autolaços e grafos dirigidos.
+D. Dois grafos são chamados bipartidos quando são essencialmente iguais e há correspondência entre seus vértices e suas arestas.
+E. Os grafos esparsos podem ser compactamente representados utilizando-se grafos completos.

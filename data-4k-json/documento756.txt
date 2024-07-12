@@ -1,0 +1,10 @@
+Banco de Dados BI (Business Intelligence)
+
+O Power BI é uma coleção de serviços de software, aplicativos e conectores que trabalham juntos para transformar suas fontes de dados não relacionadas em informações coerentes.  Sobre o Power BI, assinale a afirmativa correta.
+
+Alternativas:
+A. Deplaymente pipeline é um recurso disponível no Power BI Desktop que permite testar relatórios antes do lançamento para os usuários.
+B. Paginated Reports são relatório criados no Power Bi Service para serem exibidos em dispositivos com limitação de memória, como celulares e tablets.
+C. Power Query Editor permite conectar a uma ampla variedade de tipos de fontes de dados, porém, é necessário usar a linguagem OQL para acesso aos dados.
+D. Fluxos de dados são criados e gerenciados em workspaces no Power Bi Desktop e são armazenados como entidades privadas para uso exclusivo do proprietário.
+E. Direct Query permite criar visualizações de conjuntos de dados muito grandes, nos casos em que seria impraticável importar todos os dados com pré-agregação.

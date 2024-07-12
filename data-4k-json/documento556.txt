@@ -1,0 +1,10 @@
+Banco de Dados Visão (View)
+
+O que é uma "visão" (view) em um sistema de banco de dados? 
+
+Alternativas:
+A. Um conjunto resultado de uma consulta armazenada sobre os dados.
+B. Um mecanismo para realizar operações matemáticas em dados numéricos.
+C. Uma tabela temporária que as operações matemáticas.
+D. Uma representação virtual de dados;
+E. Um conjunto de regras que define a consistência dos dados em uma tabela.

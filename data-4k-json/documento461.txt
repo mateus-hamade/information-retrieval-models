@@ -1,0 +1,10 @@
+Banco de Dados Modelagem de dados
+
+Analise as afirmativas abaixo sobre a modelagem dimensional.  1. Os dados atômicos que não foram agregados são os mais expressivos. 2. Os dados mais granulares ou atômicos possuem a maior granularidade. 3. A cardinalidade padrão entre tabelas de dimensões e fatos é a de muitos para muitos.  Assinale a alternativa que indica todas as afirmativas corretas.
+
+Alternativas:
+A. É correta apenas a afirmativa 3.
+B. São corretas apenas as afirmativas 1 e 2.
+C. São corretas apenas as afirmativas 1 e 3.
+D. São corretas apenas as afirmativas 2 e 3.
+E. São corretas as afirmativas 1, 2 e 3.

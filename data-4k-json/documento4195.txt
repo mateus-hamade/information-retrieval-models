@@ -1,0 +1,10 @@
+Engenharia de Software Processos de Software - Desenvolvimento Ágil , Scrum
+
+Na metodologia Scrum, o scrum master é responsável por
+
+Alternativas:
+A. garantir que os requisitos do cliente sejam compreendidos e traduzidos corretamente em funcionalidades pelo time de desenvolvimento.
+B. definir as metas da sprint e distribuir tarefas entre os membros da equipe.
+C. monitorar o progresso do projeto e relatar regularmente ao product owner o andamento das atividades.
+D. supervisionar as atividades diárias da equipe, garantindo que todos os membros estejam cumprindo suas responsabilidades.
+E. remover impedimentos que possam estar prejudicando o progresso da equipe, facilitando reuniões e promovendo um ambiente de trabalho colaborativo.

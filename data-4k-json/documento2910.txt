@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Uma das estruturas de dados utilizadas na modelagem de sistemas de software denomina-se árvores vermelho-preto. Em uma árvore desse tipo
+
+Alternativas:
+A. o nó raiz é preto.
+B. se um nó é vermelho, seus filhos são vermelhos.
+C. a quantidade de nós vermelhos é sempre igual à quantidade de nós pretos.
+D. a quantidade de nós vermelhos é sempre par.
+E. se um nó é preto, seus filhos são pretos

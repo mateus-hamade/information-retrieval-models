@@ -1,0 +1,10 @@
+Banco de Dados Administração de banco de dados
+
+Nos últimos anos, com o crescimento exponencial dos dados e a necessidade de garantir alta disponibilidade e escalabilidade, os bancos de dados distribuídos têm se tornado cada vez mais populares. Essa abordagem permite que grandes volumes de dados sejam armazenados e processados em múltiplos nós de um sistema distribuído. Além disso, oferece benefícios como tolerância a falhas e desempenho aprimorado. Considerando um ambiente de banco de dados distribuídos em que os dados são replicados em vários nós do sistema, ao realizar uma atualização em uma dessas réplicas, é necessário garantir a consistência dos dados em todos os nós. Para isso, podem ser utilizados diferentes protocolos de controle de concorrência. Assinale a alternativa que apresenta um protocolo comumente utilizado em bancos de dados distribuídos. 
+
+Alternativas:
+A. ACID.
+B. RAID.
+C. Two-Phase Commit (2PC).
+D. OLAP.
+E. XML.

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Busca , Estrutura de Dados ( assuntos)
+
+O objetivo de fazer uma busca rápida a partir de uma chave de pesquisa simples e obter o valor desejado é alcançado pela estrutura de dados especial denominada
+
+Alternativas:
+A. array.
+B. lista.
+C. vetor.
+D. árvore binária.
+E. tabela de hashing.

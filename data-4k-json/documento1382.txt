@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Suponha que você tenha uma árvore binária de busca com n nós. Qual é a complexidade de tempo para determinar se a árvore é uma árvore AVL balanceada?
+
+Alternativas:
+A. O(n)
+B. O(log n)
+C. O(n log n)
+D. O(n^2)
+E. O(log^2 n)

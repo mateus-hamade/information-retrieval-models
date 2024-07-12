@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Seja o algoritmo abaixo, no qual o operador “!” inverte o valor dos bits de um número inteiro, e 1 é verdadeiro e 0 é falso.    Ao se executar esse algoritmo, “frase” será escrita:
+
+Alternativas:
+A. 0 vez.
+B. 2 vezes.
+C. 5 vezes.
+D. 6 vezes.
+E. 10 vezes.

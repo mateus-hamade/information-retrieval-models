@@ -1,0 +1,10 @@
+Banco de Dados Formas normais
+
+A forma normal que garante a eliminação de atributos (além das chaves primárias e estrangeiras) que se repetem nas tabelas é a
+
+Alternativas:
+A. primeira forma normal.
+B. segunda forma normal.
+C. terceira forma normal.
+D. quarta forma normal.
+E. quinta forma normal.

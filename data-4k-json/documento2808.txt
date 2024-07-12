@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Fluxogramas
+
+Referente aos símbolos utilizados no fluxograma assinale a alternativa que apresenta os respectivos significados dos símbolos abaixo:          
+
+Alternativas:
+A. Banco de dados, Preparação, Operação Manual.
+B. Movimentação, Decisão, Documento.
+C. Fluxo, Atividade, Operação.
+D. Atraso, Avaliação, Conector.

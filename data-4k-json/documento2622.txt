@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Considere a expressão lógica A → B, lida como “se A é verdadeiro então B é verdadeiro”. Dado que A e B são expressões lógicas, assinale a opção que indica uma expressão lógica equivalente à referida expressão.
+
+Alternativas:
+A. ~A or B
+B. ~A or ~B
+C. ~A and B
+D. ~A and ~B
+E. ~(A or B)

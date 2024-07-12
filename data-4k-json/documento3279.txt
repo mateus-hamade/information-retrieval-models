@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
+
+Se f é uma função de complexidade para um algoritmo F, então O(f) é considerada a complexidade assintótica ou o comportamento assintótico do algoritmo F. Assinale a opção que apresenta somente algoritmos que possuem complexidade assintótica quando f(n) = O(n log n). 
+
+Alternativas:
+A. HeapSort e BubbleSort
+B. QuickSort e InsertionSort
+C. MergeSort e BubbleSort
+D. InsertionSort
+E. HeapSort, QuickSort e MergeSort

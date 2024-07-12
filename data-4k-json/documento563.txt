@@ -1,0 +1,10 @@
+Banco de Dados Conceitos Básicos em Banco de Dados , Banco de Dados , SQL ( assuntos)
+
+Na SQL (ANSI), são dois exemplos de funções agregadas:
+
+Alternativas:
+A. MOD e NOW.
+B. AVG e INSTR.
+C. FORMAT e COUNT.
+D. VAR_SAMP e LEFT.
+E. CORR e CUME_DIST.

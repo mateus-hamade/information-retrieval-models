@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Considerando as definições abaixo, a expressão lógica que retornará FALSE é 
+
+Alternativas:
+A. X and not Y.
+B. not (not (X orY)).
+C. Yor (not X and not Y).
+D. (X and Y) or (X or Y).
+E. (X or not Y).

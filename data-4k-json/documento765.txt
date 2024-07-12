@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados Relacionais
+
+Assinale a alternativa correta sobre as chaves primárias em bancos de dados relacionais. 
+
+Alternativas:
+A. A chave primária é uma combinação única de valores que identifica univocamente cada linha de uma tabela.
+B. A chave primária é um atributo que pode ter valores duplicados dentro de uma tabela.
+C. Uma tabela pode ter várias chaves primárias.
+D. A chave primária pode ser um atributo que não é obrigatório.
+E. A chave primária pode ser compartilhada entre várias tabelas.

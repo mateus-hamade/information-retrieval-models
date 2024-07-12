@@ -1,0 +1,10 @@
+Engenharia de Software Modelos de Sistemas de Informação
+
+A analista Bia está implementando um ambiente de Business Intelligence (BI) para apoiar as decisões dos gestores do TJMS. Para isso, Bia está extraindo dados oriundos de diversos sistemas de informação para carregar em um banco de dados. N  a arquitetura de um ambiente BI, o componente que armazena dados orientado a assunto, integrado, variante no tempo e não volátil que Bia deve implementar é o:
+
+Alternativas:
+A. OLAP;
+B. dashboard;
+C. data warehouse;
+D. data mining;
+E. repositório de metadados.

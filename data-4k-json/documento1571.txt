@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
+
+Julgue o próximo item, a respeito de lógica de programação.        As estruturas se e senão são estruturas de repetição utilizadas nas situações em que, caso determinada condição seja alcançada, um comando é realizado, caso contrário, outro comando é executado.   
+
+Alternativas:
+A. Certo
+B. Errado

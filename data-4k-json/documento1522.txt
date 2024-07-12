@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Árvores B são frequentemente utilizadas para indexação de bancos de dados. Nesse contexto, analise as afirmativas a seguir sobre esse tipo de estrutura de dados. I. São balanceadas. II. Os nós podem ter mais de dois filhos. III. A altura da árvore é O(lg(N)). Está correto o que se afirma em
+
+Alternativas:
+A. I, apenas.
+B. I e II, apenas.
+C. I e III, apenas.
+D. II e III, apenas.
+E. I, II e III.

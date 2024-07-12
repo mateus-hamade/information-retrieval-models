@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Estrutura de Controle e Repetição
+
+Questão anulada  Em relação às estruturas de controle e de fluxo de execução, julgue o item seguinte.     Nos laços de repetição while e for, a condição é verificada no princípio do laço, antes da entrada nesse laço.  
+
+Alternativas:
+A. Certo
+B. Errado

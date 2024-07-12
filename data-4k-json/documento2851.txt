@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+A  representação  lógica de um programa pode ser  feita, utilizando uma  técnica denominada diagrama de blocos ou  fluxograma  do  programa.  É  um  conjunto  de  figuras  geométricas  utilizadas  para  a  representação  da  lógica  de  um  programa. Nessa representação, as operações são  identificadas por símbolos que  identificam o processo envolvido.  Alguns  autores  utilizam  os  símbolos  do  Padrão  ANSI  (American  National  Standards  Institute)  por  não  haver  um  padrão rígido na utilização dos símbolos do diagrama de blocos. Na construção de um diagrama de blocos verifica-se  o seguinte símbolo:     Assinale, a seguir, a definição desse símbolo. 
+
+Alternativas:
+A. Decisão.
+B. Terminal.
+C. Conector.
+D. Preparação.
+E. Processamento predefinido.

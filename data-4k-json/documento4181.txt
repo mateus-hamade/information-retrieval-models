@@ -1,0 +1,10 @@
+Arquitetura de Computadores Hardware
+
+   A partir da figura precedente, que ilustra uma porta lógica implementada com a tecnologia CMOS, assinale a opção correta.
+
+Alternativas:
+A. A porta lógica implementa a função lógica NAND.
+B. A impedância de entrada de portas lógicas com dispositivos CMOS é inferior à de portas lógicas da família TTL.
+C. A porta lógica implementa a função lógica OR.
+D. Nessa porta lógica, são utilizados apenas transistores NMOS.
+E. Em comparação a tecnologias TTL, a CMOS tem como desvantagem maior consumo de energia.

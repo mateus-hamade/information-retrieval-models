@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
+
+As estruturas de repetição possibilitam a criação de laços de repetição dentro de um algoritmo, os quais ganham esse nome pela sua característica de execução finita em círculos. A tabela, a seguir, apresenta uma comparação entre as estruturas de repetição existentes:        Em que:  v é a variável de controle;  vi é o valor inicial da variável v;  vf é o valor final da variável v;  p é o valor do incremento dado à variável v.     Sabe-se que algumas características da tabela acima foram propositalmente omitidas. Desta forma, os itens (I), (II) e (III) são, respectivamente: 
+
+Alternativas:
+A. Início – Mínimo 1 – v < vf
+B. Final – Mínimo 1 – v < vf
+C. Final – 0 ou muitas – v <= vf
+D. Início – 0 ou muitas – v <= vf

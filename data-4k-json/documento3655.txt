@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Texto associado A função func poderia ser implementada como procedimento recursivo, sem fazer alteração na sua lista de parâmetros.
+
+Alternativas:
+A. Certo
+B. Errado

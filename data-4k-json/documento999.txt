@@ -1,0 +1,9 @@
+Banco de Dados Banco de Dados
+
+Um Banco de Dados necessita de uma fonte de onde o dado é derivado, interações com o mundo real e um conjunto de usuários que está interessado no conteúdo armazenado nele. Diversas atividades de diferentes segmentos da sociedade podem ser realizadas pelos usuários finais de um Banco de Dados, fazendo com que a informação mude com frequência. De acordo com uma abordagem técnica, são consideradas propriedades implícitas do termo “Banco de Dados”, EXCETO:
+
+Alternativas:
+A. Representa algum aspecto do mundo real, conhecido como mini-mundo.
+B. É projetado, construído e populado com dados para uma finalidade específica.
+C. É uma coleção logicamente coerente de dados com algum significado inerente.
+D. Possui um grupo indefinido de usuários, sem aplicações previamente concebidas.

@@ -1,0 +1,10 @@
+Engenharia de Software Inteligencia Artificial
+
+No contexto jurídico brasileiro, assinale a afirmativa correta acerca do modo como a autonomia de um sistema de Inteligência Artificial (IA) é geralmente tratada, em questões relativas à sua responsabilidade por ações e atividades.
+
+Alternativas:
+A. A IA é considerada uma entidade legal autônoma com responsabilidades próprias, sendo um sujeito de direito.
+B. A responsabilidade pela IA e suas atividades é atribuída exclusivamente ao seu usuário final.
+C. A autonomia jurídica da IA não é reconhecida legalmente, recaindo a responsabilidade, como regra, sobre seus atos aos operadores humanos.
+D. Sistemas de IA têm, em algumas jurisdições, o mesmo status legal que incapazes.
+E. A lei considera a IA uma extensão do seu programador, devendo o mesmo ser legalmente acionado em todos os casos.

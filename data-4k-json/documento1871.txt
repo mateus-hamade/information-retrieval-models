@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+Considere a estratégia de ordenação apresentada em linguagem Java:    Analise as seguintes afirmações: I - A estratégia apresentada em Java é o método de ordenação Bubblesort. II - A estratégia apresentada em Java é o método de ordenação Quicksort. III - A estratégia apresentada é baseada em dividir para conquistar. IV - A estratégia apresentada leva o maior elemento para a última posição a cada passada. V - A estratégia apresentada leva o menor elemento para a primeira posição a cada passada. Estão CORRETAS as afirmativas  
+
+Alternativas:
+A. I, IV e V, apenas.
+B. I e III, apenas.
+C. II e III, apenas.
+D. II, III e IV, apenas.
+E. I e V, apenas.

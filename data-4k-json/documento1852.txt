@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Listas
+
+Quando uma estrutura de dados organiza os dados em uma sequência de nós, tendo ponteiros para o nó anterior e para o próximo nó da sequência, ela é denominada de
+
+Alternativas:
+A. pilha simplesmente ligada.
+B. lista simplesmente ligada.
+C. pilha duplamente ligada.
+D. lista duplamente ligada.

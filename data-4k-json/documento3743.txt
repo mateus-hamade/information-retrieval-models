@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Algoritmos de Ordenação
+
+Assinale a alternativa incorreta: 
+
+Alternativas:
+A. O método "heapsort" consiste em duas fases distintas: a montagem de uma árvore binária com todos os elementos do vetor, de tal forma que o valor contido em qualquer nó seja maior que os valores de seus sucessores, seguido da seleção dos elementos na ordem desejada.
+B. Um método que, aplicado a uma estrutura, envolve a aplicação dele mesmo às subestruturas componentes é chamado de método recursivo.
+C. Denomina-se de caminhamento o ato de percorrer todos os nós das árvores binárias com o objetivo de consultar ou alterar as informações que eles contêm.
+D. Uma estrutura linear mais geral do que as pilhas e filas é o deque ("double-endedqueue"), que permite inserções, retiradas e acessos em ambas as extremidades.
+E. O caminhamento completo de uma árvore binária produz uma sequência não linear dos nós existentes, de forma que cada nó só possa ter um nó seguinte ou um nó anterior, mas nunca ambos devido à descontinuidade da estrutura representada.

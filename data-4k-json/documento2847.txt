@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+Um  bom  exemplo  de  resolução  de  problemas  em  computadores  é  a  utilização  de  algum  algoritmo  de  ordenação.  Ordenar corresponde ao processo de rearranjar um conjunto de objetos em ordem crescente ou decrescente. Um dos  principais objetivos da ordenação é facilitar a recuperação posterior dos itens ordenados. Na escolha da utilização de  determinado algoritmo, uma característica a ser considerada é o tempo de execução do pior caso. Assinale, a seguir,  o algoritmo de ordenação com tempo de execução do pior caso em: θ(n²). 
+
+Alternativas:
+A. Ordenação digital.
+B. Ordenação por heap.
+C. Ordenação por inserção.
+D. Ordenação por contagem.
+E. Ordenação por intercalação.

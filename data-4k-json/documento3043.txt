@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
+
+Considere uma máquina baseada em pilha com as seguintes operações:  • Push (n): empilha um valor n • Pop (n): desempilha um valor colocando-o em n • Sum(): é o mesmo que a sequência          Pop(a)          Pop(b)          Push(a+b) • Sub(): é o mesmo que a sequência         Pop(a)          Pop(b)         Push(a – b) • Mul(): é o mesmo que a sequência         Pop(a)          Pop(b)         Push(a x b) • Div(): é o mesmo que a sequência         Pop(a)         Pop(b)         Push(a ÷ b)  A sequência de operações          Push(3)          Push(7)          Sum()          Push(2)          Push(8)          Push(3)          Push(2)          Sub()          Mul()          Sum()          Div()          Push(7)          Push(6)          Sub()          Div()  deixará, no topo da pilha, o resultado do cálculo da expressão 
+
+Alternativas:
+A. 3 x 7 ÷ 2 + 8 x (3 – 2) ÷ (7– 6)
+B. (3 + 7 – 2) ÷ 8 x 3 x 2 – 7 – 6
+C. (3 + 7) ÷ (2 + 8 x (3 – 2)) ÷ (7 – 6)
+D. (3 + 7 – 2) x 8 x (3 – 2) ÷ 7 – 6
+E. 3 + 7 ÷ 2 + 8 x (3 – 2) ÷ (7 – 6)

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Texto associado O seguinte algoritmo foi concebido na forma de uma pseudo-linguagem (Português Estruturado). Utilize-o para responder  à  questão.    O valor impresso ao final do algoritmo é igual a
+
+Alternativas:
+A. -2
+B. -1
+C. 0
+D. 1
+E. 2

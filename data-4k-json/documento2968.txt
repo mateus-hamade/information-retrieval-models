@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Qual árvore a seguir NÃO é binária?
+
+Alternativas:
+A. B+
+B. AVL
+C. Splay
+D. Rubro-negra
+E. Com costura (threaded tree)

@@ -1,0 +1,9 @@
+Banco de Dados Data Mining , Big Data
+
+Considerando os conceitos principais de ciência de dados, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.  ( ) Em um sistema BigData, o pipeline de dados implementa as etapas necessárias para mover dados de sistemas de origem, transformar esses dados com base nos requisitos e armazenar os dados em um sistema de destino, incluindo todos os processos necessários para transformar dados brutos em dados preparados que os usuários podem consumir. ( ) Dentre os métodos de manipulação de valores ausentes, em processamento massivo e paralelo, consta a normalização numérica, que se refere ao processo de ajustar os dados para que estejam em uma escala comparável, geralmente entre 0 e 1. ( ) A demanda crescente por medidas de criptografia ponta a ponta (da produção ao backup) tornam menos eficazes e relevantes tecnologias legadas, como a deduplicação de dados (data deduplication), que busca ajudar a otimizar o armazenamento e melhorar o desempenho de um sistema ao estabelecer processo de identificar e eliminar dados duplicados em um sistema.  As afirmativas são, respectivamente,
+
+Alternativas:
+A. V – V – F.
+B. V – F – V.
+C. F – V – V.
+D. F – F – F.

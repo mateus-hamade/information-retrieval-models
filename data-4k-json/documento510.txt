@@ -1,0 +1,10 @@
+Banco de Dados SQL , Administração de banco de dados
+
+Sobre características dos bancos de dados relacionais, uma visão ou view, em terminologia SQL, é uma única tabela que é derivada de outras tabelas. Dentre duas técnicas principais sugeridas para problema muito complexo de implementação de uma visão de forma eficiente para consulta, a que envolve criar fisicamente uma tabela de visão temporária quando a visão for consultada pela primeira vez e manter essa tabela na suposição de que outras consultas a visões acontecerão em seguida está relacionada ao conceito de:
+
+Alternativas:
+A. materialização da visão.
+B. modificação de consulta.
+C. concretização da visão.
+D. criação de consulta.
+E. atualização de consulta.

@@ -1,0 +1,10 @@
+Banco de Dados Big Data
+
+No projeto de arquitetura de um data lake, a primeira etapa que deve estar prevista é a
+
+Alternativas:
+A. criação de um ambiente virtual de captura de dados.
+B. concessão de acesso ao banco de dados (somente leitura) aos cientistas de dados, para estes realizarem experimentos e testes.
+C. integração dos dados do data lake aos data warehouses da empresa.
+D. atualização dos dados dos repositórios de dados da empresa a partir dos dados já consolidados disponíveis no data lake.
+E. visualização de dados e otimização das principais consultas.

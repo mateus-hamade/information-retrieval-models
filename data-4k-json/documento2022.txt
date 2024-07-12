@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Filas
+
+Qual a estrutura de dados que permite apenas que novos elementos sejam adicionados na última posição e que elementos sejam retirados na primeira posição?
+
+Alternativas:
+A. Pilha
+B. Lista
+C. Fila
+D. Árvore
+E. Tabela Hash

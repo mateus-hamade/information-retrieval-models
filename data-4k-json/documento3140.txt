@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Texto associado Ambos os algoritmos apresentados geram o mesmo resultado.  
+
+Alternativas:
+A. Certo
+B. Errado

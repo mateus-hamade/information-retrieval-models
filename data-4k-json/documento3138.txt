@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Texto associado Caso se faça a chamada Escreva AlgoritmoEU(270,156), o resultado obtido será 6.  
+
+Alternativas:
+A. Certo
+B. Errado

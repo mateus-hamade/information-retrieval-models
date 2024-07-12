@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
+
+Em linguagem de programação, existe uma estrutura que é empregada em situações em que é preciso tomar uma decisão a respeito de determinado resultado que será obtido em duas situações diversas. Marque a opção que determina a estrutura de controle citada:  
+
+Alternativas:
+A. Vetorial
+B. Matricial
+C. Sequencial.
+D. Seleção.
+E. Repetição.

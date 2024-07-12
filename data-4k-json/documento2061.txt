@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+Um pseudocódigo do algoritmo de classificação por troca de partição está ilustrado abaixo, através do procedimento SORT. Ele apresenta a lógica utilizada para a ordenação de um arranjo de elementos. A chave para o algoritmo é o procedimento PARTITION, que reorganiza o subarranjo A[p..r] localmente. PARTITION sempre seleciona um elemento como um pivô ao redor do qual será feito o particionamento do subarranjo. Sob qual outro nome o algorítimo em questão é conhecido?  
+
+Alternativas:
+A. Bubble sort
+B. Heapsort
+C. Quick sort
+D. Selection sort
+E. Merge sort

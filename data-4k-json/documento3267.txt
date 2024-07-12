@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+Assinale a alternativa que corresponde a um algoritmo de ordenação de vetores que adota a estratégia de divisao e conquista.  
+
+Alternativas:
+A. Ordenação por seleção.
+B. Ordenação bolha (Bubble Sort).
+C. Ordenação por inserção.
+D. Ordenação QuickSort.

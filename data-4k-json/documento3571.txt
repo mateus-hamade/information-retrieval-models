@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Tipos de Dados
+
+Texto associado Um tipo abstrato de dados apresenta uma parte destinada à implementação e outra à especificação. Na primeira, são descritas, em forma sintática e semântica, as operações que podem ser realizadas; na segunda, os objetos e as operações são representados por meio de representação, operação e inicialização. 
+
+Alternativas:
+A. Certo
+B. Errado

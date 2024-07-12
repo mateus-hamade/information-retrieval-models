@@ -1,0 +1,10 @@
+Banco de Dados Conceitos Básicos em Banco de Dados , SQL
+
+Texto associado Para excluir da tabela Advogado_Processo todas as linhas nas quais consta o valor 4378 no campo oabAdvogado, utiliza-se a instrução
+
+Alternativas:
+A. DELETE * FROM Advogado_Processo AS adp WHERE adp.oabAdvogado=4378;
+B. DELETE FROM Advogado_Processo (SELECT oabAdvogado=4378);
+C. DELETE * FROM Advogado_Processo WHERE oabAdvogado=4378;
+D. DELETE FROM Advogado_Processo WHERE oabAdvogado=4378;
+E. DELETE FROM Advogado_Processo (SELECT * FROM Advogado WHERE oabAdvogado=4378);

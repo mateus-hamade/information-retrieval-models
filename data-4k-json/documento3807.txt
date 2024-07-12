@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Considere o algoritmo abaixo, em pseudocódigo.    Suponha que os dados de entrada A e NOME sejam, respectivamente, "1" e "Maria". Qual a saída do algoritmo?
+
+Alternativas:
+A. 1
+B. 2
+C. 3
+D. 4
+E. 5

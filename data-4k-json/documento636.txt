@@ -1,0 +1,10 @@
+Banco de Dados Administração de banco de dados
+
+Nos últimos anos, com o avanço da tecnologia e a necessidade crescente de armazenamento e processamento de grandes volumes de dados, os sistemas de arquivos distribuídos têm se tornado cada vez mais relevantes. Essa tecnologia permite o compartilhamento e a organização eficiente de dados em ambientes distribuídos, facilitando a colaboração entre diferentes usuários e melhorando o desempenho dos sistemas. Um Sistema de Arquivos Distribuídos (SAD) é um sistema que permite o armazenamento e o acesso a arquivos em um ambiente distribuído. Sobre o assunto, assinale a alternativa correta.
+
+Alternativas:
+A. Um SAD é limitado a um único servidor, mas permite o compartilhamento de arquivos entre diferentes usuários conectados à rede.
+B. A replicação de dados é uma característica comum em SAD, pois melhora a disponibilidade e a confiabilidade dos dados.
+C. Um SAD não permite o acesso simultâneo a um mesmo arquivo por diferentes usuários.
+D. Os SAD são utilizados exclusivamente em ambientes de computação em nuvem.
+E. Em um SAD, os arquivos são armazenados em uma única máquina para facilitar o acesso e a recuperação dos dados.

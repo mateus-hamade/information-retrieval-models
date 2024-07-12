@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Grafos
+
+No que se refere à teoria dos grafos, assinale a opção correta.
+
+Alternativas:
+A. Na teoria dos grafos, o círculo Sk corresponde ao grafo bipartido completo K1,k.
+B. O círculo é uma árvore com um nó interno e k folhas.
+C. As estrelas podem ser descritas como os únicos grafos conectados em que, no máximo, um vértice tem grau maior que dois.
+D. A estrela é um tipo especial de árvore e, da mesma forma que ocorre com qualquer árvore, pode ser codificada por uma sequência Prüfer.
+E. Uma estrela com três arestas é chamada árvore.

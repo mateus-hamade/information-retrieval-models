@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Texto associado Na definição de uma função, a passagem de parâmetros por referência possibilita que o valor de uma variável passado como argumento seja alterado na função, e sua alteração mantenha-se mesmo após a execução da função.
+
+Alternativas:
+A. Certo
+B. Errado

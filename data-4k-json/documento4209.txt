@@ -1,0 +1,9 @@
+Banco de Dados DW - Data Warehouse
+
+Data warehousing é um sistema de armazenamento de dados projetado para consolidar e integrar dados de várias fontes diferentes para fins de análise e geração de relatórios. Sobre os principais conceitos de data warehousing, assinale a afirmativa que define corretamente ETL (Extração, Transformação e Carregamento) no contexto de data warehousing.
+
+Alternativas:
+A. Tipo de banco de dados NoSQL.
+B. Processo para integrar dados de várias fontes.
+C. Protocolo de rede para transferência de dados.
+D. Modelo de representação de dados hierárquico.

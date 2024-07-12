@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Busca , Complexidade de Algoritmos
+
+O algoritmo clássico a seguir, implementado em um método em Java, é chamado de busca binária. O algoritmo recebe como parâmetro um vetor de inteiros v e um inteiro num e retorna verdadeiro lógico caso aquele inteiro num apareça no vetor v ou falso lógico em caso contrário. Considerando que a variável n é o tamanho do vetor v, qual das opções a seguir representa a ordem de grandeza de operações que precisam ser feitas para se buscar um inteiro num com a busca binária em um vetor v de tamanho n?   
+
+Alternativas:
+A. log(n) operações, considere base 2
+B. n operações
+C. 2n (o dobro de n) operações
+D. nXn (n ao quadrado) operações
+E. n/2 (metade de n) operações

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Dado que and = E lógico, or = ou lógico, not = negação lógica, ∧ = ou exclusivo, True = verdadeiro e False = falso, assinale a alternativa que apresenta a expressão lógica que resulta em True. 
+
+Alternativas:
+A. (((True and False) or True)∧((True and False) or (not False)))
+B. (((not (False and True)) or False)∧((False or True) and True))
+C. (((True and False) or True)∧((True and False) and (not False)))
+D. not True
+E. (((False and True) or False)∧((False and True) and (not True)))

@@ -1,0 +1,10 @@
+Engenharia de Software Teste de Software
+
+É uma característica-chave de um bom framework de automação de teste
+
+Alternativas:
+A. a falta de suporte a linguagens de programação populares.
+B. a escalabilidade limitada.
+C. a alta complexidade.
+D. a baixa manutenibilidade.
+E. a flexibilidade mínima.

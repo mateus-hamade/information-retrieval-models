@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
+
+A respeito de estruturas de controle de fluxo em algoritmos, julgue os próximos itens.  Nas estruturas de repetição, que são utilizadas quando se deseja repetir certo trecho de instruções, o número de repetições deve ser conhecido ou determinado previamente e precisa ser finito.
+
+Alternativas:
+A. Certo
+B. Errado

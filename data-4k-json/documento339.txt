@@ -1,0 +1,10 @@
+Banco de Dados DW - Data Warehouse
+
+As empresas contam com vários sistemas e tecnologias de armazenamento para suas iniciativas de business intelligence (BI). Tanto o Data Warehouse como o Data Marts são repositórios repositório de dados pré-processados para análise e BI. Em relação ao Data Warehouse, o Data Marts apresenta a seguinte característica: 
+
+Alternativas:
+A. tem mais fontes de dados.
+B. tende a ser maior em tamanho.
+C. contém dados mais completos e detalhados.
+D. armazenam dados de várias unidades de negócios.
+E. atende às necessidades de uma unidade de negócios específica.

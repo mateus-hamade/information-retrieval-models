@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados
+
+A arquitetura de sistemas de bancos de dados ANSI/SPARC se divide em 3 níveis, na qual o nível interno
+
+Alternativas:
+A. se ocupa do modo como os dados são vistos pelos usuários individuais.
+B. se ocupa apenas do nível lógico, ou com a visão da comunidade de usuários.
+C. encontra-se no nível intermediário, entre os níveis conceitual e externo.
+D. contém objetos que não são relacionais.
+E. contém objetos que não são registros armazenados, ponteiros ou índices.

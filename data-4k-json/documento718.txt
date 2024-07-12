@@ -1,0 +1,10 @@
+Banco de Dados ETL (Extract Transform Load)
+
+No Pentanho, uma das ferramentas ETL disponíveis no mercado, a etapa que tem como função principal permitir a classificação (ordem crescente ou decrescente) das linhas com base nos campos especificados é denominada
+
+Alternativas:
+A. concat fields.
+B. sort rows.
+C. set file value.
+D. split field to rows.
+E. unique rouws.

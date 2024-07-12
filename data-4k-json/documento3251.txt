@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
+
+Julgue os itens a seguir, relativos aos tipos básicos de estruturas.   Uma pilha — uma estrutura de dados que permite a inserção de novos elementos e a remoção de elementos antigos — sujeita-se à seguinte regra de operação: sempre que houver uma remoção, o elemento removido corresponderá ao elemento presente na estrutura há mais tempo.  
+
+Alternativas:
+A. Certo
+B. Errado

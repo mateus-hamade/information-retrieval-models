@@ -1,0 +1,10 @@
+Segurança da Informação Planos de contingência , Conceitos Básicos em Segurança da Informação , Criptografia ( assuntos)
+
+Para elevar o nível de segurança das infraestruturas críticas dos órgãos do Poder Judiciário, a Estratégia Nacional de Segurança Cibernética do Poder Judiciário (ENSEC-PJ) estabelece ações a serem executadas pelos órgãos.  Uma das ações estabelecidas é:
+
+Alternativas:
+A. promover a coordenação dos diversos entes relacionados com a segurança cibernética;
+B. possibilitar a análise conjunta do nível de maturidade em segurança cibernética nos órgãos do Poder Judiciário;
+C. estabelecer e desenvolver padrão de maturidade unificado de segurança cibernética para órgãos do Judiciário;
+D. realizar exercícios cibernéticos com a participação de múltiplos entes;
+E. realizar prática em gestão de incidentes.

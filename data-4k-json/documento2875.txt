@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
+
+O trecho de código escrito em PHP (versão 5.4.4) apresentado a seguir implementa o algoritmo de busca em árvore binária.   Considere que o método procura() seja aplicado ao nó raiz da árvore binária de busca e que esta seja balanceada. Assinale a opção que indica a complexidade desse algoritmo.
+
+Alternativas:
+A. O(n)
+B. O(log n)
+C. O(n log n)
+D. O(n²)
+E. O(n³)

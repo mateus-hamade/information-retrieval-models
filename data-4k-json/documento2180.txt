@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Vetores
+
+No que se refere a vetores, matrizes, filas e árvores binárias, julgue o item.     Um vetor é declarado, definindo‐se seu nome, seu tipo e seu tamanho.  
+
+Alternativas:
+A. Certo
+B. Errado

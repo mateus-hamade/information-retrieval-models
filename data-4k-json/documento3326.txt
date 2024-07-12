@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
+
+O uso de alocação dinâmica de memória é essencial na criação de uma pilha de dados.  
+
+Alternativas:
+A. Certo
+B. Errado

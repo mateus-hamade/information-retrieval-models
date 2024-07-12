@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Filas
+
+A sigla FIFO refere-se a estruturas de dados do tipo fila. Como é o funcionamento em uma FIFO?
+
+Alternativas:
+A. O primeiro objeto inserido na fila é o último a ser removido.
+B. O primeiro objeto inserido na fila é também o primeiro a ser removido.
+C. O último objeto inserido na fila é o primeiro a ser removido.
+D. O programador irá definir a ordem de entrada e de saída dos objetos em uma FIFO.
+E. Uma FIFO e uma LIFO possuem as mesmas características de entrada e de saída dos objetos.

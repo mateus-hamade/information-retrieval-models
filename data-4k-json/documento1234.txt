@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Julgue o item a seguir, relativo a algoritmos de linguagem de programação.     O pseudocódigo consiste em um texto estruturado com comandos escritos em linguagem humana, no qual se apoia a criação dos algoritmos computacionais.   
+
+Alternativas:
+A. Certo
+B. Errado

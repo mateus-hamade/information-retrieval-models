@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
+
+Pilhas são estruturas de dados do tipo LIFO (last-in first-out). Considerando o tema estrutura de dados, assinale a alternativa que representa o funcionamento de uma estrutura tipo Pilhas (LIFO).
+
+Alternativas:
+A. O primeiro objeto inserido na fila é também o primeiro a ser removido.
+B. Não existe uma ordem pré-definida.
+C. O último objeto inserido na fila é o primeiro a ser removido.
+D. A ordem deverá ser definida via código de programa.

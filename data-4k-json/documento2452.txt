@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Considere o algoritmo em pseudocódigo abaixo.        Se forem lidos para as variáveis v1, v2 e v3, respectivamente, os valores 3, 3 e 4, o último valor exibido será  
+
+Alternativas:
+A. 729
+B. 243
+C. 27
+D. 81
+E. 128

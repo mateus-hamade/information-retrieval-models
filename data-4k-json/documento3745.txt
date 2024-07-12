@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Observe a árvore binária a seguir.    No percurso em pré-ordem dessa árvore, o quarto elemento a ser visitado é o 
+
+Alternativas:
+A. 24.
+B. 39.
+C. 61.
+D. 85.
+E. 90.

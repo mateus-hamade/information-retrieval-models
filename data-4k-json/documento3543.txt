@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Assinale a alternativa que contém o significado correto do símbolo de Algoritmos:
+
+Alternativas:
+A. significa processamento em geral. Exemplo: Cálculo de dois números.
+B. significa o INÍCIO ou FIM de um processamento. Exemplo: Início do algoritmo.
+C. significa entrada de dados através do Teclado. Exemplo: Digite a nota da prova 1.
+D. significa o desvio para o final do programa.
+E. significa informações e resultados.

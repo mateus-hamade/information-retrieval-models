@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+Texto associado Considerando a tabela apresentada na Figura 1, qual resultado será retornado pelo comando SQL abaixo?   SELECT COUNT(ID) FROM AREA WHERE NOME LIKE 'D%';
+
+Alternativas:
+A. 0
+B. 2
+C. 3
+D. 6
+E. 7

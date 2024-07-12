@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+Para obter a média dos valores maiores que R$ 1.000,00 da coluna Valor da tabela Inventario, o analista deve escrever corretamente o comando SQL
+
+Alternativas:
+A. SELECT FROM Inventario AVG(Valor) WHERE Valor GREATER 1000;
+B. SELECT AVG(Valor) WHERE Inventario.Valor BIGGER THAN 1000;
+C. SELECT AVG(Valor) FROM Inventario WHERE Valor > 1000;
+D. SELECT FROM Inventario AVG(Valor) WHERE BIGGER THAN 1000;
+E. SELECT AVG FROM Inventario WHERE Valor > 1000;

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
+
+Carlos trabalha como desenvolvedor de software e recebe a demanda de criar um trecho de código usando um loop de repetição que somente pode ser usado quando se sabe a quantidade de vezes que o loop vai acontecer. Selecione o loop de repetição que Carlos deve utilizar.
+
+Alternativas:
+A. if
+B. for
+C. while
+D. switch
+E. do - while

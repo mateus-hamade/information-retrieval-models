@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Tipos de Dados
+
+Se considerarmos que ''I” sejam os dados do tipo inteiro, ''R” os reais, ''L” os literais e ''B” os lógicos, identifique a alternativa que preencha os espaços dos seguintes dados:  ( ) "JOSE" ( ) 0,2132 ( ) +33 ( ) sim/não  
+
+Alternativas:
+A. B - I - R - L
+B. L - I - R - B
+C. L - R - I - B
+D. B - R - I – L

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+Assinale a opção em que é apresentado exemplo de estrutura de informação do tipo abstrata, balanceada, não linear e com relacionamento hierárquico.  
+
+Alternativas:
+A. pilha
+B. árvore AVL
+C. deque
+D. lista duplamente encadeada
+E. árvore binária

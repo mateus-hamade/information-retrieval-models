@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Nas estruturas conhecidas como árvores, o nó do topo da árvore, do qual descendem os demais nós, denomina-se nó  
+
+Alternativas:
+A. interior.
+B. terminal.
+C. raiz.
+D. exterior.
+E. filho.

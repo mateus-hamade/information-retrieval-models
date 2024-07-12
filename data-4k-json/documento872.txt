@@ -1,0 +1,9 @@
+Banco de Dados Conceitos Básicos em Banco de Dados
+
+Observe o diagrama a seguir:     (Heuser, 2011, p. 83.)  Este modelo representa uma   
+
+Alternativas:
+A. entidade associativa.
+B. generalização/especialização com chave total da entidade Pessoa.
+C. entidade associativa compartilhada com herança de propriedades.
+D. generalização/especialização compartilhada e total da entidade Pessoa.

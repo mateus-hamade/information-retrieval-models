@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Hashing
+
+Texto associado No método de hashing, por meio de acesso sequencial, são utilizados tabelas e mapas para recuperar informações de endereço de arquivos de forma rápida e eficiente. 
+
+Alternativas:
+A. Certo
+B. Errado

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos
+
+O algoritmo de busca binária é mais eficiente que o de busca linear, para um mesmo vetor, desde que  
+
+Alternativas:
+A. o vetor esteja ordenado.
+B. o algoritmo explore o processamento repetitivo.
+C. o algoritmo trabalhe em um formato circular de repetição.
+D. o algoritmo percorra o vetor verificando se o elemento desejado está presente.
+E. o tamanho do vetor seja pequeno.

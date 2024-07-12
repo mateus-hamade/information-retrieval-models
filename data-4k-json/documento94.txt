@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados Relacionais
+
+Texto associado Considerando, nas relações apresentadas, os atributos indicados como chaves primárias ou estrangeiras entre chaves, assinale a opção que representa um mapeamento ORM possível para as classes “Tramitação” e “Despacho”, mantendo-se a completa semântica do modelo conceitual. 
+
+Alternativas:
+A. Tramitação ( {cod_tramitacao} <PK>, forma, regime ) Despacho ( {cod_despacho} <PK>, data, andamento )
+B. Tramitação ( {cod_tramitacao} <PK>, forma, regime ) Despacho ( { cod_tramitacao <FK>, cod_despacho} <PK>, data, andamento ) - Restrição da tabela Despacho: cod_tramitacao REFERENCIA Tramitação(cod_tramitacao)
+C. Tramitação ( {cod_tramitacao, cod_despacho <FK> } <PK>, forma, regime ) Despacho ( {cod_despacho} <PK>, data, andamento ) - Restrição da tabela Tramitação: cod_despacho REFERENCIA Despacho(cod_despacho)
+D. Tramitação ( {cod_proposicao<FK>, cod_tramitacao} <PK>, forma, regime ) Despacho ( { {cod_proposicao, cod_tramitacao} <FK>, cod_despacho} <PK>, data, andamento ) - Restrição da tabela Tramitação: cod_proposicao REFERENCIA Proposição(cod_proposicao) - Restrição da tabela Despacho: {cod_proposicao, cod_tramitacao} REFERENCIA Tramitação(cod_proposicao, cod_tramitacao)
+E. Tramitação ( {cod_proposicao <FK>, cod_tramitacao} <PK>, forma, regime ) Despacho ( {cod_proposicao<FK>,cod_tramitacao<FK>,cod_despacho}<PK>, data, andamento ) - Restrição da tabela Tramitação: cod_proposicao REFERENCIA Proposição(cod_proposicao) - Restrições da tabela Despacho: cod_proposicao REFERENCIA Proposição(cod_proposicao), e cod_tramitacao REFERENCIA Tramitação (cod_tramitacao)

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Uma das possíveis aplicações de árvores binárias é a representação de expressões aritméticas. Dada a expressão *+* + a.. b . . / c . .d . . / e . . f . . g . . em ordem pré-fixada, considerando o símbolo (ponto simples) como a representação para NULO, têm-se as seguintes afirmativas: I. a b + c d / * e f / + g * é o caminhamento pós-fixado. II. a + b * c / d + e / f * g é o caminhamento pré-fixado. III. efetuando o caminhamento em ordem pré-fixada, se obtéma expressão denominada forma polonesa. IV. efetuando o caminhamento em ordem pós-fixada, se obtéma expressão na notação polonesa reversa. Está(ão) correta(s) apenas a(s) afirmativa(s): 
+
+Alternativas:
+A. I.
+B. II.
+C. I, III e IV.
+D. II, III e IV.
+E. III e IV.

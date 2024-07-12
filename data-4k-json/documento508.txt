@@ -1,0 +1,10 @@
+Banco de Dados Backup em Banco de Dados
+
+Uma empresa mantém em um servidor um repositório de arquivos que cresce continuamente com a criação diária de novos arquivos. Seu procedimento de backup é de rotina semanal. Este é realizado completo (full) no domingo e backups incrementais de segunda-feira a sábado, sempre às 15h00min. Numa determinada semana, uma pane no servidor ocorrida às 13h de quarta-feira ocasionou a perda de todos os arquivos, sendo necessário o restore dos dados do backup semanal. Neste caso, o procedimento que proporciona a menor perda de dados é:
+
+Alternativas:
+A. restaurar o backup de terça-feira, o backup de segunda-feira e o backup de domingo, nesta ordem.
+B. restaurar o backup de domingo, o backup de segunda-feira-feira e o backup de terça-feira, nesta ordem.
+C. restaurar apenas o backup de terça-feira, que já contém todos os arquivos necessários à reconstrução do repositório.
+D. restaurar apenas o backup de domingo que, por ser completo, contém todos os arquivos necessários à reconstrução do repositório.
+E. restaurar o backup de domingo e o backup de terça-feira, nesta ordem.

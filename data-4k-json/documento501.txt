@@ -1,0 +1,10 @@
+Banco de Dados DER - Diagrama de Entidade e Relacionamento
+
+Um modelo de banco de dados é uma descrição dos tipos de informações que estão armazenadas em um banco de dados. De acordo com a intenção do modelador, um banco de dados pode ser modelado (descrito) em vários níveis de abstração. A primeira etapa do projeto de banco de dados é a construção de um modelo conceitual, a chamada modelagem conceitual. O objetivo da modelagem conceitual é obter uma descrição abstrata independente de implementação. A técnica de modelagem mais utilizada é a abordagem entidade-relacionamento. Adaptado de Carlos A. Heuser. Projeto de Banco de Dados, 6. ed. São Paulo: Bookman, 2009.  Em relação ao Diagrama Entidade-Relacionamento (DER), avalie as seguintes afirmações: I – Entidade é um conjunto de objetos da realidade modelada sobre os quais se deseja manter informações no banco de dados. II – Generalização/Especialização são propriedades que podem ser atribuídas a entidades. A partir deste conceito é possível atribuir propriedades particulares a um subconjunto das ocorrências (especialização) de uma entidade genérica. III – Atributo é o dado que é associado a cada ocorrência de uma entidade. No entanto, eles não podem estar presentes em relacionamentos. IV – Cardinalidade é o número de ocorrências de uma entidade que pode estar envolvida em um relacionamento. A cardinalidade mínima pode ser 0 ou 1 e a cardinalidade máxima pode ser 0 ou n.  Assinale a alternativa que apresenta APENAS as afirmações CORRETAS.  
+
+Alternativas:
+A. I e II.
+B. II e III.
+C. III e IV.
+D. I e III.
+E. II e IV.

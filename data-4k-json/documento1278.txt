@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
+
+Sobre a complexidade dos algoritmos, analise as sentenças abaixo:  I- Pode-se expressar de forma abstrata a eficiência de um algoritmo, descrevendo o seu tempo de execução como uma função do tamanho do problema (quantidade de dados); isto é chamado de complexidade de tempo.  II- Straight Selection é o mais primitivo método de ordenação de um vetor. A ideia desse método é percorrer um vetor de n posições n vezes, a cada vez comparando dois elementos e trocando-os caso o primeiro seja maior que o segundo.  III- Bubblesort é uma forma intuitiva de ordenar um vetor, escolhendo o menor elemento do vetor e trocando com o primeiro elemento. Em seguida o segundo, escolhendo o menor dentre os restantes, e assim até o último elemento.  Estão CORRETAS:
+
+Alternativas:
+A. Apenas I.
+B. Apenas II.
+C. Apenas III.
+D. Apenas I e II.

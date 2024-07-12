@@ -1,0 +1,10 @@
+Banco de Dados Big Data
+
+Assinale a opção que melhor descreve a diferença entre os frameworks Apache Spark e Apache Hadoop, no contexto do processamento de Big Data.  
+
+Alternativas:
+A. O processamento de dados no Spark é mais rápido do que no Hadoop, pois ele é baseado em memória e utiliza RDDs, enquanto o Hadoop é baseado em disco e utiliza MapReduce.
+B. O processamento de dados no Hadoop é mais rápido do que no Spark, pois o Hadoop é mais escalável e utiliza clusters maiores, enquanto o Spark é limitado pelo tamanho do cluster.
+C. O Spark é mais adequado para cargas de trabalho mais pesadas, enquanto o Hadoop é melhor para cargas de trabalho mais leves e interativas.
+D. O Spark e o Hadoop utilizam as mesmas técnicas de processamento de dados, mas o Spark é mais adequado para casos de uso em que a latência é um fator crítico, enquanto o Hadoop é mais adequado para casos de uso em que a capacidade de processamento em lote é mais importante.
+E. O Hadoop é uma tecnologia mais recente que oferece melhorias, em relação ao Spark, em termos de desempenho e velocidade de processamento.

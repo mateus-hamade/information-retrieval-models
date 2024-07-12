@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Tipos de Dados
+
+Texto associado O tipo abstrato de dados consiste em um modelo matemático (v,o), em que v é um conjunto de valores e o é um conjunto de operações que podem ser realizadas sobre valores. 
+
+Alternativas:
+A. Certo
+B. Errado

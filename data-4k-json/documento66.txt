@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados
+
+Assinale a alternativa que se refere à propriedade em transação de bancos de dados, importante para garantir a validade dos dados, mesmo que ocorram erros durante o armazenamento ou problemas mais graves no sistema, como crashes ou problemas físicos em um servidor, exemplificada na situação descrita a seguir.  Imagine dois clientes tentando comprar o último exemplar de um produto em estoque, simultaneamente. O primeiro a finalizar a compra fará com que a transação do outro seja interrompida, sofrendo rollback que é
+
+Alternativas:
+A. consistência.
+B. atomicidade.
+C. isolamento.
+D. durabilidade.
+E. escalabilidade.

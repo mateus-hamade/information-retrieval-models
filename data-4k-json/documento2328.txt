@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
+
+Considere o seguinte trecho de código em Java para ordenação de um conjunto de números:        A ordem de complexidade desse algoritmo, considerando que o conjunto de números (n) não está ordenado, é:  
+
+Alternativas:
+A. n
+B. n log n
+C. n!
+D. n2

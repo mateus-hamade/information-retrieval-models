@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Analise o seguinte algoritmo:     Se L então  C1  Senão  C2  Fim Se     O algoritmo apresentado está descrito no seguinte instrumento da lógica estruturada:   
+
+Alternativas:
+A. diagrama hierárquico de fluxo.
+B. português estruturado.
+C. gráfico de estruturas.
+D. portugol.
+E. árvore de decisão.

@@ -1,0 +1,10 @@
+Banco de Dados Sistemas de Informações Gerenciais (SIG) , SGBD - Sistema de Gerenciamento de Banco de Dados
+
+Segundo a Lei Geral de Proteção de Dados (LGPD), deve-se implementar um programa de governança em privacidade que, no mínimo:
+
+Alternativas:
+A. Seja aplicável à parte do conjunto de dados pessoais que estejam sob seu controle, independentemente do modo como se realizou sua coleta.
+B. Não haja exigência de planos de resposta a incidentes e remediação.
+C. Seja imutável à estrutura, à escala e ao volume de suas operações, bem como à sensibilidade dos dados tratados.
+D. Estabeleça políticas e salvaguardas adequadas com base em processo de avaliação sistemática de impactos e riscos à privacidade.
+E. Esteja desvinculado da estrutura geral de governança e sem o estabelecimento de mecanismos de supervisão internos e externos.

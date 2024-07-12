@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Considerando a linguagem utilizada na construção de algoritmos, julgue o item a seguir.  Se o algoritmo para o cálculo da média de determinado aluno utilizar a fórmula média = (P1 + 2*P2) / 3, em que P1 e P2 referem-se, respectivamente, às notas do aluno na primeira e na segunda prova, e se a média mínima necessária para o aluno ser aprovado na disciplina for 4,5, esse aluno será aprovado se obtiver nota 5,0 na primeira prova e 4,0 na segunda prova.  
+
+Alternativas:
+A. Certo
+B. Errado

@@ -1,0 +1,9 @@
+Banco de Dados SQL Server
+
+Em nível de servidor, no momento de instalação do SQL Server, há um importante parâmetro a ser definido, denominado collation, cuja escolha tem impacto nas operações de:
+
+Alternativas:
+A. combinação de dados e autenticação de grupos.
+B. armazenamento e restauração de dados.
+C. ordenação e comparação de dados textuais.
+D. integridade e persistência de dados textuais.

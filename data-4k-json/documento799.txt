@@ -1,0 +1,10 @@
+Banco de Dados Formas normais
+
+Assinale a alternativa que indica uma condição que NÃO precisa ser atendida para que uma tabela seja considerada normalizada na 1FN.
+
+Alternativas:
+A. Cada célula da tabela deve conter somente valores atômicos, ou seja, cada campo deve ter somente um valor por tupla.
+B. Cada linha da tabela, ou registro, deve ser única, não podendo ter registros repetidos nem com uma chave primária diferente da outra.
+C. Não deve conter tabelas aninhadas.
+D. Os campos devem possuir um tipo definido.
+E. Os campos devem ser dependentes da chave primária.

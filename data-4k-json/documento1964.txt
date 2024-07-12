@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Em relação ao algoritmo é incorreto afirmar:
+
+Alternativas:
+A. É uma sequência finita de ações executáveis que visam obter uma solução para um determinado tipo de problema.
+B. Consiste em uma expressão textual das etapas da resolução de algum problema, seja ele computacional ou não.
+C. Um algoritmo não representa, necessariamente, um programa de computador, e sim os passos necessários para realizar uma tarefa.
+D. Pode ser comparado por uma lista de procedimentos bem definida, no qual as instruções não são executadas passo a passo a partir do começo da lista e não pode ser facilmente visualizada através de um fluxograma.

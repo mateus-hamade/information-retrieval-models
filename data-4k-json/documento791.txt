@@ -1,0 +1,10 @@
+Banco de Dados PostgreSQL
+
+Considerando o sistema de banco de dados relacional PostgreSQL versão 14, em um banco de dados, existe uma tabela Funcionario. A tabela Funcionario tem quatro colunas: • id, uma chave serial • nome, do tipo string • endereco, do tipo string • contato, do tipo JSONB O objeto JSON contato tem um campo chamado email. Qual das seguintes queries retornariam todos os funcionários cujo endereço de email termine em @exemplo.com? 
+
+Alternativas:
+A. SELECT * FROM Funcionario WHERE contato->>'email' LIKE '%@exemplo.com';
+B. SELECT * FROM Funcionario WHERE contato->'email' LIKE '%@exemplo.com';
+C. SELECT * FROM Funcionario WHERE contato->>'email' = '*@exemplo.com';
+D. SELECT * FROM Funcionario WHERE contato->'email' = '%@exemplo.com';
+E. SELECT * FROM Funcionario WHERE contato->'email' = '*@exemplo.com';

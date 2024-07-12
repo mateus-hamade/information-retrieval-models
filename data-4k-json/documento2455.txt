@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Filas , Pilhas
+
+É exemplo de associação correta entre o problema e a estrutura de dados mais adequada para resolvê-lo:
+
+Alternativas:
+A. Uma empresa aérea quer fazer o controle de reservas de voos de forma automatizada. Há vários voos e cada um deles tem certo número de lugares disponíveis. Os usuários fazem a reserva por telefone, fornecendo seus nomes. As pilhas devem ser usadas para controlar a lista de passageiros de cada voo, ordenados pelo nome.
+B. Vários usuários enviam dados para serem impressos numa única impressora. Como o controle das impressões poderia ser feito? Quem teria o direito de imprimir primeiro? Qual a ordem de impressão? As listas encadeadas devem ser usadas, colocando os arquivos ordenados pelo nome do usuário, usando a política LIFO – Last In Fisrt Out.
+C. O comando “desfazer” (undo) de um editor de texto precisa ser implementado. A última ação do usuário é que será desfeita. Uma pilha deve ser usada para implementar o undo, mantendo no topo a última ação do usuário.
+D. Uma empresa quer dar senhas de acesso diferenciadas para os seus funcionários de acordo com sua função e departamento. De acordo com a senha, o usuário poderá ter suas tarefas executadas em menor tempo no computador central, de forma prioritária. As árvores binárias devem ser usadas para geração das senhas e controle das prioridades de acesso.
+E. O histórico de sites visitados pelos usuários do navegador Internet Explorer tem que ser organizado de forma que o site mais recentemente visitado fique no topo da lista. As filas devem ser usadas, de forma que o primeiro site visitado fique em seu topo.

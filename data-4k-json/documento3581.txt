@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+A estrutura de dados linear que obedece o seguinte critério: o último elemento inserido será o primeiro elemento a ser retirado (last in first out ? LIFO) é:
+
+Alternativas:
+A. pilha.
+B. fila.
+C. árvore binária.
+D. árvore AVL.
+E. lista circular.

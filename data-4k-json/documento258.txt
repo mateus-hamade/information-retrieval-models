@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+De acordo com a query descrita abaixo, assinale a alternativa correta, sobre sua execução:         UPDATE produtos SET estoque = estoque - 1 WHERE id_produto = 1001;  
+
+Alternativas:
+A. Retorna todos os produtos
+B. Atualiza o estoque do produto com ID igual a 1001, subtraindo 1
+C. Atualiza o valor do produto com ID igual a 1001
+D. Remove todos os produtos com ID igual a 1001
+E. Atualiza o estoque de todos os produtos

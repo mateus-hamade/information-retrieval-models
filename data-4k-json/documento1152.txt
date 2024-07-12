@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos
+
+A lógica matemática é uma área de estudo que utiliza sistemas formais para representar, analisar e inferir informações sobre o mundo real. As funções de avaliação são uma parte importante da lógica matemática, pois permitem avaliar se uma fórmula lógica resulta em um retorno verdadeiro ou falso. Considere a seguinte fórmula lógica e seu respectivo conjunto de atribuições de variáveis:     Fórmula lógica:  ∀x (P(x) → Q(x))     Conjunto de atribuições de variáveis:  P(x)={a, b, c}, Q(x)={b, c, d}     Analise o pseudocódigo abaixo, que tenta retornar a verdadeiro ou falso para a fórmula lógica usando as atribuições de variáveis fornecidas:     função avaliar_fórmula(P, Q)  para cada elemento x em P  se x está em P e x não está em Q  retornar falso  retornar verdadeiro     Qual é o resultado da execução do algoritmo, considerando o contexto descrito na questão? 
+
+Alternativas:
+A. Não é possível avaliar a fórmula lógica usando o pseudocódigo fornecido.
+B. Verdadeiro.
+C. Falso.
+D. Indeterminado.
+E. O pseudocódigo é inválido.

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos
+
+Texto associado Quanto à função numeros, apresentada anteriormente, é correto afirmar que o principal propósito do algoritmo é localizar um par de números em L: 
+
+Alternativas:
+A. cuja soma seja diferente de N;
+B. cuja soma seja igual a N;
+C. cuja soma seja igual ao dobro de N;
+D. cujo módulo da diferença seja igual a N;
+E. cujo produto seja igual a N.

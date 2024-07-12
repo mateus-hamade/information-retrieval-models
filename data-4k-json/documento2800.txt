@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Matrizes em Estrutura de Dados
+
+Acerca de programação de computadores, julgue o item a seguir.   Os dados armazenados em uma estrutura do tipo matriz não podem ser acessados de maneira aleatória. Portanto, usa-se normalmente uma matriz quando o volume de inserção e remoção de dados é maior que o volume de leitura dos elementos armazenados.   
+
+Alternativas:
+A. Certo
+B. Errado

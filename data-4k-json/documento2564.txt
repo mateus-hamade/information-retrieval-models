@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Busca
+
+Julgue o item seguinte, a respeito de estruturas em programação e de arquiteturas de bancos de dados.  No algoritmo denominado busca em amplitude, a árvore é percorrida visitando-se todos os nós de um ramo até se atingir os nós terminais, repetindo-se o processo em cada um dos ramos.  
+
+Alternativas:
+A. Certo
+B. Errado

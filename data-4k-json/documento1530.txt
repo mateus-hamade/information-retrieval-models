@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Analise as seguintes afirmativas sobre as sub-rotinas (procedimentos e funções) da programação modularizada: I. As variáveis declaradas dentro das sub-rotinas são chamadas de variáveis locais e aquelas declaradas fora de qualquer sub-rotina são chamadas de variáveis globais. II. Um parâmetro passado por valor para uma sub-rotina se comportará como uma variável local, isto é, qualquer modificação no valor desta variável não será visível fora da sub-rotina. III. Um parâmetro passado por referência para uma sub-rotina se comportará como uma variável global, isto é, qualquer modificação no valor desta variável será visível também fora da sub-rotina. Estão CORRETAS as afirmativas: 
+
+Alternativas:
+A. I e II, apenas.
+B. I e III, apenas.
+C. II e III, apenas.
+D. I, II e III.

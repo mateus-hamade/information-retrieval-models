@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
+
+Um algoritmo de complexidade exponencial pode ser representado por qual notação?
+
+Alternativas:
+A. O(2n)
+B. O(n + 1)
+C. O(n)
+D. O(n - 1)
+E. O(n) + 3

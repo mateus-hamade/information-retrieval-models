@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Texto associado Na construção de um algoritmo, utilizam-se estruturas de repetição para que um bloco de comandos seja executado várias vezes. Todos os tipos de estrutura de repetição permitem que o bloco de comandos seja executado zero, uma ou mais vezes, de acordo com uma condição que será avaliada a cada iteração.
+
+Alternativas:
+A. Certo
+B. Errado

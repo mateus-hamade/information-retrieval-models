@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Filas
+
+Um software de ordenação utiliza uma estrutura de dados na qual sempre se adicionam itens no fim e remove-se do início. Esse tipo de estrutura também é conhecido como: 
+
+Alternativas:
+A. fila
+B. pilha
+C. arvore binária
+D. lista duplamente encadeada

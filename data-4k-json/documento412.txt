@@ -1,0 +1,9 @@
+Banco de Dados Banco de Dados
+
+Você está planejando uma plataforma de Banco de Dados que deverá armazenar informações, como as apresentadas na figura que segue. Com base nestas informações, e conhecedor de que você deve escolher um modelo de Banco de Dados especializado, pois necessita de desempenho e simplicidade, você optou por escolher o tipo de Banco de Dados:     Com base nas informações, assinale a alternativa correta.
+
+Alternativas:
+A. NXD
+B. MySQL
+C. JSON
+D. JBOSS

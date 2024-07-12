@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados
+
+A modelagem e o projeto de bancos de dados são etapas cruciais no desenvolvimento de sistemas de gerenciamento de informações. Eles ajudam a garantir que os dados sejam armazenados e gerenciados de forma eficiente e coerente. Qual das seguintes opções representa corretamente a sequência de etapas envolvidas no processo de modelagem e projeto de bancos de dados? 
+
+Alternativas:
+A. Análise de requisitos, projeto conceitual, projeto físico.
+B. Análise de requisitos, projeto lógico, projeto físico.
+C. Projeto físico, projeto lógico, projeto conceitual.
+D. Projeto conceitual, projeto lógico, projeto físico.
+E. Projeto lógico, projeto conceitual, projeto físico.

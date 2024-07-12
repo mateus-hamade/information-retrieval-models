@@ -1,0 +1,10 @@
+Programação HTML (HyperText Markup Language) , Linguagens de marcação
+
+    Em um arquivo HTML em que se deseja associar uma mesma regra CSS a diferentes tipos de tags, foi empregado um seletor do tipo classe.  Nesse caso, para a criação dessa regra, no que diz respeito ao nome do seletor no código de formatação da folha de estilo e ao nome do seletor no atributo class da tag a ser formatada na página HTML que utiliza a folha de estilo, coloca-se
+
+Alternativas:
+A. o sinal # antes do nome do seletor no código CSS e, na página HTML, usa-se o nome do seletor sem o sinal #.
+B. um ponto antes do nome do seletor no código CSS e, na página HTML, usa-se o nome do seletor também com o ponto.
+C. o sinal # antes do nome do seletor no código CSS e, na página HTML, usa-se o nome do seletor também com o sinal #.
+D. um ponto antes do nome do seletor no código CSS e, na página HTML, usa-se o nome do seletor sem o ponto.
+E. o sinal # antes do nome do seletor no código CSS e, na página HTML, usa-se o nome do seletor antecedido por um ponto.

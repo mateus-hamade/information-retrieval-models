@@ -1,0 +1,9 @@
+Banco de Dados OLAP (On-line Analytical Processing) , Banco de Dados Relacionais
+
+As ferramentas OLAP (On-Line Analytical Processing) permitem ao usuário analisar o porquê dos resultados obtidos. Atualmente, existe disponível no mercado uma variedade dessas ferramentas com diferentes abordagens. As ferramentas OLAP, que possuem como característica principal permitir o acesso tanto aos bancos de dados relacionais quanto aos multidimensionais, são conhecidas como: 
+
+Alternativas:
+A. ROLAP.
+B. DOLAP.
+C. HOLAP.
+D. MOLAP.

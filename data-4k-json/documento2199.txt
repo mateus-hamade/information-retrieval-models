@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Grafos
+
+Tendo como entrada um grafo acíclico dirigido ponderado G = (V, E), pode-se calcular o caminho mínimo de origem única,
+
+Alternativas:
+A. aplicando a busca em largura em G, o caminho mínimo de origem única é calculado em tempo θ(V2 ).
+B. aplicando a busca em largura no grafo transposto GT = (V, ET ), o caminho mínimo de origem única é calculado em tempo θ(V2 ).
+C. relaxando as arestas de G de acordo com a ordenação topológica de seus vértices, o caminho mínimo de origem única é calculado em tempo θ(V + E).
+D. aplicando a busca em profundidade no grafo transposto GT = (V, ET ), o caminho mínimo de origem única é calculado em tempo θ(V + E).
+E. relaxando as arestas pela busca em profundidade no grafo de entrada G = (V, E) e, posteriormente, aplicando a busca em profundidade no grafo transposto GT = (V, ET ), o caminho mínimo de origem única é calculado em tempo θ(V2 ).

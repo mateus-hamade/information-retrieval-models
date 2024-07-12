@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Dados
+
+Machine Leaming possui um grande conjunto de técnicas e algoritmos consagrados. Por possuírem características específicas, essas técnicas e algoritmos são adequados ou não para a solução de um problema, a depender do tipo de aprendizagem que será utilizado. Marque a alternativa que indica o nome de um algoritmo que NÃO faz parte dos utilizados em cenários onde a aprendizagem supervisionada está presente.  
+
+Alternativas:
+A. KNN
+B. K-means
+C. Redes Neurais
+D. Árvore de Decisão
+E. SVM

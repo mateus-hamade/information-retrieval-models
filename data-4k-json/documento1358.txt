@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Lógicas de Programação
+
+As variáveis de programação são fundamentais para o dia a dia do programador. Elas orientam o programa a executar operações. Uma variável em um programa é definida como 
+
+Alternativas:
+A. um valor fixo.
+B. um local na memória para armazenar dados.
+C. uma palavra-chave reservada.
+D. um comando executável.

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Hashing
+
+A estrutura de dados que consiste no armazenamento de cada elemento em um endereço calculado a partir da aplicação de uma função sobre a chave de busca denomina-se
+
+Alternativas:
+A. lista.
+B. tabela hashing.
+C. deque.
+D. fila.
+E. árvore binária balanceada.

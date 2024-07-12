@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação , Estrutura de Dados
+
+Texto associado Considerando que N é número de elementos do vetor a ser ordenado, a estratégia de ordenação apresentada em Java
+
+Alternativas:
+A. também é conhecida como método de ordenação por intercalação e possui uma versão para unir dois vetores já ordenados.
+B. tem complexidade O(N2) no pior caso e no caso médio, mas apresenta complexidade O(N) no melhor caso.
+C. faz um número fixo de comparações dado por log2N, independente dos valores do vetor original. Isso é garantido pelas chamadas recursivas ao método ordena().
+D. utiliza o método separar() para dividir o vetor original em 2 sublistas de igual tamanho. Isso garante que mesmo no pior caso o método realize Nlog2N comparações.
+E. utiliza o método separar() para fazer a partição do vetor, por meio da seleção de um elemento chamado pivô. A escolha do pivô é crucial para o bom desempenho do método, já que a fase de partição é a parte crítica do algoritmo.

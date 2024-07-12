@@ -1,0 +1,9 @@
+Banco de Dados Backup em Banco de Dados
+
+O método de Backup que usa estratégia por meio da replicação de dados em tempo real em um ou mais dispositivos de armazenamento diferentes, proporcionando alta disponibilidade e redundância de dados em caso de falhas de hardware ou outras interrupções do sistema, denomina-se
+
+Alternativas:
+A. restauração.
+B. backup 365.
+C. backup espelhado.
+D. backup diferencial.

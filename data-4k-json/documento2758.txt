@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+Acerca de organização de arquivos e métodos de acesso, assinale a opção correta.
+
+Alternativas:
+A. A pesquisa binária pode ser utilizada com arquivos de registros desordenados (sem chave), mas não com arquivos de registros ordenados, que não se prestam a essa técnica por terem chaves.
+B. A organização de arquivos está associada ao ordenamento de dados de um arquivo em registros e blocos, mas não à forma em que esses blocos são colocados no meio do armazenamento.
+C. Os arquivos de registros desordenados são armazenados na ordem em que são inseridos, os mais novos ao final do arquivo.
+D. A busca de dados em arquivos de registros desordenados é mais eficiente que a inserção.
+E. A utilização de arquivos de registros ordenados permite classificar os dados a cada entrada, mas a leitura dos registros na ordem da chave é lenta.

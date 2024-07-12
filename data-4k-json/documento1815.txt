@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Leia as afirmativas a seguir: I. O software é a parte física do computador, ou seja, é o conjunto de componentes eletrônicos, circuitos integrados e placas, que se comunicam através de barramentos. Em complemento ao software, o hardware é a parte lógica, ou seja, o conjunto de instruções e dados processado pelos circuitos eletrônicos do software. II. As expressões lógicas são expressões formadas a partir do uso de variáveis, apenas. As expressões lógicas retornam sempre um valor lógico, como um número decimal ou um texto presente em um banco de dados. Marque a alternativa CORRETA:
+
+Alternativas:
+A. As duas afirmativas são verdadeiras.
+B. A afirmativa I é verdadeira, e a II é falsa.
+C. A afirmativa II é verdadeira, e a I é falsa.
+D. As duas afirmativas são falsas.

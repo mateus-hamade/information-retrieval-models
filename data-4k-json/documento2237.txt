@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Filas , Listas ( assuntos)
+
+Analise as seguintes afirmativas sobre estruturas de dados: listas, filas e pilhas. I. Em uma lista linear em alocação sequencial, cada nó é formado por campos que armazenam características distintas dos elementos da lista. Cada nó da lista pode possuir um identificador denominado chave, que deve ser único na lista para evitar ambiguidades. II. A fila é um caso particular de listas onde as inserções e as remoções são realizadas apenas em uma das extremidades da lista. III. A pilha é um caso particular de listas onde as inserções são realizadas em uma extremidade e as remoções na outra extremidade da lista. É correto afirmar que a(s) afirmativa(s)
+
+Alternativas:
+A. I é verdadeira.
+B. II é verdadeira.
+C. III é verdadeira.
+D. I e II são verdadeiras.
+E. I e III são verdadeiras.

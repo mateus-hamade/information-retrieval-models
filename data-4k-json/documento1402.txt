@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Algoritmos de Busca
+
+João está trabalhando com uma base de dados que contém centenas de milhares de registros de pessoas, na qual a chave de busca é o CPF. Nesse contexto, o algoritmo/método de busca que, corretamente empregado, oferece a melhor complexidade é:
+
+Alternativas:
+A. Árvore B;
+B. Bitmap;
+C. Busca binária;
+D. Lista encadeada;
+E. Tabela Hash.

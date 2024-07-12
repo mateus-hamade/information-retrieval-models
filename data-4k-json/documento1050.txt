@@ -1,0 +1,9 @@
+Banco de Dados Conceitos Básicos em Banco de Dados
+
+Dado é a representação utilizada para gerar uma informação. Um dado pode ser estruturado ou não estruturado. Em relação às diferenças entre dados estruturados e dados não estruturados, marque V para as afirmativas verdadeiras e F para as falsas. ( ) Em dados estruturados, dados de um mesmo registro possuem relação entre eles. ( ) Textos, documentos, banco de dados, redes sociais, imagens, vídeos e áudios são exemplos de dados não estruturados. ( ) Dados estruturados permitem que tipos de dados diferentes das estruturas preestabelecidas sejam carregados. ( ) Em dados estruturados, atributos e campos são definidos por um esquema. A sequência está correta em
+
+Alternativas:
+A. F, V, V, F.
+B. V, V, V, V.
+C. V, F, F, V.
+D. F, F, F, F.

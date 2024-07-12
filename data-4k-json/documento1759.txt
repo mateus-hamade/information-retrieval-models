@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Dada a árvore a seguir, assinale a alternativa que apresenta o passeio em ordem para essa árvore.    
+
+Alternativas:
+A. 1 2 4 3 5 6 7
+B. 1 2 3 4 5 6 7
+C. 4 2 1 7 5 6 3
+D. 4 2 1 5 3 7 6
+E. 7 4 5 6 2 3 1

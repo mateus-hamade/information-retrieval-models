@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+algoritmo  anterior, seguinte, auxiliar, valor, contador : inteiro;  início   anterior  1;  seguinte 1;  escreva (anterior, seguinte)  para contador de 1 até valor passo 1 faça  auxiliar  anterior + seguinte;  escreva ( auxiliar );  anterior seguinte;  seguinte  auxiliar;  fim-para fim   Considerando o algoritmo apresentado, assinale a opção que indica o conteúdo da variável valor para que seja apresentado o seguinte resultado.      1 1 2 3 5 8 13 21 34 55 89 144 233
+
+Alternativas:
+A. 4
+B. 10
+C. 11
+D. 13
+E. 233

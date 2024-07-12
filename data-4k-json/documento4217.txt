@@ -1,0 +1,9 @@
+Segurança da Informação Criptografia
+
+Sobre a distinção fundamental entre os sistemas criptográficos simétricos e assimétricos de chave pública, considerando as implicações para a segurança e a complexidade computacional, assinale a afirmativa correta. 
+
+Alternativas:
+A. Sistemas simétricos e assimétricos são conceitos equivalentes, referindo-se ao mesmo princípio subjacente na criptografia.
+B. Sistemas simétricos usam uma única chave para criptografia e descriptografia, enquanto sistemas assimétricos utilizam chaves distintas.
+C. Ambos os sistemas utilizam a mesma chave para criptografia, mas sistemas assimétricos requerem senhas adicionais para descriptografia.
+D. Sistemas simétricos são intrinsecamente mais seguros devido ao uso de chaves públicas, enquanto sistemas assimétricos dependem de chaves privadas.

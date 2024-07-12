@@ -1,0 +1,10 @@
+Banco de Dados Sistemas de Informações Gerenciais (SIG)
+
+Considere as seguintes assertivas sobre o protocolo de bloqueio em duas fases (2PL - Two Phase Lock) em sistemas de gerência de banco de dados:  I. 2PL garante possibilidade de serialização (serializability). II. 2PL evita deadlocks. III. 2PL não permite intercalação de lock e unlock. Quais estão corretas? 
+
+Alternativas:
+A. Apenas III.
+B. Apenas I e II.
+C. Apenas I e III.
+D. Apenas II e III.
+E. I, II e III.

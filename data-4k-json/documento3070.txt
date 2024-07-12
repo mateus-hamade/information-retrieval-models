@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Considere A =    e B=    Considere ainda o seguinte trecho de código: Para K de 1 até 2 faça             Para J de 1 até 3 faça             Imprima A (K,B(J,K));  Das opções abaixo, aquela que apresenta o que será impresso na execução do trecho de código é:
+
+Alternativas:
+A. TIRA;
+B. TARA;
+C. TAPIRA;
+D. TUPA;
+E. TARU.

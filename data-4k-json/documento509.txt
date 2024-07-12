@@ -1,0 +1,10 @@
+Banco de Dados Formas normais
+
+Na modelagem de um projeto de banco de dados é importante destacar o entendimento que normalização pode ser considerada um processo de analisar os esquemas de relação de dados com base em suas dependências funcionais e chaves primárias para conseguir as propriedades desejadas de minimização de redundância e minimização das anomalias de inserção, exclusão e atualização. No modelo relacional, considerada parte da definição formal de uma relação e afirma que o domínio de um atributo deve incluir apenas valores atômicos (simples, indivisíveis) e que o valor de qualquer atributo em uma tupla deve ser único valor do domínio desse atributo, é conhecida como:
+
+Alternativas:
+A. quarta forma normal.
+B. segunda forma normal.
+C. terceira forma normal.
+D. primeira forma normal.
+E. quinta forma normal.

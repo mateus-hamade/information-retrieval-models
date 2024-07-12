@@ -1,0 +1,10 @@
+Banco de Dados Data Mining
+
+Assinale a alternativa que apresenta o método de mineração de dados que é especificamente associado a tarefas de classificação, cujo objetivo é classificar as instâncias em classes predefinidas com base em características ou atributos.
+
+Alternativas:
+A. árvores de decisão
+B. regra de associação
+C. clusterização
+D. regressão
+E. redes neurais

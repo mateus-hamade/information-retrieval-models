@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados
+
+Assinale a alternativa que indica corretamente uma técnica comum usada na replicação de banco de dados para garantir a atomicidade em transações, para haver consistência entre réplicas. 
+
+Alternativas:
+A. Protocolo de confirmação em duas fases.
+B. Validação de chave primária.
+C. Compressão de dados.
+D. Escrita de registros de log.
+E. Balanceamento de carga.

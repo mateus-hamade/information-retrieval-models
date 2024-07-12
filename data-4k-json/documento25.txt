@@ -1,0 +1,10 @@
+Banco de Dados Conceitos Básicos em Banco de Dados
+
+O Teorema CAP afirma que não é possível garantir as três propriedades C – A – P simultaneamente em um sistema distribuído e com replicação de dados. Em geral, sistemas NoSQL optam por enfraquecer:
+
+Alternativas:
+A. a disponibilidade;
+B. a atomicidade;
+C. a consistência;
+D. a durabilidade;
+E. a integridade.

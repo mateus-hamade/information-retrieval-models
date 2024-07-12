@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Julgue o item subsequente, relativo à lógica de programação.     Uma variável com capacidade de armazenar um baite pode representar valores no intervalo de -512 a 512.  
+
+Alternativas:
+A. Certo
+B. Errado

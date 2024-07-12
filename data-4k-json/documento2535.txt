@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+Considere, hipoteticamente, que um Técnico do TRE-SP tem, em seu computador, a seguinte organização de um diretório: Principal: Dados Dentro de Dados: Técnicos Práticos Dentro de Técnicos: Árvores Hash Recursão Filas Pilhas Dentro de Práticos: Programas AFazer Prontos Dentro de Prontos: Eleições Urnas Dentro de Programas: Corretos ComErro Dentro de ComErro: Urgentes Pendentes Antigos A estrutura de dados
+
+Alternativas:
+A. fila é a mais adequada para representar este diretório.
+B. pilha é a mais adequada para representar este diretório.
+C. árvore binária, ao armazenar este diretório, terá Dados na raiz e nós com grau 2, 3, 5 e folhas.
+D. árvore, que consegue armazenar este diretório, é de ordem 5.
+E. hashing, ao armazenar este diretório, não terá colisões na tabela de dispersão.

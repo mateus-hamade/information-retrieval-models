@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Busca , Estrutura de Dados ( assuntos)
+
+Considere uma busca por uma chave entre 1.000.000, que pode ser feita através de uma Busca binária, Hashing ou Árvore B de ordem 20.  Supondo que os três operam em condições semelhantes e satisfatórias, com os registros armazenados num disco rígido, assinale a opção que mostra as alternativas na ordem do menor para o maior tempo de busca
+
+Alternativas:
+A. Árvore B, Hashing, Busca binária.
+B. Árvore B, Busca binária, Hashing.
+C. Busca binária, Árvore B, Hashing.
+D. Hashing, Árvore B, Busca binária.
+E. Busca binária, Hashing, Árvore B

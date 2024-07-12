@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Texto associado Em relação aos conceitos de função e à função Divide acima, é correto afirmar:
+
+Alternativas:
+A. Quando são passados valores para os parâmetros da função Divide, os valores são copiados para a função. Este tipo de chamada em que se faz apenas a cópia dos valores é denominado passagem de parâmetro por valor.
+B. Pode-se, no programa principal, usar o comando: imprima (Divide(5,0)) e este comando exibirá 0.
+C. Para chamar a função Divide no programa principal é necessário que sejam declaradas 2 variáveis globais do mesmo tipo e com os mesmos identificadores utilizados na função.
+D. Para chamar a função Divide no programa principal é necessário que seja declarada uma variável real para receber o resultado retornado pela função.
+E. Quando são passados valores para os parâmetros da função Divide, são passados os endereços das variáveis. Este tipo de chamada em que utilizam-se endereços é denominado passagem de parâmetro por valor.

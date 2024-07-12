@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Texto associado O uso de árvores binárias visa tornar mais eficiente a busca em arranjos de dados ordenados. No entanto, a eficiência de uma árvore binária está diretamente relacionada ao seu balanceamento, ou seja, à diferença entre as alturas das subárvores à direita e à esquerda do nó raiz. O balanceamento estático é recomendado se a árvore encontra-se degenerada em uma lista encadeada.
+
+Alternativas:
+A. Certo
+B. Errado

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+O algoritmo a seguir foi elaborado na forma de uma pseudolinguagem.    Início    [       Inteiro: a1, a2, a3, i, j;        a1 ← 8;        a2 ← 5;        a3 ← 10;         Para i de 1 até 3 faça         [            Para j de 2 até 4 faça            [                 a3 ← a3 + 2*a2 – a1;             ]             a1 ← a1 – 1;          ]         Imprima a3;       ]   Fim.  Ao final da execução desse código, o valor impresso para a3 será:     
+
+Alternativas:
+A. 12
+B. 16
+C. 29
+D. 37
+E. 45

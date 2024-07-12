@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Tipos de Dados
+
+Quando se escreve um algoritmo, ou um programa de computador é quase impossível não se ter uma variável. Uma variável, emprogramação de computadores, é:
+
+Alternativas:
+A. Um tipo inteiro.
+B. Um local na memória para guardar um valor.
+C. Um local na memória para guardar um registrador.
+D. Um ponteiro de dados.
+E. Um tipo de dado.

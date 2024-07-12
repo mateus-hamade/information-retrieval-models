@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Listas
+
+Em uma particular estrutura de dados do tipo lista, o último elemento apresenta como próximo elemento o primeiro elemento dessa estrutura. Tal estrutura é denominada Lista 
+
+Alternativas:
+A. Circular.
+B. Irregular.
+C. Primitiva.
+D. Redundante.
+E. Repetitiva.

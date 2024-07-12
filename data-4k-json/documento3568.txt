@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Texto associado Procedimento ou sub-rotina é um conjunto de instruções que realiza determinada tarefa. As funções são criadas da mesma maneira que os procedimentos; a diferença é que as funções podem ser utilizadas em expressões, como se fossem variáveis, pois elas retornam valores associados ao seu nome. 
+
+Alternativas:
+A. Certo
+B. Errado

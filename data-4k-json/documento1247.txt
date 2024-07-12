@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Listas
+
+Texto associado Quanto à lógica de programação e à estrutura de dados, julgue o item.  Em uma lista linear, a remoção de elementos é sempre realizada no início da lista. 
+
+Alternativas:
+A. Certo
+B. Errado

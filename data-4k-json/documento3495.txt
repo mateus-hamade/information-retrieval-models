@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Considere a seguinte árvore binária encadeada. Ao aplicar o percurso do tipo “Pré-Ordem”, obtém-se a sequência linear:  
+
+Alternativas:
+A. ABDECFG.
+B. DBEAFCG.
+C. DEBFGCA.
+D. DEFGBCA.
+E. BCADEFG.

@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos
+
+Analise o algoritmo escrito com pseudocódigo. var     A: conjunto [1..12] de inteiro     I, X, J: inteiro início     para I de 1 até 12 passo 1 faça          leia A[I]     fim_para     para I de 1 até 11 passo 1 faça          para J de I + 1 até 12 passo 1 faça             se (A[I] < A[J]) então                 X ← A[I]                 A[I] ← A[J]                 A[J] ← X             fim_se         fim_para      fim_para     para I de 1 até 12 passo 1 faça             escreva A[I]     fim_para fim Esse algoritmo tem a função de: 
+
+Alternativas:
+A. Colocar e apresentar, em ordem decrescente, 12 elementos de um vetor.
+B. Comparar elementos de dois vetores, apresentando aqueles de menor valor.
+C. Criar dois vetores de índices I e J.
+D. Substituir os 12 elementos do vetor I pelos do vetor J.

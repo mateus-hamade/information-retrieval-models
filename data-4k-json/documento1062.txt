@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Qual é a finalidade principal da análise de algoritmos?
+
+Alternativas:
+A. Desenvolver algoritmos complexos
+B. Determinar os recursos necessários para executar um dado algoritmo
+C. Testar a eficiência de hardware
+D. Determinar o tamanho físico dos algoritmos

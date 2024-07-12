@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados
+
+Em estrutura de dados, há os conjuntos dinâmicos, que podem crescer, encolher ou sofrer outras mudanças ao longo do tempo. São operações típicas para aplicação sobre esses conjuntos, EXCETO:
+
+Alternativas:
+A. Search(S,k).
+B. Insert(S,x).
+C. Minimum(S).
+D. Tempo O(lg n).
+E. Successor(S,x).

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Filas
+
+A estrutura de dados do tipo FIFO (first in, first out), em que os elementos entram por uma extremidade e são removidos pela outra extremidade, denomina-se:
+
+Alternativas:
+A. Árvore.
+B. Fila.
+C. Lista.
+D. Pilha.
+E. Registro.

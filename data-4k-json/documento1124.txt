@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos , Estrutura de Dados ( assuntos)
+
+Uma das métricas mais comumente utilizadas para comparar resultados de algoritmos de clusterização é obtida por meio da fórmula (b-a)/ max(a,b), em que: a é a distância média entre os pontos dentro de cada cluster (distância média intra-cluster) e b é a distância média para o cluster mais próximo (distância média para os pontos do cluster mais próximo).   A métrica descrita recebe o nome de:  
+
+Alternativas:
+A. R2.
+B. silhouette score.
+C. F1-score.
+D. ROC.

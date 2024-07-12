@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados
+
+A partir de dados da pesquisa Perfil do Processado e Produção de Provas nas Ações Criminais por Tráfico de Drogas, realizada em dezembro de 2023 pelo Instituto de Pesquisa Econômica Aplicada (Ipea), é possível levantar informações sociodemográficas sobre os bairros em que o direito à inviolabilidade domiciliar é relativizado. Os resultados revelam que os bairros mais ricos e aqueles de população predominantemente branca são praticamente imunes às entradas em domicílio, as quais se concentram substancialmente nos bairros mais pobres e naqueles com população predominantemente negra ou minoritariamente branca. Qual técnica de desidentificação de dados sensíveis é a mais adequada para preservar a privacidade dos indivíduos processados, permitindo, ainda, a análise sociodemográfica dos bairros? 
+
+Alternativas:
+A. Anonimização: remover todos os identificadores diretos dos indivíduos, incluindo nome, CPF, RG e endereço, e também remover qualquer referência a bairro ou características sociodemográficas.
+B. Pseudonimização: substituir os identificadores diretos dos indivíduos por códigos ou símbolos, mas publicar a tabela de correspondência junto com os dados.
+C. Agregação: agrupar os dados dos indivíduos em categorias amplas, como faixa etária e classe social, mas excluir informações sobre cor ou raça e bairro.
+D. Perturbação: adicionar ruído ou alterar aleatoriamente todos os valores dos dados, incluindo informações sociodemográficas e de bairro, de forma a tornar os dados inúteis para análise específica de bairro.
+E. Generalização: substituir informações detalhadas de identificação pessoal por categorias mais amplas, mantendo dados sobre bairro e características sociodemográficas, como faixa etária, classe social, cor ou raça.

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Lógicas de Programação
+
+  Considerando o pseudocódigo acima, assinale a opção correta, com base nos conceitos de lógica de programação e de passagem de parâmetros. 
+
+Alternativas:
+A. Da forma como os argumentos são passados para o procedimento, estão preservados os valores originais de nota1 e nota2.
+B. Os argumentos podem ser fornecidos independentemente de ordem, já que a associação deles com os parâmetros formais é realizada pelo nome dos argumentos.
+C. Todas as alterações feitas nos parâmetros formais A e B refletem-se nos parâmetros nota1 e nota2.
+D. Considerando que está se usando um procedimento, no algoritmo apresentado está faltando a instrução retorno (resultado).
+E. As variáveis A e B são variáveis globais e podem ser utilizadas além do escopo do algoritmo no qual foram declaradas.

@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Texto associado  Tendo como referência o algoritmo precedente, julgue o próximo item.     A linha 5 do algoritmo em apreço demanda 2n + 2 unidades de tempo.  
+
+Alternativas:
+A. Certo
+B. Errado

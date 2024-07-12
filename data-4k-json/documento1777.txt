@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Grafos
+
+Texto associado A compactação, recurso para otimizar espaço de armazenamento, é um processo pelo qual o HBase se utiliza das probabilidades da ocorrência de símbolos e de palavras em um conjunto de dados, para determinar quantos bits serão utilizados para cada símbolo.
+
+Alternativas:
+A. Certo
+B. Errado

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Dada a árvore binária da figura abaixo, assinale a alternativa que possui a sequência de visitas dos vértices que são realizadas pelo algoritmo de percurso Pós-Ordem.       
+
+Alternativas:
+A. G - E - F - B - D - H - C - A
+B. A - B - E - G - F - C - D - H
+C. H - D - C - F - G - E - B - A
+D. G - E - B - F - A - D - C - H
+E. A - C - H - D - B - F - E - G

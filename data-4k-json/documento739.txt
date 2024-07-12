@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados Textuais
+
+Em banco de dados, uma transação é composta por diversas operações sobre os dados, como leitura, alteração, inserção e remoção. Contudo, a transação é percebida como uma operação lógica única sobre os dados. Com isso, para garantir a consistência de um banco de dados, as transações devem satisfazer algumas propriedades, como: (i) todas as operações da transação são executadas em caso de sucesso; ou (ii) em caso de falhas, todas as operações são desfeitas e o banco de dados deve voltar ao mesmo estado em que estava antes do início da transação. A propriedade de uma transação de banco de dados descrita é a:
+
+Alternativas:
+A. atomicidade;
+B. consistência;
+C. isolamento;
+D. durabilidade;
+E. redundância.

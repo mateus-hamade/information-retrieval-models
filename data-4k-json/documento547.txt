@@ -1,0 +1,10 @@
+Banco de Dados DER - Diagrama de Entidade e Relacionamento
+
+Foi solicitado a um analista que elaborasse um modelo de dados na forma de um diagrama do tipo entidade relacionamento (DER, conforme notação proposta originalmente por Peter Chen), para representar a situação dada pelos seguintes requisitos:  I. Cada Zona Eleitoral é identificada por um número seqüencial de 1 até "n"; II. Uma Seção Eleitoral é identificada por um número seqüencial de 1 até "n" dentro de cada Zona Eleitoral (portanto dependente de Zona Eleitoral).  O analista elaborou o seguinte diagrama:   O diagrama 
+
+Alternativas:
+A. está de acordo com o modelo proposto, porém não atende aos requisitos.
+B. atende aos requisitos, porém não está de acordo com o modelo proposto.
+C. estaria correto e atendendo aos requisitos, se o analista houvesse utilizado a cardinalidade n:1, ao invés da 1:n representada no diagrama.
+D. foi elaborado pelo analista de acordo com os requisitos e com o modelo proposto.
+E. está incorreto e portanto não atende aos requisitos.

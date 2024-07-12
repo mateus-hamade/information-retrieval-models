@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Texto associado Assinale a alternativa que apresenta, ao final da execução do algoritmo, a faixa de valores na qual se encontra o valor de x impresso.
+
+Alternativas:
+A. 0 ≤ x ≤ 5
+B. 5 < x ≤ 10
+C. 10 < x ≤ 15
+D. 15 < x ≤ 20
+E. 20 < x ≤ 100

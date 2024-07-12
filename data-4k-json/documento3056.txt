@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+Considere utilizar o algoritmo Bubble Sort para ordenar, em ordem crescente, a sequência de números                          17, 43, 37, 31, 8, 77, 52, 25.  Se a sequência original for a iteração zero, qual será a sequência de números da segunda iteração?
+
+Alternativas:
+A. 17, 31, 8, 25, 37, 43, 77, 52
+B. 17, 31, 37, 43, 8, 77, 52, 55
+C. 17, 31, 8, 37, 43, 25, 52, 77
+D. 17, 25, 37, 31, 8, 43, 52, 77
+E. 8, 17, 43, 37, 31, 77, 52, 25

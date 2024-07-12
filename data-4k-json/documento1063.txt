@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Os algoritmos de roteamento usam algum padrão de medida, chamado de métrica, a fim de determinar a melhor rota para um dado destino. Para ajudar no processo de determinação de rotas, os algoritmos de roteamento inicializam e mantêm tabelas de roteamento, que contém informações de rotas. Sendo assim, analise a figura a seguir.     De acordo com a imagem, é correto afirmar:  
+
+Alternativas:
+A. O roteador 0 informa ao roteador 1 que tem acesso às redes 40 e 50 com a métrica 1.
+B. O roteador 1 informa ao roteador 0 que tem acesso às redes 20 e 30 com a métrica 2.
+C. O roteador 2 informa ao roteador 1 que tem acesso às redes 40 e 50 com a métrica 1.
+D. O roteador 2 informa ao roteador 1 que tem acesso às redes 40 e 50 com a métrica 2.

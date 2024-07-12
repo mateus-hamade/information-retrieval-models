@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Considere o algoritmo a seguir, elaborado pelo professor de uma disciplina, para responder à questão. O algoritmo visa calcular as notas dos alunos de uma classe em cada Prova da disciplina e a sua respectiva Nota Final. Assuma que, em cada prova, cada questão valha 1 ponto e que, nas impressões realizadas pelo programa, CR significa “Mudar de linha”.  Com base na análise desse algoritmo, assinale a alternativa que apresenta, de forma coerente e respectivamente, o número de alunos na disciplina, o número de provas da disciplina e o número de questões por prova. 
+
+Alternativas:
+A. 3 ; 10 ; 20
+B. 10 ; 3 ; 20
+C. 10 ; 20 ; 3
+D. 20 ; 3 ; 10
+E. 20 ; 10 ; 3

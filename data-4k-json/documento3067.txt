@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Dado o algoritmo abaixo:    Qual o resultado da variável res?
+
+Alternativas:
+A. 33
+B. 20
+C. 325
+D. 0
+E. 15

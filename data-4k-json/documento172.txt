@@ -1,0 +1,9 @@
+Banco de Dados Banco de Dados
+
+Sobre as chaves primárias e estrangeiras em um banco de dados, analise as afirmativas a seguir e marque a alternativa correta.     I- Uma chave primária é única em cada tabela e deve fazer obrigatoriamente referência a um único campo por inteiro, não podendo ser usado partes do campo ou mesmo um conjunto de campos.  II- Uma chave estrangeira é a chave que permite a referência a registros oriundos de outras tabelas. Ou seja, é o campo ou conjunto de campos que compõem a chave primária de uma outra tabela 
+
+Alternativas:
+A. Ambas afirmativas estão corretas.
+B. Somente a afirmativa l está correta.
+C. Somente a afirmativa Il está correta.
+D. Nenhuma das afirmativas está correta.

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos , Recursividade
+
+Durante a análise de um problema de programação, uma analista montou a seguinte fórmula recursiva para descrever a solução do problema:  A complexidade da solução encontrada é:
+
+Alternativas:
+A. O(n x log n).
+B. O(n2 x log n).
+C. O(2n).
+D. O(n2).
+E. O(n3).

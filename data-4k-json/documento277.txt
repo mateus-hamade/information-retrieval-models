@@ -1,0 +1,10 @@
+Banco de Dados SQL Server , SGBD - Sistema de Gerenciamento de Banco de Dados
+
+O utilitário do SGBD Microsoft SQL Server que faz cópia em massa de grandes quantitativos de dados entre uma instância do SGBD e um arquivo de dados em um formato especificado pelo usuário se denomina
+
+Alternativas:
+A. dataloader.
+B. sqlcopy.
+C. etl.
+D. bcp.
+E. bckp.

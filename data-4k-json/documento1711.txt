@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+Baseando-se nos conhecimentos acerca de algoritmos de ordenação, analise a imagem a seguir:      Qual nome é a dados ao algoritmo de ordenação acima?   
+
+Alternativas:
+A. Selection Sort.
+B. Merge Sort.
+C. Insertion Sort.
+D. Bubble Sort.

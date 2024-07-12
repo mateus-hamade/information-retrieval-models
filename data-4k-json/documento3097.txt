@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Texto associado O algoritmo apresentado abaixo imprimirá a soma dos termos da sequência {1, 1/2, 1/3, ..., 1/20}. início  CONTADOR, SOMA: numérico  SOMA ← 0  para CONTADOR de 1 até 20 faça  SOMA ← CONTADOR + (1/CONTADOR)  fim-para  escreva “O total da sequência é”, SOMA  fim 
+
+Alternativas:
+A. Certo
+B. Errado

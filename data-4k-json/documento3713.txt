@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Estrutura de Dados ( assuntos)
+
+O produto da ação de algoritmos que fazem o mapeamento de uma sequência de bits de tamanho arbitrário para uma sequência de bits de tamanho fixo menor, com resistência à colisão e cujo processo reverso também não seja realizável, denomina-se 
+
+Alternativas:
+A. cadeia de certificação.
+B. cifra de bloco.
+C. resultado hash.
+D. mensagem de não repúdio.
+E. dispositivo token.

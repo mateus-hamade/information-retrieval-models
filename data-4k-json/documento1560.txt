@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+Relacione os números que referem-se a algoritmos de ordenação com as respectivas letras de suas principais características técnicas: 1. Insertion Sort 2. Selection Sort 3. Bubble sort A. Consiste em selecionar o menor item e colocar na primeira posição, selecionar o segundo menor item e colocar na segunda posição, segue estes passos até que reste um único elemento. B. Consiste em cada passo, a partir do segundo elemento, selecionar o próximo item da sequência e colocá-lo no local apropriado de acordo com o critério de ordenação. C. Percorre o vetor diversas vezes e, a cada passagem faz flutuar para o topo o maior elemento da sequência.  Assinale a alternativa com a correlação correta de cima para baixo. 
+
+Alternativas:
+A. 1B - 2A - 3C
+B. 1C - 2A - 3B
+C. 1B - 2C - 3A
+D. 1A - 2B - 3C

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Listas , Pilhas ( assuntos)
+
+Sobre as estruturas de dados, considere as afirmativas a seguir.      I - Uma Pilha pode ser implementada com uma Fila FIFO (first-in, first-out).     II - Uma Pilha pode ser implementada com uma estrutura de dados Lista.     III - Uma Lista permite inserção ou remoção no início ou fim da estrutura de dados.     IV - O topo de uma Pilha é o elemento mais antigo inserido.     Estão corretas  
+
+Alternativas:
+A. apenas I.
+B. apenas I e IV.
+C. apenas II e III.
+D. apenas III e IV.
+E. I, II, III e IV.

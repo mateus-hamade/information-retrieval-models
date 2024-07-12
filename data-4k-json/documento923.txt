@@ -1,0 +1,10 @@
+Banco de Dados Conceitos Básicos em Banco de Dados , Banco de Dados
+
+Um histórico (schedule) S de n transações ordena uma sequência de operações sobre objetos do banco de dados, entre elas, de leitura (r) ou gravação (w). Dado um histórico parcial Si: rj(A), wk(A), pode-se dizer que ele ordena duas operações, onde rj(A) representa operação de leitura sobre o objeto A na transação Tj, seguida da operação wk(A) representando uma operação de escrita sobre o objeto A na transação Tk. Considere um banco de dados com objetos X e Y, duas transações T1 e T2, e os históricos parciais S1, S2, e S3 descritos abaixo.   S1: r2(X), r1(X), r2(Y), r1(X), r2(Y), w2(Y) ... S2: r2(X), r2(Y), r1(X), r1(Y), w1(X) ... S3: r2(Y), r2(Y), r1(X), r1(Y), w1(X), w2(X) ... Quais históricos apresentam operações conflitantes? 
+
+Alternativas:
+A. Apenas S3.
+B. Apenas S1 e S2.
+C. Apenas S1 e S3.
+D. Apenas S2 e S3.
+E. S1, S2 e S3.

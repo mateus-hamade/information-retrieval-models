@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
+
+A ideia da ordenação por bolha (Bubble Sort) é percorrer o vetor de elementos sequencialmente e, em cada passagem comparar cada elemento com seu sucessor, fazendo-o chegar ao topo da sequência. Dado que n é o número de elementos do vetor, a complexidade do pior caso desse algoritmo é
+
+Alternativas:
+A. O(n).
+B. O(n2 ).
+C. O(n+1).
+D. O(n log n).
+E. O(log n).

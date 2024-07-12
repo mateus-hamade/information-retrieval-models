@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+No contexto das estruturas de dados avançadas como listas, pilhas, filas e árvores é comum se encontrar referência à notação polonesa reversa. Nesse sentido, a expressão X*(Y+W)/(X-Y) é representada nessa notação, como:
+
+Alternativas:
+A. XYW+*XY/-
+B. XYW+*XY-/
+C. XYW+*/XY-
+D. XYW*+XY-/
+E. XYW*+XY/-

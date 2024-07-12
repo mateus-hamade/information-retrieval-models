@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Dado um algoritmo para troca de valores:    Considerando o algoritmo acima, as variáveis:  I. X, A e B foram criadas com escopo global na área de dados da memória. II. X, A e B foram criadas com escopo locai na área de dados da memória. III. A e B poderiam, refazendo o algoritmo, ser qualificadas com escopo local e a variável X com escopo global. IV. A e B poderiam, refazendo o algoritmo, ser qualificadas com escopo global e a variável X com escopo local.  Está correto o que consta somente em: 
+
+Alternativas:
+A. III.
+B. II.
+C. I e III.
+D. I e IV.
+E. II e IV.

@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+O programa a seguir é tipicamente uma estrutura:  Enquanto (condição) Faça  (bloco de código)  Fim Enquanto    
+
+Alternativas:
+A. Recursiva.
+B. Sequencial.
+C. Condicional.
+D. Repetição.

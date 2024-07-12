@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Vetores
+
+Texto associado Segundo o pseudocódigo abaixo, um vetor de 100 números é lido e, em seguida, é montado um segundo vetor a partir dos valores do primeiro vetor multiplicados por 3.    início             VET1,VET2 : vetor [1..100] numérico         CONTADOR : numérico          para CONTADOR de 1 até 100 faça                 leia "Digite um número: ",VET1[CONTADOR]                VET2[CONTADOR]   ← (VET1[CONTADOR] * 3)        fim-para  fim   
+
+Alternativas:
+A. Certo
+B. Errado

@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados
+
+O tipo de relacionamento especial que trata de um caso particular, em que a Entidade se relaciona com ela própria, representa uma característica denominada
+
+Alternativas:
+A. grau.
+B. recursividade.
+C. opcionalidade.
+D. conectividade.
+E. cobertura.

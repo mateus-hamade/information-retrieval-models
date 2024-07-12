@@ -1,0 +1,9 @@
+Segurança da Informação Conceitos Básicos em Segurança da Informação , Ataques e ameaças , Noções de Segurança ( assuntos)
+
+Um usuário de um computador recebeu um e-mail no qual um hacker se fez passar por uma pessoa conhecida, com dados verdadeiros sobre o mesmo, inclusive o endereço de e-mail, e usou esse e-mail para induzir a vítima a fornecer alguma vantagem monetária. Esse tipo de ataque também é conhecido como:
+
+Alternativas:
+A. dialer
+B. brutal
+C. spoofing
+D. keylogger

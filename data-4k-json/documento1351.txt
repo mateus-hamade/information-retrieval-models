@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Fluxogramas
+
+Na representação de algoritmos por meio de fluxogramas, o que representa o uso da figura abaixo?   
+
+Alternativas:
+A. Terminador de início ou fim.
+B. Entrada de dados.
+C. Desvio condicional.
+D. Cálculo ou atribuição de valores.
+E. Saída de dados.

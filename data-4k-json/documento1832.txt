@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Filas
+
+Em Ciência da Computação, as Estruturas de Dados definem como os dados podem ser organizados, bem como quais operações podem ser realizadas para manipular esses dados. Existe uma estrutura de dados que representa um conjunto ordenado de elementos e cujas operações se baseiam no princípio FIFO (First-In, First-Out), ou seja, o primeiro elemento que entra é o primeiro a sair. Marque a sentença referente à estrutura descrita:
+
+Alternativas:
+A. Pilha
+B. Árvore B
+C. Hash
+D. Grafo
+E. Fila

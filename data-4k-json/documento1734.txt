@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+As agências bancárias negociam seguros residenciais com seus clientes e, muitas vezes, precisam arquivar cópias de forma ordenada para que consultas eventuais sejam facilitadas. O gerente de uma agência precisava ordenar um vetor de documentos referentes a esses seguros, e o seu adjunto, da área de TI, o aconselhou a usar o algoritmo de ordenação chamado Bubble Sort. Utilizando-se o algoritmo sugerido, qual será a quantidade de trocas de posições realizadas para ordenar, de modo crescente, o vetor de números de contrato (77, 51, 11, 37, 29, 13, 21)?
+
+Alternativas:
+A. 14
+B. 15
+C. 16
+D. 17
+E. 18

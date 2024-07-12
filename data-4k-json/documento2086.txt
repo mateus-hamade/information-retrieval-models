@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Tipos de Dados
+
+A frase: "[...] deve caracterizar o conjunto de valores a que uma constante pertence, ou que podem ser assumidos por uma variável ou expressão, ou que podem ser gerados por uma função", de Ziviani (1999), refere-se a:
+
+Alternativas:
+A. Sintaxe de uma estrutura de repetição.
+B. Sintaxe de uma estrutura de controle de fluxo.
+C. Tipo de dado.
+D. Comando de entrada de dados.
+E. Comando de saída de dados.

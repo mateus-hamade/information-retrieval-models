@@ -1,0 +1,9 @@
+Banco de Dados SQL
+
+Observe a tabela a seguir de um banco de dados: PROFESSOR (CodProfessor integer primary key, NomeProfessor varchar(40), Titulacao varchar(45), DataAdmissao date)  Considere uma consulta ao banco de dados que liste o nome dos professores e a data de admissão dos que entraram na Instituição no ano de 2018 ou no mês de julho, independente do ano. Assinale qual consulta abaixo estaria correta. 
+
+Alternativas:
+A. SELECT Nomeprofessor, dataAdmissao from PROFESSOR where dataadmissao in(07, 2018).
+B. SELECT Nomeprofessor, dataAdmissao from PROFESSOR where dataadmissao like ‘%2018’ or like ‘%07’
+C. SELECT Nomeprofessor, dataAdmissao from PROFESSOR where year(dataadmissao)=2018 or month(dataadmissao)=07
+D. SELECT Nomeprofessor, dataAdmissao from PROFESSOR where dataadmissao between '2018-07-15' and '2018-09-15'

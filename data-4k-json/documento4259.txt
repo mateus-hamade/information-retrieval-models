@@ -1,0 +1,10 @@
+Engenharia de Software Desenvolvimento de Software
+
+Em Git, revert é uma operação para 
+
+Alternativas:
+A. criar um novo commit com base no commit atual.
+B. desfazer um commit específico, criando um novo commit que reverte as alterações introduzidas pelo commit original.
+C. excluir permanentemente um arquivo do repositório.
+D. mesclar as alterações de uma branch para outra.
+E. criar uma nova branch a partir de uma branch existente.

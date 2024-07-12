@@ -1,0 +1,10 @@
+Banco de Dados DW - Data Warehouse
+
+Assinale a alternativa que contém a definição correta quanto às estratégias de otimização de Data Warehouse. 
+
+Alternativas:
+A. A sumarização de dados cria tabelas com informações agregadas, regularmente utilizadas, reduzindo o esforço e tempo de processamento para geração dos Data Marts e/ou relatórios.
+B. O particionamento vertical de tabelas identifica a frequência de uso das linhas de uma tabela e gerar uma nova tabela com as linhas menos utilizadas.
+C. A derivação de dados simplifica a estrutura das tabelas, infringindo os esquemas propostos pelas Formas Normais a fim de reduzir o número de relacionamentos, introduzindo, com isso, a redundância de dados.
+D. O particionamento horizontal de tabelas identifica a frequência de uso das colunas de uma tabela e gerar uma nova tabela com as colunas menos utilizadas.
+E. A desnormalização armazena dados oriundos de expressões aritméticas ou operações complexas cujo uso é intenso como resultado ou condição em instruções SQL.

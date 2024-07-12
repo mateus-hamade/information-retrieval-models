@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+As alternativas a seguir apresentam características dos arquivos Heap, à exceção de uma. Assinale‐a.
+
+Alternativas:
+A. Inclusão de novos registros é muito eficiente.
+B. Organização de arquivos é a mais simples e básica
+C. Pesquisa de registros envolve busca sequencial bloco a bloco.
+D. Para um arquivo com b blocos, uma busca envolve em média b/2 blocos.
+E. Os registros são posicionados de modo ordenado através da chave de classificação.

@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Lógicas de Programação
+
+Texto associado  Tendo como referência o precedente código estruturado, julgue o item a seguir.     As variáveis A e B estão definidas no programa TROCA_VALORES com escopo global, e a variável Y está definida com escopo local na área de dados da memória; dessa forma, as variáveis A e B somente são visíveis quando a sub-rotina TROCA é executada.  
+
+Alternativas:
+A. Certo
+B. Errado

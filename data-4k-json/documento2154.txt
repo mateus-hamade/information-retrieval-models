@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Fluxogramas
+
+Dispõe-se de uma tabela TAB de 10 posições, numeradas de 1 a 10, com o nome de unidades acadêmicas. Para localização de uma determinada unidade, digitada pelo usuário, usa-se o fluxograma a seguir.        Para determinada unidade, digitada pelo usuário, pode-se encontrar ou não o valor digitado. Qual o maior valor de CONT (pior caso) que será impresso, para o caso de se encontrar a unidade digitada e para o de não encontrá-la, respectivamente?  
+
+Alternativas:
+A. 3 e 3.
+B. 3 e 4.
+C. 4 e 4.
+D. 4 e 5.
+E. 10 e 10.

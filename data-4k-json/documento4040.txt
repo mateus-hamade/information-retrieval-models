@@ -1,0 +1,9 @@
+Engenharia de Software Desenvolvimento de Software
+
+Um desenvolvedor de sistemas, voltado para o ambiente Linux, está desenvolvendo um aplicativo como unidades executáveis de software, em que o código do aplicativo vai ser empacotado com suas respectivas bibliotecas e dependências, usando métodos comuns para poder ser executado em qualquer lugar. Esse modelo é denominado de:
+
+Alternativas:
+A. Integrated Environments
+B. WebViewers
+C. Contêineres
+D. Black Boxs

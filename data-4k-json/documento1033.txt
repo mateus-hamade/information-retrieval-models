@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+Assinale a alternativa que apresenta uma linguagem de consulta para interrogar documentos XML, que às vezes é chamada de “o SQL do XML”.
+
+Alternativas:
+A. XPath
+B. XQuery
+C. XSLT
+D. XML xchema
+E. DOM

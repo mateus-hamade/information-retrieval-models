@@ -1,0 +1,10 @@
+Banco de Dados Conceitos Básicos em Banco de Dados
+
+Considere a tabela PILOTOS e a visão PILOTOSA320 definidas pelos comandos SQL abaixo (padrão SQL99 ou superior).    Considere os comandos SQL abaixo no mesmo padrão, em que cada comando corresponde a uma transação. Assinale com V, se o comando executa corretamente, ou com F, se o comando resulta em erro.  ( ) insert into PILOTOSA320(codp, nomep, companhia, aviao) values (1, 'jose', 'gol', 'A320'); ( ) insert into PILOTOSA320(codp, nomep, companhia, aviao) values (2, 'maria', 'tam', '777'); ( ) insert into PILOTOSA320(codp, nomep, aviao) values (2, 'jose', 'A320'); A ordem correta de preenchimento dos parênteses, de cima para baixo, é: 
+
+Alternativas:
+A. V – V – V.
+B. V – F – V.
+C. V – F – F.
+D. F – V – V.
+E. F – F – F.

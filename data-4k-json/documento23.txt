@@ -1,0 +1,10 @@
+Banco de Dados Oracle
+
+O Oracle 19G possui três declarações básicas de controle de transações conhecidas como
+
+Alternativas:
+A. do, redo e undo.
+B. confirm, do e abort.
+C. checkpoint, do e save.
+D. checkpoint, commit e undo.
+E. commit, rollback e savepoint.

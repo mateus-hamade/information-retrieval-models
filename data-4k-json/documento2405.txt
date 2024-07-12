@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
+
+O algoritmo QuickSort usa uma técnica conhecida por divisão e conquista, onde problemas complexos são reduzidos em problemas menores para se tentar chegar a uma solução. A complexidade média deste algoritmo em sua implementação padrão e a complexidade de pior caso são, respectivamente,
+
+Alternativas:
+A. O(n-1) e Ο(n³).
+B. Ο(n²) e Ο(n log n²).
+C. O(n²) e O(n³).
+D. Ο(n) e Ο(n²).
+E. Ο(n log n) e Ο(n²).

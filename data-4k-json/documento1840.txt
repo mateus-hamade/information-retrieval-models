@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Sobre estruturas de dados do tipo árvore binária, analise as assertivas abaixo.     I. Diferente das listas simplesmente encadeadas, as árvores binárias permitem que cada nó tenha dois nós sucessores (filhos).  II. Raiz (root) é o nó mais inferior da árvore binária que não possui sucessores (filhos).  III. Folha (leaf) é qualquer nó da árvore binária que não tenha sucessores (filhos).     É correto o que se afirma em  
+
+Alternativas:
+A. I, II e III.
+B. I, apenas.
+C. II, apenas.
+D. II e III, apenas.
+E. I e III, apenas.

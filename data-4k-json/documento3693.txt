@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Texto associado Esse pseudocódigo varre um vetor de elementos desde o menor índice até o maior índice e a medida que avança, vai deixando os elementos com menor índice ordenados.
+
+Alternativas:
+A. Certo
+B. Errado

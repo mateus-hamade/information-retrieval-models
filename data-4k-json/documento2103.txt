@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
+
+Texto associado De acordo com o algoritmo, o número de vezes que o bloco de comandos dentro do fluxo de controle Enquanto...faça é executado é igual a 
+
+Alternativas:
+A. 0.
+B. 1.
+C. 2
+D. 9.
+E. 10.

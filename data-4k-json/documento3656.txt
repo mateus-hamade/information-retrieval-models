@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Vetores
+
+Texto associado Se X for um vetor com os elementos [1, 2, 4, 8, 16, 32, 64, 128], a chamada da função func(X,2,6) retornará o valor 62.
+
+Alternativas:
+A. Certo
+B. Errado

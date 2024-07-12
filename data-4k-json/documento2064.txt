@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Estrutura de Dados ( assuntos)
+
+A respeito de algoritmos e estruturas de dados, assinale a alternativa correta.
+
+Alternativas:
+A. O algoritmo de Dijkstra, usado para encontrar o menor caminho em redes de computadores, utiliza listas circulares como principal estrutura de dados.
+B. O MapReduce é um algoritmo de compactação de arquivos que utiliza hash maps como principal artifício para otimização.
+C. O Mark-and-Sweep é um algoritmo de gerenciamento de memória que utiliza um grafo como sua principal estrutura de dados.
+D. Árvore B é um algoritmo utilizado para indexação em bancos de dados e utiliza árvores binárias como sua estrutura de dados básica.
+E. O Round-Robin é um algoritmo de escalonamento que utiliza uma pilha como principal estrutura de dados.

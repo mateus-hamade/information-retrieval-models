@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+O cálculo do Índice de Massa Corporal (IMC) é um método para obter a informação sobre a condição de peso de uma pessoa. Nesse método, avaliam-se, com peso normal, os homens com o IMC de 19,1 a 25,8 e as mulheres com IMC de 20,7 a 26,4. Considere que a variável IMC contenha o valor Índice de Massa Corporal e a variável SEXO contenha 1 (se masculino) ou 2 (feminino). Assinale a alternativa que apresenta o trecho de algoritmo, no qual é verificado, CORRETAMENTE, se o peso está normal. 
+
+Alternativas:
+A. se SEXO = 1 e IMC ≥ 20,7 e IMC ≤ 26,4 e SEXO = 2 e IMC ≥ 19,1 e IMC ≤ 25,8
+B. se SEXO = 1 ou IMC ≥ 20,7 ou IMC ≤ 26,4 ou SEXO = 2 ou IMC ≥ 19,1 ou IMC ≤ 25,8
+C. se SEXO = 1 e IMC ≥ 20,7 e IMC ≤ 26,4 ou SEXO = 2 e IMC ≥ 19,1 e IMC ≤ 25,8
+D. se SEXO = 1 e IMC ≥ 20,7 ou IMC ≤ 26,4 ou SEXO = 2 e IMC ≥ 19,1 ou IMC ≤ 25,8
+E. se SEXO = 1 ou IMC ≥ 20,7 ou IMC ≤ 26,4 e SEXO = 2 ou IMC ≥ 19,1 ou IMC ≤ 25,8

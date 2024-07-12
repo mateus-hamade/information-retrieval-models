@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Busca
+
+Dispõe-se de uma tabela contendo os dados de 5.000 inscritos num concurso público. A tabela está rigorosamente classificada em ordem alfabética crescente do nome completo do candidato e também já se verificou que não há homônimos inscritos no concurso. Deseja-se localizar um candidato na tabela a partir de seu nome completo usando a técnica de Pesquisa Binária (Binary Search). Qual é o número máximo de incursões à tabela para localizar o candidato procurado (ou descobrir que ele não existe)?  
+
+Alternativas:
+A. 12.
+B. 13.
+C. 500.
+D. 2.500
+E. 5.000

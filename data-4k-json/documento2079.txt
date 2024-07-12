@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Filas
+
+Observe a estrutura de dados do tipo fila implementada em um arquivo cujas colunas e registros são exibidos a seguir.     Essa fila denota a classificação final dos cinco primeiros times numa certa edição do campeonato brasileiro.     Assinale a opção que indica o time que ficou em terceiro lugar.  
+
+Alternativas:
+A. Coritiba.
+B. Cruzeiro.
+C. Santos.
+D. São Caetano.
+E. São Paulo.

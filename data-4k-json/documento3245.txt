@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Grafos
+
+  A tabela acima apresenta o resultado da aplicação do algoritmo de Dijkstra para a obtenção do caminho mínimo para o deslocamento entre diversas cidades.  A partir dos dados da tabela, conclui-se que 
+
+Alternativas:
+A. a menor distância entre as cidades A e F é de 15 km.
+B. o menor caminho entre as cidades A e D é de 2 km.
+C. um viajante deverá passar obrigatoriamente na cidade C, para percorrer o menor caminho entre as cidades A e F.
+D. um viajante deverá se deslocar na sequência A – B – E – F, para percorrer o menor caminho entre as cidades A e F.
+E. um viajante terá que se deslocar 5 km, para percorrer o menor caminho entre a cidade B e a cidade E.

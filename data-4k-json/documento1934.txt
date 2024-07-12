@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados
+
+Dois conhecidos algoritmos de acesso conjuntos de dados chamados LIFO e FIFO. Usados no despacho de instruções para a CPU, também têm aplicação em logística na movimentação de estoques. São típicos de duas estruturas de dados. Uma delas é chamada de:
+
+Alternativas:
+A. tabela de dispersão.
+B. base.
+C. árvore.
+D. círculo.
+E. pilha.

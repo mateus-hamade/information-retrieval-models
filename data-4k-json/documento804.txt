@@ -1,0 +1,10 @@
+Banco de Dados SGBD - Sistema de Gerenciamento de Banco de Dados
+
+Assinale a alternativa que descreve corretamente características do protocolo 2PL (bloqueio de duas fases) para controle de concorrência em SGBDs.
+
+Alternativas:
+A. Protocolo de bloqueio pessimista que determina que todos os bloqueios (locks) são adquiridos na primeira fase da transação e, após liberar locks, a transação entra numa fase em que não pode mais adquirir locks.
+B. Protocolo de bloqueio pessimista que determina que todos os bloqueios (locks) são adquiridos na primeira fase da transação, e eles são liberados em ordem randômica para otimizar a performance.
+C. Protocolo de bloqueio otimista em que se adquirem locks sobre todos os recursos necessários na primeira fase de transação e, após liberar locks, a transação entra numa fase em que não é permitido requisitar bloqueios sobre quaisquer recursos.
+D. Protocolo de bloqueio que apenas pode ser executado em transações read-only.
+E. Protocolo de bloqueio que só é efetivo em prevenir deadlocks em SGBDs.

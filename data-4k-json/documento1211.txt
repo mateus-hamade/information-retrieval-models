@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Listas
+
+Matrizes esparsas visam economizar espaço de armazenamento. A estrutura de dados utilizada para implementar matriz esparsa é
+
+Alternativas:
+A. a fila.
+B. a árvore binária.
+C. o vetor.
+D. a lista de lista.

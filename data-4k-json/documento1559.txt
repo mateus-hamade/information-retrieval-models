@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Acerca dos aspectos das linguagens de programação e das estruturas de dados e da programação orientada a objetos (POO), julgue o item.  Na lógica de programação, o operador lógico “e” possui a função de disjunção, enquanto o operador “não” possui a função de negação.    
+
+Alternativas:
+A. Certo
+B. Errado

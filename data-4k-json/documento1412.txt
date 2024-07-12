@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Uma linguagem de programação possui um tipo primitivo de dados para armazenamento de valores inteiros utilizando sempre 2 bytes de memória. Considerando que armazena números inteiros positivos ou negativos, a faixa de valores inteiros que podem ser armazenados em variáveis desse tipo é de
+
+Alternativas:
+A. −32768 a 32767
+B. −128 a 127
+C. −2147483648 a 2147483647
+D. −2048 a 2047
+E. −8388608 a 8388607

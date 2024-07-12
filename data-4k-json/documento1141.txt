@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Analise o algoritmo abaixo, escrito no software VisuAlg 3.0:        Ao final da execução do algoritmo acima, qual será o valor da variável “x”? 
+
+Alternativas:
+A. 120
+B. 24
+C. 6
+D. 2
+E. 0

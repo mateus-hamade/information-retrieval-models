@@ -1,0 +1,9 @@
+Segurança da Informação Firewall em Segurança da Informação , Criptografia , Auditoria de Sistemas
+
+Considerando os desafios complexos relacionados à segurança em Banco de Dados e Desenvolvimento Seguro de Software, qual das seguintes estratégias representa uma abordagem avançada para mitigar riscos de segurança e proteger efetivamente dados sensíveis?
+
+Alternativas:
+A. Uso de ferramentas de monitoramento de integridade e auditoria contínua.
+B. Utilização de senhas complexas e atualização regular de chaves criptográficas.
+C. Implementação de firewalls de aplicação e monitoramento de tráfego de rede.
+D. Adoção de técnicas de ofuscação de código e estabelecimento de controle de acesso granular.

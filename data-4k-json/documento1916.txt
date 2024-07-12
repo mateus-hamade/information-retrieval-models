@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Filas
+
+Uma fila é uma estrutura dinâmica de dados que admite remoção de elementos e inserção de novos objetos. Sobre fila, assinale a alternativa correta.
+
+Alternativas:
+A. De acordo com a definição de fila, todas as inserções são feitas no início da fila.
+B. Nas filas, tem-se a disciplina de acesso conhecida como UEPS – último que entra, primeiro que sai (LIFO – Last In, First Out).
+C. Todas as remoções são feitas no final da fila.
+D. Nas filas, todas as inserções e remoções são feitas no final e possuem a finalidade principal de tornar disponíveis primeiro os elementos mais recentes.
+E. A fila tem disciplina de acesso conhecida como PEPS – primeiro que entra, primeiro que sai (FIFO – First In, First Out).

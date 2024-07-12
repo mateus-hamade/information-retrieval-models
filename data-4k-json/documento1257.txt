@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos , Tipos de Dados
+
+No IP Security (IPsec), o cabeçalho de autenticação, Authentication Header (AH), oferece suporte para integridade de dados e para autenticação dos pacotes de IP. O valor de verificação de integridade, Integrity Check Value (ICV), pode ser calculado com um algoritmo de HMAC, mas deverá caber no campo reservado para os dados de autenticação. Por essa razão, se usarmos o algoritmo HMAC-SHA1, o valor do HMAC deverá ser truncado em quantos bits?
+
+Alternativas:
+A. 32
+B. 64
+C. 96
+D. 128
+E. 160

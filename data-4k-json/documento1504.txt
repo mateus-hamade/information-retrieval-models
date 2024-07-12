@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+O método de ordenação caracterizado por ser o mais simples, cuja ideia é percorrer o vetor (ou array) diversas vezes, e a cada passagem fazer flutuar para o topo o maior elemento da sequência, é o método:
+
+Alternativas:
+A. Bubble Sort.
+B. Merge Sort.
+C. Heap Sort.
+D. Quick Sort.
+E. Selection Sort.

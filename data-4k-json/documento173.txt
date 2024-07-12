@@ -1,0 +1,9 @@
+Banco de Dados SQL
+
+Texto associado  É correto afirmar que: 
+
+Alternativas:
+A. o conteúdo dos campos “cpf” e “matricula” precisam ser únicos em cada registro imputado nesta tabela.
+B. o conteúdo do campo “cpf” precisa ser único em cada registro imputado nesta tabela, mas o campo “matricula” não possui esta restrição.
+C. o conteúdo do campo “matricula” precisa ser único em cada registro imputado nesta tabela, mas o campo “cpf” não possui esta restrição.
+D. os conteúdos dos campos “cpf” e “matrícula” não possuem restrições de duplicidades para os registros imputados nesta tabela.

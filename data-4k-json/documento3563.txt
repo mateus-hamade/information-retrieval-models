@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Matrizes em Estrutura de Dados
+
+No contexto das vinculações de subscritos e categorias de matrizes, NÃO se inclui como uma categoria a matriz 
+
+Alternativas:
+A. estática.
+B. dinâmica na pilha.
+C. associativa.
+D. fixa dinâmica na pilha.
+E. dinâmica no monte.

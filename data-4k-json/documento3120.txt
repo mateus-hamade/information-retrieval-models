@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Complexidade de Algoritmos
+
+Sabendo que o algoritmo pode ser considerado como uma sequência de ações executáveis para obtenção de uma solução para um determinado tipo de problema e que pode ser mensurado para se obter um tempo de execução em relação a algumas variáveis, marque os 3 cenários apresentados pelo tempo de execução de um algoritmo.
+
+Alternativas:
+A. Complexidade quadrática, complexidade exponencial, dados desordenados.
+B. Complexidade exponencial, dados desordenados, tamanho da entrada de dados.
+C. Dados desordenados, complexidade quadrática, tamanho da entrada de dados.
+D. Melhor caso, tamanho da entrada de dados, pior caso
+E. Melhor caso, pior caso, caso médio.

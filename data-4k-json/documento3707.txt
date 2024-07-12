@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Texto associado No algoritmo do enunciado, observa-se que os tipos de dados não foram declarados. Nesse caso, para ajustar o algoritmo, os tipos de dados para nome, aux, salario e nivel_superior seriam, respectivamente
+
+Alternativas:
+A. real, lógico, inteiro e real.
+B. caracter, real, inteiro e lógico.
+C. real, lógico, inteiro e inteiro.
+D. caracter, inteiro, real e lógico.
+E. caracter, lógico, real e real.

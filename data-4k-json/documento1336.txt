@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos
+
+Quando se avalia o número de algarismos significativos em uma resposta, deve-se sempre lembrar a influência dos algarismos “0”. Portanto, quantos são os algarismos significativos no número 0,00043290?
+
+Alternativas:
+A. 4.
+B. 5.
+C. 6.
+D. 7.
+E. 9.

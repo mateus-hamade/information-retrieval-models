@@ -1,0 +1,10 @@
+Programação Servidores de aplicação , Tomcat
+
+A analista Laura está configurando o log de um servidor Tomcat. Ela optou por utilizar a implementação de log padrão do Tomcat, que é baseada em loggers e handlers. Optou ainda por concentrar toda a configuração no arquivo global de configuração de log. Os requisitos de log passados para a analista exigem que determinada classe de handler apresente duas instâncias com configurações diferentes.  Para configurar de forma distinta dois handlers de uma mesma classe, Laura deve:
+
+Alternativas:
+A. habilitar o atributo global useParentHandlers;
+B. adicionar aos nomes dos handlers o prefixo “multi”;
+C. adicionar ao nome de cada handler um prefixo diferente;
+D. definir em cada handler um valor diferente para o atributo level;
+E. definir em cada handler um valor diferente para o atributo prefix.

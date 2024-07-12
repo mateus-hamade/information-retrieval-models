@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Determinada estrutura de dados foi projetada para minimizar o número de acessos à memória secundária. Como o número de acessos à memória secundária depende diretamente da altura da estrutura, esta foi concebida para ter uma altura inferior às estruturas hierarquizadas similares, para um dado número de registros. Para manter o número de registros armazenados e, ao mesmo tempo, diminuir a altura, uma solução é aumentar o grau de ramificação da estrutura (o número máximo de filhos que um nó pode ter). Assim, esta estrutura possui um grau de ramificação geralmente muito maior que 2. Além disso, a cada nó são associados mais de um registro de dados: se o grau de ramificação de um nó for g, este pode armazenar até g-1 registros.     Esta estrutura de dados é utilizada em banco de dados e sistema de arquivos, sendo denominada 
+
+Alternativas:
+A. árvore digital ou trie.
+B. árvore B.
+C. lista linear duplamente encadeada circular.
+D. árvore rubro-negra.
+E. árvore binária de busca não balanceada.

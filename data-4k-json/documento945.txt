@@ -1,0 +1,10 @@
+Banco de Dados BI (Business Intelligence)
+
+Analise as assertivas abaixo sobre carregar, formatar e combinar fontes de dados no Power BI: I. O recurso “Obter dados da Web”, no qual é fornecido um exemplo na caixa de diálogo do conector, permite ao usuário extrair diversos tipos de dados de páginas da Web, incluindo dados encontrados em tabelas e outros dados não tabulares. II. O Power Query permite renomear uma tabela, transformar um tipo de dado ou excluir uma coluna. Essas operações ficam registradas no Editor do Power Query e toda vez que a consulta se conecta à fonte de dados original, o Editor Power Query executa essas alterações nos dados do dashborad e também nos dados das fontes originais para que os dados permaneçam sempre atualizados. III. O Power BI Desktop permite que o usuário selecione dados diretamente de uma planilha do Excel, de um outro conjunto de dados do Power BI, de um banco de dados SQL Server ou ainda faça uma inserção direta de dados em uma tabela ou selecione uma fonte de dados que foi usada recentemente. Quais estão corretas?  
+
+Alternativas:
+A. Apenas I.
+B. Apenas II.
+C. Apenas III.
+D. Apenas I e III.
+E. I, II e III.

@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+Analise as seguintes afirmativas sobre métodos de ordenação.  I. Quicksort divide um conjunto de itens em conjuntos menores, que são ordenados de forma independe, e depois os resultados são combinados para produzir a solução de ordenação do conjunto maior.  II. Seleção é um método que consiste em selecionar o menor item de um vetor e substituí-lo pelo item que estiver na primeira posição. Essas duas operações são repetidas com os itens restantes até o último elemento.  III. Shellsort é uma extensão do algoritmo de ordenação por Inserção, contornando o problema que ocorre quando o menor item de um vetor está na posição mais à direita.  Assinale a alternativa CORRETA:   
+
+Alternativas:
+A. A afirmativa III está errada e as afirmativas I, II estão corretas.
+B. A afirmativa II está errada e as afirmativas I, III estão corretas.
+C. A afirmativa I está errada e as afirmativas II, III estão corretas.
+D. As afirmativas I, II e III estão corretas.

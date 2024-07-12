@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+Considere o problema de ordenar em ordem crescente o vetor (array) de números inteiros [7, 30, 2, 45, 66, 13, 17, 23, 1, 15] utilizando o algoritmo de ordenação Bubble Sort em sua versão não recursiva. Analise as afirmativas abaixo e assinale a alternativa correta.  I. São feitas 23 trocas de elementos do vetor até que ele esteja totalmente ordenado. II. A ordem dos elementos do vetor será [2, 7, 30, 13, 17, 23, 1, 15, 45, 66] após 10 trocas de elementos. III. O número de trocas de elementos diminui à medida que a execução do algoritmo de ordenação avança.
+
+Alternativas:
+A. Somente as afirmativas I e II estão corretas.
+B. Somente as afirmativas II e III estão corretas.
+C. Somente a afirmativa III está correta.
+D. Somente a afirmativa I está correta.
+E. Todas as afirmativas estão corretas.

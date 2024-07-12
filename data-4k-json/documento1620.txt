@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+A Figura 1, abaixo, apresenta um algoritmo escrito no software VisuAlg 3.0:        Ao final da execução do algoritmo da Figura 1, qual será o valor da variável "soma"?  
+
+Alternativas:
+A. 0.
+B. 10.
+C. 25.
+D. 30.
+E. 55.

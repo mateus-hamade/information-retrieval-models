@@ -1,0 +1,10 @@
+Banco de Dados Data Mining
+
+Identificar o tipo de dados ausentes é crucial para se encontrar soluções que os resolvam.  Avalie se os dados ausentes são categorizados como  I. MCAR. Valores ausentes completamente aleatórios. II. Valores ausentes aleatórios. III. MICE. Valores ausentes usando imputação múltipla usando equações encadeadas.  Está correto o que se apresenta em
+
+Alternativas:
+A. I e II, apenas.
+B. I e III, apenas.
+C. II e III, apenas.
+D. II, apenas.
+E. I, II e III.

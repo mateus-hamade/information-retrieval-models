@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+É importante considerar os diversos tipos de chaves existentes na organização de arquivos, em particular,
+
+Alternativas:
+A. chaves de ordenação são utilizadas para definir a sequência de registros de um arquivo.
+B. chaves secundárias de arquivos não admitem valores duplicados, da mesma forma que a chave primária.
+C. o argumento de pesquisa de uma chave contém a autorização para que seja feita uma operação de exclusão de um arquivo.
+D. chaves de ordenação de arquivos sempre são compostas pela chave primária de organização dos registros.
+E. chaves de acesso de arquivos contêm um código para descriptografar o conteúdo do arquivo.

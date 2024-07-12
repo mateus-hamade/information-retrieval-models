@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
+
+Considere a seguinte estrutura de dados do tipo Pilha, cujas operações básicas podem ser representadas por PUSH x e POP x.        Assinale a alternativa que apresenta uma operação e sua respectiva explicação, coerentes com a estrutura apresentada.  
+
+Alternativas:
+A. POP x − armazena em x o valor 7.
+B. POP x − armazena em x o valor 23.
+C. PUSH x − armazena em x o valor 23.
+D. PUSH x − armazena na posição SP o valor de x, sobrepondo o valor 7.
+E. PUSH x − armazena na posição BP o valor de x, sobrepondo o valor 23.

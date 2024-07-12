@@ -1,0 +1,10 @@
+Banco de Dados Conceitos Básicos em Banco de Dados , Banco de Dados
+
+A seguinte especificação se e somente se todas as colunas de uma tabela relacional tiverem apenas valores atômicos (cada coluna só pode ter um valor para cada linha na tabela) define a
+
+Alternativas:
+A. 1FN.
+B. 2FN.
+C. 3FN
+D. 4FN.
+E. FN Boyce-Codd.

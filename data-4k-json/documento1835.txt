@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Assinale a alternativa que preenche corretamente a lacuna do enunciado abaixo.     Denomina-se ________de um nodo de uma árvore o número de subárvores que são subordinadas diretamente a este nodo, ou seja, à quantidade de subárvores para as quais este nodo é raiz. 
+
+Alternativas:
+A. altura
+B. profundidade
+C. caminho
+D. nível
+E. grau

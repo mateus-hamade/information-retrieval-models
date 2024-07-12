@@ -1,0 +1,10 @@
+Banco de Dados SGBD - Sistema de Gerenciamento de Banco de Dados
+
+Os SGBDs (Sistemas de Gerenciamento de Banco de Dados) ou DBMSs (Database Management Systems) são ferramentas fundamentais para o armazenamento, organização e recuperação eficiente de informações em aplicações de software. O primeiro passo é especificar esquemas conceituais e internos para o banco de dados e quaisquer mapeamentos entre os dois. Quando nenhuma separação estrita de níveis é mantida, uma linguagem é usada pelo DBA e pelos projetistas de banco de dados para definir ambos os esquemas. A linguagem mencionada é a Linguagem de:
+
+Alternativas:
+A. definição de dados (DDL).
+B. definição de visualização (VDL).
+C. consulta estruturada (SQL).
+D. manipulação de dados (DML).
+E. definição de armazenamento (SDL).

@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+Ao utilizarem a linguagem SQL, os usuários apenas indicam aquilo que pretendem sem dizer exatamente de que forma o computador terá de operar para obter os resultados solicitados. Selecione a alternativa que mostra a seleção da seguinte query SQL: SELECT a FROM b WHERE a LIKE ' _c%'
+
+Alternativas:
+A. Serão selecionadas da tabela b, as linhas da coluna a cuja segunda letra da string seja c.
+B. Serão selecionadas da tabela a, as linhas da coluna b cuja segunda letra da string seja c.
+C. Serão selecionadas da tabela b, as linhas da coluna a cuja penúltima letra da string seja c.
+D. Serão selecionadas da tabela a, as linhas da coluna b cuja penúltima letra da string seja c.
+E. Serão selecionadas da tabela a, as linhas da coluna b que comecem com a string c.

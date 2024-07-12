@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Complexidade de Algoritmos
+
+Os algoritmos de agrupamento buscam identificar padrões existentes em conjuntos de dados, podendo ser do tipo particionais, hierárquicos ou baseados na otimização da função custo. É um exemplo de agrupamento hierárquico:
+
+Alternativas:
+A. k-means.
+B. análise de componentes principais.
+C. aglomerativo.
+D. dendrograma.

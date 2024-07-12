@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação , Lógicas de Programação
+
+Considere que, na lógica do algoritmo feito no VisualG, sejam inseridos sequencialmente os valores a seguir: 7 8 3 1 0 2 5 Algoritmo "Alg1" Var num : real res : real soma : real Inicio soma <- 0 escreva("Digite um valor: ") leia(num) enquanto (num <> 0)faca res <- res + num escreva("Digite um valor: ") leia(num) fimenquanto escreva("Resultado> ", res) Fimalgoritmo Nessa situação, será apresentado qual resultado da execução? 
+
+Alternativas:
+A. 16
+B. 17
+C. 18
+D. 19

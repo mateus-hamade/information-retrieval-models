@@ -1,0 +1,10 @@
+Banco de Dados Sistemas de Informações Gerenciais (SIG)
+
+Nos sistemas organizacionais compostos por pessoas que se vinculam e cumprem regras, a exemplo de engenheiros atuando em uma empresa, considera-se a existência de um sistema de informação organizacional (SIG). Nesse contexto hipotético, a informação é um vetor estratégico e pode ser caracterizada por, ao menos, duas componentes principais: a informação de atividades e a informação de convívio. Ante o exposto, julgue os próximos itens, relativos a SIGs.  I A informação de atividade comunica aspectos relacionados à realização da atividade finalística, sua descrição em normas, regras e procedimentos, que deverá ser do conhecimento daqueles que executam a atividade citada. II A informação de convívio é a que tramita nas relações entre pessoas que ocupam o mesmo espaço ou função e que trocam entre si comunicação válida. III Na caracterização de um SIG surgem fluxos de informação entre os atores do sistema, ora de atividade, ora de convívio. IV A descrição da natureza vetorial da informação como um vetor estratégico implica trabalhar para que a resultante da combinação das duas componentes em questão aponte para o atingimento dos objetivos organizacionais.  Assinale a opção correta. 
+
+Alternativas:
+A. Apenas os itens I e II estão certos.
+B. Apenas os itens I, II e III estão certos.
+C. Apenas os itens I, III e IV estão certos.
+D. Apenas os itens II, III, IV estão certos.
+E. Todos os itens estão certos.

@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Complexidade de Algoritmos ( assuntos)
+
+Para classificar os processos tramitados no TJ-AC em duas categorias (deferidos e indeferidos), um analista escolheu um algoritmo que divide os dados de entrada em duas regiões separadas por uma linha e resulta em uma simetria na classificação, de forma que o ponto mais próximo de cada classe está a uma distância d do ponto médio entre os dois grupos de classe (hiperplano). O algoritmo descrito é denominado:
+
+Alternativas:
+A. regressão linear.
+B. k-vizinhos mais próximos.
+C. máquina de vetores de suporte.
+D. regressão logística.

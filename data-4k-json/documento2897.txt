@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Para responder à  questão, considere o seguinte algoritmo, apresentado em Português Estruturado. Assuma que os valores lidos para a, b e c tenham sido, respectivamente, 6, 3 e 2.                                           Início                                             Leia a, b, c;                                             x ← 0;                                             Para i de 1 até 9 passo 2 faça                                             [                                                 Se ((a mod 2) = 0)                                                     Então x ← x + 2*b;                                                     Senão x ← x - c;                                                 a ← a - 1                                            ]                                            Imprima x                                       Fim  Para o algoritmo apresentado, assinale a alternativa que contém o número de vezes que o comando.                    Então x ← x + 2*b;  foi executado, considerando os valores lidos para as variáveis de entrada.
+
+Alternativas:
+A. 1
+B. 2
+C. 3
+D. 5
+E. 9

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Filas
+
+A equipe responsável pela elaboração de projetos de tecnologia da informação de determinada instituição recebeu a seguinte demanda do setor administrativo: “no setor de atendimento ao usuário, frequentemente, há atendimentos que, hoje, são gerenciados de forma manual, causando inúmeros transtornos pela falta de controle, bem como acúmulo de pessoas próximas à entrada do setor. Pensamos na criação de um sistema web em que o usuário acessa o portal e, para o dia corrente, faz uma requisição para solicitar atendimento. O fluxo de atendimento deverá ser diário, ou seja, todos os dias, de 7 às 8 horas, o sistema possibilitará tal solicitação de atendimento, por ordem de requisição, sem marcar horário. Deve-se levar em consideração que os atendimentos do dia ocorrem de 13 às 18 horas, com uma hora de duração; portanto, serão possíveis cinco atendimentos diários”. Considerando que o responsável pelo projeto definiu que a implementação utilizando a estrutura de dados fila irá atender a tais exigências, assinale a afirmativa correta.
+
+Alternativas:
+A. Suas duas operações básicas são empilhar (push) e desempilhar (pop).
+B. Possui estrutura similar à de pilha por implementar o conceito de LIFO.
+C. A única forma possível de manipulá-la é inserindo um elemento no início e removendo outro no final.
+D. A variação que proporciona inserção e remoção de elementos tanto no início quanto no final denomina-se deque.
+E. A variação que permite ao último elemento se conectar com o primeiro em formato contínuo denomina-se queue.

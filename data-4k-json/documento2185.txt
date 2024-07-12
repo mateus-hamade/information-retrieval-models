@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Estrutura de Dados ( assuntos)
+
+Sabendo-se que a função retorna o número de elementos de um array e que L assume o tipo de um array de inteiros, indexados a partir de zero, analise o pseudocódigo a seguir.     Esse algoritmo deveria ordenar os elementos do array em ordem crescente, mas há problemas no código que produzem resultados errôneos.  Assinale a opção que indica o que é de fato printado ao final da execução do código mostrado. 
+
+Alternativas:
+A. {10, 2, 40, 53, 28, 12}
+B. {2, 10, 12, 28, 40, 53}
+C. {53, 40, 28, 12, 10, 2}
+D. {2, 2, 12, 12, 12, 12}
+E. {2, 10, 10, 10, 10, 12}

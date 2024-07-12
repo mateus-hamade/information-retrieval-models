@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados Orientados a Objetos
+
+No contexto de banco de dados orientados a objetos, qual das seguintes afirmações é verdadeira sobre a herança? 
+
+Alternativas:
+A. A herança permite que uma classe herde métodos e atributos de outra classe, mas não permite a redefinição desses métodos e atributos.
+B. A herança permite que uma classe herde métodos e atributos de outra classe e possibilita que a classe filha redefina ou adicione novos métodos e atributos.
+C. A herança não é suportada em banco de dados orientados a objetos.
+D. A herança é usada apenas para modelar relações de muitos para muitos entre classes.
+E. A herança é usada apenas para modelar relações de um para muitos entre classes.

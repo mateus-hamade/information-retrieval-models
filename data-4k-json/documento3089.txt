@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados , Listas
+
+Não existe, a priori, uma maneira considerada a melhor para implementar listas lineares, quer seja por contiguidade física (sobre arranjos), quer seja por encadeamento. Entretanto, há vantagens na implementação de listas lineares por contiguidade física, como 
+
+Alternativas:
+A. a movimentação de dados em operações de inserção e remoção no arranjo.
+B. a necessidade de uma estimativa prévia do tamanho definido para o arranjo.
+C. o acesso direto a qualquer elemento da lista por meio do índice no arranjo.
+D. o tempo de acesso a dados diretamente proporcional ao tamanho do arranjo.

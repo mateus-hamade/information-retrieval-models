@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+O método de ordenação QuickSort (ordenação rápida) é um método sofisticado de ordenação de vetores que 
+
+Alternativas:
+A. considera em cada passo somente um único elemento sucessor na sequência fonte e todos os elementos do vetor destino para encontrar o ponto correto da inserção.
+B. ordena todos os elementos que estiverem a intervalos de 4 posições entre si na sequência corrente.
+C. é baseado nos princípios de ordenação por inserção direta através de incrementos decrescentes.
+D. é baseado no fato de que as permutações devem ser preferencialmente empregadas para pares de elementos que guardem entre si distâncias grandes, com a finalidade de se conseguir uma eficiência maior.
+E. é baseado nos princípios de ordenação por seleção direta que consiste na seleção repetitiva da menor dentre as chaves de n elementos, e depois dentre os n-1 elementos restantes, e assim por diante.

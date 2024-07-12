@@ -1,0 +1,9 @@
+Banco de Dados MySQL
+
+MySQL é um SGBD (Sistema de Gerenciamento de Bancos de Dados) amplamente utilizado para gerenciar dados em aplicações web e outras aplicações que necessitam de um sistema de gerenciamento de banco de dados relacional. Em MySQL, o comando para selecionar todos os registros da tabela ‘clientes’ juntamente com os registros correspondentes da tabela ‘pedidos’, incluindo clientes que não possuem pedidos é:
+
+Alternativas:
+A. ‘SELECT * FROM clientes LEFT JOIN pedidos ON clientes.id = pedidos.cliente_id;’
+B. ‘SELECT * FROM clientes RIGHT JOIN pedidos ON clientes.id = pedidos.cliente_id;’
+C. ‘SELECT clientes.*, pedidos.* FROM clientes JOIN pedidos ON clientes.id = pedidos.cliente_id;’
+D. ‘SELECT * FROM clientes FULL OUTER JOIN pedidos ON clientes.id = pedidos.cliente_id;’

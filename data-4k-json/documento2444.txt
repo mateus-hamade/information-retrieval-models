@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Para responder a esta questão, assuma que + = OU lógico, ' = negação do valor anterior, e que a ausência de um operador específico corresponde ao E lógico. Assuma ainda a seguinte precedência dos operadores: negação > E > OU.     Assinale a alternativa que é logicamente equivalente à expressão F = A'B'C' + A'B'C + ABC' + AB'C', se for assegurado que A e C nunca são simultaneamente verdadeiros. 
+
+Alternativas:
+A. F = AC + CB
+B. F = B' + A
+C. F = B'
+D. F = CA' + B
+E. F = C + AB'

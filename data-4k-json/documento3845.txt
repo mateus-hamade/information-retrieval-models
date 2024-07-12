@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Questão anulada Considere a existência de uma linguagem algorítmica com as seguintes características:  • a expressão lógica “x % y == 0” é verdadeira se o número “x” for divisível pelo número “y” e falsaem caso contrário; • o comando de repetição “para-cada (n em v) {...}” executa os comandos dentro do blocodelimitado por “{” e por “}”, onde o número de repetições é igual à quantidade de númerospresentes no array “v” e, em cada repetição, o valor da variável “n” será um dos números do array “v”. Exemplo: no comando para-cada (n em [5, 2, 8]) { ... } o valor de “n” na primeirarepetição será 5, na segunda repetição será 2 e na terceira e última repetição será 8; • o comando de atribuição “=” atribui um valor a uma variável. Exemplo: o comando “a = b + 1”define que o valor da variável “a” será o valor da expressão “b + 1”, ou seja, será o valor davariável “b” mais 1; • o comando de seleção “se (expressão lógica) { ... }” executa os comandos dentro do blocodelimitado por “{” e por “}” caso a expressão lógica seja verdadeira.  Considere o seguinte algoritmo: v = [8, 3, 10, 9] a = 0 b = 5 para-cada (n em v) {  se (n % b == 0) {          a = a + n     } }  Assinale a alternativa que indica CORRETAMENTE o valor que será atribuído à variável “b”após a execução do algoritmo acima.
+
+Alternativas:
+A. 30
+B. 0
+C. 18
+D. 10
+E. 12

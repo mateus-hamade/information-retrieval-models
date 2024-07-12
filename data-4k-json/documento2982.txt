@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Vetores
+
+Uma estrutura de dados que contém um grupo de itens homogêneos (todos do mesmo tipo) e que sejam diretamente identificados e acessíveis através do uso de índices inteiros é denominada
+
+Alternativas:
+A. lista simplesmente encadeada.
+B. lista duplamente encadeada.
+C. vetor (array).
+D. grafo (graph).
+E. árvore (tree).

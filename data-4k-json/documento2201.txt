@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Grafos
+
+Considere a matriz de adjacência abaixo correspondente a um grafo direcionado ponderado.        Avalie as afirmações referentes ao menor caminho tendo como origem o vértice 1.     I. O menor caminho do vértice 1 até o vértice 7 passa pelos vértices 3 e 8.  II. O menor caminho do vértice 1 até o vértice 5 passa pelo vértice 2.  III. O menor caminho do vértice 1 até o vértice 9 passa pelos vértices 2 e 6.  IV. O menor caminho do vértice 1 até o vértice 8 passa pelos vértices 3 e 6.  V. O menor caminho do vértice 1 até o vértice 6 passa pelo vértice 4.     Está correto apenas o que se afirma em  
+
+Alternativas:
+A. I, II e IV.
+B. I, II e V.
+C. II, III e IV.
+D. I e IV.
+E. I e V.

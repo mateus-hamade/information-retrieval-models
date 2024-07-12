@@ -1,0 +1,9 @@
+Banco de Dados SQL Server
+
+Assinale o comando da linguagem Transact SQL que deveria ser utilizado para remover um índice de uma tabela de banco de dados. 
+
+Alternativas:
+A. DROP INDEX
+B. DELETE INDEX
+C. DELETE * FROM INDEX
+D. REMOVE INDEX

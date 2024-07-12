@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados Relacionais
+
+O armazenamento de dados, em um banco de dados relacional, é realizado por um mecanismo que envolve
+
+Alternativas:
+A. esquemas conceituais, externos e internos.
+B. atributos, chaves primárias e chaves estrangeiras.
+C. tabelas, índices e visões.
+D. tabelas, colunas e tipos de dados.
+E. linhas e colunas.

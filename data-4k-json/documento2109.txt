@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Texto associado  No algoritmo, o número de vezes que a variável X é atualizada dentro do comando     “Para i de 2 até 4 faça”     é igual a 
+
+Alternativas:
+A. 1.
+B. 3.
+C. 6.
+D. 9.
+E. 12.

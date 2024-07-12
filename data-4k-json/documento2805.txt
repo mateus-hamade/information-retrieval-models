@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Considere a seguinte estrutura de dados em árvore.        Em uma pesquisa binária, o percurso na pré-ordem é:  
+
+Alternativas:
+A. 11, 18, 19, 28, 32, 40, 44, 49, 69, 71, 72, 83, 92, 97, 99.
+B. 49, 28, 18, 11, 19, 40, 32, 44, 83, 71, 69, 72, 97, 92, 99.
+C. 11, 19, 18, 32, 44, 40, 28, 69, 72, 71, 92, 99, 97, 83, 49.
+D. 49, 28, 18, 11, 71, 32, 69, 92, 19, 83, 40, 44, 97, 72, 99.
+E. 99, 72, 44, 19, 83, 49, 28, 18, 11, 32, 40, 69, 71, 92, 97.

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Grafos
+
+Um grafo cujo nó de partida de um caminho coincide com o nó de chegada caracteriza um grafo
+
+Alternativas:
+A. completo.
+B. cíclico.
+C. simétrico.
+D. conexo.
+E. regular.

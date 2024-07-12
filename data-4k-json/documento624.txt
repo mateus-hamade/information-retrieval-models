@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+No contexto da administração de dados em PostgreSQL, qual é o comando SQL básico para criar uma nova tabela?
+
+Alternativas:
+A. CREATE DATABASE tablename;
+B. CREATE TABLE tablename;
+C. ADD TABLE tablename;
+D. INSERT TABLE tablename;
+E. CREATE SCHEMA tablename;

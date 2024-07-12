@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
+
+O tempo de execução de um algoritmo é importante na avaliação de problemas e soluções computacionais. Esse fator está estreitamente ligado à complexidade do algoritmo e ao número de elementos de dados que serão processados no pior caso. Numa busca num array com N elementos ordenados, assinale a complexidade algorítmica para a localização de um determinado elemento por meio da busca binária.
+
+Alternativas:
+A. 2 . N
+B. log N
+C. N
+D. N . log N
+E. N ²

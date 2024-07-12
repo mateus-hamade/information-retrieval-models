@@ -1,0 +1,9 @@
+Banco de Dados R-3
+
+No contexto de banco de dados, a operação Inserir requer uma lista de valores de atributo para que uma nova tupla t possa ser inserida em uma relação R.        Dada a relação FUNCIONARIO, representada na figura a seguir, cuja chave primária é dada pelo atributo Cpf e a chave estrangeira é dada por Cpf_supervisor.                  Considerando que a relação ainda não tem tuplas associadas, analise a operação a seguir.        Inserir <‘Clarice’, ‘P’, ‘Lispector’, NULL, ‘10-12-1920’, ‘Rua das Estrelas, 77, Rio de Janeiro, RJ’, F, 28.000, NULL, 4> em FUNCIONARIO.        Assinale a alternativa correta.  
+
+Alternativas:
+A. Essa inserção viola a restrição de integridade de entidade (NULL para a chave primária Cpf), de modo que é rejeitada.
+B. Essa inserção satisfaz a todas as restrições, de modo que é aceitável.
+C. Essa inserção viola a restrição de chave porque outra tupla com o mesmo valor de Cpf já existe na relação FUNCIONARIO, e, portanto, é rejeitada.
+D. Essa inserção viola a restrição de integridade de referencial (NULL para a chave primária Cpf), de modo que é rejeitada.

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Filas , Pilhas
+
+Uma estrutura de dados é uma maneira organizada de armazenar e gerenciar dados em um programa ou sistema de computador. Filas e pilhas são estruturas de dados que têm diferentes princípios de operação e são úteis em contextos diferentes. Como é possível implementar uma pilha usando duas filas?
+
+Alternativas:
+A. Concatenando os elementos da primeira fila com os elementos da segunda fila para formar uma pilha.
+B. Inserindo elementos em uma fila e removendo-os da outra fila intercaladamente.
+C. Inserindo elementos em uma fila e removendo-os da mesma fila.
+D. Inserindo elementos em ambas as filas simultaneamente.
+E. Essa implementação não é possível, uma vez que as estruturas possuem propriedades conflitantes.

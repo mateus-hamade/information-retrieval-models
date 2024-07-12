@@ -1,0 +1,10 @@
+Banco de Dados DER - Diagrama de Entidade e Relacionamento
+
+Considere o diagrama Entidade-Relacionamento abaixo, desenhado de acordo com a notação proposta em Heuser (2009), baseada na proposta por Peter Chen com as extensões mais populares. As caixas representam as entidades, os losangos os relacionamentos, as cardinalidades dos relacionamentos são representadas por pares (min-max), e os “pirulitos” representam os atributos. Quando pintado de preto, um “pirulito” representa uma restrição de identificação.    Foi solicitado à projetista que fizesse um modelo lógico relacional correspondente a este DER. A projetista mapeou as entidades A, B, C e D nas tabelas A, B, C e D, respectivamente, cada qual com sua chave primária (atributos a1, b1, c1 e d1, respectivamente) e demais atributos (a2, b2, c2 e d2, respectivamente). Considere as seguintes assertivas sobre o mapeamento dos relacionamentos: I. Deve ser criada uma tabela própria para representar o relacionamento AB, na qual deve haver colunas (chaves estrangeiras) referenciando as chaves primárias das tabelas A e B. II. O relacionamento BD pode ser modelado como uma coluna adicional na tabela B (chave estrangeira referenciando a chave primária da tabela D). III. O relacionamento BC pode ser modelado como uma coluna adicional (chave estrangeira) na tabela C ou B, sendo essas escolhas equivalentes. Se incluído na tabela C, esse atributo deve referenciar a chave primária da tabela B, e se incluído na tabela B, deve referenciar a chave primária da tabela C. Quais estão corretas? 
+
+Alternativas:
+A. Apenas III.
+B. Apenas I e II.
+C. Apenas I e III.
+D. Apenas II e III.
+E. I, II e III.

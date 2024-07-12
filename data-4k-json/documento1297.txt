@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos
+
+  Com base no algoritmo precedente, julgue o item a seguir. O algoritmo testa se um número é primo (ou seja, que só possa ser dividido por 1 e por ele mesmo), de modo que, se o usuário entrar com o número 7, por exemplo, o resultado será o mostrado a seguir. Informe um número inteiro acima de 3: 7 O número 7 é primo 
+
+Alternativas:
+A. Certo
+B. Errado

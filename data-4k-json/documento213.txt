@@ -1,0 +1,9 @@
+Banco de Dados SQL
+
+Considere que um desenvolvedor precisa criar um comando SQL que possua uma clausula que realize a ordenação dos produtos de um pedido em uma ordem decrescente de preço. Assinale a alternativa correspondente a este comando.
+
+Alternativas:
+A. SELECT * FROM produtos_pedidos SORT DESC produtos_pedidos BY preco;
+B. SELECT * FROM produtos_pedidos ARRANGE produtos_pedidos WITH preco DESC;
+C. SELECT * FROM produtos_pedidos ORDER BY preco DESC;
+D. SELECT * FROM produtos_pedidos ORGANIZE produtos_pedidos BASED ON preco DESC;

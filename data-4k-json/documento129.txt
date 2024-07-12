@@ -1,0 +1,9 @@
+Banco de Dados OLAP (On-line Analytical Processing) , BI (Business Intelligence)
+
+Observe a seguinte arquitetura de uma solução de Business Intelligence implementada no TJ-AC.     O elemento arquitetural implementado por meio de operações OLAP, como slice, rotate, drill-down e drill-up, é o: 
+
+Alternativas:
+A. ETL.
+B. Stage Area.
+C. Banco de Dados Multidimensionais.
+D. Análises Multidimensionais.

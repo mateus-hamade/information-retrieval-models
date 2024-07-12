@@ -1,0 +1,10 @@
+Banco de Dados Gerência de Transações
+
+Qual das seguintes técnicas de tolerância a falhas em sistemas distribuídos utiliza versões distintas de aplicações para reduzir a probabilidade de falhas simultâneas? 
+
+Alternativas:
+A. Controle de versionamento de aplicações.
+B. Diversidade de versões de hardware.
+C. Detecção de erros em versões de aplicações.
+D. Diversidade de versões de software.
+E. Backup de aplicações e suas versões.

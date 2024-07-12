@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Segundo Tanenbaum, existe um princípio que diz que “todos os algoritmos devem ser públicos, apenas chaves são secretas.” Este princípio é conhecido como princípio de: 
+
+Alternativas:
+A. exclusão de César.
+B. Kerckhoff.
+C. Dijkstra.
+D. Rijndael.
+E. hashing.

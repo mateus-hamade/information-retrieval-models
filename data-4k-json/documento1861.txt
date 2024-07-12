@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Filas
+
+A respeito de estrutura de dados, julgue o item que se segue.     As filas com prioridade são listas lineares nas quais os elementos são pares da forma (qi , pi ), em que q é o elemento do tipo base e p é uma prioridade. Elas possuem uma política de fila do tipo FIFO (first in first out) entre os elementos de mesma prioridade.  
+
+Alternativas:
+A. Certo
+B. Errado

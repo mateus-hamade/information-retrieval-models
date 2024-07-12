@@ -1,0 +1,9 @@
+Banco de Dados Arquitetura de Banco de Dados
+
+Acerca da arquitetura cliente-servidor, assinale a opção correta.
+
+Alternativas:
+A. Um trigger pode descrever uma ação a ser executada se for tentada uma modificação sobre uma tabela. Isso não pode ser feito se a ação decorrer da execução de um comando INSERT ou DELETE.
+B. Um trigger pode especificar condições que precisam ser atendidas para que comandos sejam executados quando ocorrerem operações que tentem modificar uma tabela.
+C. Existem locks que podem ser compartilhados e locks exclusivos. Os locks compartilhados são ativados por operações que modificam dados e os exclusivos por operações que apenas lêem dados.
+D. As visões são tabelas virtuais criadas com os comandos SELECT e CREATE VIEW. Em uma visão há copias dos dados, uma visão não pode ser criada a partir de uma outra visão nem ser consultada via SELECT.

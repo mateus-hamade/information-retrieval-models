@@ -1,0 +1,10 @@
+Engenharia de Software Processos de Software - Desenvolvimento Ágil , Scrum
+
+Em um ambiente de desenvolvimento de software que segue a metodologia ágil Scrum, um time de 5 pessoas está realizando sprints mensais. Durante as cerimônias de revisão e retrospectiva, foram estabelecidos limites de tempo para garantir eficiência e foco.  O tempo máximo recomendado pelo Guia do Scrum para cada uma dessas cerimônias é:
+
+Alternativas:
+A. revisão: 2 horas; retrospectiva: 1 hora;
+B. revisão: 4 horas; retrospectiva: 3 horas;
+C. revisão: 3 horas; retrospectiva: 2 horas;
+D. revisão: 1 hora; retrospectiva: 1,5 hora;
+E. revisão: 4 horas; retrospectiva: 1 hora.

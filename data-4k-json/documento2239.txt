@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Estrutura de Controle e Repetição
+
+Considere o seguinte trecho que utiliza estruturas lógicas.  É correto dizer que 
+
+Alternativas:
+A. o trecho utiliza estrutura condicional recursiva, pois há um se dentro de outro se.
+B. se o primeiro valor lido for negativo, será impresso x=0 quantos=1.
+C. se forem lidos vários valores positivos, x armazena o maior deles e quantos conta quantas vezes ele se repetiu.
+D. caso sejam lidos dois ou mais valores positivos quantos sempre será maior que 1.
+E. os comandos dentro da estrutura de repetição sempre serão executados pelo menos uma vez.

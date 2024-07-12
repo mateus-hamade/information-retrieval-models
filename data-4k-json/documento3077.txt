@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Filas , Pilhas
+
+Considerando as formas de armazenamento e recuperação de dados em estruturas dos tipos Pilha e Fila, pode-se dizer que os critérios que regulam essas operações são, respectivamente,
+
+Alternativas:
+A. LIFO (Last-In, First-Out) e LIFO (Last-In, First-Out).
+B. LIFO (Last-In, First-Out) e FIFO (First-In, First-Out).
+C. FIFO (First-In, First-Out) e LIFO (Last-In, First-Out).
+D. FIFO (First-In, First-Out) e GIGO (Garbage-In, Garbage-Out).
+E. GIGO (Garbage-In, Garbage-Out) e LIFO (Last-In, First-Out).

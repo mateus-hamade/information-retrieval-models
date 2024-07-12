@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+Referente à consulta em linguagem SQL apresentada abaixo, analise as assertivas a seguir: 1. SELECT cod_conveniada AS conveniada, valor_fatura AS valor 2. FROM FATURA 3. ORDER BY vlr_fatura; I. Na linha 3, a instrução ORDER BY vlr_fatura define que a ordenação das linhas selecionada seja realizada pela coluna vlr_fatura. II. A consulta ordena o resultado que lista o código da conveniada e o valor da fatura após realizar uma junção entre as tabelas FATURA e CONVENIADA. III. Na linha 3, ao trocar a instrução por ORDER BY valor, o resultado da consulta é o mesmo. Quais estão corretas? 
+
+Alternativas:
+A. Apenas II.
+B. Apenas I e II.
+C. Apenas I e III.
+D. Apenas II e III.
+E. I, II e III.

@@ -1,0 +1,10 @@
+Programação Java , Linguagens de programação
+
+Considere o seguinte código em Java:           Ao ser executado com as importações necessárias, o código acima imprime na saída padrão:   
+
+Alternativas:
+A. Exception;
+B. A;bloco13;id=0;null;
+C. null;bloco13:trib;id=0#A;null;
+D. A;bloco13:trib;id=0;/ws?id=0;
+E. null;bloco13;id=0#A;/ws?id=0#A;

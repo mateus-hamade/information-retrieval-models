@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
+
+Uma sequência desordenada de números armazenada em um vetor é inserida em uma árvore AVL. Após a inserção nesta árvore, é feito um percurso em ordem simétrica (em ordem) e o valor de cada nó visitado é inserido em uma pilha. Depois de todos os nós serem visitados, todos os números são retirados da pilha e apresentados na tela. A lista de números apresentada na tela está 
+
+Alternativas:
+A. ordenada ascendentemente de acordo com os números.
+B. ordenada descendentemente de acordo com os números.
+C. na mesma ordem do vetor original.
+D. na ordem inversa do vetor original.
+E. ordenada ascendentemente de acordo com sua altura na árvore.

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+1. var 2. cont,n,resultado:inteiro 3. inicio 4. resultado <-1 5. leia(n) 6. para cont de 1 ate n passo 1 faca 7. resultado <- resultado *cont 8. fimpara 9. escreva(resultado) 10. fimalgoritmo Em relação à lógica do algoritmo precedente, caso o valor de n (linha 5) seja igual a 
+
+Alternativas:
+A. 4, o resultado será 4.
+B. 3, o resultado será 5.
+C. 2, o resultado será 12.
+D. 6, o resultado será 30.
+E. 5, o resultado será 120.

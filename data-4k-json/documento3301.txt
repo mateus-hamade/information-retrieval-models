@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Busca
+
+Texto associado Uma das formas mais simples e rápida de busca em uma estrutura de dados ordenada é o método de pesquisa binária, que segue o paradigma de divisão e conquista. Se o item pesquisado estiver no meio do vetor, a busca termina com sucesso. Caso contrário, se o elemento do meio vier antes do elemento buscado, então a busca continua na metade posterior e, se vier depois, a busca continua na metade anterior do vetor.  
+
+Alternativas:
+A. Certo
+B. Errado

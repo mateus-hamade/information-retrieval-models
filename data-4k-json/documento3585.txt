@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Hashing
+
+Texto associado As tabelas hashing, ou tabelas de dispersão, podem ser usadas no processo de gerenciamento de memória virtual pelo sistema operacional. 
+
+Alternativas:
+A. Certo
+B. Errado

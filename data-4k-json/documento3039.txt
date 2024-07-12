@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Listas
+
+Texto associado Deseja-se, no programa apresentado, substituir o comando.  Repita [ ... ] até que ( y ≥ 5 )  pelo comando Enquanto. Assinale a alternativa que contém uma construção do comando Enquanto que fornece o mesmo resultado, caso seja colocada no programa apresentado.
+
+Alternativas:
+A. Enquanto ( y ≤ 4 ) faça
+B. Enquanto (y ≤ 5) faça
+C. Enquanto (y ≠ 4) faça
+D. Enquanto (y ≥ 5) faça
+E. Enquanto (y ≥ 4) faça

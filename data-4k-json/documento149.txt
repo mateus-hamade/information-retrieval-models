@@ -1,0 +1,10 @@
+Banco de Dados Data Mining
+
+Considere as seguintes afirmações sobre ETL (Extrac, Transform e Load), OLAP (Online Analytical Processing) e Data Mining:     I – Em sistemas data warehouse, a aplicação é mais voltada para inserir e atualizar dados, devido ao carregamento de dados com o ETL. Já em sistemas transacionais, utilizam-se mais consultas, conforme site https://www.oracle.com/br/database/what-is-a-data-warehouse/;  II – OLAP são softwares que permitem a tomada de decisões e inteligência de negócios e agregam recursos de busca de dados, armazenagem e gerência, conforme site: https://cetax.com.br/o-que-eolap/.  III – ETL não possui suporte a SQL (structured query language), pois utiliza somente DSL (decision support language).     Assinale a alternativa CORRETA: 
+
+Alternativas:
+A. Apenas a afirmação I é correta.
+B. As afirmações I e II são corretas.
+C. Apenas a afirmação II é correta.
+D. As afirmações II e III são corretas.
+E. As afirmações I, II e III são corretas.

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
+
+A complexidade de algoritmos considera o tempo de execução que um código usa para solucionar um problema. Selecione a alternativa que mostra a notação da menor complexidade entre as seguintes: Ordem quadrática; Ordem cúbica; Ordem logarítmica; Ordem linear; Ordem exponencial
+
+Alternativas:
+A. O(n2)
+B. O(n3)
+C. O(n)
+D. O(cn)
+E. O(log n)

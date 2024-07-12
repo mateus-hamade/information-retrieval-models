@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+Um professor preparou uma série de experimentos para avaliar, juntamente com seus alunos, três algoritmos de ordenação: o da bolha, o de ordenação por inserção e o de ordenação por seleção. Para tal, ele escreveu três métodos Java, um para cada algoritmo. Todos eles recebem como único parâmetro um array de inteiros (int vet[ ] = {81,15,4,20,7,47,14,20,4}), que será ordenado em ordem crescente. Para acompanhar a evolução desse array sendo ordenado, cada um dos três métodos exibe a configuração dos elementos do array ao término de cada iteração do comando de repetição mais externo. Vale lembrar que esses três algoritmos de ordenação são compostos por dois comandos de repetição aninhados (dois comandos for ou dois comandos while). Terminada a codificação, o professor executou os métodos relativos aos três algoritmos de ordenação e projetou no quadro as configurações do array relativas às três primeiras iterações de cada um dos algoritmos de ordenação, conforme mostrado a seguir.    As configurações 1, 2 e 3, exibidas acima, correspondem, respectivamente, aos algoritmos 
+
+Alternativas:
+A. da bolha, de seleção e de inserção
+B. da bolha, de inserção e de seleção
+C. de seleção, de inserção e da bolha
+D. de seleção, da bolha e de inserção
+E. de inserção, de seleção e da bolha

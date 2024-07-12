@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Analise o seguinte algoritmo, elaborado em uma pseudo linguagem (português estruturado). Inteiro: i, a, b, c, Y, X; Leia (a, b, c);  X ← 0; Y ← 0;  Para i de 1 até 5 faça [   Se ((i > b) e (i ≤ c)) Então [ Y ← (2*i) + c;  ]   Senão [ Y ← a; ] X ← X + Y;  ] Imprima X; Suponha que os valores lidos para a, b e c tenham sido, respectivamente, 1, 2 e 3. Ao final da execução desse algoritmo, o valor impresso para X será: 
+
+Alternativas:
+A. 5
+B. 13
+C. 18
+D. 25
+E. 35

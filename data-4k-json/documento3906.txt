@@ -1,0 +1,9 @@
+Sistemas Operacionais Comandos
+
+Considere as assertivas abaixo e verifique se são verdadeiras:  I. No prompt de comando do Windows, também chamado de CMD, O comando para se criar um diretório é o “mkdir”. II. O comando “ls” não é um comando reconhecido no CMD do Windows. III. Para adicionar um outro usuário, deve-se ir em “Regedit” > “Windows” > “User”  De acordo com as assertivas, responda a alternativa correta:
+
+Alternativas:
+A. Somente I está correta
+B. Somente I e II estão corretas
+C. Somente II está correta
+D. Somente I e III estão corretas

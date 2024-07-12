@@ -1,0 +1,10 @@
+Banco de Dados SQL Server , SQL
+
+Observe o código em SQL Server 2016 a seguir:     SELECT A.CODIGO, A.NOME, B.DATA, B.VALOR, C.QTD, D.DESCRIC FROM CLIENTES A, PEDIDOS B, ITENS C, PRODUTOS D WHERE A.CODIGO = B.CODCLIENTE AND B.CODIGO = C.CODPEDIDO AND C.CODPRODUTO = D.CODIGO     Qual o efeito da execução desse código no banco de dados? 
+
+Alternativas:
+A. No comando acima temos as tabelas clientes e pedidos apenas, unificadas em uma mesma cláusula.
+B. No comando acima temos as tabelas, itens e produtos apenas, unificadas em uma mesma cláusula.
+C. No comando acima foram atribuídos aliases às tabelas itens e produtos apenas.
+D. As tabelas são unificadas, todas elas, por um campo chave, no caso as letras A, B, C e D.
+E. As tabelas são unificadas, todas elas, por um campo chave.

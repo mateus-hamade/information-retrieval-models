@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação , Estrutura de Dados ( assuntos)
+
+Acerca dos conceitos e características de estrutura de dados e autômatos, julgue os itens a seguir.  Considere tnode um nó de uma lista encadeada e a função monta_lista listados abaixo. Nesse caso, a utilização da função monta_lista criará uma lista encadeada com as informações ordenadas em ordem decrescente alfabeticamente e o ponteiro topo apontará para o nó com a maior informação alfabética.  
+
+Alternativas:
+A. Certo
+B. Errado

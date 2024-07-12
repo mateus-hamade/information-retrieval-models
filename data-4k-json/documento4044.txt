@@ -1,0 +1,9 @@
+Segurança da Informação Conceitos Básicos em Segurança da Informação , Políticas de Segurança de Informação , Análise de Vulnerabilidade e Gestão de Riscos ( assuntos)
+
+Uma agência de governo, implantando a norma complementar n.º 14/IN01/DSIC/GSIPR, que trata de informação em ambiente de computação em nuvem, está definindo a função que terá como responsabilidade a implantação da gestão de risco de segurança das informações tratadas, em ambiente de computação em nuvem. Essa função é a de:
+
+Alternativas:
+A. administrador de banco de dados
+B. administrador de rede de computadores
+C. gestor de projetos de tecnologia de rede
+D. gestor de segurança da informação e comunicação

@@ -1,0 +1,10 @@
+Banco de Dados Modelo relacional
+
+No contexto do projeto de bancos de dados, considere uma tabela relacional com três colunas, A, B e C, cuja instância é mostrada a seguir.   Tomando por base apenas essa instância, analise a seguinte lista de eventuais dependências funcionais.  A -> B A -> B,C B -> A,C C -> B A,C -> B   Sobre a validade dessas dependências, é correto concluir que:  
+
+Alternativas:
+A. somente duas delas são válidas;
+B. são válidas somente as duas primeiras e a quarta;
+C. são válidas somente as três primeiras;
+D. somente quatro delas são válidas;
+E. todas são válidas.

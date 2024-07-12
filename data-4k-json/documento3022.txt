@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Uma árvore binária vazia que recebe os elementos 4, 1, 0, 5, 3 e 7 terá o elemento 7 na posição à
+
+Alternativas:
+A. esquerda da sub-árvore de raiz zero.
+B. esquerda da raiz da árvore binária.
+C. direita da raiz da árvore binária.
+D. direita da sub-árvore de raiz 1.
+E. direita da sub-árvore de raiz 5.

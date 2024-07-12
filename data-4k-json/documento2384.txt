@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Julgue o item subsequente, relativo à lógica de programação.      A expressão a seguir especifica que: 1 será adicionado a x, se x for maior que 0; 1 será subtraído de x, se x for menor que 0; o valor de x será mantido, se x for igual a zero. Se (x > 0) então x++; senão if (x < 0) x-- ; 
+
+Alternativas:
+A. Certo
+B. Errado

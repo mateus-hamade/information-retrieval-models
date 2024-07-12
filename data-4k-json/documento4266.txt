@@ -1,0 +1,10 @@
+Engenharia de Software Teste de Software
+
+A abordagem que se concentra principalmente em examinar as estruturas internas ou os funcionamentos de uma aplicação de software é denominada teste de
+
+Alternativas:
+A. sistema.
+B. caixa preta.
+C. caixa branca.
+D. aceitação.
+E. caixa cinza.

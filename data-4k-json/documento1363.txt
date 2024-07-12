@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Hashing
+
+Uma tabela de espalhamento ou hashing é uma estrutura de dados eficaz para implementar dicionários. Em relação à tabela de espalhamento, segundo Cormen (2012), analise os itens a seguir: I. O tempo médio para pesquisar um elemento em uma tabela de espalhamento é O(1). II. Quando temos mais de uma chave mapeada para a mesma posição, temos uma situação de colisão. III. A técnica mais simples para resolução de colisões é por endereçamento aberto.  Está CORRETO o que se afirma em:   
+
+Alternativas:
+A. Nenhum dos itens é verdadeiro.
+B. I e II, apenas.
+C. II e III, apenas.
+D. I e III, apenas.
+E. I, II e III.

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
+
+As estruturas de dados são usadas para armazenar dados de uma forma organizada. Sobre elas, é correto afirmar que 
+
+Alternativas:
+A. as filas usam a lógica FIFO, um acrônimo para “First Information, First Operation”.
+B. uma operação append (enfileirar) insere um elemento ao final da fila.
+C. uma operação enqueue (empilhar) insere um elemento no topo da pilha.
+D. as pilhas usam a lógica LIFO, um acrônimo para “Last In, First Out”
+E. em uma linked list, há um ponteiro head, que aponta para o último elemento da lista.

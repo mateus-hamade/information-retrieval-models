@@ -1,0 +1,9 @@
+Segurança da Informação Firewall em Segurança da Informação , Noções de Segurança , Segurança na Internet
+
+Estar conectado à Internet expõe um sistema a diversos riscos, tais como o envio de informações confidenciais a pessoas não autorizadas. Alguns mecanismos de segurança são necessários para manter ou tornar um sistema seguro, como, por exemplo, a inspeção de pacotes, que é realizada pela ferramenta:
+
+Alternativas:
+A. VPN
+B. IPSec
+C. firewall
+D. wireshark

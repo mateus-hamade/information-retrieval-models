@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Busca
+
+São algoritmos ou métodos de busca em cadeias: 
+
+Alternativas:
+A. Boyer-Moore e Knuth-Morris-Pratt.
+B. linear e binária.
+C. em tabelas e Knuth-Morris-Pratt.
+D. binária e Boyer-Moore.
+E. linear e Knuth-Morris-Pratt.

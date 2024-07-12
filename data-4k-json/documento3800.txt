@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
+
+Considere o seguinte código em português estruturado:    Qual a ordem de complexidade do pior caso desse algoritmo?
+
+Alternativas:
+A. n
+B. 3*n
+C. 4*n
+D. n*log n
+E. n*n

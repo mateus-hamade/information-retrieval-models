@@ -1,0 +1,10 @@
+Banco de Dados Formas normais
+
+Uma relação pode estar na terceira forma normal (3FN), mas ainda assim apresentar problemas de redundância quando há: 
+
+Alternativas:
+A. Uma relação ternária.
+B. Uma chave primária composta por múltiplos atributos.
+C. Uma dependência transitiva entre os atributos.
+D. Atributos multivalorados.
+E. Atributos derivados.

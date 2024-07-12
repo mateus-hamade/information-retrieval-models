@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
+
+Texto associado Considerando-se que a memória disponível tenha M posições, que := represente atribuição, em uma estrutura de dados P do tipo pilha, os seguintes algoritmos descrevem corretamente as operações de inserção e remoção. Algoritmo para inserção na pilha P se topo … M então topo := topo – 1 P[topo] := novovalor senão overflow Algoritmo para remoção da pilha P s e topo … 0 então valorrecuperado := P[topo] topo := topo – 1 senão underflow 
+
+Alternativas:
+A. Certo
+B. Errado

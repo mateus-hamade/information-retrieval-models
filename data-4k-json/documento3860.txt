@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+Questão anulada As estruturas de dados podem ser caracterizadas como forma organizada de armazenar dados ou informações na memória, de modo a otimizar o acesso de algoritmos de manipulação de dados associados a estas estruturas. Sendo assim,
+
+Alternativas:
+A. as pilhas são estruturas que recuperam os dados na ordem reversa em que eles foram armazenados.
+B. as pilhas são estruturas que recuperam os dados na ordem direta em que eles foram armazenados.
+C. as filas são estruturas que recuperam os dados na ordem reversa em que eles foram armazenados.
+D. as filas são estruturas que recuperam os dados na ordem reversa em que eles foram retirados.

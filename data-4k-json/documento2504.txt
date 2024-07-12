@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Filas
+
+Selecione a alternativa que tenha uma estrutura de dados baseado no princípio FIFO:
+
+Alternativas:
+A. Lista.
+B. Pilha.
+C. Fila.
+D. Grafo.

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Considerando o fragmento do seguinte algoritmo, que tem por objetivo calcular as notas dos alunos, do primeiro até o terceiro bimestre e dizer qual a nota necessária para passar de ano. Se necessário reescreva as partes que estão faltando e realize o teste de mesa para as variáveis solicitadas a seguir: Media_3 <- Soma_3 /3 notamin_4 <- (__________) Se Media_3 >=70 entao Escreva(" O Aluno ",Aluno, "Passou para o quarto Bimestre") Escreva ("Digite a Quarta nota: ") Leia (Nota4) Media <- (Nota1+ Nota2+ Nota3+ Nota4) / 4 I ) Qual o valor das variáveis Media_3, notamin_4 e para o aluno que tirou 76, 84 e 64, e 78 II) Qual o valor das variáveis notamin_4 e Media_3 do aluno que tirou 65,74,92,57
+
+Alternativas:
+A. I. 74 e 56 II. 49 E 77
+B. I. 56 e 74 II. 77 e 49
+C. I. 72 e 77 II. 56 e 49
+D. I. 75 e 72 II.77 e 74
+E. Nenhuma das alternativas.

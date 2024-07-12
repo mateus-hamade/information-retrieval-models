@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados
+
+Considerando um banco de dados com as informações dos alunos de uma escola, assinale a alternativa que indica um exemplo de atributo nominativo.
+
+Alternativas:
+A. Idade
+B. Matrícula
+C. Sexo
+D. Data de nascimento
+E. Altura

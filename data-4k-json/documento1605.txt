@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+A respeito dos diagramas de casos de uso, dos diagramas de classe, da análise essencial e da lógica de programação, julgue o item.     Na lógica de programação, um algoritmo é conceituado como uma sequência estruturada e organizada de passos que tem por objetivo atingir um objetivo, seja ele definido ou indefinido.    
+
+Alternativas:
+A. Certo
+B. Errado

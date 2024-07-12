@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Julgue os itens a seguir, relativos aos tipos básicos de estruturas.   A altura do nó de uma estrutura em árvore binária corresponde à distância entre esse nó e o seu descendente mais afastado, ou, em outras palavras, ao número de passos do caminho mais longo que leva o nó a uma folha.  
+
+Alternativas:
+A. Certo
+B. Errado

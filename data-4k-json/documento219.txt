@@ -1,0 +1,9 @@
+Banco de Dados BI (Business Intelligence)
+
+Com relação às tecnologias relacionadas à ciência de dados, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.  ( ) Os dashboards gerados no Power BI, da Microsoft, empregando scripts do R, são gerados empregando ‘tecnologia de área restrita’ para proteger os usuários e o serviço contra riscos de segurança. ( ) Na Ciência de Dados, os dados estruturados, semiestruturados e não estruturados podem ser digeridos por redes neurais recorrentes (RNN, Recurrent Neural Network), que processavam sequências inteiras em paralelo, ou por grandes modelos de linguagem (LLM, Large Language Models), que empregam processamento sequencial das entradas. ( ) No aprendizado de máquina é usual o emprego de Métodos de Reamostragem, como: k-fold (que fatia os dados em k pedaços iguais), repeated k-fold (que repete o método k-fold várias vezes), PCA (Principal Components Analysis, que reduz a quantidade de variáveis) e bootstrap (que reduz os desvios e realizar amostragem dos dados de treino com repetições).  As afirmativas são, respectivamente,
+
+Alternativas:
+A. V – F – F.
+B. F – F – V.
+C. F – V – F.
+D. V – V – V.

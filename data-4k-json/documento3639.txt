@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Estrutura de Dados ( assuntos)
+
+Último dado armazenado é o primeiro a ser recuperado caracteriza a estrutura de dados do tipo  
+
+Alternativas:
+A. árvore.
+B. pilha.
+C. string.
+D. fila.
+E. boolean.

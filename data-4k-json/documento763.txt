@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados Multidimensionais , Banco de Dados Relacionais
+
+Qual a diferença entre o modelo relacional e o modelo dimensional de dados? 
+
+Alternativas:
+A. O modelo relacional é mais adequado para armazenamento de grandes volumes de dados, enquanto o modelo dimensional é mais indicado para análises complexas.
+B. O modelo dimensional é baseado em tabelas multidimensionais, enquanto o modelo relacional é baseado em tabelas relacionais.
+C. O modelo relacional é mais flexível em relação às consultas complexas, enquanto o modelo dimensional é mais simples e intuitivo.
+D. O modelo dimensional é mais indicado para transações online, enquanto o modelo relacional é mais indicado para processamento em lotes.
+E. O modelo relacional é mais indicado para análises multidimensionais, enquanto o modelo dimensional é mais indicado para análises transacionais.

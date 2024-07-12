@@ -1,0 +1,10 @@
+Banco de Dados Conceitos Básicos em Banco de Dados , Gerência de Transações , Administração de banco de dados ( assuntos)
+
+Uma das preocupações inerentes de um sistema de disseminação de informações meteorológicas deve ser o controle de qualidade de dados. Em relação aos erros mais comumente verificados nos dados, marque a alternativa correta: 
+
+Alternativas:
+A. Erros sistemáticos são distribuídos aproximadamente de forma simétrica em torno de zero e resultam algumas vezes em superestimativas e em outras vezes em subestimativas do valor real.
+B. Erros aleatórios são distribuídos assimetricamente em torno de zero e na média este erro resulta em viés do valor medido para baixo ou para cima do valor real.
+C. Em dados de intensidade de vento, variações muito grandes neste parâmetro, em curto intervalo de tempo, devem ser interpretados como valores espúrios.
+D. A possibilidade de ocorrência de perturbações de pequena escala sobre variáveis meteorológicas medidas não é importante (não precisa ser levada em conta) em rotinas de qualidade de dados.
+E. Dados espúrios pontuais estão relacionados ao mal funcionamento dos sensores ou erro durante a aquisição ou processamento dos dados e podem ser detectados por métodos de controle de qualidade baseados em gradientes locais.

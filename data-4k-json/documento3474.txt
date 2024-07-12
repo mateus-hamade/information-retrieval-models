@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Considere o algoritmo abaixo:    Se a sequência de números a ser lida for 35, 78, 12, 124, 56, 0 e 279, o resultado escrito será: 
+
+Alternativas:
+A. 35;
+B. 56;
+C. 78;
+D. 124;
+E. 279.

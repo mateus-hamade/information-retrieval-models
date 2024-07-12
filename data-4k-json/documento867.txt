@@ -1,0 +1,10 @@
+Banco de Dados SQL Server , SQL
+
+Texto associado  Considerando a tabela T da figura 1, analise o comando a seguir.      DELETE FROM T  WHERE EXISTS ( SELECT * FROM T t2                               WHERE T.A = t2.A                                   and T.B = t2.B                                   and T.C = t2.C )     O número de linhas removidas pela execução do comando acima é: 
+
+Alternativas:
+A. 0;
+B. 1;
+C. 2;
+D. 3;
+E. 4.

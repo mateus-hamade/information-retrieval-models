@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Texto associado Os algoritmos de percurso simples empregados para percorrer árvores binárias são eficientes quando aplicados para percorrer grafos.
+
+Alternativas:
+A. Certo
+B. Errado

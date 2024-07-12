@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Listas
+
+A respeito de estrutura de dados, julgue o item que se segue.     As listas encadeadas são aquelas em que cada elemento, além da informação correspondente, contém um ponteiro com o endereço do seguinte elemento, e um ponteiro com a posição do elemento anterior.  
+
+Alternativas:
+A. Certo
+B. Errado

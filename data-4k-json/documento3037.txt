@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Considere o seguinte algoritmo,     onde o operador ⊕ corresponde à operação XOR (ou exclusivo) e X e Y são variáveis inteiras. Assinale a alternativa que corresponde à funcionalidade da função apresentada.
+
+Alternativas:
+A. Soma o conteúdo das variáveis X e Y.
+B. Multiplica o conteúdo das variáveis X e Y.
+C. Subtrai o conteúdo das variáveis X e Y.
+D. Troca o conteúdo das variáveis X e Y.
+E. Não altera os conteúdos das variáveis X e Y.

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Filas
+
+Questão anulada Considere a implementação de uma fila (FIFO) de forma estática (array) com indexação circular, iniciando em 0 e finalizando no índice N-1, onde N é o tamanho do array. Seja Ins o índice da posição livre na qual a próxima inserção na fila deve ocorrer; seja Prim o índice do elemento mais antigo a permanecer na fila; e seja (A MOD B) o resto da divisão inteira de A por B. Com base nesses dados, analise as afirmações a seguir.  1) Para inserção, caso a fila não esteja cheia, atribuímos o elemento ao array na posição Ins e, em seguida, atribuímos a Ins o valor de (Ins MOD N)+. 2) Para deleção, caso a fila não esteja vazia, atribuímos a Prim o valor de ((Prim+1) MOD N). 3) Se Prim=Ins, podemos concluir que a fila está vazia. 4) Se Prim=((Ins+1) MOD N), podemos concluir que a fila está cheia.  Estão corretas:
+
+Alternativas:
+A. 1 e 2, apenas.
+B. 3 e 4, apenas.
+C. 1, 2 e 3, apenas.
+D. 2, 3 e 4, apenas.
+E. 1, 2, 3 e 4.

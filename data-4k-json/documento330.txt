@@ -1,0 +1,9 @@
+Banco de Dados SQL Server
+
+No âmbito da operação do SQL Server 2019, assinale a principal função da instrução bulk insert.
+
+Alternativas:
+A. Importar dados para tabelas de modo rápido.
+B. Personalizar o tratamento do log do banco de dados para operações em bloco.
+C. Otimizar os índices em instalações com uma forte demanda de alterações (insert, update, delete) em certas tabelas.
+D. Gerenciamento do conjunto das permissões de acesso aos recursos de bancos de dados conferidas aos seus usuários.

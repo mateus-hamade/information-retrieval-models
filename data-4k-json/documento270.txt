@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados
+
+Sobre o conceito e importância de análise de dados, assinale se a asserção (A) é verdadeira e se a razão (R) é uma explicação correta da asserção:   (A): A análise de dados é crucial para as organizações modernas, pois transforma grandes volumes de dados brutos em insights acionáveis que podem informar decisões estratégicas. (R): A análise de dados permite às organizações identificarem tendências, padrões e anomalias, otimizando processos e melhorando a tomada de decisões baseada em evidências.   Indique se:
+
+Alternativas:
+A. Ambas A e R são verdadeiras, e R é a justificativa correta de A.
+B. Ambas A e R são verdadeiras, mas R não é a justificativa correta de A.
+C. A é verdadeira, e R é falsa.
+D. A é falsa, e R é verdadeira.
+E. Ambas A e R são falsas.

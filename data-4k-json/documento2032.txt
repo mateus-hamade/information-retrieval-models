@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Estrutura de Controle e Repetição
+
+No que diz respeito à construção de algoritmos, analise as afirmativas a seguir.  I. A execução da estrutura termina, se o teste da condição retorna o valor lógico FALSO.  II. A execução da estrutura termina, se o teste da condição retorna o valor lógico VERDADEIRO.  III. A execução da estrutura permanece em loop, se o teste da condição resulta o valor lógico FALSO.  IV. A execução da estrutura permanece em loop, se o teste da condição resulta o valor lógico VERDADEIRO.  V. O teste da condição é realizado no FINAL da estrutura.  VI. O teste da condição é realizado no INÍCIO da estrutura.  Assinale a alternativa em que há somente afirmativas válidas para a estrutura de controle conhecida por repita ... ate ... faça ...,,: 
+
+Alternativas:
+A. I, IV e VI
+B. I, III e V
+C. II, III e V
+D. II, III e VI
+E. II, IV e V

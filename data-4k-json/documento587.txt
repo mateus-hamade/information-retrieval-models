@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados
+
+Num banco de dados, com informações ordenadas por múltiplos índices, aplicou-se a técnica de organização
+
+Alternativas:
+A. invertida.
+B. indexada.
+C. relativa.
+D. tabular.
+E. chaveada.

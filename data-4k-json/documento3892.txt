@@ -1,0 +1,9 @@
+Sistemas Operacionais Cloud Computing
+
+Em computação em nuvem, os três principais modelos de serviço são 
+
+Alternativas:
+A. IaaS, CaaS, BaaS.
+B. IaaS, PaaS, SaaS.
+C. RaaS, FaaS, DaaS.
+D. SaaS, RaaS, DaaS.

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Certo documento possui 1 milhão de palavras não repetidas e foi editado em um editor de textos. Considerando que o editor de textos utiliza uma Árvore Binária de Busca − ABB de altura mínima para armazenar as palavras digitadas de forma a facilitar sua localização, para se localizar qualquer palavra nesta estrutura de dados serão necessárias, no máximo,
+
+Alternativas:
+A. 1 milhão de comparações.
+B. 20 comparações.
+C. 32 comparações.
+D. log101000000 comparações.
+E. 2 milhões de comparações.

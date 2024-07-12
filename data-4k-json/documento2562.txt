@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+No que diz respeito a algoritmos, analise as proposições a seguir: I. Algoritmo é uma sequência de procedimentos que são executados sequencialmente com o objetivo de resolver um problema específico. II. O comando CASE não deve ser utilizado caso já exista no programa um comando IF. III. Um algoritmo não representa, necessariamente, um programa de computador, e sim os passos necessários para realizar uma tarefa. IV. Diferentes algoritmos não podem realizar a mesma tarefa usando um conjunto diferenciado de instruções em mais ou menos tempo, espaço ou esforço do que outros. V. Serve como modelo para programas, pois sua linguagem é intermediária à linguagem humana e às linguagens de programação, funcionando como uma boa ferramenta na validação da lógica de tarefas a serem automatizadas. Estão CORRETAS as proposições
+
+Alternativas:
+A. I, IV e V.
+B. II, III e IV
+C. I, III e V.
+D. II, IV e V.
+E. I, II e III.

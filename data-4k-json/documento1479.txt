@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
+
+Analise a imagem de estrutura a seguir:     A imagem do diagrama mostra uma estrutura:   
+
+Alternativas:
+A. De repetição.
+B. Condicional.
+C. Circular.
+D. Rígida.
+E. Representacional.

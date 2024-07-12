@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Questão anulada Considere a árvore mostrada abaixo.     Qual alternativa indica a sequência correta de elementos visitados ao se realizar uma busca em profundidade pelo valor 11. 
+
+Alternativas:
+A. 2, 7, 5, 2, 6, 9, 5, 11
+B. 2, 7, 2, 6, 5, 11
+C. 2, 5, 9, 4, 7, 6, 11
+D. 2, 7, 6, 11

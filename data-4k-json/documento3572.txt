@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Texto associado Na implementação de um deque sequencial, é necessário ter, em cada extremidade, uma variável de ponteiro externa, por meio da qual as inserções e retiradas sejam efetuadas. 
+
+Alternativas:
+A. Certo
+B. Errado

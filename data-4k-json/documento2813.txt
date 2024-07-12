@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Fluxogramas
+
+Os algoritmos podem ser classificados em três tipos: gráficos, narrativos e de detalhes. São exemplos de algoritmos gráficos e algoritmos narrativos, respectivamente:
+
+Alternativas:
+A. gráficos de estrutura e tabela de decisão.
+B. árvore de decisão e portugol.
+C. fluxogramas e português estruturado.
+D. tabela de decisão e diagramas hierárquicos de fluxo.
+E. portugol e diagramas hierárquicos de fluxo.

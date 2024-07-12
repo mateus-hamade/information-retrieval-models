@@ -1,0 +1,10 @@
+Arquitetura de Computadores Hardware
+
+O analista Lucas está projetando um novo sistema computacional para uma aplicação de alta performance que requer um processamento de dados robusto e eficiente. Ao selecionar os componentes e definir a arquitetura do sistema, Lucas precisa considerar tanto aspectos de hardware quanto de software para garantir que o sistema atenda às exigências da aplicação.  Com base nos requisitos de desempenho e eficiência, a configuração do sistema computacional escolhido por Lucas é a que possui:
+
+Alternativas:
+A. um processador de única thread com alta frequência de clock para maximizar a velocidade de processamento de tarefas sequenciais;
+B. uma arquitetura de memória não volátil expressa (NVMe) para armazenamento, visando a acelerar as operações de leitura e escrita;
+C. um sistema operacional de código fonte fechado, por sua notória eficiência e otimização em máquinas de alta performance;
+D. uma GPU (Unidade de Processamento Gráfico) otimizada para cálculos de ponto flutuante, essencial para aplicações de processamento de dados e análises complexas;
+E. uma rede de interconexão de baixa latência e alta largura de banda para facilitar a comunicação entre múltiplos processadores e dispositivos de armazenamento.

@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Questão anulada A figura da árvore binária abaixo representa a expressão:    
+
+Alternativas:
+A. 2*A+B
+B. A+B*2
+C. (A+B)*2
+D. 2+A*B

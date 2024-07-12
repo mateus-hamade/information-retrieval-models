@@ -1,0 +1,10 @@
+Sistemas Operacionais Gerência de Memória , Sistemas Operacionais
+
+Existem duas estruturas básicas de alocação de memória, que são em espaços contíguos e em blocos. Avalie as seguintes afirmações a respeito dos espaços contíguos e em blocos:  I. A alocação de memória em espaços contíguos é o modelo mais simples de alocação, em que para o segmento ir para a memória, ele deve caber inteiro em um único trecho, com todos os seus bytes alocados de modo contínuo. II. A solução para o problema de fragmentação veio com a organização de espaços usada em discos. Ao dividir-se a memória em blocos de tamanho fixo, e permitir-se que um segmento seja quebrado em vários blocos, eliminou-se definitivamente a fragmentação externa, uma vez que um segmento apenas deixaria de ser carregado para a memória caso esta não tivesse blocos livres suficientes para o segmento (esse problema foi resolvido posteriormente com a introdução de paginação). III. O cálculo de memória e a otimização de acesso são processos realizados na estrutura de espaços contíguos. Além disso, o uso de memória alocada em espaços contíguos melhora significativamente o desempenho da memória.  Está(ão) correta(s) a(s) afirmativa(a):
+
+Alternativas:
+A. I, apenas.
+B. II, apenas
+C. III, apenas
+D. I e II, apenas.
+E. I, II e III.

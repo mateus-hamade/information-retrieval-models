@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados Relacionais
+
+Um sistema gerenciador de banco de dados relacional 
+
+Alternativas:
+A. é utilizado na análise de dados em múltiplas dimensões.
+B. organiza os dados em uma estrutura de árvore, em que cada nó pode ter vários filhos, mas apenas um pai.
+C. permite que se organizem dados em tabelas, que podem ser vinculadas entre si por meio de chaves primárias e estrangeiras.
+D. representa os dados por objetos, com suas propriedades e métodos.
+E. permite que cada registro seja acessado por diferentes caminhos, por meio de um sistema de nós interligados.

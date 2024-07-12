@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
+
+Em um sistema operacional, a estrutura de dados utilizada para organizar chamadas de funções recursivas por meio da inserção ou remoção de elementos via operações como push e pop é denominada
+
+Alternativas:
+A. lista estática.
+B. fila.
+C. hash.
+D. pilha.
+E. lista dinâmica.

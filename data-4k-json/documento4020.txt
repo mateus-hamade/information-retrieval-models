@@ -1,0 +1,10 @@
+Segurança da Informação Análise de Vulnerabilidade e Gestão de Riscos
+
+Uma fábrica de software está abrindo uma filial. A fim de identificar antecipadamente possíveis vulnerabilidades na arquitetura de suas aplicações, e seguindo orientações da matriz, ela está implementando o modelo de ameaças STRIDE. Para verificar a correta implementação, a matriz encaminhou um projeto para execução na filial. Esta identificou que a aplicação encaminhada fazia alterações em dados persistentes no banco de dados.  Na abordagem STRIDE, a filial está trabalhando na categoria:
+
+Alternativas:
+A. falsificação;
+B. elevação de privilégios;
+C. adulteração;
+D. divulgação de informações confidenciais;
+E. repúdio.

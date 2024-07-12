@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+Os métodos de ordenação são empregados para rearranjar um conjunto de objetos em uma ordem específica. Considere as seguintes proposições sobre esses métodos:     I. Um método de ordenação é dito estável se a ordem relativa dos itens com chaves iguais mantém-se inalterada pelo processo de ordenação.  II. A estabilidade de um método de ordenação é importante quando o conjunto de dados já está parcialmente ordenado.  III. Na ordenação interna, o número de registros a serem ordenados é pequeno o bastante para que todo o processo se desenvolva na memória interna (principal).  IV. Na ordenação externa, o número de registros a ser ordenado é maior do que o número que cabe na memória interna.     Assinale a alternativa CORRETA: 
+
+Alternativas:
+A. Somente as proposições I, II e III estão corretas.
+B. Somente as proposições I, II e IV estão corretas.
+C. Somente as proposições I, III e IV estão corretas.
+D. Somente as proposições II, III e IV estão corretas.

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Em um programa, foi encontrada a expressão lógica abaixo, na qual SEM-CUR é o número de semestres cursados pelo aluno, CRED é o número de créditos cursados, e IND é o índice de aproveitamento (em percentual). (CRED > 120) AND (IND NOT < 85) AND (SEM-CUR NOT < 8) OR (CRED > 120) AND (IND NOT < 85) AND (SEM-CUR < 8) OR (CRED NOT > 120) AND (IND NOT < 85) AND (SEM-CUR < 8) Qual das expressões abaixo manteria a mesma lógica, porém de forma mais simplificada? 
+
+Alternativas:
+A. (CRED > 120) AND (IND NOT < 85) OR (CRED NOT > 120) AND (SEM-CUR < 8)
+B. (IND NOT < 85) AND (SEM-CUR < 8) OR (CRED NOT > 120) AND (SEM-CUR < 8)
+C. (CRED > 120) AND (IND NOT < 85) OR (IND NOT < 85) AND (SEM-CUR < 8)
+D. (CRED NOT > 120) AND (SEM-CUR < 8) OR
+E. (IND NOT < 85) AND (SEM-CUR < 8) OR (CRED NOT > 120) AND (IND NOT < 85)

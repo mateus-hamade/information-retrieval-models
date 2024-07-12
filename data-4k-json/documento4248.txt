@@ -1,0 +1,10 @@
+Sistemas Operacionais Linux
+
+Considerando a autenticação de um usuário local em um sistema operacional Linux configurado com shadow passwords, informe o caminho completo para o arquivo que possui o nome do shell que será utilizado pelos usuário em uma sessão interativa através de um terminal de comando.
+
+Alternativas:
+A. /etc/profile
+B. /etc/passwd
+C. /etc/shadow
+D. /etc/gshadow
+E. /etc/users

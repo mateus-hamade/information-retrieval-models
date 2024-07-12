@@ -1,0 +1,9 @@
+Banco de Dados Banco de Dados , Modelo relacional
+
+Ao eliminar redundâncias e inconsistências, a normalização ajuda a manter a integridade dos dados, garantindo que não haja duplicação ou discrepâncias nos valores armazenados. Sobre os tipos de formas normais da normalização de dados, trata-se da Terceira Forma Normal (3FN) na normalização de dados:
+
+Alternativas:
+A. Eliminar dependências parciais.
+B. Eliminar dependências transitivas.
+C. Garantir que cada coluna em uma tabela contenha valores atômicos.
+D. Garantir que cada linha em uma tabela tenha uma chave primária única.

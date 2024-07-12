@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Autômatos
+
+Leia os itens contendo as expressões regulares que poderão ser associadas ao autômato da figura, conforme aquilo que a bibliografia adotada descreve sobre autômatos finitos e expressões regulares.     I) A expressão regular 0*1(1+00*1)* representa o automato da figura.  II) A expressão regular 0*1*1+11*0*1 representa o automato da figura.  III) A expressão regular (0+1)*1 representa o automato da figura.  Assinale somente a alternativa que apresenta todas as afirmativas CORRETAS.  
+
+Alternativas:
+A. Somente I e II
+B. Somente I e III
+C. Somente II
+D. Somente II e III
+E. Somente I

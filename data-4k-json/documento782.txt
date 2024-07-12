@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados
+
+Qual é a diferença entre normalização e desnormalização de dados?
+
+Alternativas:
+A. Normalização é o processo de otimização da estrutura dos dados para evitar redundâncias e inconsistências, enquanto a desnormalização é o processo de adicionar redundâncias propositalmente para melhorar o desempenho de consultas frequentes.
+B. Normalização é o processo de aumentar a redundância de dados para aumentar a segurança, enquanto a desnormalização é o processo de remover a redundância para economizar espaço de armazenamento.
+C. Normalização é o processo de agrupar dados relacionados em uma única tabela, enquanto a desnormalização é o processo de dividir dados relacionados em várias tabelas para melhorar a escalabilidade.
+D. Normalização é o processo de modificar a estrutura de dados para atender a requisitos específicos de aplicativos, enquanto a desnormalização é o processo de restaurar dados em uma estrutura original após um processo de normalização.
+E. Normalização e desnormalização são sinônimos que descrevem o processo de modificação de dados para atender a diferentes requisitos de aplicativos.

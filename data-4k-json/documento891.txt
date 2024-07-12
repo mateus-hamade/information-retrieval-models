@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados
+
+Qual o operador lógico OU em C# que retorna verdadeiro se uma ou ambas expressões forem verdadeiras?
+
+Alternativas:
+A. II
+B. !=
+C. <>
+D. =/
+E. []

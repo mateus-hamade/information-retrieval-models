@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
+
+Se os elementos X, Y, W, Z, nessa ordem, forem colocados em uma pilha e excluídos um de cada vez, eles serão removidos na ordem
+
+Alternativas:
+A. X, Y, W, Z.
+B. Y, Z, X, W.
+C. Z, W, Y, X.
+D. Z, X, Y, W.
+E. W, Y, X, Z.

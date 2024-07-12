@@ -1,0 +1,10 @@
+Banco de Dados DER - Diagrama de Entidade e Relacionamento
+
+A Figura a seguir exibe um modelo conceitual de dados por meio de um diagrama de classes UML.    Admita que as instâncias dessas classes sejam representadas por conjuntos não vazios e cujos nomes sejam iguais aos nomes das classes que representam.  Nessas condições, qual equação é sempre verdadeira?
+
+Alternativas:
+A. A = B1 U B2 U C
+B. B = A – C
+C. B ∩ C = Ø
+D. C = C1 U C2
+E. C1 = C – C2

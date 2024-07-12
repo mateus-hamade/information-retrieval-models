@@ -1,0 +1,10 @@
+Sistemas Operacionais Sistemas de arquivos , Linux
+
+Um administrador de sistemas está configurando um ambiente Linux para otimizar o desempenho do sistema de arquivos. Qual sistema de arquivos é mais adequado para um sistema Linux, levando em consideração a eficiência na manipulação de grandes volumes de dados e a confiabilidade?
+
+Alternativas:
+A. FAT32;
+B. NTFS;
+C. ext3;
+D. HFS+;
+E. XFS.

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos
+
+A ordenação é uma das questões mais importantes da ciência da computação. Em diversas situações é necessário ordenar uma lista, a fim de facilitar a busca de informações. Assinale a opção que indica o método de ordenação, que se baseia na estratégia de resolução de problemas conhecida como divisão e conquista.
+
+Alternativas:
+A. Bolha.
+B. Seleção.
+C. Inserção.
+D. Quicksort.
+E. Mergesort.

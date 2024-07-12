@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
+
+Analise as afirmativas a seguir sobre complexidade de algoritmos:     I. Algoritmos de complexidade O(n log n) resolvem um problema quebrando-o em problemas menores, resolvendo cada um deles independentemente e depois ajuntando as soluções.  II. Algoritmos de complexidade O(1) são chamados de complexidade linear, onde um pequeno trabalho é realizado sobre cada elemento de entrada.  III. Algoritmos de complexidade O(n) são chamados de complexidade constante, onde o tempo de execução cresce na mesma proporção do crescimento da estrutura de dados.     Estão CORRETAS as afirmativas: 
+
+Alternativas:
+A. I, apenas.
+B. I e II, apenas.
+C. II e III, apenas.
+D. I, II e III.

@@ -1,0 +1,9 @@
+Segurança da Informação Autoridade Certificadora (AC) , Autenticação , Assinatura Digital
+
+A assinatura digital é utilizada para garantir autenticidade, integridade e não repúdio de documentos eletrônicos. Considerando as características de assinatura digital, marque V para as afirmativas verdadeiras e F para as falsas.   ( ) Utiliza a criptografia assimétrica, onde o signatário usa sua chave privada para assinar digitalmente o documento. ( ) A validade de uma assinatura digital depende da integridade do certificado digital associado ao signatário. ( ) Garante que o documento não tenha sido alterado desde que foi assinado.   A sequência está correta em
+
+Alternativas:
+A. F, F, F.
+B. F, V, F.
+C. V, F, V.
+D. V, V, V.

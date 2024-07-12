@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
+
+Texto associado Para trabalhar com contadores, a estrutura de repetição Enquanto X... Processar permite que o bloco de operações seja executado enquanto a condição X for verdadeira.  
+
+Alternativas:
+A. Certo
+B. Errado

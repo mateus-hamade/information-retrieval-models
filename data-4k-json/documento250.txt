@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+Considere que um banco de dados foi criado para dar apoio à avaliação de instrumentos e políticas de gestão de trânsito no Brasil, nos últimos cinco anos. Os dados foram organizados e persistidos nas três seguintes tabelas, definidas de acordo com modelo relacional de dados: SINISTRO, com dados dos acidentes de trânsito; MUNICIPIO, com dados de municípios; e RODOVIA, com dados de rodovias estaduais e federais.  SINISTRO (cod-sinistro, data-e-hora, localizacao, cod-rodovia, cod-municipio, quantidade-de-vitimas) RODOVIA (cod-rodovia, nome, estadual-ou-federal) MUNICIPIO (cod-municipio, uf, quantidade-de-habitantes) Os atributos que formam as chaves primárias de cada tabela estão sublinhados. Na tabela SINISTRO, há duas chaves estrangeiras: cod-rodovia, que indica onde ocorreu o sinistro, caso ele tenha ocorrido em uma rodovia, e cod-municipio, que indica em que municipio ocorreu o sinistro. Nesse contexto, considere o seguinte comando SQL:  SELECT S.cod-rodovia, S.data-e-hora, quantidade-de-vitimas FROM SINISTRO S WHERE S.cod-rodovia IN (                SELECT R.cod-rodovia                FROM RODOVIA R                WHERE R.estadual-ou-federal = 'federal') AND EXISTS (              SELECT *              FROM MUNICIPIO M              WHERE M.cod-municipio = S.cod-municipio              AND M.quantidade-de-habitantes < 50000)  Os resultados produzidos pela execução desse comando apresentam o código da rodovia, a data e hora e a quantidade de vítimas de sinistros ocorridos em 
+
+Alternativas:
+A. rodovias federais que passam por municípios com menos de 50.000 habitantes.
+B. rodovias federais, em municípios com menos de 50.000 habitantes.
+C. rodovias federais que têm como origem ou destino municípios com menos de 50.000 habitantes.
+D. município com menos de 50.000 habitantes ou em rodovias federais.
+E. município com menos de 50.000 habitantes com duas ou mais rodovias federais.

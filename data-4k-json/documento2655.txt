@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Vetores
+
+Escolha a assertiva que contenha somente funções para realizar operações em arrays.
+
+Alternativas:
+A. array_keys, array_map, array_push, array_pop.
+B. array_count, user_sort, uksort, range.
+C. count, natsort, strpos, prev.
+D. key, list, array_diff, fill.
+E. array_intersect_key, array_map, flip, keys.

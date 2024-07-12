@@ -1,0 +1,9 @@
+Segurança da Informação Firewall em Segurança da Informação
+
+Firewall é um exemplo de segurança lógica, uma medida essencial para proteger redes de computadores contra ameaças cibernéticas. Essa ferramenta é responsável por monitorar e controlar o tráfego de dados, permitindo ou bloqueando o acesso com base em regras predefinidas. O que um firewall de inspeção de estado (stateful firewall) faz para aumentar a segurança?
+
+Alternativas:
+A. Bloqueia todas as conexões de entrada e saída da rede.
+B. Filtra o tráfego com base apenas nos endereços IP de origem.
+C. Analisa o conteúdo dos pacotes de dados em busca de ameaças conhecidas.
+D. Mantém um registro do estado das conexões de rede e permite apenas o tráfego autorizado.

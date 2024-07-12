@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
+
+Texto associado Considerando-se a estrutura de controle apresentada a seguir, é correto afirmar que a média será calculada até que a condição se torne falsa.   
+
+Alternativas:
+A. Certo
+B. Errado

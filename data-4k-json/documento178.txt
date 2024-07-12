@@ -1,0 +1,9 @@
+Banco de Dados DER - Diagrama de Entidade e Relacionamento
+
+Texto associado  Os losangos na figura representam: 
+
+Alternativas:
+A. Entidades.
+B. Atributos.
+C. Relacionamentos.
+D. Especialização.

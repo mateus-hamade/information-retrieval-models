@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Texto associado A abstração é processo em que o algoritmo identifica as propriedades relevantes do fenômeno que está sendo modelado. Ao se empregar um modelo abstrato, centra-se unicamente nas propriedades relevantes de cada operador, conforme a finalidade da abstração, desconsiderando-se as propriedades irrelevantes.  
+
+Alternativas:
+A. Certo
+B. Errado

@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
+
+Texto associado O comando while utilizado em algoritmos implementa laços com teste antecipado de condições, testando a condição e, sendo ela verdadeira, executando o bloco de comandos.  
+
+Alternativas:
+A. Certo
+B. Errado

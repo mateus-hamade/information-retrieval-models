@@ -1,0 +1,9 @@
+Banco de Dados PostgreSQL
+
+A vantagem de usar prepared statements na linguagem PHP em conjunto com o PostgreSQL é
+
+Alternativas:
+A. acelerar o processamento de consultas complexas no PostgreSQL.
+B. simplificar a sintaxe SQL necessária para executar consultas no PostgreSQL.
+C. evitar ataques de injeção de SQL aumentando a segurança das consultas.
+D. permitir o uso de recursos avançados de autenticação e autorização do PostgreSQL.

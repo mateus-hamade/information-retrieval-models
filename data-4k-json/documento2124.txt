@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+A árvore de pesquisa que busca melhorar a eficiência das operações, tal que os nós mais frequentemente acessados são mantidos na parte superior da árvore, é denominada árvore
+
+Alternativas:
+A. ordenada
+B. B
+C. rubro-negra
+D. splay.

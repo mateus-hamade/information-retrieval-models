@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados
+
+Segundo Farrer (1999), em relação às variáveis compostas, é correto afirmar que: 
+
+Alternativas:
+A. variáveis compostas homogêneas correspondem a posições de memória, identificadas por um mesmo nome, individualizadas por índices e cujo conteúdo é de mesmo tipo.
+B. variáveis compostas unidimensionais são conjuntos de dados referenciados por um mesmo nome e que necessitam de vários índices para que seus elementos sejam endereçados.
+C. variáveis compostas heterogêneas são conjuntos de dados logicamente relacionados e cujo conteúdo é de mesmo tipo.
+D. variáveis compostas bidimensionais necessitam de dois índices para individualização de seus elementos. Utilizados para manipular matrizes e tabelas, sendo o primeiro índice para reapresentar o número da coluna e o segundo, o número da linha.
+E. variáveis compostas homogêneas são conjuntos. de dados referenciados por um mesmo nome e que necessitam de somente um índice para que seus elementos sejam endereçados.

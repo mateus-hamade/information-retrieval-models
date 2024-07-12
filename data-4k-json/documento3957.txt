@@ -1,0 +1,9 @@
+Segurança da Informação Autenticação , Auditoria de Sistemas
+
+O elemento que faz parte do processo de garantia da segurança dos sistemas de informação é: 
+
+Alternativas:
+A. auditoria de permissões
+B. aplicação de métodos ágeis
+C. desenvolvimento de software
+D. seleção de recursos humanos

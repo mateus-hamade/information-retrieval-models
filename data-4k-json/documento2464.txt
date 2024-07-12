@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+Quanto aos conceitos básicos de Estruturas de Dados, analise as afirmativas abaixo, dê valores Verdadeiro (V) ou Falso (F) e assinale a alternativa que apresenta a sequência correta de cima para baixo.     ( ) Uma pilha é uma estrutura de dados baseado no princípio de Last In First Out (LIFO).  ( ) As filas são fundamentalmente compostas por duas operações básicas: push e pop. 
+
+Alternativas:
+A. V - V
+B. V - F
+C. F - V
+D. F - F

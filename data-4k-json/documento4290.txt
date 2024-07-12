@@ -1,0 +1,10 @@
+Engenharia de Software Engenharia de Requisitos
+
+   A figura precedente ilustra um processo de elicitação e análise de requisitos. Em relação a esse processo, a técnica casos de uso
+
+Alternativas:
+A. poderia ser utilizada na Priorização e negociação de requisitos, mas somente se o sistema for orientado a objetos, pois, nesse caso, haveria a especificação de cada caso de uso.
+B. seria uma atividade do processo Descoberta de requisitos.
+C. não estaria relacionada ao referido processo, pois, como o processo é um diagrama da UML, a técnica seria utilizada somente ao final do processo para a documentação do projeto.
+D. está mais relacionada à Especificação de requisitos, uma vez que nela podem ser detalhadas as iterações do sistema.
+E. seria melhor classificada, por envolver a descrição de quem são os atores do sistema, como uma atividade da Priorização e negociação de requisitos, uma vez que envolve a definição de papéis.

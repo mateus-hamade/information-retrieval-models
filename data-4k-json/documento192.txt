@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados
+
+No contexto de Qualidade de Dados, o auditor de contas públicas João deverá analisar a consistência dos dados da base de dados AUD_CONTAS identificando variações sobre os valores dos atributos, como:  • 30% das entradas de dados na coluna CD_FUNCIONARIO estão marcadas com o caractere “espaço” • existem 200 linhas na tabela TBL_PROCESSO contendo dados sobre processos sem nenhuma linha contendo os seus detalhes  Para isso, a técnica de diagnóstico sobre a qualidade de dados que João deverá utilizar é: 
+
+Alternativas:
+A. profiling;
+B. matching;
+C. deduplicação;
+D. data cleansing;
+E. enriquecimento.

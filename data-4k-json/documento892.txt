@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados Relacionais
+
+Analise as afirmativas abaixo sobre o modelo relacional. 1. Cada valor em uma tupla é um valor atômico; isto é, não divisível em componentes no contexto arcabouço do modelo relacional básico. 2. Restrições inerentes ao modelo de dados são denominadas restrições explícitas. 3. Restrições que podem ser expressas no esquema do modelo de dados, via DDL, são denominadas restrições implícitas. Assinale a alternativa que indica todas as afirmativas corretas. 
+
+Alternativas:
+A. É correta apenas a afirmativa 1.
+B. São corretas apenas as afirmativas 1 e 2.
+C. São corretas apenas as afirmativas 1 e 3.
+D. São corretas apenas as afirmativas 2 e 3.
+E. São corretas as afirmativas 1, 2 e 3.

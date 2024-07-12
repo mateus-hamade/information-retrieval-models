@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Filas , Listas ( assuntos)
+
+Considere a seguinte definição de um determinado tipo de estrutura de dados: “tipo abstrato de dados que armazena elementos de maneira hierárquica. Com exceção do elemento do topo, cada elemento da estrutura tem um elemento pai e zero ou mais elementos filhos” (GOODRICH; TAMASSIA, 2007, p. 247). Tal definição se aplica a:
+
+Alternativas:
+A. filas
+B. listas
+C. pilhas
+D. árvores

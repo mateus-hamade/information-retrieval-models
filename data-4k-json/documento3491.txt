@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Recursividade
+
+Um método que, para ser aplicado a uma estrutura, envolve a aplicação dele mesmo às subestruturas componentes, é chamado de 
+
+Alternativas:
+A. Autorrelacionamento.
+B. Descritor
+C. Ponteiro.
+D. Recursividade.

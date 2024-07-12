@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Tipos de Dados , Estrutura de Dados ( assuntos)
+
+A respeito de tipo abstrato de dados (TAD) e de operações sobre estruturas, julgue os itens seguintes.   É impossível implementar uma estrutura de dados tipo pilha como um TAD, visto que a pilha consiste em um dado do tipo primitivo.  
+
+Alternativas:
+A. Certo
+B. Errado

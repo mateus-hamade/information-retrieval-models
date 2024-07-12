@@ -1,0 +1,10 @@
+Sistemas Operacionais Gerência de Memória , Virtualização , Sistemas Operacionais
+
+Assinale a única alternativa que preenche corretamente as lacunas em branco. Desse modo, o gerenciamento de memória se ocupa, fundamentalmente, do controle de quais dados vão para a memória, de que forma são armazenados nela e como podem ser acessados. Isso envolve atividades de _________________ em que se mapeia endereços de disco para endereços de memória, de _________________, em que se determina quais espaços serão ocupados por quem, e de _________________, em que se amplia o conceito de memória principal para um tamanho infinito. Trataremos cada um desses pontos a seguir, fechando o capítulo com um estudo de como características de gerenciamento de memória e processos influenciam no desempenho de um sistema. 
+
+Alternativas:
+A. alocação, memória virtual, endereçamento
+B. alocação, memória virtual, blocos
+C. endereçamento, alocação, memória virtual
+D. endereçamento, memória virtual, alocação
+E. cache, memória virtual, bloco

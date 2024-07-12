@@ -1,0 +1,10 @@
+Banco de Dados SGBD - Sistema de Gerenciamento de Banco de Dados
+
+Existe uma cláusula do comando SELECT, considerando os SGBDs MariaDB e PostgreSQL, cujo resultado das funções de agregação pode ser utilizado em condições para filtragem de registros. Qual é essa cláusula? 
+
+Alternativas:
+A. ORDER BY.
+B. FROM.
+C. GROUPBY.
+D. HAVING.
+E. WHERE.

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação , Tipos de Dados
+
+Certa cadeia de caracteres (string) não vazia tem comprimento X e contém uma frase em português constituída apenas por letras (acentuadas ou não), dígitos e os sinais comuns de pontuação. Se codificada segundo o padrão ISO-8859-1 (Latin-1), esta cadeia requer X bytes para sua representação; se codificada em UTF-8, são necessários X+1 bytes, ou seja, um byte a mais em relação à representação ISO-8859-1. É correto afirmar que o byte adicional:
+
+Alternativas:
+A. ocorre no final da representação UTF-8 e contém um código de redundância (do tipo CRC), que permite detectar se há erros de representação na cadeia;
+B. ocorre no final da representação UTF-8 e contém o valor 0 (zero), funcionando como terminador da cadeia;
+C. pode ocorrer em qualquer posição na representação em UTF-8 e sugere a presença de caracteres acentuados na cadeia;
+D. ocorre no início da representação em UTF-8 e armazena o tamanho da mesma (no caso, o valor X);
+E. ocorre no início da representação UTF-8 e destina-se a indicar o tipo de representação usada (no caso, conterá o valor 1, indicando UTF-8).

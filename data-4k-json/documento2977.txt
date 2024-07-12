@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Analise o algoritmo abaixo que visa obter a matriz transposta (AT) de uma matriz lida (A), isto é, obter para todos os elementos de AT a seguinte igualdade AT[I,J]=A[J,I].    Assinale a alternativa CORRETA:
+
+Alternativas:
+A. Ao término da execução do algoritmo, a matriz AT conterá a matriz transposta de A.
+B. O algoritmo está errado. Ele gera em AT uma matriz diferente da matriz transposta de A.
+C. O algoritmo está certo. Contudo, não está lendo a matriz AT, impossibilitando a sua manipulação.
+D. O algoritmo está errado. Ele deve obrigatoriamente ler a matriz A no primeiro par de laços e em outro par de laços calcular a transposta em AT.

@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados Relacionais
+
+O administrador de banco de dados do TJSE deverá projetar um banco de dados relacional para armazenar dados, oriundos do novo sistema de gestão de processos. O banco de dados armazenará dados sobre processos, autor, advogado, ocorrência, tipo da ação, município, situação, dentre outros.  Para atender esses requisitos, o administrador deverá criar um banco de dados:
+
+Alternativas:
+A. com uma única tabela para armazenar todos os dados;
+B. separado para cada tabela, distribuindo os dados entre os bancos de dados;
+C. com um esquema lógico das tabelas relacionadas, sem definir as chaves estrangeiras;
+D. com todas as tabelas desnormalizadas para reduzir a redundância de dados;
+E. com um esquema lógico das tabelas relacionadas, mantendo a integridade referencial.

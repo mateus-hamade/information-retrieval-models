@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Estrutura de Dados ( assuntos)
+
+A pilha P e a fila F possuem originalmente n elementos cada (n>5), e suas operações são:              empilha(P, elemento): inserir elemento na pilha P;          desempilha(P): remover da pilha P e retornar o elemento removido;          enfileira(F, elemento): inserir elemento na fila F;          desenfileira(F), remover da fila F e retornar o elemento removido.           Seja o pseudocódigo abaixo:          para i = 1 até n, faça              empilha(P, desempilha(P))              enfileira(F, desenfileira(F))          fim-para      Ao final da execução do pseudocódigo, os estados finais de P e F são, respectivamente:   
+
+Alternativas:
+A. elementos em ordem original e elementos em ordem original.
+B. elementos em ordem inversa e elementos em ordem inversa.
+C. elementos em ordem original e elementos em ordem inversa.
+D. elementos em ordem inversa e elementos em ordem original.

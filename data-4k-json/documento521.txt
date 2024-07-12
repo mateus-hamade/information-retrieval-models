@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+Texto associado Ainda considerando que o script SQL apresentado esteja sintaticamente correto, julgue os itens seguintes. I O comando da linha 22, se executado novamente após a execução do script, provocará erro de violação de restrição de integridade referencial. II A consulta da linha 24 retornará um resultado contendo 4 linhas. III A consulta das linhas 25 e 26 retornará um resultado contendo 2 linhas e 2 colunas, em que a coluna “nome” sempre apresenta o valor 2. IV A consulta das linhas de 27 a 29 retornará um resultado vazio. V O comando da linha 33, se removido da sua posição atual e inserido entre os comandos das linhas 13 e 14, provocaria uma diferença relevante no tempo de execução do script. Estão certos apenas os itens
+
+Alternativas:
+A. I e II.
+B. I e V.
+C. II e III.
+D. III e IV.
+E. IV e V.

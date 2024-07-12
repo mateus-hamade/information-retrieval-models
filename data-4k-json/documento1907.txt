@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Observe o algoritmo abaixo:     Após a execução, esse algoritmo irá gerar a seguinte sequência de números: 
+
+Alternativas:
+A. 12 11 10 14 15 16.
+B. 14 12 16 11 18 10.
+C. 12 14 11 15 10 16.
+D. 14 15 16 12 11 10.
+E. 12 16 14 10 15 11.

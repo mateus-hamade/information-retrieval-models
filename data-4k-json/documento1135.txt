@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
+
+“A pilha implementa o conceito de Primeiro a Entrar será o Último a Sair. O último elemento a ser inserido na pilha é o primeiro a ser removido, enquanto o primeiro a ser inserido é o último que sai”. Baseado na afirmativa sobre estrutura de dados, assinale a alternativa que contém na sigla correta para a afirmativa: 
+
+Alternativas:
+A. LIFO.
+B. MIFO.
+C. NIFO.
+D. PIFO.
+E. FIFO.

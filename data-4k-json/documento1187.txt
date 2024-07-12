@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
+
+Estruturas de dados são constantemente utilizadas em algoritmos para resolução de problemas, desde os mais simples aos mais complexos, desta forma, estrutura de dados utiliza o princípio “Último a entrar, primeiro a sair”(LIFO): 
+
+Alternativas:
+A. Fila
+B. Lista Encadeada
+C. Pilha
+D. Árvore

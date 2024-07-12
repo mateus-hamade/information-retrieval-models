@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Recursividade , Estrutura de Dados ( assuntos)
+
+Texto associado Ambas as funções recebem como parâmetro um ponteiro para uma estrutura tipoNo e são recursivas.
+
+Alternativas:
+A. Certo
+B. Errado

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Assim como na matemática, em programação os operadores possuem precedência uns em relação aos outros. Selecione a alternativa que mostra o operador com a precedência de maior prioridade.
+
+Alternativas:
+A. Multiplicação (*)
+B. Maior ou igual (>=)
+C. Soma (+)
+D. - (menos unário), operador Não
+E. Subtração (-)

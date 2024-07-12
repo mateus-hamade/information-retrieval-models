@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+O algoritmo de ordenação onde cada elemento é comparado com o seu posterior e/ou invertidas as posições, sucessivamente, até que a série esteja ordenada é chamado de:
+
+Alternativas:
+A. selection sort.
+B. inserction sort.
+C. bubble sort.
+D. quick sort.
+E. random sort.

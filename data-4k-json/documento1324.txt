@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos
+
+x = [1, 2, 3, 2, 1] m1 = 0 para (i = 1; i < 5; i = i + 1)          m2 = i          se (x[m1] < x[m2])                  m1 = m2           fim se   fim para imprime(m1) No pseudocódigo precedente, a função imprime(m1) mostrará, em tela, o valor 
+
+Alternativas:
+A. 0.
+B. 1.
+C. 2.
+D. 3.
+E. 4.

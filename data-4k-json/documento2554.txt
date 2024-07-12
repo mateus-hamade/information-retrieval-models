@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
+
+Leia as afirmativas a seguir a respeito das principais classes de comportamento assintótico. I) A complexidade logarítmica é típica de algoritmos que resolvem problemas, transformando-os em problemas menores e depois agrupando as soluções dos problemas menores. II) A complexidade quadrática é típica de algoritmos onde os dados são processados ao pares muitas vezes com um anel dentro de outro. III) Um algoritmo com complexidade exponencial é mais rápido que um algoritmo linear. IV) Um algoritmo com complexidade n! (n fatorial) apresenta um comportamento pior que um algoritmo com complexidade 2n . V) A complexidade do algoritmo de pesquisa binária é logarítmica. Assinale a alternativa que apresenta somente as afirmativas CORRETAS.
+
+Alternativas:
+A. I, II, IV, V.
+B. I, II, III, IV.
+C. I, II, III, V.
+D. II, III, IV, V.
+E. II, IV, V.

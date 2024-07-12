@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Observe a árvore binária:        Considere as afirmativas a seguir.     I → Os nós 6 e 8 são irmãos.  II → O nó 4 é uma das raízes da árvore.  III → O nó com valor 3, ao ser inserido, ocuparia a posição iv.  IV → O nó com valor 1, ao ser inserido, ocuparia a posição i.     Está(ão) correta(s)  
+
+Alternativas:
+A. apenas III.
+B. apenas I e IV.
+C. apenas II e III.
+D. apenas I, II e IV.
+E. I, II, III e IV.

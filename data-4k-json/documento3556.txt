@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Filas
+
+Uma fila é um tipo de lista linear em que
+
+Alternativas:
+A. as inserções são realizadas em um extremo e as remoções no outro extremo.
+B. as inserções e remoções são realizadas em um mesmo extremo.
+C. podem ser realizadas apenas inserções.
+D. a inserção de um elemento requer a remoção de outro elemento.
+E. a ordem de saída não corresponde à ordem de entrada dos elementos.

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Listas
+
+Um dos exemplos de estrutura de dados é a lista encadeada simples. Com relação a esse tipo de lista, é correto afirmar:
+
+Alternativas:
+A. Possui a característica de que o último elemento da lista possui um ponteiro para o primeiro elemento da lista.
+B. É necessário definir o seu tamanho no momento da sua criação, pois se trata de uma estrutura de dados estática.
+C. Quando essa estrutura é utilizada, os elementos da lista sempre estarão armazenados sequencialmente na memória física.
+D. Na inserção de um novo elemento, é necessário realizar a atualização dos ponteiros dos elementos envolvidos, não sendo necessário realizar o deslocamento físico dos elementos.
+E. Na recuperação de qualquer elemento da lista, não é necessário percorrer os outros elementos. Dessa forma, o elemento buscado é acessado diretamente na posição onde se encontra.

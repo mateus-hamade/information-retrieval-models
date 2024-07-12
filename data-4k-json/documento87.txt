@@ -1,0 +1,9 @@
+Banco de Dados SQL
+
+Considerando-se a existência de uma tabela denominada FUNCIONARIOS, com os seguintes campos NOME, TELEFONE, CPF e CEP, assinale a alternativa que apresenta a sintaxe correta para listar todos os nomes dos funcionários, em que o CEP seja 30140787 em ordem crescente. 
+
+Alternativas:
+A. SELECT  *  FROM FUNCIONARIOS WHERE CEP=30140787 ORDER BY CEP DESC
+B. SELECT NOME FROM FUNCIONARIOS WHERE CEP=30140787 ORDER BY CEP
+C. SELECT NOME FROM FUNCIONARIOS WHERE CEP=30140787 ORDER BY CEP DESC
+D. SELECT * FROM FUNCIONARIOS WHERE CEP==30140787 ORDER BY CEP

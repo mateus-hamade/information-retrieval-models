@@ -1,0 +1,10 @@
+Engenharia de Software Orientação a Objetos , UML
+
+Qual das seguintes opções representa um método de modelagem na Análise Orientada a Objetos?
+
+Alternativas:
+A. Processos;
+B. Vetores;
+C. Diagramas UML2;
+D. Firewall;
+E. Hierarquia.

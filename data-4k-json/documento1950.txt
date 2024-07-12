@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Texto associado  Após a execução do programa, os valores de SA e SB serão, respectivamente,     
+
+Alternativas:
+A. 42 e 42.
+B. 42 e 83.
+C. 44 e 36.
+D. 44 e 44.
+E. 44 e 83.

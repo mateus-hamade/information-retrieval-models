@@ -1,0 +1,9 @@
+Banco de Dados DW - Data Warehouse
+
+Sobre Data Warehouse, assinale a afirmativa correta.
+
+Alternativas:
+A. É um repositório de dados integrados, consolidados e possivelmente estruturados no tempo (dados históricos).
+B. É uma coleção de procedimentos e mecanismos para recuperação, armazenamento e manipulação de bancos de dados.
+C. Trata-se de um depósito de dados designado para a análise de dados em formato parcialmente estruturado ou não estruturado.
+D. Refere-se a um repositório de dados, devidamente agregados e resumidos, com o objetivo de atender a interesses de uma área de negócios específica de uma organização.

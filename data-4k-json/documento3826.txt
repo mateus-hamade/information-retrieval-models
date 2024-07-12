@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Texto associado  Se na linha "leia MAT[1, 1]...MAT[3, 4]" forem fornecidos os valores da planilha abaixo,  qual será o valor da variável "T" na linha "escreva T"? 
+
+Alternativas:
+A. 24
+B. 18
+C. 6
+D. -14
+E. -16

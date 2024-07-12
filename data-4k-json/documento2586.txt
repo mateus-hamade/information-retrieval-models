@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Analise o seguinte algoritmo programa_ matriz escrito em portugol.  Sobre o algoritmo programa_matriz, é correto afirmar que 
+
+Alternativas:
+A. as variáveis declaradas i e j têm a função de acumuladores e somam todos os valores armazenados nas posições [i,j] da matriz.
+B. a estrutura “para...até...faça” é um laço de repetição utilizado, quando necessário, para fazer iterações em um determinado trecho do código.
+C. o algoritmo imprime em tela todos os valores do resultado da leitura da matriz “mat”.
+D. a iteração da variável “j” percorre até o décimo elemento da matriz.
+E. a iteração da variável “i” percorre até o quinto elemento da matriz.

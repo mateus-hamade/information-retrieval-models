@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+A estrutura de dados formada por vários elementos do mesmo tipo que podem ser acessados por meio do uso de um índice é o(a) 
+
+Alternativas:
+A. pilha.
+B. fila.
+C. inteiro.
+D. array.
+E. lista encadeada.

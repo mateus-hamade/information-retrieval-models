@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados Relacionais
+
+Como relacionamentos do tipo 1 para n (1:N) podem ser implementados em bancos de dados relacionais? 1. Utilizando Triggers 2. Utilizando chaves estrangeiras 3. Utilizando relações de relacionamentos Assinale a alternativa que indica todas as afirmativas corretas.
+
+Alternativas:
+A. É correta apenas a afirmativa 2.
+B. São corretas apenas as afirmativas 1 e 2.
+C. São corretas apenas as afirmativas 1 e 3.
+D. São corretas apenas as afirmativas 2 e 3.
+E. São corretas as afirmativas 1, 2 e 3.

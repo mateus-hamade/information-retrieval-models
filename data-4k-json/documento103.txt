@@ -1,0 +1,10 @@
+Banco de Dados PL-SQL
+
+Considerando-se que determinada empresa possui vários tipos de banco de dados para armazenamentos de dados estruturais, é correto afirmar que a linguagem SQL, nesse caso, tem a finalidade de 
+
+Alternativas:
+A. desenvolver aplicações baseadas na linguagem Java.
+B. realizar cálculos matemáticos simples e complexos.
+C. gerenciar sistemas operacionais.
+D. desenvolver aplicativos para dispositivos móveis.
+E. manipular dados em banco de dados.

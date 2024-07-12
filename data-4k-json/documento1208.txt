@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Vetores
+
+Acerca de estrutura de dados e algoritmos, julgue o item a seguir.     A passagem de um vetor por valor é mais eficiente que a passagem por parâmetro, considerando aspectos de tempo de processamento e espaço em memória, estando ambas as situações sob as mesmas condições de recursos.   
+
+Alternativas:
+A. Certo
+B. Errado

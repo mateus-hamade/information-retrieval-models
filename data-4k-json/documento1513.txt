@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+A respeito dos conceitos de função e avaliação de expressões, julgue o item subsequente.      As funções com operações modificadoras são funções que alteram um conjunto de dados.  
+
+Alternativas:
+A. Certo
+B. Errado

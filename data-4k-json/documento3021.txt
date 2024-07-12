@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
+
+        Um sistema de controle distribui os processos para os juízes de um tribunal utilizando critérios de prioridade associados a cada processo, de modo que novos processos podem ser analisados pelos juízes enquanto outros aguardam análise.  Considerando essas informações, julgue os itens a seguir, acerca dos tipos básicos de estruturas de dados e de operações sobre estruturas de dados.  Caso a implementação seja realizada por meio de max-heap, a operação de remoção de processos de maior prioridade levará um tempo de ordem O(log n).
+
+Alternativas:
+A. Certo
+B. Errado

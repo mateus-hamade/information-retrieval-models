@@ -1,0 +1,10 @@
+Banco de Dados DW - Data Warehouse
+
+O componente do data warehouse que armazena os dados quantitativos como métricas e as chaves estrangeiras (foreign keys) é denominado 
+
+Alternativas:
+A. OLAP.
+B. tabela fato.
+C. chave primária.
+D. ETL.
+E. tabela dimensão.

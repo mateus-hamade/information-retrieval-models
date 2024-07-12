@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+O que é uma política de retenção de backup? 
+
+Alternativas:
+A. Uma política que define a frequência com que os backups devem ser executados.
+B. Uma política que especifica a quantidade máxima de dados que podem ser incluídos em um único backup.
+C. Uma política que determina o período de tempo pelo qual os backups devem ser mantidos.
+D. Uma política que estabelece as diretrizes para a escolha do local de armazenamento dos backups.
+E. Uma política que garante que os backups sejam realizados em diferentes dispositivos de armazenamento.

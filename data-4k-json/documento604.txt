@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+Com relação ao banco de dados NoSQL orientado a colunas, assinale a opção correta.
+
+Alternativas:
+A. As operações de leitura são atômicas, enquanto as de escrita não são atômicas.
+B. O banco de dados NoSQL orientado a colunas garante alta disponibilidade.
+C. Diferentemente do modelo relacional, um banco de dados NoSQL não permite agrupar colunas que armazenam o mesmo tipo de dados.
+D. Diferentemente dos outros tipos de banco de dados NoSQL, o orientado a colunas não permite particionamento dos dados.
+E. Nesse banco de dados, os dados são indexados por uma tripla (linha, coluna e timestamp).

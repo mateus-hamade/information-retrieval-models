@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Busca , Estrutura de Dados ( assuntos)
+
+Texto associado O algoritmo em apreço realiza a pesquisa em um vetor de tamanho n - 1, realizando n comparações nos elementos do vetor, no melhor caso. 
+
+Alternativas:
+A. Certo
+B. Errado

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Texto associado Suponha que, para o algoritmo apresentado, os valores lidos para m e n tenham sido, respectivamente, 8 e 5. Assinale a alternativa que apresenta o valor de x impresso ao final do programa.
+
+Alternativas:
+A. 20
+B. 36
+C. 48
+D. 68
+E. 100

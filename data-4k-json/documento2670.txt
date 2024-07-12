@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Acerca de linguagens de programação, julgue o item seguinte.     As estruturas do tipo árvore são usadas, principalmente, para representar dados com uma relação plana entre seus elementos. 
+
+Alternativas:
+A. Certo
+B. Errado

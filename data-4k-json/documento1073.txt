@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos
+
+Em relação ao aprendizado supervisionado, ao algoritmo random forest (floresta aleatória) e a overfitting e underfitting, julgue o seguinte item.      O algoritmo random forest atribui a mesma importância para todas as variáveis ao fazer as predições.           
+
+Alternativas:
+A. Certo
+B. Errado

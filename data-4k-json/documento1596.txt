@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Fluxogramas
+
+   De acordo com o fluxo do processo descrito na figura apresentada, é correto afirmar que  
+
+Alternativas:
+A. #1 indica um gateway paralelo que produz dois fluxos a serem executados paralelamente, ou seja, a tarefa #2 será realizada concomitantemente às tarefas #4 e #5.
+B. “escrever artigo”, “selecionar imagens” e “tratar imagens” são atividades mutuamente exclusivas, ou seja, #1 é um gateway que representa que apenas um dos caminhos criados a partir dele será seguido.
+C. #1 indica um gateway inclusivo, por meio do qual se avalia a condição relacionada, em que #2 pode ser executada juntamente com #4 e #5.
+D. #3 indica que os caminhos advindos de #5 e #2 convergem a ele, em que o primeiro a chegar dará continuidade ao fluxo do processo para “realizar diagramação”.

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Sejam [3, 1, 2, 7, 5, 4, 6], [3, 1, 2, 6, 4, 5, 7] e [4, 2, 1, 3, 6, 5, 7] as sequências produzidas pelo percurso em pré-ordem das árvores binárias de busca T1, T2 e T3, respectivamente, é correto afirmar que é(são) árvore(s) balanceada(s) do tipo AVL (Adelson-Velski e Landis)
+
+Alternativas:
+A. T1.
+B. T1 e T2.
+C. T1 e T3.
+D. T2 e T3.
+E. T1, T2 e T3.

@@ -1,0 +1,10 @@
+Sistemas Operacionais Sistemas de arquivos , Comandos
+
+Subversion é um projeto open-source da fundação Apache que mantém um registro de todas as mudanças já realizadas e permite que um usuário explore as versões anteriores de arquivos e diretórios, bem como os metadados que os acompanham. O comando que exibe os detalhes do histórico de mudanças de um arquivo é o 
+
+Alternativas:
+A. cat.
+B. hist.
+C. list.
+D. diff.
+E. annot.

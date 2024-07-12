@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Tipos de Dados , Estrutura de Dados
+
+Com relação às características de dados semiestruturados, analise as afirmativas a seguir.     I. Os esquemas de dados semiestruturados são usualmente definidos após a existência dos dados, tendo como base uma investigação de suas estruturas particulares e da análise de diferenças e similaridades. No entanto, isto não significa que sempre existirá um esquema associado a um dado semiestruturado.  II. Devido à natureza evolucionária e regular dos dados semiestruturados, as estruturas de representação implícitas ou explícitas restringem-se a descrever o estado corrente de poucas ocorrências de dados similares. Dessa forma, é possível prescrever esquemas completos existindo poucas restrições de integridade com relação à semântica dos atributos.  III. Como a estrutura está embutida na descrição dos dados, muitas vezes não é clara a distinção lógica entre a estrutura e o conteúdo. Por exemplo, um endereço representado como um valor atômico em uma ocorrência de dado ou como um tipo pré-definido pelo usuário (com atributos rua, número e complemento) em outra ocorrência. Esta característica dificulta o projeto de banco de dados relacional para tais dados.     Está correto o que se afirma em 
+
+Alternativas:
+A. I, apenas.
+B. II, apenas.
+C. III, apenas.
+D. I e II, apenas.
+E. I e III, apenas.

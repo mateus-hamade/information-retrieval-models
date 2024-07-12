@@ -1,0 +1,9 @@
+Banco de Dados OLTP
+
+Das características do Online Transaction Processing (OLTP), destaca-se que ele
+
+Alternativas:
+A. requer tempos de resposta extremamente rápidos.
+B. necessita de backups de banco de dados com menor frequência.
+C. impõe tempos de resposta mais curtos em comparação com o OLAP.
+D. envolve cargas de trabalho que demandam muitas operações de leitura.

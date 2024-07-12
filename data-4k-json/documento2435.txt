@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Texto associado O algoritmo apresentado no texto 10A1AAA realiza, entre as linhas 7 e 12, o
+
+Alternativas:
+A. somatório dos valores dos dígitos parciais, a partir dos valores de cada uma das posições de um vetor.
+B. preenchimento de um vetor com os valores de cada um dos dígitos do código de barras lido.
+C. preenchimento de um vetor com os somatórios das parcelas das posições ímpares do código de barras lido.
+D. cálculo do dígito verificador a partir das parcelas somatórias extraídas do código de barras lido.

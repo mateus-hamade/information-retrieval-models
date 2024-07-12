@@ -1,0 +1,10 @@
+Engenharia de Software RUP (Rational Unified Process) - Processo Unificado Rational , Processos de Software
+
+Determinada disciplina ou fase, pertencente à dimensão estática do RUP (rational unified process), visa fornecer uma estrutura para gerenciar risco, bem como equilibrar objetivos concorrentes, a fim de superar restrições para entregar, com sucesso, um produto que atenda às necessidades dos clientes. Trata-se da
+
+Alternativas:
+A. disciplina implementação.
+B. disciplina gerenciamento de projetos.
+C. fase construção.
+D. fase transição.
+E. fase elaboração.

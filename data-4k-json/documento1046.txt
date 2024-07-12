@@ -1,0 +1,8 @@
+Banco de Dados SQL
+
+Considere duas tabelas criadas e populadas como apresentado a seguir.     CREATE TABLE prod_a (cod int);  CREATE TABLE prod_b (cod int);     INSERT INTO prod_a(cod) VALUES (1);  INSERT INTO prod_a(cod) VALUES (2);  INSERT INTO prod_a(cod) VALUES (3);  INSERT INTO prod_a(cod) VALUES (4);  INSERT INTO prod_a(cod) VALUES (5);  INSERT INTO prod_b(cod) VALUES (1);  INSERT INTO prod_b(cod) VALUES (3);  INSERT INTO prod_b(cod) VALUES (5);  INSERT INTO prod_b(cod) VALUES (7);     Quais valores a seguinte consulta SQL retorna?     SELECT a.cod  FROM prod_a AS a LEFT JOIN prod_b AS b ON a.cod = b.cod  WHERE b.cod is null;    
+
+Alternativas:
+A. 7.
+B. 1, 3, 5.
+C. 1, 2, 3, 4, 5.

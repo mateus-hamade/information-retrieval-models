@@ -1,0 +1,10 @@
+Banco de Dados SGBD - Sistema de Gerenciamento de Banco de Dados , SQL
+
+Em um clássico Sistema Gerenciador de Banco de Dados (SGBD) necessita-se apagar todos os registros da tabela concurso_reprovados. Para tanto, deve-se utilizar o comando SQL (Structured Query Language):
+
+Alternativas:
+A. EXCLUDE concurso_reprovados
+B. DELETE ALL concurso_reprovados
+C. DELETE FROM concurso_reprovados
+D. EXCLUDE ALL concurso_reprovados
+E. DELETE concurso_reprovados

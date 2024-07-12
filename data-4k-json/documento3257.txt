@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+Assinale a opção que apresenta uma estrutura de dados embasada no princípio last in, first out (LIFO) — último a entrar, primeiro a sair —, na qual, conforme a inserção, os dados inseridos primeiramente na estrutura são os últimos a serem removidos.  
+
+Alternativas:
+A. pilhas
+B. árvores
+C. vetores
+D. listas
+E. filas

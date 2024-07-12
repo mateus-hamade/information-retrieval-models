@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
+
+Assinale a alternativa que preenche corretamente as lacunas do enunciado abaixo, na ordem em que aparecem.  Comandos do-while (“faça-enquanto”), while-do (“enquanto-faça”) e for (“para-condição-atualização”), em linguagens de programação, permitem a execução de laços e são necessários em muitos algoritmos.  No comando do-while, a expressão lógica associada ao ________ é avaliada ________ execução do bloco de comandos; no ________, a expressão lógica de controle é avaliada ________.
+
+Alternativas:
+A. do – antes da – while-do – após
+B. while – após a – while-do – antes
+C. do – após a – for – antes
+D. while – antes da – while-do – após
+E. do – após a – for – após

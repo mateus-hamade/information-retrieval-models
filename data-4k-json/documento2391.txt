@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Busca
+
+Considere que na Defensoria há uma lista ordenada com o nome de 1000 cidadãos amazonenses. Utilizando o método de pesquisa binária para localizar o nome de um destes cidadãos, serão necessárias, no máximo,
+
+Alternativas:
+A. 1.000 comparações.
+B. 10 comparações.
+C. 500 comparações.
+D. 200 comparações.
+E. 5 comparações.

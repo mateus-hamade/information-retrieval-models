@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Filas , Pilhas ( assuntos)
+
+O Round-Robin é um tipo de escalonamento preemptivo mais simples e consiste em repartir uniformemente o tempo da CPU entre todos os processos prontos para a execução. Os processos são organizados em uma estrutura de dados, alocando-se a cada um uma fatia de tempo da CPU, igual a um número de quanta. Caso um processo não termine dentro de sua fatia de tempo, retorna para o fim da estrutura e uma nova fatia de tempo é alocada para o processo que está no começo da estrutura e que dela sai para receber o tempo de CPU.     A estrutura de dados utilizada nesse tipo de escalonamento é: 
+
+Alternativas:
+A. pilha.
+B. árvore B.
+C. fila circular.
+D. fila simples.
+E. árvore binária.

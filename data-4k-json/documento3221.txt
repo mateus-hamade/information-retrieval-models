@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Grafos
+
+Na teoria dos grafos, dois nós ligados por um arco são chamados de nós 
+
+Alternativas:
+A. parciais.
+B. conexos.
+C. adjacentes.
+D. acíclicos.
+E. fortemente conexos.

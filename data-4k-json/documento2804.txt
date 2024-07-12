@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Pesquisar um valor que corresponda a um valor-chave em uma árvore de pesquisa binária empacotada (equilibrada) com 128 elementos requer no máximo:
+
+Alternativas:
+A. oito comparações.
+B. quatro comparações.
+C. cinco comparações.
+D. seis comparações.
+E. sete comparações.

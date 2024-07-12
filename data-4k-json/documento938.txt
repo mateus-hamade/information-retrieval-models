@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+Qual das alternativas abaixo apresenta um comando SQL capaz de copiar todas as colunas de uma tabela para outra tabela, considerando que os tipos de dados nas tabelas de origem e destino sejam correspondentes?  
+
+Alternativas:
+A. INSERT tabela_1 IN tabela_2;
+B. INSERT INTO tabela_2 SELECT * FROM tabela_1;
+C. INSERT ALL tabela_2; ON tabela_1;
+D. INSERT * FROM tabela_1 VALUES tabela_2;
+E. INSERT tabela_1 JOIN tabela_2;

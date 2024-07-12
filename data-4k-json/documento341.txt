@@ -1,0 +1,10 @@
+Banco de Dados Catálogo de um banco de dados
+
+A arquitetura ANSI/SPARC para um projeto de banco de dados inclui três esquemas, que têm por objetivo separar as aplicações de usuários da base de dados física. Nesta arquitetura, esquemas podem ser definidos em três níveis, caracterizados a seguir:  I. Este nível possui um esquema que descreve a estrutura de armazenamento físico da base de dados, e usa um modelo de dados físico além de descrever todos os detalhes de armazenamento de dados e caminhos de acesso à base de dados. II. Este nível possui um esquema que descreve a estrutura de toda a base de dados, mas omite detalhes da estrutura de armazenamento físico e se concentra na descrição de entidades, tipos de dados, relacionamentos e restrições. III. Este nível possui esquemas que representam as visões de usuários, sendo que cada visão descreve, tipicamente, a parte da base de dados que um particular grupo de usuários está interessado e esconde o resto da base de dados do mesmo.  Os níveis caracterizados em I, II e III são denominados, respectivamente,
+
+Alternativas:
+A. interno, conceitual e externo.
+B. interno, externo e conceitual.
+C. conceitual, interno e externo.
+D. externo, conceitual e interno.
+E. externo, interno e conceitual.

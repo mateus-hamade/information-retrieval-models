@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados Relacionais
+
+Quanto à linguagem para bancos de dados relacionais, são exemplos respectivos de SQL DML e SQL DDL
+
+Alternativas:
+A. Insert Into e Alter Table.
+B. Order By e Select.
+C. Create Table e Drop Index.
+D. Drop Table e Delete.
+E. Select e Insert Into.

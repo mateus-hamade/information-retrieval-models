@@ -1,0 +1,10 @@
+Banco de Dados SGBD - Sistema de Gerenciamento de Banco de Dados
+
+Em bancos de dados, técnicas de gerenciamento garantem a serialização, que é a execução das transações de forma serial. Nesse contexto, se faz necessário conhecer as operações executadas entre o início e o fim da transação, e, para gerenciar as transações, é necessário conhecer as propriedades comumente chamadas de ACID, que devem ser usadas pelos métodos de controle de concorrência e recuperação do SGBD. ACID é o acrônimo de: 
+
+Alternativas:
+A. Arquitetura, Concorrência, Indexação e Durabilidade.
+B. Administração, Confiabilidade, Integridade e Disponibilidade.
+C. Atomicidade, Consistência, Isolamento e Durabilidade.
+D. Agilidade, Comutação, Interferência e Durabilidade.
+E. Automação, Comandos, Inspeção e Disponibilidade.

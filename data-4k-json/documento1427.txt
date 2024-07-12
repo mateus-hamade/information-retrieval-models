@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Lógicas de Programação ( assuntos)
+
+Texto associado A partir do algoritmo, o valor impresso ao final da sua execução é igual a:
+
+Alternativas:
+A. 9
+B. 18
+C. 15
+D. 21
+E. 12

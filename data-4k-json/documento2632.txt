@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação , Estrutura de Dados ( assuntos)
+
+Quantas comparações e trocas de posição ocorrerão se utilizarmos o algoritmo Bubble Sort para ordenar do menor para o maior valor o vetor [60,32,45,5,6,2], respectivamente:
+
+Alternativas:
+A. 10 e 4.
+B. 15 e 13.
+C. 25 e 15.
+D. 22 e 12.
+E. 12 e 9.

@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Tipos de Dados
+
+Texto associado São exemplos de constantes literais “NOME”, “Abacaxi”, “falso”, “304958” e “23/12/99”. 
+
+Alternativas:
+A. Certo
+B. Errado

@@ -1,0 +1,9 @@
+Banco de Dados SGBD - Sistema de Gerenciamento de Banco de Dados , SQL
+
+Os Sistemas de Gerenciamento de Bancos de Dados (SGBD) utilizam a linguagem SQL (Structured Query Language) para inserir, excluir, alterar e recuperar dados. As instruções da linguagem SQL são divididas em cinco tipos diferentes. Um deles apresenta as instruções INSERT, UPDATE e DELETE. Tais instruções pertencem a: 
+
+Alternativas:
+A. Instruções de consulta.
+B. Instruções DCL (Data Control Language).
+C. Instruções DDL (Data Definition Language).
+D. Instruções DML (Data Manipulation Language).

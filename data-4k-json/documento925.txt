@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados Relacionais
+
+Qual das propriedades abaixo NÃO constitui uma característica que distingue a abordagem de banco de dados relacional de uma abordagem tradicional de processamento de arquivos?   
+
+Alternativas:
+A. Natureza de autodescrição da base de dados.
+B. Isolamento entre programas e arquivos de dados.
+C. Suporte a múltiplas visões de dados.
+D. Suporte a recursos de data analytics, tais como algoritmos de aprendizado de máquina.
+E. Suporte a transações concorrentes em ambientes multiusuário.

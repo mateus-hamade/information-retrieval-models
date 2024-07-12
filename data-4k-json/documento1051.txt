@@ -1,0 +1,9 @@
+Banco de Dados Banco de Dados
+
+Abstração de dados significa exibir ou compartilhar apenas os dados necessários e ocultar todos os outros dados até que seja necessário compartilhá-los. Sobre os níveis de abstração de dados de um banco de dados, assinale a alternativa que define corretamente a forma como os dados são armazenados na máquina (ou sistema) do usuário. 
+
+Alternativas:
+A. Nível físico.
+B. Nível lógico.
+C. Nível conceitual.
+D. Todos os níveis.

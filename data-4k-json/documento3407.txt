@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Grafos
+
+A estrutura de dados chamada grafo consiste num conjunto de nós (ou vértices) e num conjunto de arcos (ou arestas). Cada arco em um grafo é especificado por um par de nós. Se os pares de nós que formam o arco forem pares ordenados, diz-se que o grafo é 
+
+Alternativas:
+A. incidente.
+B. ponderado.
+C. adjacente.
+D. orientado.
+E. sucessor.

@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Grafos
+
+Seja S o grafo de fluxo de controle de um programa P. Se o teste que aplica um conjunto de dados de teste satisfaz o critério todos os ramos de S, então pode-se concluir que esse conjunto também irá satisfazer o critério
+
+Alternativas:
+A. todos os caminhos de P.
+B. todas as respostas de P.
+C. todos os comandos de P.
+D. todas as classes de P.

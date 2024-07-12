@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+Pedro necessita de um modo para visualizar o conjunto de pessoas que trabalham na sua empresa e teve como solução construir um organograma da mesma. A estrutura de dados correspondente a esta ação é conhecida como:
+
+Alternativas:
+A. Árvore.
+B. Pilha.
+C. Fila.
+D. Lista.

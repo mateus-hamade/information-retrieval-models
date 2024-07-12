@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Texto associado As árvores binárias possuem vantagens em relação às listas encadeadas somente quando estão balanceadas, justificando-se o uso de um método de balanceamento de uma árvore binária quando elementos estão sendo constantemente acrescidos e removidos da árvore.
+
+Alternativas:
+A. Certo
+B. Errado

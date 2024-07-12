@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+A criptografia hash permite que seja calculado um identificador digital de tamanho fixo, chamado de valor hash, a partir de uma string de qualquer tamanho.  Assinale a alternativa que contém o algoritmo hash que trabalha com o valor fixo de 20 bytes.  
+
+Alternativas:
+A. SHA-1
+B. SHA-2
+C. MD2
+D. MD5
+E. MD4.0

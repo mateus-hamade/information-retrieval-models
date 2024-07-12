@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos , Estrutura de Dados ( assuntos)
+
+Considere as seguintes afirmações sobre algoritmos e estruturas de dados:     I. Filas são estruturas do tipo FIFO (First In First Out).  II. A inserção no fim de uma lista duplamente encadeada e não ordenada é realizada em O(n).  O tempo de execução do algoritmo quicksort no pior caso é O(n2 ).     Assinale a opção CORRETA:  
+
+Alternativas:
+A. Apenas a afirmação I é verdadeira.
+B. Apenas a afirmação II é verdadeira.
+C. Apenas a afirmação III é verdadeira.
+D. Apenas as afirmações I e III são verdadeiras.
+E. As afirmações I, II e III são verdadeiras.

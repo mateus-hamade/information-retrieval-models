@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Texto associado No pseudocódigo acima, pode-se introduzir o uso de um registro sentinela, que cria um novo registro ao final da lista, que contém a chave procurada. A busca é realizada sabendo-se que um registro contendo a chave vai ser encontrado e, ao final da busca, verifica-se se o registro encontrado é o registro sentinela.
+
+Alternativas:
+A. Certo
+B. Errado

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+A estrutura de dados caracterizada por ser uma árvore ordenada, cujos nodos têm, no máximo, dois filhos é a árvore
+
+Alternativas:
+A. de cobertura.
+B. de encaminhamento.
+C. B.
+D. de divisão-e-conquista.
+E. binária.

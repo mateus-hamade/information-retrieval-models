@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Apresentado, didaticamente, o código em portugol abaixo:    Seria um bom exemplo para explicar em sala de aula o conceito em programação de: 
+
+Alternativas:
+A. estrutura seqüencial.
+B. estrutura de seleção.
+C. estrutura matricial.
+D. estrutura de repetição.

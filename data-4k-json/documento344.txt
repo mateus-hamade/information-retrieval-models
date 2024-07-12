@@ -1,0 +1,10 @@
+Banco de Dados ETL (Extract Transform Load)
+
+Em um processo de ETL (Extração, Transformação e Carga), a primeira fase, de Extração (E), refere-se à  
+
+Alternativas:
+A. etapa de manipulação e de ajuste dos dados, visando adequá-los ao esquema do sistema ou ao data warehouse de destino.
+B. etapa de validação dos dados presentes em um ambiente de data warehouse.
+C. ingestão dos dados a serem processados no repositório conhecido por data warehouse.
+D. otimização para melhorar o desempenho de acesso aos dados que serão inseridos em um data warehouse.
+E. coleta de dados de múltiplas fontes, adaptando-os para futura integração em um data warehouse.

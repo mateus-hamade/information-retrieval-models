@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Considere a seguinte árvore binária.        Qual é o percurso que apresenta os nós em ordem crescente?  
+
+Alternativas:
+A. Pós-ordem.
+B. Ordem simétrica.
+C. Pré-ordem.
+D. Recursivo.

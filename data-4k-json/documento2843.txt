@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Considere o seguinte algoritmo para responder à  questão. O algoritmo está expresso na forma de uma pseudolinguagem. Suponha que o valor lido para a variável k seja igual a 3.                            início                              tipo TMAT = matriz [1..5,1..5] de inteiros;                              inteiro: i, j, k;                             TMAT: Mat;                               leia k;                              para i de 1 até 5 faça                              [                                 para j de 1 até 5 faça                                 [                                   Mat[i,j] ← i-j;                                 ]                              ]                              imprima (Mat[2,3]*Mat[3,2]);                           fim.  O valor impresso ao final da execução do algoritmo é:
+
+Alternativas:
+A. -2
+B. -1
+C. 0
+D. 1
+E. 2

@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Listas , Vetores
+
+Texto associado Quando o número de acessos randômicos a uma área de armazenamento é muito maior que o número de inserções e remoções de elementos armazenados, a organização dessa área de armazenamento por meio de uma lista encadeada resulta em desempenho melhor que o apresentado por organização feita mediante uma estrutura de array.
+
+Alternativas:
+A. Certo
+B. Errado

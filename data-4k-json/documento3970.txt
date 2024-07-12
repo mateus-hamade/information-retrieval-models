@@ -1,0 +1,10 @@
+Arquitetura de Computadores Hexadecimal
+
+Durante o desenvolvimento de um novo software de criptografia, o analista João se depara com a necessidade de converter dados entre diferentes sistemas de numeração para otimizar o processamento e garantir a segurança. Além disso, ele precisa aplicar operações aritméticas específicas nesses dados. Considerando esses requisitos, João decide implementar uma função que realiza a conversão de um número hexadecimal para binário e, em seguida, aplica uma operação de deslocamento à direita (shift right) de 2 bits no resultado binário.  Se o número hexadecimal de entrada é "3F", o resultado final após a operação de deslocamento à direita, em hexadecimal, é:
+
+Alternativas:
+A. 0F;
+B. 4F;
+C. 00F;
+D. 0FC;
+E. 00FC.

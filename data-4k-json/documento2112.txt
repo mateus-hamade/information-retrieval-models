@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Filas
+
+Acerca das estruturas homogêneas de dados vetor e matriz e dos conceitos de pilhas, filas e árvores binárias, julgue o item.     As filas são conjuntos de elementos, implementados em diversas linguagens de programação, cujas operações de inserção e remoção são feitas na mesma extremidade.  
+
+Alternativas:
+A. Certo
+B. Errado

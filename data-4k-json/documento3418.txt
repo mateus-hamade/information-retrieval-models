@@ -1,0 +1,37 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Estrutura de Controle e Repetição
+
+Os algoritmos são compostos por estruturas de controle de três tipos: sequencial, condicional e de repetição. Assinale a alternativa que apresenta apenas um tipo de estrutura de controle.
+
+Alternativas:
+A. ...
+escreva (“Digite seu nome: ”). leia (nome)
+escreva (“Digite sua idade: ”). leia (idade)
+limpe a tela. escreva (“Seu nome é:”, nome)
+escreva (“Sua idade é:”, idade). se (nome = “João”) entao
+se (idade > 18) entao. escreva (nome, “ é maior de 18 anos!”)
+fim se. escreva (“Quantidade de João encontrados:
+.... var
+. E
+B. ...
+escreva (“Pressione qualquer tecla para começar...”). leia (tecla)
+mensagem ← “Não devo acordar tarde...”. numero ← 0
+enquanto (numero < 100). escreva (mensagem)
+numero ← (numero + 1). fim enquanto
+escreva (“Pressione qualquer tecla para. terminar...”)
+leia (tecla). escreva (“Tecla digitada: ”)
+escreva (tecla). ...
+C. ...
+leia (nome). escreva (“Digite sua idade: ”)
+escreva (nome). se (nome = “Wally”) entao
+escreva (“Encontrado o Wally!”). senao
+cont ← 5. enquanto (cont > 0)
+escreva (“Não é Wally”...”). cont ← (cont – 1)
+fim enquanto. fim se
+nome: literal. idade: inteiro
+inicio. escreva (“Digite seu nome: ”)
+se (nome = “José”) entao. num ← (num + 1)
+”). escreva (num)
+leia (idade). limpe a tela
+escreva (“Seu nome é:”). escreva (nome)
+escreva (“Sua idade é:”). escreva (idade)
+fim algoritmo. ...

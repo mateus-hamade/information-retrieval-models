@@ -1,0 +1,9 @@
+Arquitetura de Computadores Processadores
+
+Os processadores modernos da família x86 oferecem suporte à virtualização, como o Intel VT, que busca reduzir o custo computacional associado às técnicas tradicionais de virtualização. A origem desse custo advém da captura de:
+
+Alternativas:
+A. interrupções
+B. tempo de acesso à TLB
+C. chamadas de sistemas
+D. tempo de tradução binária

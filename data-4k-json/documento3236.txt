@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Grafos
+
+  Assinale a alternativa que indica a complexidade ciclomática do grafo. 
+
+Alternativas:
+A. 8 (oito).
+B. 7 (sete).
+C. 5 (cinco).
+D. 4 (quatro).
+E. 3 (três).

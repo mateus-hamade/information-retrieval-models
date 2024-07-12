@@ -1,0 +1,10 @@
+Engenharia de Software Teste de Software , Web 2.0
+
+Em um sistema de controle de versão como o Git, um merge conflict é
+
+Alternativas:
+A. uma condição que ocorre quando uma branch é excluída acidentalmente.
+B. um alerta emitido pelo Git quando um commit não está de acordo com as diretrizes de mensagem.
+C. um erro fatal que impede a execução do comando git merge.
+D. uma situação em que o Git não consegue encontrar um histórico comum entre duas branches.
+E. um problema que ocorre quando há alterações conflitantes em um mesmo arquivo durante a mesclagem de branches.

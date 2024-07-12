@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Considere a ordem simétrica de percurso na árvore binária ao lado.  A ordem impressa dos nós por este percurso é       
+
+Alternativas:
+A. ABCDEFGHI.
+B. DBEAFIHCG.
+C. DEBIHFGCA.
+D. IHDEFGBCA.

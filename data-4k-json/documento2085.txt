@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
+
+Dos itens abaixo, qual deles NÃO é uma estrutura de controle?
+
+Alternativas:
+A. Vetor.
+B. Repita.
+C. Escolha.
+D. Enquanto.
+E. Se.

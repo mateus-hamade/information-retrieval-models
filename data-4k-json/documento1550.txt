@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
+
+Assinale a alternativas que esteja tecnicamente correta quanto ao pseudocódigo, em inglês, que representa uma estrutura de repetição.
+
+Alternativas:
+A. Switch
+B. Return
+C. While
+D. Function

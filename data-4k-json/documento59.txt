@@ -1,0 +1,9 @@
+Banco de Dados Banco de Dados Multidimensionais , OLAP (On-line Analytical Processing)
+
+Um modelo multidimensional organiza dados em níveis de abstração, definindo uma hierarquia que possibilita extrair informações sob diferentes visões. Qual a operação permite, em ferramentas OLAP, obter um subcubo do cubo original a partir da seleção em duas ou mais dimensões?
+
+Alternativas:
+A. Drill down.
+B. Slice.
+C. Dice.
+D. Pivot.

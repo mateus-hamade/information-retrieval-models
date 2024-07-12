@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Um algoritmo de computador é composto por várias etapas que, em conjunto, executam uma determinada tarefa. Sobre os algoritmos de computadores, julgue o item. Algoritmos de computador são utilizados exclusivamente para resolver problemas da computação. Por exemplo: a detecção de códigos maliciosos em computadores. 
+
+Alternativas:
+A. Certo
+B. Errado

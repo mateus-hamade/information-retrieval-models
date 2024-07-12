@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Julgue o próximo item, concernente ao conceito relacionado a algoritmos e linguagens de programação.  A resposta do algoritmo seguinte é 8.   
+
+Alternativas:
+A. Certo
+B. Errado

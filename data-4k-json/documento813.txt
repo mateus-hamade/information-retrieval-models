@@ -1,0 +1,10 @@
+Banco de Dados DW - Data Warehouse , Modelagem de dados
+
+Ao construir um modelo de dados usando a modelagem dimensional para um Data Warehouse, seguindo um modelo estrela, um engenheiro de dados encontrou uma dimensão que se encaixava perfeitamente no conceito de dimensão degenerada, de apenas um atributo. Qual é a maneira correta de tratar uma dimensão degenerada? 
+
+Alternativas:
+A. Criar uma tabela dimensão com o produto cartesiano de todas as dimensões degeneradas.
+B. Eliminar a dimensão do modelo estrela.
+C. Incluí-la como uma coluna na tabela fato.
+D. Mantê-la como uma tabela dimensão e usar o atributo como chave.
+E. Mantê-la como uma tabela dimensão e usar uma chave artificial.

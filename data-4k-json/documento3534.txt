@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+Texto associado Tabelas de dispersão aplicadas a arquivos requerem funções de escrutínios dinâmicas.
+
+Alternativas:
+A. Certo
+B. Errado

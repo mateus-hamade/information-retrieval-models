@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Como se sabe, existe uma estrutura de dados muito utilizada como forma de armazenamento em memória secundária e empregada por diversos sistemas de Banco de Dados. Trata-se da árvore B, que é uma árvore ordenada que possui uma estrutura:
+
+Alternativas:
+A. na qual cada nó tem, no máximo, d-1 filhos, se a árvore B for de ordem “d”.
+B. que minimiza o tempo de acesso para operações de busca, inserção e remoção.
+C. na qual suas folhas estão em, pelo menos, 2 níveis diferentes.
+D. na qual suas folhas estão em, exatamente, 3 níveis diferentes.
+E. na qual cada nó tem, no máximo, 2d-1 filhos, se a árvore B for de ordem “d”.

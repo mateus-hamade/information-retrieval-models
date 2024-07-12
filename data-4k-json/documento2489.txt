@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Filas
+
+Estrutura de Dados básicas como Fila são usadas em uma gama variada de aplicações computacionais, EXCETO em: 
+
+Alternativas:
+A. Sequência de trabalhos submetidas à impressora compartilhada em rede de computadores, onde o primeiro trabalho recebido será o primeiro trabalho a ter sua solicitação atendida.
+B. Fila de processos de comunicação em redes de computadores.
+C. Estrutura hierárquica de diretórios e subdiretórios de alguns sistemas operacionais tais como Linux, Windows.
+D. Buffer para gravação de dados em mídia.
+E. Atendimento de processos requisitados ao um sistema operacional.

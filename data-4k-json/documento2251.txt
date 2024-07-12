@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
+
+Em relação às estruturas de controle e de fluxo de execução, julgue o item seguinte.     Nos laços while e repeat-until, as sentenças serão executadas pelo menos uma vez.  
+
+Alternativas:
+A. Certo
+B. Errado

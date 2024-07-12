@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Em relação ao uso e conceitos de procedimentos e funções em lógica de programação, analise as seguintes afirmativas:  I. Procedimentos e funções são blocos de instruções para realizar tarefas específicas e são considerados sub-rotinas. II. Em um procedimento, a passagem de parâmetros é obrigatória. III. Em uma função, a passagem de parâmetros e o retorno de um valor são obrigatórios.  Está CORRETO o que se afirma em:
+
+Alternativas:
+A. I, apenas.
+B. I e II, apenas.
+C. I e III, apenas.
+D. II e III, apenas.

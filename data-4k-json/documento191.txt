@@ -1,0 +1,10 @@
+Banco de Dados Administração de banco de dados
+
+No contexto de pré-processamento de dados, o auditor de contas públicas João está trabalhando em um projeto de análise de dados e percebe que as variáveis numéricas no conjunto de dados têm escalas muito diferentes, como a escala dos preços sendo maior do que a escala dos pesos, como demonstrado nos produtos A e B: • Produto A (Preço: R$ 50 e Peso: 300g) • Produto B (Preço: R$ 500 e Peso: 1000g)  Além disso, ele observa a presença de outliers nos dados. Nesse sentido, João deverá tratar os dados para garantir que as variáveis tenham uma distribuição normal, isto é, com média igual a zero e desvio padrão igual a um. Para isso, a técnica de tratamento de dados que João deverá utilizar, levando em consideração a presença de outliers, é: 
+
+Alternativas:
+A. discretização (kbins discretization);
+B. codificação (one-hot encoding);
+C. normalização (min-max scaling);
+D. padronização (standardization Z-Score);
+E. transformação logarítmica (log transformation).

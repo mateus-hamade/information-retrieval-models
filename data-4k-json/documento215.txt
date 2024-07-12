@@ -1,0 +1,9 @@
+Banco de Dados Modelagem de dados
+
+Para a manipulação de dados em programação, as linguagens dispõem de alguns tipos de dados primitivos, desta forma, assinale a alternativa do tipo de dado que não é primitivo. 
+
+Alternativas:
+A. String
+B. Inteiro
+C. Ponto Flutuante
+D. Array

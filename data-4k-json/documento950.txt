@@ -1,0 +1,10 @@
+Banco de Dados Sistemas de Informações Gerenciais (SIG)
+
+Analise as assertivas abaixo relativas a Séries Temporais:  I. Um dos objetivos da análise de séries temporais é identificar padrões não aleatórios de uma ou mais variáveis de interesse, e a observação desse comportamento passado pode permitir fazer previsões sobre o futuro, orientando a tomada de decisões. II. A tendência descreve o comportamento da variável retratada na série temporal no longo prazo. A obtenção da tendência pode ser feita, por exemplo, através de um modelo de regressão, médias móveis e ajuste exponencial. III. O modelo de regressão é uma forma de obtenção da tendência de uma série temporal. Calculase a média dos primeiros n períodos da série, colocando o resultado no período exatamente no centro deles. Progressivamente, acrescenta-se um período seguinte, desprezando o primeiro da média imediatamente anterior, e calculando novas médias, que vão se movendo até o fim da série. O número de períodos (n) é chamado de ordem da série. IV. A média móvel leva em consideração todos os valores previamente observados ao período que está sob análise e não somente os mais próximos dele. Quais estão corretas? 
+
+Alternativas:
+A. Apenas I e II.
+B. Apenas II e III.
+C. Apenas I, II e III.
+D. Apenas II, III e IV.
+E. I, II, III e IV.

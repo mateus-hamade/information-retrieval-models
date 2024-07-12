@@ -1,0 +1,9 @@
+Banco de Dados PostgreSQL
+
+O PostgreSQL segue o modelo relacional padrão, com suporte para tabelas, chaves estrangeiras, índices, triggers, visões e outros recursos essenciais de um sistema de banco de dados relacional. Considerando as características do PostgreSQL, marque V para as afirmativas verdadeiras e F para as falsas.   ( ) Oferece suporte completo ao padrão SQL, além de incluir extensões avançadas, como janelas de funções, CTEs e operadores JSON. ( ) Garante a consistência dos dados, oferecendo suporte completo a transações ACID, o que garante a integridade dos dados mesmo em situações de falha. ( ) É altamente extensível, permitindo que os usuários definam novos tipos de dados, funções definidas pelo usuário (UDFs), procedimentos armazenados e até mesmo criem extensões personalizadas para estender as funcionalidades do banco de dados.  A sequência está correta em
+
+Alternativas:
+A. F, F, F.
+B. F, V, F.
+C. V, F, V.
+D. V, V, V.

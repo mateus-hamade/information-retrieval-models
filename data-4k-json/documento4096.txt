@@ -1,0 +1,10 @@
+Sistemas Operacionais Gerência de Memória , Sistemas Operacionais
+
+O problema de endereçamento surge quando se percebe que os endereços ocupados por um programa no disco não correspondem aos que ele ocupará na memória. O problema de endereçamento passa a ser, portanto, determinar uma estratégia de conversão entre endereços lógicos e endereços físicos. Essa transformação deve ser feita de forma que a execução do programa seja efetivada com sucesso ao carregar-se o mesmo na memória. São estratégias para efetuar esse mapeamento de memória, EXCETO:
+
+Alternativas:
+A. endereçamento absoluto.
+B. relocação estática.
+C. relocação dinâmica.
+D. parser contíguos.
+E. segmentação.

@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados
+
+O teorema CAP nos bancos de dados NoSQL, foi originalmente introduzido como o princípio CAP, pode ser usado para explicar alguns dos requisitos em sistemas distribuídos com replicação. As três letras da sigla CAP referem-se a três propriedades desejáveis de distribuição com dados replicados. Em relação ao CAP, avalie se as afirmativas a seguir são verdadeiras (V) ou falsas (F).  (   ) As três letras significam: Completeness, em português completude, Atomicity, em português atomicidade e Partition tolerance, em português, tolerância de partição. (   ) A atomicidade significa que cada solicitação de leitura ou gravação para um item de dados será processada com sucesso ou receber uma mensagem informando que a operação não pode ser concluída. (   ) A Tolerância de partição significa que o sistema não pode continuar operando com consistência se a rede que conecta os nós apresentar muitas falhas em duas ou mais partições, onde os nós em cada partição não podem se comunicar.  As afirmativas são, respectivamente, 
+
+Alternativas:
+A. V – V – V.
+B. V – V – F.
+C. V – F – V.
+D. F – V – F.
+E. F – F – F.

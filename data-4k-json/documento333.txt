@@ -1,0 +1,9 @@
+Banco de Dados SQL
+
+Para se inserir novos dados em SQL, utiliza-se a instrução
+
+Alternativas:
+A. ADD RECORD.
+B. ADD NEW.
+C. INSERT INTO.
+D. INSERT NEW.

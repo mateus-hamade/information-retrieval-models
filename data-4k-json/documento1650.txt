@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Busca
+
+Os algoritmos de busca e de ordenação compreendem um conjunto de algoritmos de elevada importância para a computação. O objetivo da busca (ou pesquisa) é encontrar uma ou mais ocorrências de registros com valores iguais ao valor procurado. Existem vários métodos de pesquisa e a escolha do método mais adequado depende, principalmente: 
+
+Alternativas:
+A. da possibilidade de um arquivo apresentar tokens e types.
+B. da quantidade de dados envolvidos e da possibilidade de o arquivo sofrer inserções e/ou retiradas.
+C. da quantidade de part-of-speech para cada token.
+D. do programador.
+E. do tipo de algortimo de aprendizado de máquina.

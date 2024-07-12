@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Dadas três variáveis X, Y e Z contendo valores aleatórios, numéricos e inteiros, e o algoritmo:    Os valores serão colocados em ordem decrescente na seqüência das variáveis X, Y e Z, para serem exibidos pela instrução (6), sempre do maior para o menor, se no algoritmo acima o operador1 e o operador2 corresponderem, respectivamente, aos operadores: 
+
+Alternativas:
+A. maior ou igual a e maior ou igual a.
+B. maior ou igual a e menor que.
+C. menor que e maior ou igual a
+D. maior ou igual a e maior que
+E. maior que e maior ou igual a

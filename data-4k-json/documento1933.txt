@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Lógicas de Programação
+
+Há uma diferença entre o código fonte que você escreve e as instruções que a máquina compreende. Para tanto o código fonte deve ser traduzido para linguagem de máquina e, em alguns casos ainda passa por um programa que cria as ligações entre os módulos e acrescenta as sub-rotinas fornecidas pelo sistema operacional. Esse programa é chamado de:
+
+Alternativas:
+A. interpretador.
+B. compilador.
+C. compactador.
+D. linkeditor.
+E. tradutor.

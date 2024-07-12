@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos
+
+Julgue o próximo item, relacionados a métodos de ordenação e pesquisa.     O selection sort (ordenamento por seleção) faz sempre (n^2-n)/2 comparações, independentemente do vetor inicial.  
+
+Alternativas:
+A. Certo
+B. Errado

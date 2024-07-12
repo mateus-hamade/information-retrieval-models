@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+A Figura 1 abaixo apresenta um algoritmo escrito no software VisuAlg 3.0:        Figura 1 – Algoritmo escrito no software VisuAlg 3.0  Qual será o valor da variável "tot" ao final da execução do algoritmo da Figura 1?  
+
+Alternativas:
+A. 5
+B. 7
+C. 22
+D. 27
+E. 60

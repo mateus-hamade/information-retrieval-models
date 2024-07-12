@@ -1,0 +1,10 @@
+Engenharia de Software Inteligencia Artificial
+
+Acerca do uso de inteligência artificial (IA) pelos tribunais, temos experiências bem-sucedidas no Brasil, as quais mostram a relevância da tecnologia para a melhoria da eficiência de atividades. Seu uso é bastante promissor nas cortes e deverá auxiliar em mecanismos de acesso à justiça. Sobre o ponto, assinale a alternativa mais adequada.
+
+Alternativas:
+A. A IA deve ser usada como fonte principal no desenvolvimento da fundamentação de decisões judiciais de mérito.
+B. A IA pode ser usada como ferramenta auxiliar, a depender do caso, em decisões e na análise de petições, devendo como regra haver transparência acerca do seu uso.
+C. A IA deve substituir servidores e juízes leigos na produção de decisões interlocutórias em Juizados Especiais Cíveis.
+D. A IA não tem capacidade para entender normas jurídicas e sua aplicação aos fatos sociais. Portanto, não deve ser usada de qualquer modo em decisões judiciais e serviços jurídicos.
+E. A IA não deve ser usada na aplicação de modelos estatísticos voltados à compreensão dos processos e fatos jurídicos.

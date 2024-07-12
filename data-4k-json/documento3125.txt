@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+Consiste em um tipo de estrutura de dados não linear, ou seja, os elementos que a compõem não estão armazenados de forma seqüencial e também não estão todos encadeados.
+
+Alternativas:
+A. Estrutura de dados do tipo tabela hashing.
+B. Estrutura de dados do tipo lista.
+C. Estrutura de dados do tipo árvore.
+D. Estrutura de dados do tipo fila.
+E. Estrutura de dados do tipo pilha.

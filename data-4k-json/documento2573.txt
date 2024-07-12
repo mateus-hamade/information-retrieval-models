@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Texto associado Que valor deve ser mostrado como resultado de escreva(vet[7])?
+
+Alternativas:
+A. 18
+B. 19
+C. 21
+D. 22
+E. 24

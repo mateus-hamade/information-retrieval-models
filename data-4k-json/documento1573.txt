@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Fluxogramas
+
+Julgue o próximo item, a respeito de lógica de programação.        O fluxograma é uma das formas de se representarem as instruções de um programa, utilizando-se de alguns comandos genéricos ou primitivos para a interpretação do algoritmo.   
+
+Alternativas:
+A. Certo
+B. Errado

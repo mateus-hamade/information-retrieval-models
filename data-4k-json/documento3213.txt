@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Dado o algoritmo abaixo,    em que o símbolo  é para indicar ponteiro, o símbolo  indica atribuição de valor e a função criapont(ponteiro) cria e inicializa ponteiros com “NULO”, a saída impressa por esse programa é: 
+
+Alternativas:
+A. '2 2 3'
+B. '2 3 4'
+C. '2 3 1'
+D. '3 3 4'
+E. '3 4 1'

@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Texto associado Uma árvore binária completa até o nível 10 tem 2.047 nós.
+
+Alternativas:
+A. Certo
+B. Errado

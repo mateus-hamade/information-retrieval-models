@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Filas
+
+Na estrutura de dados denominada FILA,
+
+Alternativas:
+A. o último elemento a ser inserido será o primeiro a ser retirado.
+B. o primeiro elemento a ser inserido será o primeiro a ser retirado: adiciona-se item no fim e remove-se item do início.
+C. os elementos de um mesmo tipo de dado estão organizados de maneira sequencial e ordenada.
+D. os elementos não estão necessariamente armazenados sequencialmente na memória por ordem descrente de valores.
+E. os elementos são formados de índices em duas dimensões: linhas e colunas.

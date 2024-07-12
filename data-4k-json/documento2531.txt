@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Filas , Pilhas
+
+Assinale a alternativa que complete correta e respectivamente as lacunas da frase a seguir: “Em estrutura de dados ‘pilha’ é baseado no princípio do ________ , enquanto a estrutura de dados ‘fila’ utiliza-se do princípio do_________":
+
+Alternativas:
+A. First In,First Out(FIFO) - Last In,First Out(LIFO).
+B. Last In,Last Out(LILO) - First In,First Out(FIFO).
+C. Last In,First Out(LIFO) - First In,Last Out(FILO).
+D. Last In,First Out(LIFO) - First In,First Out(FIFO).

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Considere a definição da função processa, apresentada a seguir, para responder à questão.    Caso o critério, de teste cobertura de comandos seja empregado, o par de valores (x, y), se for usado como dado de entrada para a função processa, que resultaria em 100% de cobertura desse critério :
+
+Alternativas:
+A. (5, 3)
+B. (7, 11)
+C. (11,11)
+D. (29, 17)
+E. (37, 37)

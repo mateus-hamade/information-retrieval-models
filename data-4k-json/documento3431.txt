@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Listas
+
+Acerca das estruturas de dados estáticas e homogêneas (vetores e matrizes) e das estruturas de dados dinâmicas (listas, pilhas, filas), utilizadas para armazenar conjuntos de valores, julgue os itens a seguir.  Uma lista é uma coleção de elementos do mesmo tipo dispostos linearmente, que podem ou não seguir determinada organização. As listas podem ser dos seguintes tipos: de encadeamento simples, duplamente encadeadas e ordenadas.
+
+Alternativas:
+A. Certo
+B. Errado

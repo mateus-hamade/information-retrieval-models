@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Uma árvore binária degenerada em lista encadeada não pode ser balanceada.  
+
+Alternativas:
+A. Certo
+B. Errado

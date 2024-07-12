@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Observe o trecho de pseudocódigo exibido a seguir.   Numa hipotética execução desse código, os valores exibidos seriam:
+
+Alternativas:
+A. 2, 5, 7;
+B. 6, 13, 15;
+C. 6, 13, 19;
+D. 7, 15, 21;
+E. 7, 17, 23.

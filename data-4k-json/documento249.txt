@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados Paralelos e Distribuídos , SGBD - Sistema de Gerenciamento de Banco de Dados , Metadados e Metainformação
+
+O IBGE é responsável no Brasil pela Classificação Nacional de Atividades Econômicas (código CNAE). Considere que um órgão de atuação nacional, que possui infraestrutura de Tecnologia de Informação e Comunicação (TIC) em todos os estados brasileiros, deseja realizar um censo de pequenas e médias empresas em 10 estados do Brasil. Para guardar os dados dessas empresas, foi criado um banco de dados distribuído (BDD) relacional com particionamento horizontal, também conhecido como sharding em muitos SGBDs NoSQL, utilizando como critério de distribuição a UF onde se localiza a sede da empresa, de tal modo que as empresas do Rio de Janeiro têm seus dados guardados na infraestrutura de TIC desse órgão no Rio de Janeiro. Com os dados distribuídos dessa forma,
+
+Alternativas:
+A. a falha em uma das infraestruturas de TIC pode inviabilizar o uso de todo o banco de dados.
+B. as características ACID não podem ser garantidas em uma transação distribuída.
+C. as consultas a dados sumarizados podem ser otimizadas por meio da utilização de MapReduce.
+D. os metadados do BDD devem ficar localizados apenas na infraestrutura de TIC da sede do órgão.
+E. os programas que consultam esses dados precisam saber em que estado eles se encontram.

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
+
+A Figura a seguir exibe o conteúdo de três pilhas: P1, P2 e P3.        Admita que um método Java, chamado exibePilha, receba essas três pilhas como parâmetros e execute os seguintes passos:  1. Cria duas pilhas auxiliares, A1 e A2, inicialmente vazias;  2. Remove um elemento de P1 e o insere em A1. Em seguida, remove um elemento de P2 e o insere em A1. Repete esses dois procedimentos até que P1 e P2 fiquem, ambas, vazias;  3. Remove um elemento de P3 e o insere em A1. Repete esse procedimento até que P3 fique vazia;  4. Remove um elemento de A1 e o insere em A2. Repete esse procedimento até que A1 fique vazia;  5. Remove um elemento de A2 e o exibe no console. Repete esse procedimento 4 vezes.     O que será exibido no console, quando o método exibePilha for executado, tendo P1, P2 e P3 sido passadas como parâmetros?     
+
+Alternativas:
+A. 10 15 25 28
+B. 10 25 30 40
+C. 15 10 28 25
+D. 20 35 34 40
+E. 40 34 30 60

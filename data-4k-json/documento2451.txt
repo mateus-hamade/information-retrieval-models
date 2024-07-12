@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Estrutura de Dados ( assuntos)
+
+Considere o seguinte algoritmo em pseudocódigo:           Para que o algoritmo acima leia quatro valores de anos de 1900 até 2017 e os apresente na tela, a lacuna  
+
+Alternativas:
+A. I deve ser preenchida com numero>=1900 e numero<=2017
+B. II deve ser preenchida com leia (vet [ indice])
+C. I deve ser preenchida com numero<1900 ou numero>2017
+D. II deve ser preenchida com imprima ("Valor valido = ", vetor [ indice ] )
+E. I deve ser preenchida com numero>=1900 ou numero<=2017

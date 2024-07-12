@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+Das estruturas de dados a seguir aquela que NÃO é uma estrutura linear é :
+
+Alternativas:
+A. Lista.
+B. Pilha.
+C. Grafo.
+D. Fila.
+E. Vetor.

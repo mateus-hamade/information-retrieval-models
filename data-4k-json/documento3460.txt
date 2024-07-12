@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Listas
+
+Texto associado Uma lista estática seqüencial pode ser definida como um arranjo de registros sem regras de precedência entre seus elementos.
+
+Alternativas:
+A. Certo
+B. Errado

@@ -1,0 +1,10 @@
+Banco de Dados OLAP (On-line Analytical Processing)
+
+Analise as afirmativas abaixo no contexto de data warehouse, modelagem dimensional e cubos OLAP.  1. A maioria dos cubos OLAP têm origem em esquemas em estrela dimensionais e relacionais usando uma variação de navegação agregada. 2. As consultas de usuário devem ser realizadas sobre estruturas de dados normalizadas, que por sua vez devem compor a área de apresentação do data warehouse. 3. A data staging área de um data warehouse não deve ser acessível aos usuários, tão pouco permitir serviços de consulta ou apresentação.  Assinale a alternativa que indica todas as afirmativas corretas. 
+
+Alternativas:
+A. É correta apenas a afirmativa 3.
+B. São corretas apenas as afirmativas 1 e 2.
+C. São corretas apenas as afirmativas 1 e 3.
+D. São corretas apenas as afirmativas 2 e 3.
+E. São corretas as afirmativas 1, 2 e 3.

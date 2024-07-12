@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
+
+Julgue o item seguinte a respeito da construção de algoritmos, dos conceitos de variáveis e de bloco de comandos e das estruturas de controle.     O laço de repetição na estrutura de repetição para será executado pelo menos uma vez.  
+
+Alternativas:
+A. Certo
+B. Errado

@@ -1,0 +1,10 @@
+Banco de Dados BI (Business Intelligence)
+
+Numa aplicação de business intelligence, buscar uma informação fora da estrutura dimensional é possível com a operação
+
+Alternativas:
+A. drill-over.
+B. drill-through.
+C. drill-across.
+D. drill-down.
+E. drill-up.

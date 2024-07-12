@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Filas
+
+José, técnico em informática do IFTO, construiu uma estrutura de dados do tipo fila e executou uma sequência de comandos sobre essa fila. Lembrando que a fila estava inicialmente vazia e que o comando Push representa a inserção de um elemento e o Pop representa a exclusão de um elemento na fila: Push 1, Push 4, Pop 4, Push 2, Push 3, Push 5, Push 6, Pop 3 Após a execução da sequência desses comandos, escolha entre as alternativas abaixo a única que contém o conjunto de elementos resultantes na fila: 
+
+Alternativas:
+A. 1-2-3-4-5-6
+B. 1-2-4-5-6
+C. 3-4-5-6
+D. 2-4-5-6
+E. 1-2-5-6

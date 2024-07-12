@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+Considere a seguinte figura.    A figura mostra a operação de ordenação sobre um arranjo de entrada de 10 números, feita pelo algoritmo bucket sort, que tem como característica
+
+Alternativas:
+A. possibilitar a ordenação de forma mecânica, em cartões de 80 colunas, com 12 posições cada.
+B. funcionar em tempo linear, quando a entrada é gerada a partir de uma distribuição uniforme.
+C. determinar, para cada elemento de entrada n, um intervalo de 1 a k, no qual n será colocado no menor intervalo válido.
+D. dividir um vetor em um número finito de recipientes, colocando, em cada recipiente, um algoritmo recursivamente diferente.
+E. adequar as listas de elementos em que o número de elementos e o número de possíveis valores de suas chaves são, aproximadamente, o mesmo.

@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Listas
+
+Abaixo tem-se uma tabela que ilustra o conjunto de nós de uma lista duplamente encadeada, contendo o total de 5 nós.        Ao imprimir a estrutura na ordem correta, o conteúdo apresentado será I – F – S – P – 2019, dessa forma, assinale a alternativa que contém os dados que preenchem, corretamente, a coluna “conteúdo”, de cima para baixo.  
+
+Alternativas:
+A. P – I – S – 2019 – F
+B. 2019 – P – S – F – I
+C. S – P – I – F – 2019
+D. S – I – F – 2019 – P

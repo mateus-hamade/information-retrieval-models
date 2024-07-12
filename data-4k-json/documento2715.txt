@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Dada a expressão numérica:  (40 div 4 + 6} div 4 + 1 + pot(6,2) div 4 - 2  O resultado da expressão, em variável inteira, será igual a:
+
+Alternativas:
+A. 23
+B. 21
+C. 20
+D. 12
+E. 9

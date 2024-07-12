@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Vetores
+
+Julgue o item seguinte, relativo a algoritmos, a estruturas de dados e objetos, à programação orientada a objetos e à arquitetura MVC.     Para manipular um elemento em um vetor, uma estrutura simples (unidimensional) de dados de mesmo tipo, não há a necessidade de se fornecer o índice do elemento desejado.  
+
+Alternativas:
+A. Certo
+B. Errado

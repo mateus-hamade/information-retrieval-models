@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+Em estruturas de dados, existem conjuntos __________________ nos quais o elemento removido do conjunto pela operação ‘Delete’, por exemplo, é especificado previamente. Em uma ___________, o elemento eliminado do conjunto é o mais recente inserido, a política implementada é “último a entrar, primeiro a sair”, ou LIFO (last-in, first-out). Já em uma ____________, o elemento eliminado é sempre o que estava no conjunto a mais tempo, a política implementada é “primeiro a entrar, primeiro a sair”, ou FIFO (first-in, first-out).   Assinale a alternativa que preenche, correta e respectivamente, as lacunas do trecho acima.
+
+Alternativas:
+A. dinâmicos – pilha – fila
+B. estáticos – árvore – pilha
+C. dinâmicos – fila – pilha
+D. estáticos – pilha – fila
+E. dinâmicos – fila – árvore

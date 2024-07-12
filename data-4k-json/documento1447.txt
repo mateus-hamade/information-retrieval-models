@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Analise as assertivas abaixo sobre o algoritmo Naive Bayes: I. Trata-se de um classificador que se baseia na probabilidade de cada evento ocorrer, desconsiderando a correlação entre features. Isso significa que se o valor de um atributo exerce algum efeito sobre a distribuição de classes existentes no conjunto, esse efeito é independente dos valores assumidos por outros atributos e de seus respectivos efeitos sobre a mesma distribuição de classe. II. Em um processo de classificação no qual um exemplar com rótulo desconhecido seja apresentado ao classificador, o algoritmo tomará a decisão sobre a qual classe o exemplar deve estar associado, por meio do cálculo de probabilidades condicionais, ou seja, as probabilidades de ele pertencer a cada uma das classes existentes no conjunto de dados de treinamento. III. Uma aplicação que pode se beneficiar do uso do algoritmo Naive Bayes é identificar se um determinado e-mail é um spam ou não. Quais estão corretas?  
+
+Alternativas:
+A. Apenas I.
+B. Apenas II.
+C. Apenas III.
+D. Apenas I e II.
+E. I, II e III.

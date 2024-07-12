@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Algoritmos de Ordenação
+
+Seja o pseudocódigo que segue a definição de um algoritmo para a ordenação de um vetor V de números inteiros, em que o primeiro elemento do vetor está na posição 1 e o último na posição n (n>1).  Sobre a notação do algoritmo, for-to indica o incremento da variável de controle do laço, for-downto indica o decremento da variável de controle do laço e exchangewith denota a permuta de valores entre duas posições de memória. O pseudocódigo refere-se ao seguinte algoritmo: 
+
+Alternativas:
+A. quicksort.
+B. bubblesort.
+C. ordenação por inserção.
+D. ordenação por seleção.

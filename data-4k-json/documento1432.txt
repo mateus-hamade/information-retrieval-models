@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Estrutura de Dados ( assuntos)
+
+Observe o quadro I – DEFINIÇÕES, que se refere à estrutura de dados PILHA, e que suporta três operações básicas, descritas a seguir:  Quadro I - DEFINIÇÕES   Quadro II - OPERAÇÕES   Tendo como ponto de partida uma pilha SUL inicialmente vazia e a sequência de operações indicadas no quadro II - OPERAÇÕES, ao final das operações o elemento que se encontra no topo da pilha é 
+
+Alternativas:
+A. ITAQUI.
+B. QUARAÍ.
+C. SANTANA.
+D. LIVRAMENTO.
+E. URUGUAIANA.

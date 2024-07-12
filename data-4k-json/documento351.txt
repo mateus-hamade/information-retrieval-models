@@ -1,0 +1,10 @@
+Banco de Dados BI (Business Intelligence)
+
+Em sistemas de Business Intelligence (BI), o OLAP (Processamento Analítico Online) é uma tecnologia que permite a análise multidimensional de dados, possibilitando insights valiosos para a tomada de decisões estratégicas. Sobre essa tecnologia, verifica-se que a operação de
+
+Alternativas:
+A. “Slice” permite a visualização de um subconjunto de dados de um cubo OLAP, por meio da seleção de um ou mais membros de uma dimensão específica.
+B. “Roll-Up” permite a criação de agregações de dados em níveis hierárquicos mais baixos.
+C. “Pivot” permite a criação de novas dimensões com base nas existentes em um cubo OLAP.
+D. “Drill-Through” permite a criação de agregações de dados em níveis hierárquicos mais altos.
+E. “Drill-Down” permite mover-se de visualização de informações resumidas e agregadas para visualização de níveis mais detalhados.

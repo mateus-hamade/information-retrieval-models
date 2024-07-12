@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
+
+Texto associado Quanto à lógica de programação e à estrutura de dados, julgue o item.  A estrutura de repetição while pode ser utilizada com ou sem inicialização de variáveis de controle. 
+
+Alternativas:
+A. Certo
+B. Errado

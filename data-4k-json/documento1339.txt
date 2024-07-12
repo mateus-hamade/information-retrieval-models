@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+Métodos de ordenação são algoritmos usados para organizar elementos de uma sequência em uma ordem específica. Qual método de ordenação tem complexidade de tempo médio O(n log n) e utiliza a técnica de dividir e conquistar? 
+
+Alternativas:
+A. Bubble sort.
+B. Selection sort.
+C. Insertion sort.
+D. Quick sort.
+E. Merge sort.

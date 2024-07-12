@@ -1,0 +1,10 @@
+Banco de Dados Backup em Banco de Dados
+
+Uma das atividades mais importantes na administração de dados é a manutenção de cópias de segurança (Backups). Em termos gerais, podemos dividir as cópias de segurança em duas categorias: cópia física ou cópia lógica.     Um gestor está preocupado, em primeiro lugar, com a velocidade de criação e recuperação das cópias de segurança, e, em segundo lugar, com a facilidade de operação das ferramentas, pois sua equipe está sobrecarregada. Ele recebeu os cinco conselhos a seguir de integrantes da equipe.     Assinale o conselho mais adequado para esse caso. 
+
+Alternativas:
+A. Utilizar cópia de segurança lógica, pois as cópias exatas dos arquivos de dados ou sistemas de arquivos oferece muita flexibilidade de reestruturação dos dados durante a recuperação.
+B. Utilizar cópia de segurança lógica, pois são geralmente mais rápidas que as cópias físicas e obrigatoriamente vinculadas à uma versão da plataforma ou banco, tornando a recuperação extremamente eficiente.
+C. Utilizar cópia de segurança física, pois resolve as questões apontadas e, pelo formato humanamente legível dos arquivos, oferece flexibilidade na edição dos objetos copiados.
+D. Utilizar cópia de segurança física, pois resolve as questões apontadas e não possibilita a presença de tabelas corrompidas.
+E. Utilizar cópia de segurança física, pois, embora geralmente ofereçam menos facilidades de operação das ferramentas, a criação e recuperação das cópias é tipicamente mais rápida do que em cópias lógicas.

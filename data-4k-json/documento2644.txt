@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Acerca de funções e procedimentos em subprogramas, julgue o item que se segue.  A passagem de parâmetro em uma rotina pode ocorrer de duas maneiras: por valor ou por referência. Em se tratando da passagem por valor, alteram-se os valores dos parâmetros que foram passados para a função.  
+
+Alternativas:
+A. Certo
+B. Errado

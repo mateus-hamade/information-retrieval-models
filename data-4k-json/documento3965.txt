@@ -1,0 +1,10 @@
+Programação JavaScript , Linguagens de programação
+
+Observe o seguinte script em JavaScript:     const vetor = [ [2, 0], [2, 4] ];  const saida = vetor.reduceRight((acc, v) =>  acc.join(v),  );  console.log(saida);     Ao ser executado, o script acima imprime no console: 
+
+Alternativas:
+A. 04,22;
+B. 20,24;
+C. 22,04;
+D. 24,20;
+E. 42,02.

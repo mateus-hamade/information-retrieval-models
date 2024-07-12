@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Uma árvore binária é caracterizada por ter
+
+Alternativas:
+A. cada nó associado a um valor que pode ser falso ou verdadeiro.
+B. todos os seus níveis com a mesma quantidade de nós.
+C. no máximo dois nós-filhos por nó-pai.
+D. uma estrutura balanceada.
+E. uma profundidade equivalente a uma potência de 2.

@@ -1,0 +1,10 @@
+Banco de Dados SGBD - Sistema de Gerenciamento de Banco de Dados
+
+Workload são os pedidos do SGBD que definem a demanda. Throughput define a capacidade do computador de processar os dados, ou seja, uma composição de velocidade de I/O, velocidade da CPU, capacidades de paralelismo da máquina e a eficiência do sistema operacional e o software básico envolvido. Assim, pode-se definir
+
+Alternativas:
+A. tuning de banco de dados como a otimização de recursos usados para diminuir throughput e minimizar contenção, permitindo que o menor workload possível seja atendido.
+B. performance de banco de dados como a diminuição de workload para, assim, diminuir o throughput e maximizar a contenção.
+C. performance de banco de dados como a otimização de recursos usados para aumentar throughput e minimizar contenção, permitindo que o maior workload possível possa ser processado.
+D. tuning de banco de dados como a otimização de recursos usados para aumentar throughput e minimizar contenção, permitindo que o menor workload possível seja atendido.
+E. performance de banco de dados como a otimização de recursos usados para aumentar throughput e maximizar contenção, permitindo que o menor workload possível possa ser demandado.

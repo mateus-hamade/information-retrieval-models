@@ -1,0 +1,9 @@
+Banco de Dados Modelagem de dados
+
+Em um modelo de dados uma importante definição é o esquema de dados, que é especificado durante o projeto de construção do banco, possuindo uma baixa expectativa de alterações frequentes. Durante o funcionamento, o SGBD é parcialmente responsável por garantir que todo estado do Banco de Dados seja estado válido, além de armazenar as descrições das construções e restrições do esquema, que são assim denominadas:
+
+Alternativas:
+A. Interfaces.
+B. Diagramas.
+C. Dicionários.
+D. Metadados.

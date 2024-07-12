@@ -1,0 +1,9 @@
+Banco de Dados SQL
+
+Considere as relações Funcionario e Telefone a seguir:                       Com base nas informações acima, a consulta SQL que resultará na lista de todos os funcionários e seus telefones, caso os possuam, é:  
+
+Alternativas:
+A. SELECT * FROM Funcionario F WHERE Telefone.CPF = Funcionario.CPF
+B. SELECT * FROM Funcionario F LEFT JOIN Telefone T ON F.CPF = T.CPF
+C. SELECT Telefone FROM Funcionario F WHERE CPF=CPF
+D. SELECT * FROM Funcionario F INNER JOIN Telefone T ON F.CPF = T.CPF

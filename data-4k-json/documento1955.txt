@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Analise o pseudocódigo a seguir. 1. var n: inteiro 2. escreva (“Digite um número inteiro:”) 3. leia(n) 4. n<-n+5 5. escreva(n) Considerando-se que o programa recebeu, como entrada, o valor 10, qual o resultado na tela da execução? 
+
+Alternativas:
+A. 0
+B. 5
+C. 10
+D. 15
+E. 20

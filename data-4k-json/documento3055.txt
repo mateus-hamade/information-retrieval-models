@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
+
+Considere o tipo abstrato de dados Pilha com as seguintes especificações:  - Pilha é uma lista (LIFO) de itens com a restrição de que inserções (Push) e retiradas (Pop) de itens só podem ser feitas no final da lista (Topo da lista). - CriarP cria uma pilha P vazia. - Push(P, i) insere o item i no Topo da pilha P. - Pop(P) retira e retorna da pilha P o item que está no Topo da pilha P. - Pop(P) para pilha P vazia = Erro.  Com essa especificação, quais são, respectivamente, os resultados das expressões Pop(Push(CriarP, X)) ; Pop (CriarP) e Pop(Push(P,(Pop(Push(CriarP, X))))) ? 
+
+Alternativas:
+A. X, X, X
+B. X, Erro, Erro
+C. X, Erro, X
+D. Erro, Erro, Erro
+E. Erro, Erro, X

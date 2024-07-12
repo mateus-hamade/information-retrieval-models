@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+Considere as seguintes características, encontradas em alguns algoritmos de ordenação:  I - É estável, ou seja, não altera a ordem relativa dos elementos que possuem o mesmo valor de chave de ordenação. II - Percorre repetidamente a lista a ser ordenada, comparando o elemento corrente com o seguinte e, se necessário, trocando os seus valores. III - Divide a lista a ser ordenada em duas partes: uma sublista ordenada de elementos, que é construída da esquerda para a direita (ordem crescente), à frente de uma sublista referente aos elementos não ordenados, sendo que, inicialmente, a primeira lista é vazia, enquanto a segunda contém todos os elementos a serem ordenados.  Essas características se aplicam, respectivamente, aos seguintes métodos de ordenação:
+
+Alternativas:
+A. por inserção, da bolha e por seleção
+B. por inserção, por seleção e da bolha
+C. por seleção, da bolha e por inserção
+D. por seleção, por inserção e da bolha
+E. da bolha, por seleção e por inserção

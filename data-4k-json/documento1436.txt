@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Estrutura de Controle e Repetição ( assuntos)
+
+Observe três símbolos, identificados por letras, que são utilizados para a construção de algoritmos.   A associação está correta em 
+
+Alternativas:
+A. A. Entrada de dados B. Início do código C. Cálculos e atribuições
+B. A. Cálculos e atribuições B. Saída de dados C. Estrutura de decisão
+C. A. Estrutura de decisão B. Fim do código C. Cálculos e atribuições
+D. A. Estrutura de decisão B. Início e fim do código C. Cálculos e atribuições

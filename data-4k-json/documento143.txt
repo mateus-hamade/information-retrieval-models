@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+Qual das alternativas a seguir exibe o comando mais adequado para alterar um valor de um atributo em uma tabela específica do banco de dados, usando, para isso, linguagem SQL? 
+
+Alternativas:
+A. UPDATE __________ SET __________ WHERE __________.
+B. ALTER TABLE __________ CHANGE __________.
+C. ALTER TABLE __________ MODIFY __________.
+D. ALTER TABLE __________ ADD __________.
+E. INSERT INTO __________ VALUES __________.

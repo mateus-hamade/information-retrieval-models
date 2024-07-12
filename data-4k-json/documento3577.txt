@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Hashing
+
+Texto associado Na tabela hash apresentada, não haverá colisões em suas posições.
+
+Alternativas:
+A. Certo
+B. Errado

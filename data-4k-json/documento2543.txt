@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
+
+Texto associado  Considerando o algoritmo apresentado, julgue o item seguinte, a respeito de conceitos básicos de estrutura de dados.  O algoritmo de ordenação apresentado é do tipo quicksort, sendo sua complexidade temporal O(n2 ).  
+
+Alternativas:
+A. Certo
+B. Errado

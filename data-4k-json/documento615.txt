@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados
+
+Sobre normalização de dados, analise as imagens das tabelas a seguir:         As tabelas de dados estão em qual Forma Normal?  
+
+Alternativas:
+A. Não está normalizada.
+B. Somente na Primeira Forma Normal.
+C. Somente na Segunda Forma Normal.
+D. Está na Terceira Forma Normal.
+E. Está na Quinta Forma Normal.

@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+select C.CPF as CPF, C.NOME as NOME from CONTRIBUINTE as C, PARCELAMENTO as P where C.CPF=P.CPF and P.TIPO=’IPVA’ and P.DATAADESAO between ‘01/01/2021’ and ‘31/12/2021’ and P.STATUS=’ADIMPLENTE’;  A respeito do código SQL (Structured Query Language) anteriormente apresentado, assinale a opção correta. 
+
+Alternativas:
+A. Há um erro de sintaxe em and P.DATAADESAO between ‘01/01/2021’ and ‘31/12/2021’, pois não é permitida a utilização do operador and mais de uma vez na mesma linha.
+B. Há uma junção (JOIN) nesse código, a qual é especificada no trecho from CONTRIBUINTE as C, PARCELAMENTO as P.
+C. O objetivo do código é mostrar o CPF e o nome de todos os contribuintes que não aderiram ao programa de parcelamento do IPVA no ano de 2021.
+D. A palavra reservada between foi inserida no código equivocadamente, pois somente deveria ser usada nos comandos de update e delete.
+E. A finalidade do código é mostrar o CPF e o nome de todos os contribuintes que aderiram ao parcelamento do IPVA no ano de 2021 e que estão com o seu parcelamento em dia.

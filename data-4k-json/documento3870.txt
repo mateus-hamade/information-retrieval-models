@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Questão anulada  Na árvore binária de busca abaixo, há uma sequência de inserções.            Qual das seguintes opções contém a ordem correta ?  
+
+Alternativas:
+A. 17, 15, 11, 13, 23, 21, 25.
+B. 17, 23, 25, 15, 11, 21, 13.
+C. 17, 15, 23, 13, 11, 25, 21.
+D. 17, 15, 23, 11, 13, 25, 21.
+E. 17, 15, 23, 11, 13, 21, 25.

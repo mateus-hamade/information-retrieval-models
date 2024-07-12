@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados , Pilhas
+
+Analise o seguinte método em Java para retirar um elemento de uma estrutura de dados:        De acordo com o código, a estrutura de dados é uma  
+
+Alternativas:
+A. Árvore.
+B. Fila.
+C. Matriz.
+D. Pilha.

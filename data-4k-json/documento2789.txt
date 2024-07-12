@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+Considere que os seguintes itens são inseridos 4, 5, 8, 11, 2, 15, nesta ordem, em uma estrutura de dados em fila e depois em outra em pilha.  Marque a alternativa correspondente ao terceiro item a ser retirado das estruturas de dados, respectivamente. 
+
+Alternativas:
+A. 5; 8.
+B. 8; 2.
+C. 8; 11.
+D. 4; impossível determinar.
+E. impossível determinar; 4.

@@ -1,0 +1,8 @@
+Banco de Dados PostgreSQL
+
+Texto associado A consulta SQL, criada para executar em um ambiente PostgreSQL, versão 15, que retorna o id e o total gasto dos 5 clientes da Locadora que mais gastaram com aluguel de filmes, está corretamente apresentada em
+
+Alternativas:
+A. select Cliente.id, sum(Filme.valor) as total_gasto from Aluguel inner join AluguelFilme ON AluguelFilme.aluguel_id = Aluguel.id inner join Filme ON Filme.id = AluguelFilme.filme_id inner join Cliente ON Aluguel.cliente_id = Cliente.id group by Cliente.id
+B. order by sum(Filme.valor) desc limit 5 order by sum(Filme.valor) asc
+C. select Cliente.id, max(Filme.valor) as total_gasto order by max(Filme.valor) asc

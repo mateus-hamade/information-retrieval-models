@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados , Matrizes em Estrutura de Dados
+
+É uma estrutura de dados dividida em linhas e colunas. Desta forma, pode-se armazenar diversos valores dentro dela. Para obter um valor é necessário identificá-lo por meio do número da linha e da coluna onde está armazenado. Trata-se de 
+
+Alternativas:
+A. árvore.
+B. matriz.
+C. pilha.
+D. fita.
+E. deque.

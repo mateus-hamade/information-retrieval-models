@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Fluxogramas
+
+Texto associado Fluxograma é uma ferramenta para a modelagem de sistemas na qual se representa unicamente uma visão estruturada das funções do sistema, ou seja, o fluxo dos dados.  
+
+Alternativas:
+A. Certo
+B. Errado

@@ -1,0 +1,10 @@
+Banco de Dados BI (Business Intelligence)
+
+Analise as assertivas abaixo sobre o Serviço Power BI em Nuvem:      I. O Power BI permite o compartilhamento em nuvem, possibilitando compartilhar os relatórios criados com vários membros da equipe, além de proporcionar atualização das informações em tempo real, não necessitando gerar outro relatório para isso.  II. O Power BI permite realizar publicações do relatório em nuvem no formato PowerPoint. Cada slide do PowerPoint equivale a uma página do relatório, e o que fica visível é a primeira análise de dados realizada.  III. Para os relatórios publicados na Web, o Power BI permite que o usuário tenha acesso às segmentações de dados aplicadas, não podendo manipular (modificar) os dados ou configurar os visuais.     Quais estão corretas?  
+
+Alternativas:
+A. Apenas I.
+B. Apenas II.
+C. Apenas III.
+D. Apenas I e III.
+E. I, II e III.

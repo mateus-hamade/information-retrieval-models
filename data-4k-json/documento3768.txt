@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+O NTFS do Windows XP é organizado como uma hierarquia de diretórios e cada diretório utiliza uma estrutura de dados denominada árvore 
+
+Alternativas:
+A. binária B-Tree
+B. binária B+
+C. B-Tree
+D. B+
+E. AVL

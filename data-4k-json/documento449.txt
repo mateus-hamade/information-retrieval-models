@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados Relacionais
+
+O que define um conjunto de regras que garante a integridade e a consistência dos dados em um banco de dados relacional é a Restrição de:
+
+Alternativas:
+A. Consulta SQL.
+B. Domínio de Banco de Dados.
+C. Integridade.
+D. Integridade Referencial.
+E. Unicidade.

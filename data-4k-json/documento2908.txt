@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Hashing
+
+Os bancos de dados, em sua organização física, baseiam-se em árvores B-trees (e suas variantes) para a implementação de índices. Analise as comparações a seguir entre B-trees e índices baseados em funções de hashing.  I. B-trees são mais rápidas na localização de um registro a partir de uma chave.  II. B-trees permitem busca com operadores de comparação “>” e “<”.  III. B-trees permitem busca a partir de uma substring à esquerda da chave.  IV. A partir de um certo ponto, o número máximo de acessos necessários para a localização de uma chave em uma B-tree não aumenta com o número total de chaves indexadas, o que tende a torná-la mais rápida em bancos de dados muito grandes.  Assinale a opção que indica o número de comparações corretas.
+
+Alternativas:
+A. Zero.
+B. Uma.
+C. Duas.
+D. Três.
+E. Quatro.

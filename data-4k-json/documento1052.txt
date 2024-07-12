@@ -1,0 +1,9 @@
+Banco de Dados SQL
+
+SQL foi desenvolvida na IBM Research no início da década de 1970; tornou-se a linguagem padrão para se lidar com bancos de dados relacionais. Seus comandos são divididos em grupos de acordo com sua funcionalidade. Sobre os comandos SQL de linguagem de controle de dados (Data Control Language – DCL), assinale a afirmativa INCORRETA. 
+
+Alternativas:
+A. DENY
+B. GRANT
+C. REVOKE
+D. COMMIT

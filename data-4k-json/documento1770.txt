@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+A figura a seguir apresenta um pseudocódigo referente a um programa de computador.        Após a execução, a sequência de números gerada está indicada na seguinte opção:  
+
+Alternativas:
+A. 34 37 35 36 36 35 37 34
+B. 37 34 36 35 35 36 34 37
+C. 37 36 35 34 34 35 36 37
+D. 34 35 36 37 37 36 35 34

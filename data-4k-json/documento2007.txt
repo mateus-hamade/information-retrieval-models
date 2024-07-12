@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Com base no seguinte algoritmo dado em pseudocódigo, analise as assertivas e assinale a alternativa que aponta a(s) correta(s)   I. O algoritmo mostrará a quantidade total de eleitores obrigatórios, seguida dos facultativos e, finalmente, os não eleitores. II. Há um erro de lógica na condicional que verifica as idades dos eleitores facultativos de 16, 17 e acima de 70 anos. III. As instruções dentro do laço de repetição “enquanto” serão executadas “i + 1” vezes. 
+
+Alternativas:
+A. Apenas I.
+B. Apenas II.
+C. Apenas III.
+D. Apenas I e II.
+E. Apenas II e III.

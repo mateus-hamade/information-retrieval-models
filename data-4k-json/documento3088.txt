@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+Editores de texto fornecem um mecanismo de reversão de operações (“undo”) que cancela operações recentes e reverte um documento ao estado anterior à operação. Esse mecanismo de “desfazer” é implementado mantendo as alterações do texto em uma estrutura de dados do tipo 
+
+Alternativas:
+A. pilha.
+B. fila.
+C. heap.
+D. deque.

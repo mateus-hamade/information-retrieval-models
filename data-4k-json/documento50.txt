@@ -1,0 +1,9 @@
+Banco de Dados OLAP (On-line Analytical Processing)
+
+OLAP (do inglês, Online Analytics Processing) e OLTP (do inglês, Online Transaction Processing) são sistemas de gerenciamento de banco de dados para armazenar e processar grandes volumes de dados. É característica dos sistemas OLTP
+
+Alternativas:
+A. utilizar dados históricos e agregados.
+B. implementar análises e relatórios complexos.
+C. lidar com o status atual dos dados.
+D. utilizar bancos de dados multidimensionais (cubos).

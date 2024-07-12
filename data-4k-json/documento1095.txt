@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
+
+Julgue o item a seguir, a respeito de construção de algoritmos.       Um programa que utiliza uma estrutura de controle do tipo repita até para realizar certo conjunto de instruções continuará sendo executado enquanto o resultado do teste de controle for falso.   
+
+Alternativas:
+A. Certo
+B. Errado

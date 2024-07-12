@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Tipos de Dados
+
+Sobre variáveis e constantes, considere as afirmativas a seguir.     I. Constantes são valores fixos que um programa não pode alterar.  II. Variáveis declaradas dentro de uma função são chamadas de variáveis locais.  III. Uma variável é uma posição de memória usada para guardar um valor.  IV. Uma variável global é usada para que uma função receba argumentos.     Assinale a alternativa correta. 
+
+Alternativas:
+A. Somente as afirmativas I e II são corretas.
+B. Somente as afirmativas I e IV são corretas.
+C. Somente as afirmativas III e IV são corretas.
+D. Somente as afirmativas I, II e III são corretas.
+E. Somente as afirmativas II, III e IV são corretas.

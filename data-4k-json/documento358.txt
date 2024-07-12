@@ -1,0 +1,10 @@
+Banco de Dados DER - Diagrama de Entidade e Relacionamento
+
+A Figura a seguir exibe um diagrama E-R, que representa o modelo conceitual de um banco de dados.                    Esse modelo conceitual deu origem a um esquema relacional cujas tabelas, que representam o mapeamento das entidades R, S e T, são mostradas a seguir. A notação usada para descrevê-las representa suas respectivas chaves primárias, por meio de nomes de colunas sublinhados.     R (RX)  S (SX)  T (TX)     Qual tabela representa, adequadamente, a relação W, de modo a preservar as restrições existentes no diagrama E-R?  
+
+Alternativas:
+A. W (RX, SX, TX, W1)
+B. W (RX, SX, TX, W1)
+C. W (RX, SX, TX, W1)
+D. W (RX, SX, TX, W1)
+E. W (RX, SX, TX, W1)

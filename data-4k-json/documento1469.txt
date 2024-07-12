@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Fluxogramas
+
+Um programa de computador é um produto resultante da atividade intelectual de um programador. Selecione a alternativa que descreve corretamente o seguinte símbolo usado em fluxogramas para construção de algoritmos.    
+
+Alternativas:
+A. Entrada manual
+B. Terminador
+C. Processo
+D. Exibição
+E. Decisão

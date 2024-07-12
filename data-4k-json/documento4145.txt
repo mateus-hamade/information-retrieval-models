@@ -1,0 +1,9 @@
+Programação Programação Orientada a Objetos
+
+Assinale a afirmação que descreve corretamente um conceito fundamental de programação orientada a objetos.
+
+Alternativas:
+A. A herança permite que uma classe tenha múltiplas superclasses.
+B. O encapsulamento refere-se à capacidade de ocultar a implementação interna de uma classe.
+C. O polimorfismo é exclusivo de linguagens de programação de baixo nível.
+D. O objeto é uma estrutura de dados utilizada apenas em programação procedural.

@@ -1,0 +1,9 @@
+Banco de Dados OLAP (On-line Analytical Processing)
+
+OLAP capacita os usuários a examinarem extensos conjuntos de dados de maneira ágil e adaptável, apresentando uma perspectiva multidimensional dos dados. Dentre as consultas comuns em OLAP, pode-se mencionar 
+
+Alternativas:
+A. Scroll-Down.
+B. Slice-And-Serve.
+C. Extraction.
+D. Roll-Up.

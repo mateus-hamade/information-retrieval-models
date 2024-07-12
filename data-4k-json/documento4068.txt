@@ -1,0 +1,10 @@
+Engenharia de Software Métricas de Software , Análise de Pontos de Função
+
+O sistema MinhaRECLAMACAO é utilizado por uma organização para controlar os processos de reclamações sobre os serviços prestados. Para abrir uma nova reclamação, o usuário informa seu CPF e o MinhaRECLAMACAO verifica se o formato do CPF é ou não válido antes de prosseguir.  Com base na APF (Análise de Pontos de Função) e no SNAP (Software Non Functional Assessment Process), a validação do CPF realizada pelo MinhaRECLAMACAO deve ser contada como um requisito:
+
+Alternativas:
+A. funcional na forma de Consulta Externa (CE);
+B. não funcional da categoria operação de dados;
+C. funcional na forma de Entrada Externa (EE);
+D. não funcional da categoria projeto de interface;
+E. funcional na forma de Saída Externa (SE).

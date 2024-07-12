@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Dadas as variáveis numéricas A e B, contendo os valores 2 e 6, respectivamente; a variável L, contendo o literal FALSO; e a variável lógica V, contendo o valor lógico verdadeiro, assinale a expressão lógica cujo resultado possui valor lógico falso.
+
+Alternativas:
+A. A2 > B ou V
+B. A > B ou L = "FALSO"
+C. A < B e L = "LITERAL"
+D. A > B e V ou L = "FALSO"
+E. A - B < 2 e L ? "VERDADEIRO" e V

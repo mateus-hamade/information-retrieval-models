@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados , Filas ( assuntos)
+
+Sobre estruturas de dados, é correto afirmar que:
+
+Alternativas:
+A. Uma árvore é uma sequência de zero ou mais itens x1, x2,...,xn, na qual xi é de um determinado tipo e n representa o tamanho da árvore.
+B. Uma fila é uma lista linear em que todas as inserções, retiradas e acessos são feitos em apenas um extremo da lista.
+C. Em uma implementação de lista por apontadores, cada item da lista é encadeado com o seguinte, mediante uma variável do tipo apontador. Este tipo de implementação permite usar posições não contíguas de memória, sendo possível inserir e retirar elementos sem haver necessidade de desalocar os itens seguintes da lista.
+D. Para a implementação de fila por meio de apontadores, uma célula é mantida no topo da estrutura. Para excluir um item, basta desligar a célula cabeça da lista e a célula que contém xn passa a ser a célula cabeça. Para inserir um novo item, basta fazer a operação contrária, criando uma célula cabeça e colocando o novo item na nova célula cabeça.
+E. Uma pilha é uma lista linear em que todas as inserções são realizadas em um extremo da lista, e todas as retiradas e acessos são realizados no outro extremo da lista.

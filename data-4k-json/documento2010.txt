@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Existem tanto algoritmos sequenciais quanto algoritmos paralelos, conhecidos como multithreads. Assinale a alternativa correta referente aos algoritmos multithreads.
+
+Alternativas:
+A. São algoritmos que possuem uma fila prioritária para serem executados paralelamente em computadores monoprocessados.
+B. Podem ser executados em computadores multiprocessados que permitem a execução concorrente de diversas instruções.
+C. Podem ser executados continuamente simulando um ambiente de processamento paralelo por meio de memória virtual.
+D. São a execução aleatória de segmentos do código do algoritmo em busca de melhor eficácia e redução de tempo.
+E. São a forma mais fácil para se implementar um algoritmo eficiente e eficaz para a execução em computadores modernos.

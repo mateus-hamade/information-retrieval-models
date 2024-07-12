@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Texto associado Essa estrutura, em particular, também é denominada Árvore.
+
+Alternativas:
+A. Quartenária.
+B. Binária Cheia.
+C. Binária Completa.
+D. Binária Zigue-Zague.
+E. Não Estritamente Binária.

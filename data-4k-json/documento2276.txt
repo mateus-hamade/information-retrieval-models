@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Analise as afirmações a seguir sobre algoritmos. I Um algoritmo é a solução específica para um problema específico. II Todo algoritmo recursivo tem um equivalente iterativo, e todo algoritmo iterativo tem um equivalente recursivo. III Um algoritmo possui uma quantidade de passos definidos, garantindo que ele possua um tempo máximo, possível de calcular, para terminar. IV Todos os dados, em um algoritmo, são armazenados em variáveis, através da operação de atribuição. Estão corretas
+
+Alternativas:
+A. III e IV.
+B. II e III.
+C. I e IV.
+D. I e II.

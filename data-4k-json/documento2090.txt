@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Estrutura de Dados ( assuntos)
+
+O código abaixo pode ser utilizado para atravessar um grafo.     Entrada: um gráfico G e um vértice v de G  Saída: todos os vértices alcançáveis de v marcados  função DFS(G,v):  marque v  para todas as arestas adjacentes a v, faça  se vértice w não estiver marcado, então  Chame recursivamente DFS(G,w)  fim se  fim para  fim função     Entre os diversos tipos de algoritmos utilizados para atravessar grafos, esse código implementa o algoritmo    
+
+Alternativas:
+A. busca em profundidade ou Depth-First Search.
+B. busca em largura ou Breadth-First Search.
+C. busca melhor-primeiro ou Best-First Search
+D. busca exaustiva ou Brute-Force Search.

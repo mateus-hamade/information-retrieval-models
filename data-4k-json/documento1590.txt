@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+A Figura 1, abaixo, apresenta um algoritmo escrito no software VisuAlg 3.0.        Com relação ao procedimento "teste" do algoritmo da Figura 1, pode-se dizer que ele faz:  
+
+Alternativas:
+A. A leitura de dois números inteiros.
+B. A troca de valores entre as variáveis "x" e "y", utilizando a variável auxiliar "z".
+C. A ordenação das variáveis "x" e "y", utilizando a variável auxiliar "z".
+D. Comparações entre as variáveis "x", "y" e "z".
+E. Subtrações entre as variáveis "x", "y" e "z".

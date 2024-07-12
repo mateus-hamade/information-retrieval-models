@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Analise o algoritmo a seguir, em português estruturado, onde todas as variáveis representam números inteiros.    Esse algoritmo imprime, caso a condição da linha 3 seja verdade, todos os números inteiros de 
+
+Alternativas:
+A. P até Q
+B. P até (P+Q)/2
+C. P-Q até Q-P
+D. Q-P até P+Q
+E. (P+Q)/2 até Q

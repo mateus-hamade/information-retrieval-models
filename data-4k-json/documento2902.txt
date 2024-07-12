@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados , Filas ( assuntos)
+
+A Lei no 953/2005 que dispõe sobre a Taxa Judiciária do Estado no Amapá, estabelece:  Art. 7o - A alíquota da Taxa Judiciária será de 1,5% sobre o valor da causa, observado o disposto nos artigos 5o e 6o desta Lei. Parágrafo único - Fica assegurada a Taxa Judiciária mínima de R$ 25,00 e máxima de R$ 9.950,00.  Considere que no Tribunal de Justiça do Amapá há um arquivo com uma lista que contém, em cada linha, o nome, CPF, valor da causa e taxa judiciária de milhares de pessoas. O analista judiciário do Tribunal deve propor uma solução para separar somente as pessoas que pagaram taxa mínima e as que pagaram taxa máxima. Uma vez que os dados do arquivo já tenham sido lidos e encontram-se em uma estrutura de dados do tipo tabela (vetor de estruturas), a solução proposta corretamente pelo analista, é percorrer a tabela e
+
+Alternativas:
+A. armazenar os dados em uma árvore binária. Depois percorrer a árvore em pré-ordem e obter os dados das pessoas que pagaram taxas máximas e mínimas.
+B. comparar o campo taxa judiciária com os valores mínimo e máximo. Havendo coincidência, armazenar os dados das pessoas que pagaram taxa mínima em uma fila e as que pagaram taxa máxima em outra fila.
+C. armazenar os dados em uma tabela hash usando o campo valor da causa como chave. Depois percorrer a tabela hash, apenas dos campos mínimo e máximo
+D. armazenar os dados em uma pilha. No topo da pilha ficarão as pessoas que pagaram taxa máxima e no fundo da pilha as que pagaram taxa mínima.
+E. ordenar os dados pelo campo valor da causa, usando o método Round Robin Sort. No início da tabela ficarão as pessoas que pagaram taxa mínima e no final as que pagaram taxa máxima.

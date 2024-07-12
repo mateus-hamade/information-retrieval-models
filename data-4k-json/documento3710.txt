@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados , Vetores
+
+Considere uma estrutura de dados do tipo vetor. Com respeito a tal estrutura, é correto que seus componentes são, característicamente, 
+
+Alternativas:
+A. heterogêneos e com acesso FIFO.
+B. heterogêneos e com acesso LIFO.
+C. heterogêneos e com acesso indexado-sequencial.
+D. homogêneos e acesso não indexado.
+E. homogêneos e de acesso aleatório por intermédio de índices.

@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
+
+Julgue o item a seguir acerca dos conceitos de estrutura de dados.       A estratégia de pesquisa mais adequada para uma estrutura do tipo pilha é a pesquisa binária.  
+
+Alternativas:
+A. Certo
+B. Errado

@@ -1,0 +1,9 @@
+Sistemas Operacionais Sistemas operacionais distribuídos , Apache
+
+Ao considerar a arquitetura de sistemas de mensageria, qual afirmativa apresenta a diferença entre Apache Kafka e RabbitMQ?
+
+Alternativas:
+A. Ambos Kafka e RabbitMQ utilizam o modelo de filas, mas Kafka prioriza a entrega garantida e a ordem das mensagens, enquanto RabbitMQ enfatiza a escalabilidade horizontal.
+B. RabbitMQ é mais adequado para ambientes de alta latência, em que a consistência imediata é crucial, enquanto Kafka é projetado para otimizar a entrega assíncrona em grande escala.
+C. Kafka e RabbitMQ são intercambiáveis em termos de modelo de mensagens, e a escolha entre eles é baseada apenas na preferência do desenvolvedor em relação à linguagem de programação.
+D. Kafka segue um modelo de log de eventos distribuído, permitindo a retenção de mensagens por um período específico, enquanto RabbitMQ utiliza uma fila de mensagens tradicional.

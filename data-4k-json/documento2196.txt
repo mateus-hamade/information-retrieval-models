@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+A teoria de algoritmos de aproximação, às vezes chamados de algoritmos aproximativos, é extremamente útil para tratar problemas NP-difíceis.     Sobre algoritmos de aproximação, é correto afirmar que 
+
+Alternativas:
+A. um algoritmo de aproximação, embora não encontre a resposta correta sempre, pode ser executado em tempo polinomial.
+B. um algoritmo de aproximação pode ou não fornecer garantias sobre a qualidade da solução encontrada.
+C. seu tempo de execução pode ser uma função da qualidade da solução a ser encontrada.
+D. podem ser utilizados apenas em problemas de maximização.
+E. podem apenas ser utilizados para tratar problemas NP-difíceis.

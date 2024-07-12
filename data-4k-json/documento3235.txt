@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Uma árvore rubro-negra possui 18 valores inteiros distintos armazenados em seus 18 nós.  Uma função recursiva, cujo cabeçalho é boolean busca (int val), foi escrita com o objetivo de visitar os nós desse tipo de árvore à procura de um determinado valor (val). O algoritmo utilizado tira partido das características de uma árvore rubro-negra, com o objetivo de ser o mais eficiente possível.  Qual é o número máximo de chamadas à função busca( ) que será necessário para informar se um determinado valor está, ou não, armazenado na árvore? 
+
+Alternativas:
+A. 3
+B. 4
+C. 5
+D. 6
+E. 9

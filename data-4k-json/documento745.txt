@@ -1,0 +1,10 @@
+Banco de Dados OLAP (On-line Analytical Processing)
+
+Utilizando um Painel de Informações, Julia analisou a Taxa de Congestionamento de Processos Judiciais dos Estados do Brasil e depois selecionou o Estado do Rio Grande no Norte para analisar a taxa por cidade. A operação OLAP realizada por Julia foi:
+
+Alternativas:
+A. Slice;
+B. Dice;
+C. Drill down;
+D. Drill up;
+E. Rotate.

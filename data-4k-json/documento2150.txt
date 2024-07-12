@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Busca , Complexidade de Algoritmos
+
+Pesquisa Binária e Hash Code são duas técnicas de busca de dados em um arquivo ou tabela muito usados em informática, com grande vantagem sobre a Pesquisa Sequencial. Sobre essas técnicas, assinale a afirmação INCORRETA.
+
+Alternativas:
+A. Na Pesquisa Binária, os dados devem estar classificados pelo campo que é a chave de busca.
+B. Na Pesquisa Binária, o número mínimo de tentativas para localizar um registro é 1, e o máximo é log2 n (arredondado para cima), no qual n é o tamanho do arquivo ou tabela.
+C. Na técnica Hash Code, o número de tentativas para localizar um registro quando o arquivo é grande não aumenta significativamente, tal como acontece na Pesquisa Sequencial.
+D. Na técnica Hash Code, o número máximo de tentativas para localizar um registro depende do método empregado e do índice de ocupação do arquivo ou tabela em relação ao tamanho máximo estimado.
+E. Na técnica Hash Code, os dados devem estar classificados pelo campo que é a chave de busca.

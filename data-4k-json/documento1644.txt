@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+A tabela-verdade a seguir corresponde a uma expressão de Álgebra Booleana, onde T significa True (Verdadeiro) e F significa False (Falso):  p q E F F F F T F T F T T T F Assinale a expressão E que corresponde, CORRETAMENTE, à tabela-verdade: 
+
+Alternativas:
+A. p ∧ ~q
+B. p ∧ q
+C. ~p ∧ ~q
+D. p ∨ ¬q
+E. ~p ∨ ~q

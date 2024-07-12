@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Um Analista de Sistemas está trabalhando em uma sub-rotina para extrair informações da base de dados de vendas da empresa na qual trabalha.  "Valor" é uma variável composta que armazena o total de vendas dos produtos da empresa nos seis primeiros meses do ano de 2003, conforme mostrado abaixo.  Total de Vendas: 10   7   14   3   6   9                Índice:   1   2     3   4   5   6  Desta forma, Valor[3] estaria referenciando o terceiro elemento cujo conteúdo é 14. Com base no algoritmo acima, pode-se afirmar que o valor das variáveis "K" e "Aux" na linha "escreva K, Aux", respectivamente, são:
+
+Alternativas:
+A. 2 e 6
+B. 2 e 7
+C. 3 e 4
+D. 3 e 7
+E. 3 e 11

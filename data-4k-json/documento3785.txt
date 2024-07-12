@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Hashing
+
+Uma boa função de transformação de chaves tem como requisito essencial a distribuição das chaves tão unifor- memente quanto possível dentro do intervalo dos valores dos índices. Exceto esta exigência, a distribuição não é vinculada a nenhum padrão particular, sendo desejável, inclusive, que pareça totalmente aleatória. Tal propriedade deu a este método uma conotação não-científica (o significado é pulverizar o argumento e espalhá-lo desordenadamente) com o nome de
+
+Alternativas:
+A. factoring.
+B. linkage.
+C. boolean.
+D. hashing.
+E. buffering.

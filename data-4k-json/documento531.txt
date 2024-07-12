@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados Paralelos e Distribuídos
+
+Em relação a banco de dados é correto afirmar:
+
+Alternativas:
+A. A independência do hardware não é um dos objetivos da implementação de um sistema de bancos de dados distribuídos, mas sim a obtenção da independência da fragmentação.
+B. O princípio básico para a recuperação de um banco de dados é a existência de redundância de informação, o que permitirá restaurá-lo a um estado consistente, após a ocorrência e detecção de alguma falha.
+C. No controle de segurança do tipo discricionário, a cada objeto de dados é assinalado um certo nível de classificação, e cada usuário recebe um certo nível de liberação.
+D. Uma das vantagens dos sistemas de banco de dados distribuído é sua capacidade de tornar perceptível aos usuários os níveis de sua arquitetura performática em relação aos sistemas não distribuídos.
+E. A linguagem de definição de dados oferece suporte à declaração de objetos do banco de dados, enquanto a linguagem de estruturação de dados admite o processamento desses objetos.

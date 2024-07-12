@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Considere a expressão booleana  not (A and B) and (not C or not D)  Para quaisquer valores lógicos de A, B, C e D, o resultado da expressão acima é o mesmo de:
+
+Alternativas:
+A. (not A or not B) and not (C and D)
+B. (not A or not B) or not (C and D)
+C. (not A and not B) and not (C or D)
+D. (not A or not B) and (C or D)
+E. (A or B) and not (C and D)

@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
+
+Acerca de estrutura de dados e algoritmos, julgue o item a seguir.     Pilhas são tipos de estruturas de dados que permitem a remoção direta de qualquer elemento de sua estrutura.   
+
+Alternativas:
+A. Certo
+B. Errado

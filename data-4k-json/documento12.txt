@@ -1,0 +1,10 @@
+Banco de Dados Metadados e Metainformação
+
+As bases de dados são conjuntos de arquivos relacionados entre si, podendo conter registros sobre pessoas, lugares ou informações em geral. No que tange à base de dados sobre tecnologia, é correto discriminar algumas bases dos Escritórios de Propriedade Industrial, tais como: 
+
+Alternativas:
+A. USPTO, Derwent Innovations Index e JPU.
+B. Derwent Innovations Index, EPU e INPI.
+C. EPO, JPO e INPI.
+D. ESPACENET, Google Patent Search e EPU.
+E. EPU, Derwent Innovations Index e JPO.

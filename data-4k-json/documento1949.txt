@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Texto associado  No programa apresentado, suponha que o comando:           Com este novo comando, ao final da execução do programa, quando comparado com a execução original, 
+
+Alternativas:
+A. cada elemento de a terá sido multiplicado por 2.
+B. cada elemento de b terá sido multiplicado por 3.
+C. dois elementos de a terão valores diferentes da versão original.
+D. um elemento de bsa terá valor diferente da versão original.
+E. os valores impressos para SA e SB serão os mesmos da versão original.

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Dentre os métodos para construção de algoritmos, o Cartesiano é aquele que segue o princípio de
+
+Alternativas:
+A. dividir para conquistar.
+B. primeiro que entra, primeiro que sai.
+C. planejamento reverso.
+D. pseudo-linguagem.
+E. primeiro que entra, último que sai.

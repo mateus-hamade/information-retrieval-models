@@ -1,0 +1,10 @@
+Banco de Dados Administração de banco de dados
+
+Para melhorar o desempenho de um banco de dados, um Administrador de Banco de Dados (DBA) pode realizar uma série de ações. Uma ação que pode contribuir significativamente para a otimização do desempenho de um sistema de banco de dados relacionais é
+
+Alternativas:
+A. executar todas as transações de maneira sequencial ou serial, pois é a única forma de garantir a correção da execução concorrente.
+B. desnormalizar as tabelas envolvidas em operações de junção interna frequentes.
+C. substituir todos os SELECT por SELECT DISTINCT, evitando repetições.
+D. usar sempre a cláusula ORDER BY para ordenar os resultados exibidos.
+E. fragmentar os índices existentes nas colunas mais acessadas.

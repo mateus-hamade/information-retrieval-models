@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados
+
+Um processo que tem comandos SELECT, INSERT, UPDATE ou DELETE, para o controle de concorrência, requer, respectivamente, locks
+
+Alternativas:
+A. S, S, X ou X.
+B. X, IX, U ou S.
+C. S, IX, U ou X.
+D. X, S, S ou S.
+E. S, X, X ou X.

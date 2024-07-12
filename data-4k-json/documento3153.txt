@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+Texto associado Para a classificação de grandes volumes de dados, recomenda-se o emprego do método de inserção direta.
+
+Alternativas:
+A. Certo
+B. Errado

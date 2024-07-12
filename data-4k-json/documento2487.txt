@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Um algoritmo é uma sequência detalhada de ações a serem executadas para realizar uma tarefa. Dentre as formas de representação de algoritmos temos: o Portugol, também conhecido como Português Estruturado ou Pseudocódigo. Analise a veracidade de cada uma das seguintes afirmações sobre códigos escritos em Portugol:  I - O código abaixo gera um algoritmo que declara dois vetores, um denominado A e outro denominado B com a capacidade máxima de 4 (quatro) elementos, cada vetor, que nesse exemplo serão do tipo inteiro. Na continuação do algoritmo, o vetor A é preenchido com valores inteiros definidos através de comando específico (leia). E finalizando com a transferência de todos os elementos do vetor A para o vetor B, sendo que os elementos do vetor B são visualizados como saída do algoritmo.  II - O algoritmo abaixo possui a declaração de três vetores, um denominado A e outro denominado B e mais um denominado de C, com a capacidade máxima de 15 (quinze) elementos, que nesse exemplo, serão do tipo real. O vetor C é preenchido com elementos também de valores reais que são gerados a partir da multiplicação dos elementos do vetor A com os elementos do vetor B, e finaliza-se o algoritmo tendo como saída os elementos do vetor C. Para fazer o preenchimento do vetor C, foi utilizada a seguinte operação aritmética vetor C[i]:= vetor A[i] * vetor B[i] , em que a variável i representa a variável controladora para dar acesso aos elementos dos vetores.  III - O algoritmo descrito a seguir irá gerar uma matriz 6 x 6, conforme a Figura abaixo:  IV - Um algoritmo escrito em Portugol que declara uma matriz 3 x 1 e preenche essa mesma matriz com 31 (trinta e um) elementos do tipo real. E obtém como saída/resultado final do algoritmo a soma de todos os elementos da diagonal principal da matriz gerada, que está definido a seguir:  E escolha a alternativa CORRETA:  
+
+Alternativas:
+A. São verdadeiras I e II.
+B. São verdadeiras I e III.
+C. São verdadeiras I, II e III.
+D. São verdadeira I, II e IV.
+E. Todas são verdadeiras.

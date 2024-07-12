@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+O processo de ordenação de vetores que busca o menor elemento do vetor e o insere na primeira posição do vetor e que, posteriormente, busca o segundo menor valor do vetor e o coloca na segunda posição do vetor, e assim sucessivamente até que todo o vetor esteja ordenado, denomina-se
+
+Alternativas:
+A. ordenação por seleção.
+B. ordenação merge sort.
+C. busca linear.
+D. busca binária
+E. ordenação por inserção.

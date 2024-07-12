@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Busca
+
+O algoritmo conhecido como busca binária é um algoritmo de desempenho ótimo para encontrar a posição de um item em 
+
+Alternativas:
+A. uma árvore B.
+B. uma lista ligada ordenada.
+C. uma árvore de busca binária.
+D. um heap binário.
+E. um vetor ordenado.

@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Filas
+
+Julgue o item a seguir acerca dos conceitos de estrutura de dados.       Sempre que houver uma remoção na estrutura de dados denominada fila, o elemento removido será aquele que está na estrutura há mais tempo.  
+
+Alternativas:
+A. Certo
+B. Errado

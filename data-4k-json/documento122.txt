@@ -1,0 +1,9 @@
+Banco de Dados MySQL
+
+Um administrador de banco de dados MySQL precisa realizar o restore do banco de dados "tjac_db", a partir de um arquivo de backup previamente criado com o nome backuptjac.sql. Para isso, deverá utilizar o comando: 
+
+Alternativas:
+A. insert into tjac_db from backuptjac.sql
+B. mysql -u root -p tjac_db < backuptjac.sql
+C. recover database tjac_db from backuptjac.sql
+D. restore database tjac_db from backuptjac.sqlsine

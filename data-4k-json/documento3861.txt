@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+Questão anulada  A respeito dos algoritmos de classificação, julgue o item a seguir.     No pior caso, quando o vetor está inversamente ordenado, o algoritmo booble sort executa n2 operações para a ordenação de um vetor de n elementos.  
+
+Alternativas:
+A. Certo
+B. Errado

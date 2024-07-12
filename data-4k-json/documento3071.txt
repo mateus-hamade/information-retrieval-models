@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+Em relação às estruturas de dados conhecidas como listas lineares, aquela em que as inserções e remoções são feitas somente em uma das extremidades é denominada:
+
+Alternativas:
+A. deque;
+B. fila;
+C. pilha;
+D. array;
+E. árvore.

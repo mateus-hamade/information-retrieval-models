@@ -1,0 +1,10 @@
+Engenharia de Software UML , Diagrama de Classes
+
+Considere o diagrama de classes UML a seguir.           As relações Classe A-Classe B, Classe B-Classe C e Classe B-Classe D são chamadas, respectivamente, de:  
+
+Alternativas:
+A. agregação, composição e generalização;
+B. agregação, generalização e composição;
+C. composição, generalização e agregação;
+D. generalização, agregação e composição;
+E. generalização, composição e agregação.

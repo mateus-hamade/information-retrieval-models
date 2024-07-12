@@ -1,0 +1,9 @@
+Engenharia de Software UML , Diagrama de Sequência
+
+No contexto da UML (Unified Modeling Language), o diagrama de sequência ajuda a
+
+Alternativas:
+A. ilustrar a estrutura estática de um sistema, destacando as classes e seus relacionamentos.
+B. modelar o fluxo de controle e as decisões em um sistema, enfocando a lógica de execução.
+C. descrever a distribuição física dos componentes em um ambiente de implantação.
+D. representar a interação entre objetos ao longo do tempo.

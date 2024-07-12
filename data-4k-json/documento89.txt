@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados Multidimensionais
+
+Seja o modelo multidimensional representado a seguir, refletindo uma dinâmica de vendas de produtos por vendedores e por região.         Considere que  I. os campos indicados como são os identificadores de suas respectivas tabelas;  II. na tabela “Vendas”, o atributo “cod_vendedor” referencia o identificador cod_vendedor da tabela “Vendedor”.  III. na tabela “Vendas”, o atributo “cod_regiao” referencia o identificador cod_regiao da tabela “Região”.  IV. na tabela “Vendas”, o atributo “cod_produto” referencia o identificador cod_produto da tabela “Produto”.  V. na tabela “Região”, o atributo “cod_cidade” referencia o identificador cod_cidade da tabela “Cidade”.   Ao analisar a semântica do modelo, é correto inferir que 
+
+Alternativas:
+A. a dimensão tempo está representada como tabela oculta.
+B. a menor granularidade de tempo é data da venda.
+C. existem quatro tabelas fato e uma tabela dimensão.
+D. implementa o esquema multidimensional estrela.
+E. um registro específico de venda pode se relacionar a várias cidades.

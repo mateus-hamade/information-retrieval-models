@@ -1,0 +1,10 @@
+Banco de Dados Data Mining
+
+No modelo de referência CRISP‑DM, a fase que é geralmente executada em várias iterações, nas quais os analistas de dados executam vários modelos, utilizando as configurações padrão, e vão ajustando os parâmetros para valores otimizados é a(o)
+
+Alternativas:
+A. implantação.
+B. modelagem.
+C. conhecimento do domínio do negócio.
+D. compreensão dos dados.
+E. preparação dos dados.

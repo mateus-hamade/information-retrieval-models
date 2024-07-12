@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+"__________ é um endereço de memória que proporciona um modo de acesso a uma variável sem referenciá-la, diretamente. Seu valor indica onde uma variável está armazenada, e não o que está armazenado." Qual das alternativas, a seguir, completa corretamente a lacuna? 
+
+Alternativas:
+A. Bloco.
+B. Booleano.
+C. Ponteiro.
+D. TAD.

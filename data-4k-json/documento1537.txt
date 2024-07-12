@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
+
+Acerca de: “Pode-se considerar um algoritmo como uma ferramenta para resolver um problema computacional bem especificado. O enunciado do problema especifica em termos gerais a relação desejada entre entrada e saída”. (CORMEN at all. Algoritmos. 3ª Ed, Elsevier, 2012). Sobre a complexidade de tempo do algoritmo, analise o algoritmo abaixo e assinale a opção correta:   
+
+Alternativas:
+A. O(n3).
+B. O(n2).
+C. O(n).
+D. O(n lg n).

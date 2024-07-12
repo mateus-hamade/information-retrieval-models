@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+Acerca de definições de classificação de dados e tipos abstratos de dados, julgue os itens que se seguem.   No algoritmo de ordenação denominado quicksort, escolhe-se um ponto de referência, denominado pivô, e separam-se os elementos em dois grupos: à esquerda, ficam os elementos menores que o pivô, e à direita ficam os maiores. Repete-se esse processo para os grupos de elementos formados (esquerda e direita) até que todos os elementos estejam ordenados.
+
+Alternativas:
+A. Certo
+B. Errado

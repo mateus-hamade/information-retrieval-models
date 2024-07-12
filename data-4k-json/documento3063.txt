@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+Qual, entre as tecnologias para armazenamento de dados abaixo, seria mais rápida para leitura de valores em sua estrutura, com os valores a serem acessados presentes em qualquer região da referida estrutura.
+
+Alternativas:
+A. Fila.
+B. Pilha.
+C. Lista ligada
+D. Pilha.
+E. Matriz.

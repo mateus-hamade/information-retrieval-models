@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Texto associado Árvore é uma estrutura hierárquica formada por um conjunto infinito de nós.  
+
+Alternativas:
+A. Certo
+B. Errado

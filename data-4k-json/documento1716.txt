@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Filas
+
+Qual estrutura de dados que opera sob a política FIFO (First in First out), ou seja, o primeiro que entrou é o primeiro a sair?
+
+Alternativas:
+A. Pilhas.
+B. Listas Sequenciais.
+C. Listas Simplesmente Encadeadas.
+D. Filas.
+E. Deques.

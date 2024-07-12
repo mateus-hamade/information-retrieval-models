@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Ainda que aprendizagem de máquina seja uma ferramenta poderosa para a aquisição automática de conhecimento, deve ser observado que não existe um único algoritmo que apresente o melhor desempenho para todos os problemas. Sobre os algoritmos empregados na aprendizagem de máquina, quando o desenvolvedor ajusta muito bem um algoritmo de aprendizado, ou os seus parâmetros, para otimizar o seu desempenho em todos os exemplos disponíveis ocorre: 
+
+Alternativas:
+A. Poda.
+B. Overfitting.
+C. Overturning.
+D. Completude.
+E. Prevalência de classe.

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Texto associado O algoritmo que implementa a função máximo é um:  
+
+Alternativas:
+A. Algoritmo guloso.
+B. Algoritmo de programação dinamica.
+C. Algoritmo de branch-and-bound.
+D. Algoritmo de busca exaustiva.
+E. Algoritmo de divisão e conquista.

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Uma das estruturas de bancos de dados é a que tem o formato conhecido por “árvore”. Nessas estruturas, cada registro tem apenas um possuidor. Esse modelo é chamado:
+
+Alternativas:
+A. hierárquico.
+B. indexado.
+C. block chain.
+D. relacional.
+E. sequencial.

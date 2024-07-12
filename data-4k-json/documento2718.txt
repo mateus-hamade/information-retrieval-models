@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
+
+Um laço de repetição executado dentro do algoritmo que utiliza uma estrutura de controle denominada:
+
+Alternativas:
+A. "enquanto", cujo teste de condição falsa realizado no final do laço, após a instrução ou bloco de instruções, pode ser executado no mínimo uma vez.
+B. "repita", cujo teste de condição falsa realizado no início do laço, antes da instrução ou bloco de instruções, pode ser executado zero, uma ou muitas vezes.
+C. "enquanto", cujo teste de condição falsa realizado no final do laço, após a instrução ou bloco de instruções, pode ser executado zero, uma ou muitas vezes.
+D. "repita", cujo teste de condição verdadeira realizado no final do laço, após a instrução ou bloco de instruções, pode ser executado no mínimo uma vez.
+E. "enquanto", cujo teste de condição verdadeira realizado no início do laço, antes da instrução ou bloco de instruções, pode ser executado zero, uma ou muitas vezes.

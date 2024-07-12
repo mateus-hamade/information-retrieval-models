@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+Com relação a classificação de dados, julgue os itens que se seguem.   O método de classificação Shellsort iguala-se ao método Quicksort em termos de complexidade temporal, porém é mais eficiente para quantidades pequenas a moderadas de dados.  
+
+Alternativas:
+A. Certo
+B. Errado

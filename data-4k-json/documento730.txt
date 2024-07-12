@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados
+
+Considere as seguintes afirmações sobre a normalização de boyce/codd:  I. A normalização de boyce/codd é uma forma normal estritamente mais forte que a forma 4FN. II. Para aplicação da normalização boyce/codd, é necessário que a variável relacional tenha duas ou mais chaves candidatas, as chaves candidatas sejam compostas e que ocorra superposição de atributos. III. A forma de boyce/codd é definida somente se toda dependência funcional (DF) não trivial e irredutível à esquerda tem uma chave candidata como determinante.  Assinale a alternativa CORRETA, conforme Date (2004, p. 610):
+
+Alternativas:
+A. Apenas a afirmação I está correta.
+B. As afirmações I e II estão corretas.
+C. Apenas a afirmação II está correta.
+D. As afirmações II e III estão corretas.
+E. As afirmações I, II e III estão corretas.

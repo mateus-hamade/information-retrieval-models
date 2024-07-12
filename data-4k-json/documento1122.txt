@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Listas
+
+A camada de uma rede convolucional que tem como função primária reduzir progressivamente o tamanho espacial do volume de dados de entrada por meio do mapeamento de seções de features e diminuição dos pesos de treinamento é denominada camada de
+
+Alternativas:
+A. convolução.
+B. ativação.
+C. pooling.
+D. normalização.

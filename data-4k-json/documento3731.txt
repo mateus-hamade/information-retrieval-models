@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+Um órgão público adotou dois sistemas de senhas para atender os cidadãos na ordem de chegada.  O sistema I atende os não idosos. O sistema II atende os idosos.  Nessa situação, 
+
+Alternativas:
+A. tanto o sistema I, quanto o II, adotam o esquema LIFO de organização de dados.
+B. o sistema I, adota o esquema LIFO de organização de dados e o II, o esquema FIFO.
+C. tanto o sistema I, quanto o II, adotam o esquema FIFO de organização de dados.
+D. o sistema I, adota o esquema FIFO de organização de dados e o II, o esquema LIFO.
+E. tanto o sistema I, quanto o II, adotam o esquema Árvore Binária de organização de dados.

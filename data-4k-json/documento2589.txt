@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Fluxogramas
+
+O Diagrama de Blocos ou Fluxograma representa graficamente um algoritmo por meio de símbolos, e setas unindo esses símbolos. Dentro dessas formas, normalmente, são escritas instruções em pseudocódigo. Na imagem a seguir são apresentadas 4 figuras geométricas, as quais representam:  
+
+Alternativas:
+A. I) Operação manual, II) Processamento, III) Disco magnético, IV) Terminal.
+B. I) Conector, II) Display, III) Decisão, IV) Controle.
+C. I) Terminal, II) Processo Predefinido, III) Conector, IV) Preparação.
+D. I) Terminal, II) Processamento, III) Decisão, IV) Entrada Manual.
+E. I) Controle, II) Processamento, III) Decisão, IV) Terminal.

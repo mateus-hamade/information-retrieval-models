@@ -1,0 +1,9 @@
+Engenharia de Software Processos de Software , Modelo em cascata
+
+A construção de projeto de sistemas possui uma prática complexa devido à quantidade de ações e tarefas envolvidas. Para facilitar o desenvolvimento do projeto, existem modelos de processos, como o modelo cascata. A fase do modelo cascata que define as estimativas de recursos necessários e o cronograma é:
+
+Alternativas:
+A. construção
+B. modelagem
+C. comunicação
+D. planejamento

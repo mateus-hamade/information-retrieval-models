@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Filas
+
+Sobre a estrutura de dados em filas, analise as assertivas e, em seguida, assinale a alternativa que apresenta a(s) correta(s).  I. Uma fila é uma lista linear em que todas as inserções são realizadas em um extremo da lista, e todas as retiradas no outro extremo. Normalmente, os acessos são realizados no mesmo extremo da lista em que são feitas as retiradas.  II. Em uma implementação por meio de arranjo (vetores), os itens são armazenados em posições contíguas de memória. Por causa das características da fila, o enfileiramento (inserção na fila) faz a parte de trás da fila expandir-se e o desenfileiramento (remoção) faz a parte da frente da fila contrair-se. Consequentemente, a fila tende a caminhar pela memória do computador, ocupando espaço na parte de trás e descartando espaço na frente da fila. Com poucas inserções e retiradas de itens, a fila vai ao encontro do limite do espaço da memória alocado para ela.  III. Em uma fila implementada por meio de apontadores, a implementação se dá por meio de células. Cada célula contém um item da fila e um apontador para a outra célula. Também é necessário utilizar apontadores para a frente da fila e para a parte de trás da fila.  
+
+Alternativas:
+A. Apenas I.
+B. Apenas II.
+C. Apenas I e II.
+D. Apenas II e III.
+E. I, II e III.

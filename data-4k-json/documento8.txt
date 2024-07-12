@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+No contexto dos subconjuntos da SQL, em qual deles está presente os comandos CREAT e DROP?
+
+Alternativas:
+A. DQL – Linguagem de Consulta de Dados;
+B. DTL – Linguagem de Transação de Dados;
+C. DML – Linguagem de Manipulação de Dados;
+D. DCL – Linguagem de Controle de Dados;
+E. DDL – Linguagem de Definição de Dados.

@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados
+
+Em desenvolvimento de sistema de computação, os dados que oferecem a opção de serem utilizados livremente, reutilizados e redistribuídos são chamados de 
+
+Alternativas:
+A. dados móveis.
+B. inteligência.
+C. conhecimento.
+D. dados estruturados.
+E. dados abertos.

@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados
+
+Gatilhos (triggers) e procedimentos armazenados (stored procedures) são componentes fundamentais em sistemas de gerenciamento de banco de dados (SGBDs) relacionais. Tanto os gatilhos quanto os procedimentos armazenados desempenham papéis vitais e, muitas vezes, complementares em aplicações baseadas em banco de dados relacionais, sendo escolhidos de acordo com as necessidades específicas de uma aplicação ou de um sistema. A respeito de gatilhos e de procedimentos armazenados, tem-se que 
+
+Alternativas:
+A. tanto os gatilhos quanto os procedimentos armazenados são executados manual e explicitamente por um usuário ou por um programa de aplicação, e não podem ser disparados automaticamente por eventos de atualização em um banco de dados.
+B. tanto os gatilhos quanto os procedimentos armazenados são disparados automaticamente por eventos de atualização em um banco de dados, e não podem ser ativados manual e explicitamente por um usuário ou por um programa de aplicação.
+C. gatilhos, ao contrário dos procedimentos armazenados, não podem expressar a lógica de regras de negócios, e são utilizados exclusivamente para validação de dados.
+D. gatilhos são disparados automaticamente em resposta a eventos de atualização em um banco de dados, enquanto procedimentos armazenados precisam ser chamados explicitamente.
+E. gatilhos e procedimentos armazenados não podem coexistir em um mesmo sistema de banco de dados, pois possuem funcionalidades idênticas e redundantes.

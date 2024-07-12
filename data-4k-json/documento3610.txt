@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Busca
+
+Texto associado O método de pesquisa binária de cálculo de endereço é empregado tanto para a pesquisa quanto para a organização física de tabelas.
+
+Alternativas:
+A. Certo
+B. Errado

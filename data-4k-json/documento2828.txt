@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Em uma estrutura de dados em árvore binária, necessariamente,
+
+Alternativas:
+A. cada nó apresenta 0 ou 2 filhos.
+B. todos os dados armazenados são binários.
+C. o número total de nós é da forma 2n – 1, sendo n um número inteiro positivo.
+D. o número de nós externos (folhas) é da forma 2n , sendo n um número inteiro positivo.
+E. o número de nós internos é da forma 2n – 1, sendo n um número inteiro positivo.

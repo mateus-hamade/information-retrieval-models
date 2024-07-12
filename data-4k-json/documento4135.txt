@@ -1,0 +1,10 @@
+Engenharia de Software UML , Diagrama de Atividades
+
+A UML versão 2.5 possui um grande conjunto de tipos de diagramas distintos. O diagrama abaixo indica as etapas de confecção de um bolo.     O diagrama é do tipo  
+
+Alternativas:
+A. fase.
+B. estado.
+C. transição.
+D. atividade.
+E. comunicação.

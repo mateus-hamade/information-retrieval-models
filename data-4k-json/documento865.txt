@@ -1,0 +1,10 @@
+Banco de Dados DER - Diagrama de Entidade e Relacionamento
+
+Em um relacionamento entre as entidades Aluno e Disciplina, em que cada aluno pode estar matriculado em mais de uma disciplina e cada disciplina pode ter muitos alunos matriculados nela, tem-se qual razão de cardinalidade?
+
+Alternativas:
+A. 0:1
+B. 1:1
+C. 1:N
+D. N:1
+E. M:N

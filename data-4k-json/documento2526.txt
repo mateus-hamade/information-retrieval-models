@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
+
+Com relação à estrutura de controle conhecida como repetir ... até que ..., assinale V para a afirmativa verdadeira e F para a falsa. ( ) O bloco de instruções dentro do loop, é executado pelo menos uma vez. ( ) A execução da estrutura termina, quando o teste da condição retorna o valor lógico falso. ( ) A execução da estrutura permanece em loop, enquanto o teste da condição retorna o valor lógico verdadeiro. As afirmativas são, respectivamente, 
+
+Alternativas:
+A. F, V e F.
+B. F, V e V.
+C. V, F e F.
+D. V, V e F.
+E. F, F e V.

@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados
+
+Um dos integrantes da equipe de sistemas do TJAP, analisando a documentação de um sistema de um fornecedor, deparou-se com o acrônimo ODBC (Open Database Connectivity).  O ODBC é:
+
+Alternativas:
+A. uma linguagem de programação usada para criar interfaces gráficas em bancos de dados MySQL;
+B. uma biblioteca específica para o processamento de transações distribuídas em bancos de dados Postgres;
+C. um padrão aberto que permite a conectividade entre aplicativos e diferentes bancos de dados;
+D. um gerenciador de bancos de dados utilizado para otimizar consultas e transações em grandes volumes de dados;
+E. exclusivo para bancos de dados Oracle, facilitando a conexão e a interoperabilidade entre sistemas heterogêneos.

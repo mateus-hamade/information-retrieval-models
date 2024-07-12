@@ -1,0 +1,9 @@
+Banco de Dados SGBD - Sistema de Gerenciamento de Banco de Dados
+
+Um modelo conceitual é uma descrição do banco de dados de forma independente de implementação em um SGBD (Sistema de Gerenciamento de Banco de Dados). Este modelo registra que dados podem aparecer no banco de dados, mas não registra como estes dados estão armazenados a nível de SGBD. As duas cardinalidades máximas que são geralmente consideradas no modelo conceitual são: 
+
+Alternativas:
+A. 0 e 1.
+B. 1 e 2.
+C. 1 e n.
+D. 0 e x.

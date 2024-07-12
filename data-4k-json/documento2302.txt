@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Acerca da estrutura de dados do tipo árvore, considere o gráfico a baixo e assinale a única alternativa INCORRETA.  
+
+Alternativas:
+A. A estrutura de dados do tipo árvore trata-se de um conjunto de nós formado por um nó raiz, no gráfico representado pelo nó 18, no qual logo abaixo estão as subárvores que a compõem.
+B. No gráfico, os nós 6, 14, 19 e 31 são chamados de folhas e possuem grau zero.
+C. Os nós 10 e 20 estão no nível 1 da estrutura da árvore e são descendentes do nó raiz.
+D. A árvore do gráfico não está balanceada.
+E. A altura (h) dos nós 4, 14, 19 e 31 é zero (h=0).

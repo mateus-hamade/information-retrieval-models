@@ -1,0 +1,10 @@
+Segurança da Informação Políticas de Segurança de Informação
+
+Algumas das razões que justificam que uma organização autorize o desenvolvimento e implantação de políticas e normas de segurança da informação são:
+
+Alternativas:
+A. avanço tecnológico, explicitação das regras e legislação;
+B. patrocínio, avanço tecnológico e treinamento das pessoas;
+C. adequação às melhores práticas, legislação e explicitação das regras;
+D. exigência do mercado, necessidade do negócio e patrocínio;
+E. exigência do cliente, adequação às melhores práticas e necessidade do negócio.

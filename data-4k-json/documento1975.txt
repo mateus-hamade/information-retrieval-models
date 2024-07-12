@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
+
+Nas linguagens de programação, existem diversos tipos de instrução. Analisando o pseudocódigo a seguir, assinale a alternativa que define o tipo de instrução que realiza sua operação. Pseudocódigo: “Enquanto houver maçãs podres no cesto, retire-as e jogue fora.”
+
+Alternativas:
+A. Instrução de seleção
+B. Instrução de repetição.
+C. Instrução de seleção múltipla.
+D. Instrução de evolução.
+E. Instrução de decremento.

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+A maneira mais óbvia de fazer uma busca é comparar o elemento que se está procurando com todos os elementos guardados um a um, isto é, procurar o elemento sequencialmente até que ele seja encontrado. Sobre a busca sequencial, analise as assertivas e, em seguida, assinale a alternativa que apresenta a(s) correta(s).  I. O algoritmo que realiza essa busca é realmente muito simples e consiste em uma estrutura de repetição que “varre” toda a sequência de elementos, realizando uma condicional que compara o elemento desejado com os elementos existentes na sequência.  II. A execução da rotina de busca termina somente quando a condição de busca é satisfeita.  III. A busca sequencial é indicada para pesquisa numa lista ordenada.  
+
+Alternativas:
+A. Apenas I.
+B. Apenas II.
+C. Apenas III.
+D. Apenas I e II.
+E. Apenas II e III.

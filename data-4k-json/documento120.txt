@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+Assinale a opção que apresenta a cláusula SQL que permite extrair dados em determinado intervalo. 
+
+Alternativas:
+A. find in
+B. like
+C. alias
+D. between
+E. ranges

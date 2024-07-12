@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Recursividade
+
+Algoritmo I    Algoritmo II    Considerando os algoritmos I e II acima, que são, respectivamente, recursivo e iterativo, assinale a opção correta. 
+
+Alternativas:
+A. Procedimentos ou funções podem incluir chamadas a si mesmo, o que caracteriza uma recursão, como se verifica linha 12 do algoritmo I. Com o auxílio da recursividade, esse algoritmo utiliza a estratégia de dividir o vetor ao meio, sucessivamente, até encontrar o argumento procurado ou até que o valor máximo seja menor ou igual ao valor do atributo mínimo.
+B. A iteração é embasada em uma contagem (quantificação) do número de operações realizadas por cada bloco de comandos do algoritmo.
+C. Na linha 6 do algoritmo II, na parte interna do laço, ao se incrementar a variável i, é realizada, respectivamente, uma atribuição e uma soma.
+D. No algoritmo II, a variável i, entre as linhas 5 e 7, sai da estrutura de repetição com o valor 10.
+E. Na recursividade, é possível conhecer-se com precisão o número de vezes que as chamadas recursivas são executadas e, consequentemente, o número de execuções de cada bloco de comandos.

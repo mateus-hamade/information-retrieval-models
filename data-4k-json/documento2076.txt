@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Analise o trecho de pseudocódigo a seguir.        Em algumas linguagens de programação é possível fazer a passagem de parâmetros como byref ou byvalue, e assim podemos supor que a função ƒ acima poderia ser reescrita especificando, para cada parâmetro, uma das duas formas citadas.  Supondo-se que o primeiro e o segundo parâmetro da função tenham sido passados como byref e o terceiro, como byvalue, os quatro valores exibidos pelo comando print seriam, respectivamente, 
+
+Alternativas:
+A. 13, 6, 2 e 3.
+B. 13, 6, 4 e 3.
+C. 10, 10, 2 e 3.
+D. 13, 0, 0 e 3.
+E. 10, 8, 5 e 2.

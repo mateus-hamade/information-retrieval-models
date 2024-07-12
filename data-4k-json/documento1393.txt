@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
+
+Sobre a utilização de estruturas de repetição em algoritmos, assinale a alternativa que apresenta estrutura que executa um conjunto de instruções pelo menos uma vez antes de verificar a validade da condição estabelecida.
+
+Alternativas:
+A. repita...até_que
+B. faça...enquanto
+C. caso...seja...faça...senão...fim_caso
+D. enquanto...faça...fim_enquanto
+E. para...de...até...faça...fim_para

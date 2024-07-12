@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados
+
+Em um sistema de banco de dados em que mais de uma transação está sendo executada de forma concorrente, qual é a propriedade que determina que o efeito de executá-las em paralelo seja o mesmo efeito de executá-las sequencialmente, uma de cada vez, sem sobreposição entre elas? 
+
+Alternativas:
+A. Consistência.
+B. Atomicidade.
+C. Constância.
+D. Isolamento.
+E. Confiabilidade.

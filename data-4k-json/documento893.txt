@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+Qual o caractere especial SQL que designa um parâmetro SQL?
+
+Alternativas:
+A. #
+B. $
+C. &
+D. @
+E. %

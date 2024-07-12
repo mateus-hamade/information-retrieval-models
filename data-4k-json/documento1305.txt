@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+A estrutura de dados árvore herda as características das topologias em árvore, cujos dados estão dispostos de forma hierárquica, tendo como o elemento principal uma raiz que se liga a outros elementos através dos seus galhos. Após análise da equipe de desenvolvimento, foi observado que essa estrutura é amplamente utilizada em diversas situações como ordenação de pastas de um sistema operacional, interfaces gráficas e banco de dados; portanto, o time ficou definido que a estrutura pode ser perfeitamente empregada dentro do projeto de desenvolvimento de uma nova aplicação de controle financeiro a ser desenvolvida. Sobre o tipo de estrutura, analise as afirmativas a seguir.  I. Os nós que não possuem filhos são denominados nós folha. II. A altura de uma árvore representa a distância entre a raiz e um nó folha do maior nível da árvore. III. O grau é a propriedade que qualifica os nós de uma árvore, definindo a quantidade de filhos que cada nó possui.  Está correto o que se afirma em
+
+Alternativas:
+A. I, II e III.
+B. I, apenas.
+C. II, apenas.II, apenas.
+D. III, apenas.
+E. I e II, apenas.

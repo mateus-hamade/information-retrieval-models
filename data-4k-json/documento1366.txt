@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
+
+Em bancos de dados, especialmente quando distribuídos, surge o problema de garantir que uma certa transação seja processada corretamente quando tem efeitos em diferentes sistemas, ou nós. Um dos algoritmos utilizados nesse tipo de transação é conhecido originalmente como:
+
+Alternativas:
+A. Common knowledge;
+B. Lock/unlock;
+C. Mutual exclusion;
+D. Transaction Logs;
+E. Two-phase commit.

@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Busca
+
+Texto associado No acesso a registros em um arquivo sequencial, todos os registros são percorridos desde o início até que se encontre o registro desejado. 
+
+Alternativas:
+A. Certo
+B. Errado

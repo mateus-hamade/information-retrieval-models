@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Analise as afirmativas a seguir:     I - Um algoritmo possui uma sequência finita de instruções ou operações básicas, não ambíguas, executáveis em um tempo finito e que resolve um problema computacional em qualquer uma de suas instâncias.  II - A eficiência de um programa é avaliada em função do espaço de memória utilizado e do tempo que o programa consome para ser executado. O espaço de memória ocupado pelo programa é determinado pela quantidade de rotinas de seleção e/ou repetição utilizadas em sua estrutura.  III - Tipos abstratos de dados podem ser considerados como generalizações de tipos primitivos de dados e um exemplo são as Listas Lineares. Pela mesma ótica, procedimentos podem ser considerados generalizações de operações primitivas como adição, subtração e multiplicação.  IV - Os algoritmos exponenciais são geralmente simples variações de pesquisa exaustiva, enquanto algoritmos polinomiais são geralmente obtidos através de um entendimento mais profundo da estrutura do problema.     É correto o que se afirma em:  
+
+Alternativas:
+A. II e III, apenas.
+B. I, II e IV, apenas.
+C. I, III e IV, apenas.
+D. I, II e III, apenas.
+E. II, III e IV, apenas.

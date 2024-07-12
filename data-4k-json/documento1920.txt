@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Considerando as proposições abaixo, assinale a alternativa que contém a proposição bicondicional p↔q. p: Luiza é bela. q: Marta é morena.
+
+Alternativas:
+A. Se Luiza é bela, então Marta não é morena.
+B. Se Luiza é bela, então Marta é morena.
+C. Marta é morena e Luiza é bela.
+D. Se Luiza é bela, então Marta é morena.
+E. Se Luiza é bela, então Marta não é morena.

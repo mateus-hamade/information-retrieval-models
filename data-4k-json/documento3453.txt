@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Tipos de Dados
+
+NÃO é um tipo de dados considerado primitivo: 
+
+Alternativas:
+A. real.
+B. inteiro.
+C. lógico.
+D. caracter.
+E. matriz.

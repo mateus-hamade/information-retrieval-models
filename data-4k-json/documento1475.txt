@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Fluxogramas , Estrutura de Dados ( assuntos)
+
+Sabendo que o diagrama a seguir apresenta um padrão de projeto orientado a objetos, assinale a alternativa que apresenta corretamente o nome do padrão usado no diagrama.  
+
+Alternativas:
+A. Strategy.
+B. Factory.
+C. Bridge.
+D. Template Method.
+E. BCE (Boundary, Control, Entity).

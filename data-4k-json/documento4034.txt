@@ -1,0 +1,9 @@
+Sistemas Operacionais Linux
+
+Se um administrador de uma rede Linux quiser saber qual o endereço IP de um dispositivo host da rede associado ao endereço MAC 08-00-57-3B-2C-F3, é apropriado trabalhar com o protocolo:
+
+Alternativas:
+A. ARP
+B. NTP
+C. SNMP
+D. XMPP

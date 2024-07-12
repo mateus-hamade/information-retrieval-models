@@ -1,0 +1,9 @@
+Arquitetura de Computadores Arquitetura de processadores: RISC, CISC, WISC e Microprocessadores.
+
+Assinale uma característica correta de um processador de arquitetura RISC (Reduced Instruction Set Computing).
+
+Alternativas:
+A. Usa o maior conjunto de instruções entre todos os processadores.
+B. É menos comum em arquiteturas de processadores para dispositivos móveis.
+C. É um processador que usa um conjunto de instruções simples, em quantidade reduzida e muito otimizada.
+D. Ele não consegue determinar a quantidade e a complexidade das instruções suportadas por um chip.

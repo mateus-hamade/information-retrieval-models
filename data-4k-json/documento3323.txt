@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+Ao se tratar de classificação parcial de um conjunto de dados, o método mais indicado, de forma geral, é o Quicksort Parcial.  
+
+Alternativas:
+A. Certo
+B. Errado

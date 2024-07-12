@@ -1,0 +1,10 @@
+Banco de Dados SGBD - Sistema de Gerenciamento de Banco de Dados
+
+Assinale a alternativa que NÃO apresenta uma característica do SGBD MongoDB.
+
+Alternativas:
+A. É relacional.
+B. É orientado a documentos.
+C. Armazena dados no formato BSON (Binary JSON).
+D. É NoSQL (Not only SQL).
+E. É multiplataforma.

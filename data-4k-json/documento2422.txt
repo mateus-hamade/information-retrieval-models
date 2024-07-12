@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Qual das expressões lógicas abaixo NÃO pode ser usada para determinar se um dado mês do ano tem 31 dias?
+
+Alternativas:
+A. NOT(MES=4 AND MES=6 AND MES=9 AND MES=11 AND MES=2)
+B. NOT(MES=4 OR MES=6 OR MES=9 OR MES=11 OR MES=2)
+C. (MES>7 AND MES MOD2=0) OR (MES<8 AND MESMOD2=1)
+D. MES=1 OR MES=3 OR MES=5 OR MES=7 OR MES=8 AND MES=10 AND MES=12
+E. MES NOT=4 AND MES NOT=6 AND MES NOT=9 AND MES NOT=11 AND MES NOT=2

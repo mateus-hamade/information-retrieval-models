@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Analise o algoritmo abaixo, em que ocorre passagem de parâmetros de N para PX por referência e de L para PY por valor.    Ao final da execução, as variáveis N, R e L terão, respectivamente, os seguintes valores:
+
+Alternativas:
+A. 2, 2.8 e VERDADEIRO.
+B. 2, 4.4 e FALSO.
+C. 2, 4.4 e VERDADEIRO.
+D. 22, 2.8 e FALSO.
+E. 22, 4.4 e VERDADEIRO.

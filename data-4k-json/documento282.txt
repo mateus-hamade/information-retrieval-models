@@ -1,0 +1,9 @@
+Banco de Dados SQL
+
+Segurança em aplicações web é uma preocupação essencial para proteger dados e garantir a integridade das informações.  Sobre práticas de segurança em aplicações web, assinale a alternativa que apresenta CORRETAMENTE práticas que contribuem significativamente para mitigar ataques de injeção SQL em aplicações web:
+
+Alternativas:
+A. Utilizar cookies seguros para autenticação de usuários.
+B. Validar e sanitizar entradas de dados do usuário antes de incorporá-las em instruções SQL.
+C. Expor detalhes técnicos das mensagens de erro, incluindo informações de SQL, para facilitar a depuração.
+D. Armazenar senhas no banco de dados em texto claro para facilitar a recuperação em caso de esquecimento.

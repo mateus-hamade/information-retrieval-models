@@ -1,0 +1,10 @@
+Banco de Dados PL-SQL
+
+PL/SQL é uma linguagem estruturada em blocos, elemento fundamental para se escrever um código. Em PL/SQL, um bloco é delimitado pelas palavras reservadas: 
+
+Alternativas:
+A. BEGIN END;
+B. START STOP;
+C. OPEN CLOSE;
+D. LOOP END LOOP;
+E. DECLARE EXCEPTION.

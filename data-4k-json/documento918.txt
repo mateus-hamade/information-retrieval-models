@@ -1,0 +1,10 @@
+Banco de Dados PostgreSQL
+
+Considere que em um banco de dados PostgreSQL 13, aberto e funcionando em condições ideais, existam duas tabelas: Cidades (com os campos NomeCidade e Estado) e Populacao (com os campos Cidade, NumHabitantes, NumVaras). A tabela Cidades foi criada pelo comando: CREATE TABLE Cidades (NomeCidade VARCHAR(80) PRIMARY KEY, Estado VARCHAR(40)); Para que, ao se inserir ou atualizar algum registro na tabela Populacao, seja verificado se o campo Cidade corresponde a uma cidade existente na tabela Cidades, deve-se utilizar uma chave estrangeira. Isso é feito utilizando o comando SQL na criação da tabela Populacao: CREATE TABLE Populacao (Cidade VARCHAR(80) ....I..... , NumHabitantes INT, NumVaras INT); A lacuna I é corretamente preenchida com
+
+Alternativas:
+A. FOREIGN KEY (Cidade) REFERENCES Cidades(NomeCidade)
+B. FOREIGN KEY REFERENCES Cidades(NomeCidade)
+C. REFERENCES Cidades(NomeCidade)
+D. FOREIGN KEY Cidades(NomeCidade)
+E. REFERENCES FOREIGN KEY (Cidade) TO Cidades(NomeCidade)

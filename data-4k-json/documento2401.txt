@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Considere a figura abaixo e assinale a alternativa que contém todas as afirmações corretas.        I. A figura representa uma Árvore Binária de Busca (BST – Binary Search Tree). Se ela for percorrida em-ordem (inorder), a sequência de nodos visitados será: 2, 4, 7, 6, 8, 10, 9, 13, 12, 14, 20, 25, 31.  II. A figura representa uma Árvore Binária de Busca (BST – Binary Search Tree). Se ela for percorrida em pós-ordem (posorder), a sequência de nodos visitados será: 10, 7, 2, 4, 8, 6, 14, 13, 9, 12, 25, 20, 31.  III. A figura representa uma Árvore Binária de Busca (BST – Binary Search Tree). Se ela for percorrida em pré-ordem (preorder), a sequência de nodos visitados será: 4, 2, 6, 8, 7, 9, 12, 13, 20, 31, 25, 14, 10.  IV. A figura não representa uma Árvore Binária de Busca (BST – Binary Search Tree).  
+
+Alternativas:
+A. Somente a I.
+B. I, II e III.
+C. Somente a IV.
+D. I e II.

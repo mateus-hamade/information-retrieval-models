@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+O algoritmo a seguir ilustra o emprego de uma função recursiva.     Após a chamada RR(N,N-1), a função retornará um valor igual a:  
+
+Alternativas:
+A. 6
+B. 5
+C. 1
+D. 0

@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
+
+No que se refere a procedimentos e funções, às estruturas de controle de fluxo nas linguagens de programação e à arquitetura J2EE, julgue o item que segue.     A condição, na estrutura de repetição while, é testada antes de se executar o conjunto de instruções.  
+
+Alternativas:
+A. Certo
+B. Errado

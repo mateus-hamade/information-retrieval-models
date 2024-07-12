@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
+
+No que diz respeito à programação de computadores, observea estrutura de dadosPILHAP, suportando trêsoperações básicas, conforme definidas no quadro I - DEFINIÇÕES.        Considere uma pilha P&L inicialmente vazia e a sequência de operações indicadas no quadro II – OPERAÇÕES.         Ao final das operações, o elemento que se encontra no topo da pilha é:  
+
+Alternativas:
+A. JARDIM ALVORADA
+B. SANTA CRUZ
+C. SÃO JOSÉ
+D. BELA VISTA

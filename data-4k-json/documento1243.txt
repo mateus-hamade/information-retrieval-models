@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Hashing
+
+O hashing é uma técnica amplamente utilizada em várias áreas da computação. Esse processo é essencial para a criação de estruturas de dados eficientes, permitindo a indexação eficaz, verificação de integridade de dados e segurança em sistemas de software e redes. Define corretamente a estrutura de dados Hash Table (Tabela de Hashing): 
+
+Alternativas:
+A. Tabela que armazena dados em ordem alfabética.
+B. Tabela usada exclusivamente para criptografar senhas.
+C. Transforma dados em uma representação visual com base na hash table.
+D. Estrutura de dados que mapeia chaves para valores com base em funções de hashing.

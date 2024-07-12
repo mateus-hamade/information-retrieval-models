@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Texto associado Considerando o algoritmo, o número de vezes que os blocos Então e Senão serão executados, respectivamente, será:
+
+Alternativas:
+A. 5 e 0
+B. 4 e 1
+C. 2 e 3
+D. 1 e 4
+E. 0 e 5

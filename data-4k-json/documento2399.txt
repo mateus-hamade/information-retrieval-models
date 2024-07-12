@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
+
+Considere que os itens W, X, Y e Z foram inseridos nessa ordem em uma pilha. Necessariamente, o último elemento a ser removido dessa pilha é o elemento
+
+Alternativas:
+A. W
+B. X
+C. Y
+D. Z

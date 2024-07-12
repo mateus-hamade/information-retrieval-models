@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+São métodos ou algoritmos conhecidos de ordenação de dados por troca: 
+
+Alternativas:
+A. ordenação shell e hashing.
+B. busca por ordenação e ordenação shell.
+C. quicksort e hashing.
+D. hashing e bubble sort.
+E. bubble sort e quicksort.

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Fluxogramas
+
+Fluxograma convencional é uma representação gráfica de algoritmos onde formas geométricas diferentes implicam ações (instruções, comandos) distintas. Tal propriedade facilita o entendimento das ideias contidas nos algoritmos e justifica sua popularidade. Sendo assim, analise a imagem abaixo e responda corretamente.           A forma geométrica representada acima, é utilizada para:  
+
+Alternativas:
+A. operação de entrada de dados.
+B. operação de atribuição.
+C. início e final do fluxograma.
+D. decisão.
+E. operação de saída de dados.

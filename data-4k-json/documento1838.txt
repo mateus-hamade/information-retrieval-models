@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
+
+Considere o código-fonte que segue:     int f1(int n) {       if (n == 0 II n == 1) return n;       else return (2 * f1(n-1) + 3 * f1(n-2)); }  int f2(int n) {       int a; int[] X = new int [n];       int[] X = new int [n]; int[] Z = new int [n];        X [0] = Y [0] = Z [0] = 0;        X [1] = 1; Y [1] = 2; Z [1] = 3;        for (a = 2; a <= n; a ++) {              X [a] = Y [a-1] + Z [a-2];              Y [a] = 2 * X [a]; Z [a] = 3 * X [a]; }        return X [n]; }     Qual é o tempo de execução de f1(n) e f2(n), respectivamente?   
+
+Alternativas:
+A. O(2n) e O(2n).
+B. O(n) e O(2n).
+C. O(2n) e O(n).
+D. O(n) e O(n).
+E. O(n) e O(log n).

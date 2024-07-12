@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
+
+Julgue o próximo item, no que se refere a estruturas de controle de fluxo.    // codigo 1 i = 1 fim = 7 enquanto i < fim faça  escreva(i)  i = i + 1 fim enquanto depois = i // codigo 2 fim = 6 i = 0 enquanto i < fim faça  i = i + 1  escreva(i) fim enquanto depois = i Considerando a estrutura precedente, é correto afirmar que o código 1 e o código 2 apresentam o mesmo resultado.  
+
+Alternativas:
+A. Certo
+B. Errado

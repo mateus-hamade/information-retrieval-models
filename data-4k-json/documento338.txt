@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados Relacionais
+
+Uma transação ACID em banco de dados relacionais é uma sequência de operações que satisfaz às propriedades
+
+Alternativas:
+A. atomicidade, consistência, isolamento e durabilidade.
+B. atomicidade, consistência, integridade e distributividade.
+C. atomicidade, confidencialidade, isolamento e durabilidade.
+D. autenticidade, consistência, integridade e distributividade.
+E. autenticidade, confidencialidade, integridade e durabilidade.

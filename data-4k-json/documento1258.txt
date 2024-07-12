@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Complexidade de Algoritmos
+
+Para aplicar uma cifra de bloco em diferentes situações, o National Institute of Standards and Technology (NIST) define alguns modos de operações usados para aprimorar o efeito do algoritmo criptográfico ou para adaptar o algoritmo para uma aplicação em particular. Em um desses modos de operação, a primeira entrada do algoritmo criptográfico é o resultado do XOR entre os primeiros 64 bits de texto claro e um vetor de inicialização (IV), e as demais entradas do algoritmo criptográfico são o resultado do XOR entre os próximos 64 bits de texto claro e os 64 bits anteriores de texto cifrado. Esse modo de operação é o
+
+Alternativas:
+A. EBC
+B. CBC
+C. CFB
+D. CTR
+E. OFB

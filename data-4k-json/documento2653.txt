@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Filas
+
+A respeito de algoritmos e estruturas de dados, julgue o próximo item.  Fila de prioridades é um tipo abstrato de dados que permite executar algumas operações: por exemplo, a operação INSERT (S,x) insere o elemento x no conjunto S e a operação MAXIMUM (S) retorna o elemento de S que possui a maior chave.  
+
+Alternativas:
+A. Certo
+B. Errado

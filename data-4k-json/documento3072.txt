@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+Qual das alternativas abaixo indica um algoritmo de ordenação?
+
+Alternativas:
+A. Shift sort.
+B. Weber sort.
+C. Vary sort.
+D. Bubble sort.
+E. Proxy sort.

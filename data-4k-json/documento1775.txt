@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
+
+No contexto das estruturas de dados, considere uma pilha (stack) onde as seguintes operações foram executadas. CLEAR PUSH (12) PUSH (14) POP PUSH (20) PUSH (15) POP PUSH (19) Assinale a opção que indica o número de elementos e o valor do elemento localizado no topo da pilha, ao final das operações. 
+
+Alternativas:
+A. 3 / 12
+B. 3 / 15
+C. 3 / 19
+D. 5 / 12
+E. 5 / 19

@@ -1,0 +1,9 @@
+Banco de Dados Modelagem de dados
+
+O processo de se dividir um determinado tipo de entidade em um conjunto de subclasses, em que a entidade que dá origem às demais é conhecida como superclasse, denomina-se:
+
+Alternativas:
+A. Generalização
+B. Especialização
+C. Hierarquização
+D. Disjunção

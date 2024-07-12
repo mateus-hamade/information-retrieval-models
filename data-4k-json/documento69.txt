@@ -1,0 +1,10 @@
+Banco de Dados Modelo relacional
+
+A normalização é um passo importante para quem está modelando um banco de dados relacional e, certamente, resulta em uma maior eficiência na hora de abstrair o banco e seus atributos. A quarta forma normal é focada em
+
+Alternativas:
+A. eliminar dependências multivariadas entre os atributos chave, isto é, se há mais atributos que se repetem na tabela.
+B. identificar os campos que não dependem da chave primária e dependem de um outro campo não chave.
+C. organizar os atributos que dependem uns dos outros, porém que não são atributos-chaves (primárias ou estrangeiras).
+D. possíveis redundâncias nas tabelas e define se os atributos da tabela dependem inteiramente da chave primária.
+E. tratar as repetições e certificar que os atributos estão sendo armazenados de forma única.

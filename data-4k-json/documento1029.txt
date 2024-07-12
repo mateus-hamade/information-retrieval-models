@@ -1,0 +1,10 @@
+Banco de Dados Metadados e Metainformação
+
+Seguindo o atual contexto de criação, organização e manipulação de informações armazenadas nas chamadas “bibliotecas digitais”, a principal forma de acesso às informações e diferentes conteúdos encontrados nesses documentos é 
+
+Alternativas:
+A. registros físicos.
+B. artefatos.
+C. disseminação
+D. armazenamento.
+E. metadados.

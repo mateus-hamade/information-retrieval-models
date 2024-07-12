@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Considere o pseudo-programa abaixo, em relação à sua execução completa.Considere o pseudo-programa abaixo, em relação à sua execução completa.        Assinale a alternativa que indica os valores para as variáveis "aux", "a", "b", e "i", respectivamente.     (Observação: a variável “i” incrementa de valores unitários: 0, 1, 2, 3, ...)  
+
+Alternativas:
+A. 8, 5, 8, 4.
+B. 8, 5, 8, 5.
+C. 13, 5, 13, 4.
+D. 13, 8, 8, 5.
+E. 13, 8, 13, 5.

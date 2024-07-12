@@ -1,0 +1,9 @@
+Banco de Dados SQL
+
+Texto associado Escolha a sentença SQL, considerando o padrão ANSI, que MELHOR responda à consulta "Listar o codigo e o assunto das reuniões sem pautas cadastradas.":
+
+Alternativas:
+A. SELECT codigo, assunto FROM REUNIAO INNER JOIN PAUTAS ON codigo <> reuniao;
+B. SELECT codigo, assunto FROM REUNIAO RIGHT JOIN PAUTAS ON codigo = reuniao;
+C. SELECT codigo, assunto FROM REUNIAO WHERE NOT EXISTS (SELECT 1 FROM PAUTAS WHERE reuniao=codigo);
+D. SELECT codigo, assunto FROM REUNIAO WHERE codigo NOT IN (SELECT * FROM PAUTAS);

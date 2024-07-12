@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos
+
+O algoritmo de escalonamento de processos round-robin é um dos mais tradicionais de sua categoria. Seu funcionamento consiste em ser
+
+Alternativas:
+A. preemptivo e usar a lógica “primeiro que entra é o primeiro que sai” para acessar o tempo de processamento de CPU.
+B. não preemptivo e atribuir tempo de processamento da CPU ao menor processo da fila a ser executada.
+C. preemptivo e atribuir um valor uniforme de tempo chamado quantum a todos os processos para rodarem na CPU.
+D. não preemptivo e atribuir tempo de processamento da CPU ao processo que possua o menor tempo restante.

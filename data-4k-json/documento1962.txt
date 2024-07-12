@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Busca , Lógicas de Programação
+
+No que se refere à lógica de programação, julgue o item a seguir. A pesquisa sequencial de uma tabela, ou seja, pela comparação do argumento da pesquisa com a chave de cada entrada, terá o desempenho reduzido se a tabela for ordenada a partir do valor da chave.  
+
+Alternativas:
+A. Certo
+B. Errado

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Considere que a Manausprev armazena os nomes dos beneficiários de aposentadorias em uma Árvore Binária de Busca - ABB. Ao se armazenar, nesta ordem, os nomes Marcos, José, Carolina, Paula, Rui, Pedro e Maria, a ABB resultante
+
+Alternativas:
+A. é perfeitamente balanceada.
+B. tem altura 3, que corresponde à altura mínima para armazenar os 7 nomes.
+C. possui como folhas os nomes Rui e Maria.
+D. requer no máximo 3 comparações para localizar qualquer um dos 7 nomes.
+E. requer no máximo 4 comparações para localizar qualquer um dos 7 nomes.

@@ -1,0 +1,10 @@
+Banco de Dados Dicionário de Dados , Banco de Dados
+
+O modelo de objetos, além do diagrama correspondente, deve ser complementado com
+
+Alternativas:
+A. o diagrama de fluxo de dados.
+B. o diagrama global dos fluxos.
+C. os diagramas de estados.
+D. as restrições.
+E. o dicionário de dados.

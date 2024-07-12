@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Sendo a e b variáveis inteiras em um programa, a expressão lógica                       NÃO ((a > b) OU (a = b))  é equivalente a:  
+
+Alternativas:
+A. (a ≤ b);
+B. (a ≥ b);
+C. (a < b);
+D. (a > b);
+E. NÃO (a = b).

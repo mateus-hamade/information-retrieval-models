@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Uma árvore de expressão para representação não ambígua de expressões aritméticas utiliza a estrutura de uma árvore
+
+Alternativas:
+A. binária.
+B. B.
+C. B+.
+D. Quad.
+E. circular.

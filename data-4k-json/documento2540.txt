@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Filas
+
+As Filas em C na estrutura de dados são também chamadas de:
+
+Alternativas:
+A. Tree.
+B. Stack.
+C. Queue.
+D. List.

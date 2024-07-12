@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados
+
+No contexto de bancos de dados, “é dito que uma tabela está nessa forma normal se todos os atributos contêm apenas um valor correspondente, singular, e não existem grupos de atributos repetidos, e se os registros na tabela, que não são chaves, dependam da chave primária em sua totalidade, e não apenas parte dela.”     Disponível em: <https://medium.com/@diegobmachado/>.  Acesso em: 6 mar. 2021, com adaptações.     A que forma normal essa definição se refere? 
+
+Alternativas:
+A. Segunda
+B. Primeira
+C. Terceira
+D. Quarta
+E. Quinta

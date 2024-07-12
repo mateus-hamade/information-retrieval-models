@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+Observe a seguinte consulta SQL, feita no SQLite:  SELECT imagem, avg(imagem) OVER (PARTITION BY grau) AS media_grau FROM historico_bijecao;  O SQLite dispõe de vários tipos de função. Na consulta acima, a função avg foi usada como uma função do tipo:
+
+Alternativas:
+A. core;
+B. math;
+C. window;
+D. ordinary scalar;
+E. ordinary aggregate.

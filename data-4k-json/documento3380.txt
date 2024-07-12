@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Analise o algoritmo a seguir:  Algoritmo Cálculo var n, r, cont: inteiro início    fim  Se forem lidos os valores 2, 5, 7, 3 e 4, 
+
+Alternativas:
+A. a saída será 840.
+B. haverá um erro, pois o resultado de um cálculo envolvendo a variável r não pode ser armazenado na própria variável r.
+C. a saída será 210.
+D. haverá um erro, pois o valor gerado será maior do que uma variável do tipo inteiro pode suportar.
+E. a saída será 0.

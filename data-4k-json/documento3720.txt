@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Grafos , Listas
+
+Texto associado Por meio de uma lista de adjacência, é possível representar um grafo acíclico.
+
+Alternativas:
+A. Certo
+B. Errado

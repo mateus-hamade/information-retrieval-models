@@ -1,0 +1,10 @@
+Banco de Dados Oracle
+
+A utilização de expressões regulares permite especificar padrões de busca. Quando os dados de entrada casam com a regra, tem-se um match. Acerca desse assunto, assinale a opção correta.  
+
+Alternativas:
+A. O Oracle 10g possui funções SQL que suportam a utilização de expressões regulares. No entanto, essas funções estão restritas aos tipos de dados CHAR e CLOB.
+B. A expressão regular F[A-Z]*A$ retorna palavras como FALA, FACA ou FACAS.
+C. A expressão regular F[a-Z]*A$ retorna palavras como FALA, FalA ou FacAs.
+D. O comando grep do Linux permite a utilização de expressões regulares. Por exemplo, grep F*A$ TEXTO.TXT encontrará FALA, FACA ou FEIA, caso o arquivo em questão contenha tais palavras.
+E. A expressão regular FA.A retorna palavras tais como FALA ou FAXA, mas não FA!A. O ponto pode substituir qualquer caractere do alfabeto, exceto sinais de pontuação ou caracteres especias.

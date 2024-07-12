@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Recursividade
+
+Texto associado O método de recursividade deve ser utilizado para avaliar uma expressão aritmética na qual um procedimento pode chamar a si mesmo, ou seja, a recursividade consiste em um método que, para que possa ser aplicado a uma estrutura, aplica a si mesmo para as subestruturas componentes. 
+
+Alternativas:
+A. Certo
+B. Errado

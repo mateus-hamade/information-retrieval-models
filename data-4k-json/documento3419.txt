@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+A figura abaixo representa uma árvore B em que as letras correspondem às chaves atualmente armazenadas em cada nó.    Considere que a cada nó está associado um identificador, um número no conjunto {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}. O identificador de cada nó foi definido, durante a varredura da árvore, para imprimir suas chaves em ordem lexicográfica crescente. Durante essa varredura, quando um nó era acessado pela primeira vez para imprimir uma de suas chaves, ele era associado ao seu identificador. Como resultado, o nó que contém a primeira chave impressa, durante a varredura, possui identificador igual a 1, e assim por diante, de tal forma que o nó que contém as últimas chaves impressas possui identificador igual a 10. Após a varredura para essa impressão, houve uma busca na árvore pela letra R.  Considerando-se a numeração de nós definida por aquela varredura, qual a sequência de nós examinada na busca por R? 
+
+Alternativas:
+A. 3, 6, 8
+B. 4, 2, 6
+C. 4, 9, 7
+D. 5, 3, 9
+E. 5, 7, 8

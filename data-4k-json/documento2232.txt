@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Grafos
+
+Considere os grafos I e II mostrados abaixo.       É correto afirmar que  
+
+Alternativas:
+A. I é um grafo bipartido.
+B. II é um grafo Euleriano.
+C. os grafos I e II são isomorfos entre si.
+D. I é um grafo Hamiltoniano.
+E. II é um grafo planar.

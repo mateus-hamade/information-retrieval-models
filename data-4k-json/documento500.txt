@@ -1,0 +1,10 @@
+Banco de Dados SGBD - Sistema de Gerenciamento de Banco de Dados
+
+Um dos objetivos primordiais de um Sistema de Gerenciamento de Banco de Dados (SGBD) é a manutenção da integridade de dados sob seu controle. Para tentar garantir a integridade de um banco de dados, os SGBDs oferecem o mecanismo de restrição de integridade. Na abordagem relacional, uma restrição de integridade é uma regra de consistência que normalmente é garantida pelo próprio SGBD. Neste cenário, a ______________________ define que os valores dos campos que aparecem em uma chave estrangeira devem aparecer na chave primária da tabela referenciada. Adaptado de Carlos A. Heuser. Projeto de Banco de Dados. 6. ed. São Paulo: Bookman, 2009.  A restrição de integridade que preenche a lacuna é  
+
+Alternativas:
+A. Integridade de domínio.
+B. Integridade referencial.
+C. Integridade de vazio.
+D. Integridade de chave.
+E. Integridade semântica.

@@ -1,0 +1,10 @@
+Banco de Dados Data Mining
+
+Assinale a alternativa que indica corretamente a técnica de mineração de dados que tem como objetivo primário identificar relacionamentos através de modelos de dependência entre variáveis distintas em grandes bancos de dados.
+
+Alternativas:
+A. Análise classificatória
+B. Mineração de texto
+C. Regras de associação
+D. Detecção de anomalias
+E. Análise de agrupamentos (clusterização)

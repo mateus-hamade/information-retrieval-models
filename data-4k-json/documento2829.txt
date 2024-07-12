@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+A estrutura de dados que organiza os dados na lógica: primeiro a entrar – primeiro a sair, é
+
+Alternativas:
+A. vetor.
+B. pilha.
+C. árvore.
+D. fila.

@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados Relacionais
+
+DDL (Data Definition Language) em bancos de dados relacionais é extremamente importante, para se definir estruturas de dados, modificar estruturas existentes, entre outras aplicações que podem ser utilizadas. Desta forma assinale a alternativa correta, com base na instrução descrita abaixo.  ALTER TABLE funcionários ADD COLUMN data_contratação DATE DEFAULT CURRENT_DATE;  Assinale a alternativa que apresenta qual a finalidade desta instrução.
+
+Alternativas:
+A. Adiciona uma nova coluna chamada data_contratação à tabela funcionários com valor padrão como a data atual
+B. Adiciona uma nova coluna chamada data_contratação à tabela funcionários sem valor padrão
+C. Adiciona uma nova coluna chamada data_contratação à tabela clientes
+D. Remove a tabela funcionários
+E. Remove a tabela   funcionários

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+Acerca de estruturas de informação, assinale a opção correta.  
+
+Alternativas:
+A. Em uma árvore de expressão, os nodos terminais armazenam operadores aritméticos e os nodos não- terminais armazenam valores.
+B. Uma splay tree é uma estrutura de pesquisa balanceada que usa regras explícitas para forçar seu balanceamento. A operação de espalhamento é realizada no nodo mais alto encontrado durante uma inserção, uma deleção ou uma pesquisa.
+C. Em árvores parcialmente ordenadas, as chaves dos nós de nível N+1 são necessariamente maiores que as chaves de nível N.
+D. Um nó com grau maior que zero indica que o nó possui, pelo menos, um filho.
+E. A ordem de execução das operações para percorrer as subárvores da esquerda e da direita e para visitar o nó independe do tipo de caminhamento, seja ele prefixado, central ou pós-fixado.

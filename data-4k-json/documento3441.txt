@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Acerca de pseudocódigo, descrição narrativa e fluxograma, que são usados para a descrição de algoritmos, julgue os próximos itens.  Para especificar os passos de um algoritmo, o pseudocódigo utiliza uma linguagem natural com característica pouco formal, o que pode causar ambiguidade e propiciar interpretações errôneas.
+
+Alternativas:
+A. Certo
+B. Errado

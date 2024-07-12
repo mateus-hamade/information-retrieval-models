@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Fluxogramas
+
+Considere o fluxograma abaixo.        Qual a faixa de valores da variável I que será impressa?  
+
+Alternativas:
+A. 1 a 5.
+B. 1 a 6.
+C. 2 a 5.
+D. 2 a 6.
+E. 1 a 7.

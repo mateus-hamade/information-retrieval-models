@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
+
+Considere a estrutura de dados PILHA suportando três operações básicas, conforme definidas no quadro I abaixo.  Considerando-se uma pilha SJM inicialmente vazia e a sequência de operações indicadas no quadro II, ao final das operações o elemento que se encontra no topo da pilha é:  
+
+Alternativas:
+A. VW.
+B. FIAT.
+C. HONDA.
+D. RENAULT.
+E. HYUNDAI.

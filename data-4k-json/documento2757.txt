@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Analise o pseudocódigo mostrado a seguir.   var i: inteiro  var j: inteiro  para i:= 1 até 2  begin           if i < 2           then k=i*2           else k=i           para j:= i até k           begin                  print (i+j)           end  end   Sabendo-se que nesse código cada ocorrência do comando print produz uma linha na saída, está correto afirmar que o número de linhas produzidas é:  
+
+Alternativas:
+A. 3
+B. 5
+C. 7
+D. 9
+E. 11

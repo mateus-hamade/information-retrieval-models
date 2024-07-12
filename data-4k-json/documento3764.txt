@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+Considerando as definições de estruturas de dados e a declaração tipo nó :: reg (dado: inteiro; próximo: ref nó), na qual reg é um registro contendo os campos: dado, que guarda valores inteiros, e próximo, que guarda endereço de outro nó, assinale a opção correta. 
+
+Alternativas:
+A. O tipo nó é inadequado para implementar estruturas de dados do tipo pilha.
+B. As listas, pilhas, filas e árvores são estruturas de dados que têm como principal característica a sequencialidade dos seus elementos.
+C. Uma lista duplamente encadeada é uma lista em que o seu último elemento referencia o primeiro.
+D. O algoritmo para inclusão de elementos em uma pilha é usado sem nenhuma alteração para incluir elementos em uma lista.
+E. O uso de recursividade é totalmente inadequado na implementação de operações para manipular elementos de uma estrutura de dados do tipo árvore.

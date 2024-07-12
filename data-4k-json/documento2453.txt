@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Considere o algoritmo a seguir:        A operação % representa o resto da divisão entre dois inteiros.     Assinale a alternativa que indica o valor que será impresso  
+
+Alternativas:
+A. 5.
+B. 6.
+C. 7.
+D. 8.
+E. 9.

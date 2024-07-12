@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Hashing
+
+Julgue o item seguinte, quanto aos conceitos da programação estruturada e da programação orientada a objetos e aos métodos de ordenação, pesquisa e hashing.     Os elementos-chave nas funções de hashing são sempre números naturais.  
+
+Alternativas:
+A. Certo
+B. Errado

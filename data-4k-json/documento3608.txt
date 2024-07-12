@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação , Estrutura de Dados ( assuntos)
+
+Texto associado O método recursivo que utiliza pilhas para executar um procedimento geralmente é automático, de modo que os compiladores podem acionar os procedimentos préprogramados para manipular essas pilhas.
+
+Alternativas:
+A. Certo
+B. Errado

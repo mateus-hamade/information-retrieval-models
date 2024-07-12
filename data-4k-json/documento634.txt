@@ -1,0 +1,10 @@
+Banco de Dados Administração de banco de dados
+
+Com o advento dos bancos de dados distribuídos, é fundamental compreender os diferentes modelos de consistência que podem ser adotados para garantir a integridade dos dados. Considerando um banco de dados distribuído que possui múltiplas réplicas que armazenam as mesmas informações, ao atualizar um valor em uma réplica, espera-se que todas as réplicas tenham os mesmos dados após a conclusão da atualização. O modelo que garante essa propriedade é o modelo de consistência: 
+
+Alternativas:
+A. Forte.
+B. Eventual.
+C. Linearizável.
+D. Causal.
+E. Serializável.

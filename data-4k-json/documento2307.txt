@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Paulo propôs a Rodrigo um jogo, no qual Paulo escolhe um número entre 1 e 32 que Rodrigo deve tentar adivinhar. A cada palpite de Rodrigo, Paulo dá uma pista, dizendo se o palpite é igual, maior ou menor que o número escolhido. Se for igual o jogo é encerrado.     Assinale a opção que indica o número máximo de palpites que Paulo necessitaria até anunciar o número sorteado. 
+
+Alternativas:
+A. 4
+B. 6
+C. 8
+D. 16
+E. 32

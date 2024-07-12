@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Filas , Pilhas
+
+Insira os dados de entrada numa fila. Em seguida retire cada dado da fila e insira numa pilha. Mostre a pilha. Depois retire os dados da pilha e insira na fila. Mostre a fila.  Dados de entrada: 11, 12, 23, 14, 25, 50, 8, 18, 29, 10  As estruturas mostradas ficam  I. Pilha: (topo) 10 - 29 - 18 - 8 - 50 - 25 - 14 - 23 - 12 - 11  II. Fila: (começo) 11 - 12 - 23 - 14 - 25 - 50 - 8 - 18 - 29 - 10 (fim)  III. Fila: (começo) 10 - 29 - 18 - 8 - 50 - 25 - 14 - 23 - 12 - 11 (fim)  IV. Pilha: (topo) 11 - 12 - 23 - 14 - 25 - 50 - 8 - 18 - 29 - 10  V. A fila mostrada fica com os elementos em ordem invertida dos dados de entrada  Está correto o que se afirma APENAS em 
+
+Alternativas:
+A. III e IV.
+B. II e IV.
+C. I, II e III.
+D. I, III e V.
+E. I, IV e V.

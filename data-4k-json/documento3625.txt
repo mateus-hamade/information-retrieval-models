@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Recursividade
+
+Considere o algoritmo a seguir que define a função recursiva "f".    Qual o valor retornado pela função "f" ao ser invocada passando o valor 4 como argumento? 
+
+Alternativas:
+A. 0
+B. 1
+C. 2
+D. 3
+E. 4

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+A técnica que consiste em comparar elementos adjacentes em um vetor e permutar seus valores se eles estiverem fora de ordem é conhecida como 
+
+Alternativas:
+A. ordenação por seleção.
+B. ordenação de Shell.
+C. ordenação vetorial.
+D. ordenação por inserção.
+E. ordenação por bolhas.

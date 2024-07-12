@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Analise as seguintes afirmativas referentes às árvores.  I. Todos os nós podem ser acessados a partir da raiz. II. São estruturas de dados muito eficientes no armazenamento de grandes quantidades de dados. III.São estruturas de dados versáteis, pois existem vários caminhos entre a raiz e qualquer outro nó.  A partir dessa análise, é possível concluir que estão CORRETAS
+
+Alternativas:
+A. apenas as afirmativas I e II.
+B. apenas as afirmativas I e III.
+C. apenas as afirmativas II e III.
+D. as três afirmativas.

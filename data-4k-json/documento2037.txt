@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Estrutura de Dados ( assuntos)
+
+Seja uma lista linear L com n elementos (n>5), o primeiro elemento está na posição 1 (um), o segundo elemento está na posição 2 (dois), e assim por diante. As operações para L são:             insere(L, elemento, k): inserir elemento em L, tal que elemento fique na posição k;          remove(L, k): remover de L o elemento que está na posição k e retornar o elemento removido.        Considere o pseudocódigo abaixo:          para i = 1 até n, faça              <instrução-X>          fim-para       Se o propósito do pseudocódigo é inverter a ordem dos elementos da Lista L, então <instrução-X> pode ser:  
+
+Alternativas:
+A. insere(F, remove(F, i), n–i)
+B. insere(F, remove(F, i), n–i+1)
+C. insere(F, remove(F, i), 1)
+D. insere(F, remove(F, i), n)

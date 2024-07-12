@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+São métodos (algoritmos) de busca em cadeias  
+
+Alternativas:
+A. Boyer-Moore e Knuth-Morris-Pratt.
+B. Boyer-Moore e fusão natural.
+C. Knuth-Morris-Pratt e fusão balanceada multidirecional.
+D. Fusão direta e Knuth-Morris-Pratt.
+E. Boyer-Moore e ordenação polifásica.

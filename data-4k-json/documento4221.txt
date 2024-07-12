@@ -1,0 +1,9 @@
+Segurança da Informação Auditoria de Sistemas
+
+Qual é o objetivo principal da auditoria de posição no contexto do ambiente de tecnologia da informação?
+
+Alternativas:
+A. Realizar testes de segurança nos sistemas de informação.
+B. Implementar novos controles de segurança da informação.
+C. Avaliar o desempenho dos usuários de tecnologia da informação.
+D. Revisar e avaliar as recomendações e verificar a aplicação dos controles.

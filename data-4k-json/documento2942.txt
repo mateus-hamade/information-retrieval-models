@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
+
+No que concerne a complexidade e eficiência de algoritmos, é correto afirmar que
+
+Alternativas:
+A. o desenvolvimento de um algoritmo adequado depende do desempenho do hardware; portanto, o projeto de hardware é mais importante que a proposta de algoritmo.
+B. com o avanço da tecnologia, o desenvolvimento de algoritmos passou a ser irrelevante para o desempenho de aplicações.
+C. o uso de algoritmo leva necessariamente a ganhos extraordinários de desempenho.
+D. um algoritmo está correto se, e somente se, o desempenho do computador for otimizado com seu uso.
+E. avanços em compiladores e em ferramentas de busca usadas na Internet podem ser produzidos por melhorias em algoritmos.

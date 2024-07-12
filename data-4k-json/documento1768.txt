@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+O algoritmo abaixo contém a função FNC21(X).   Após a execução, as variáveis N e S mostrarão, respectivamente, os seguintes valores: 
+
+Alternativas:
+A. 5 e 15
+B. 5 e 51
+C. 8 e 15
+D. 8 e 51

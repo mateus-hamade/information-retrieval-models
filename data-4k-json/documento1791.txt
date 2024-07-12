@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Filas , Listas ( assuntos)
+
+Sobre estruturas de dados elementares, assinale a alternativa INCORRETA.
+
+Alternativas:
+A. Em uma pilha, é implementada uma política LIFO (last-in, first-out).
+B. Ao tentar extrair algo de uma pilha vazia, acontece um erro de estouro negativo.
+C. Em uma lista ligada, a ordem dos objetos é definida pelo índice da lista.
+D. Nas filas, a política implementada é a FIFO (first-in, first-out).
+E. O atributo topo de uma pilha indexa o elemento mais recentemente inserido.

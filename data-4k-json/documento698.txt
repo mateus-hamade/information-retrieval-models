@@ -1,0 +1,9 @@
+Banco de Dados Banco de Dados Orientados a Objetos
+
+Assinale o conceito que, em banco de dados orientado a objetos, permite que um mesmo nome de operador esteja associado a duas ou mais implementações diferentes desse mesmo operador dependendo do tipo de objetos aos quais esse operador será aplicado.
+
+Alternativas:
+A. Acoplamento
+B. Herança
+C. Polimorfismo
+D. Semântica

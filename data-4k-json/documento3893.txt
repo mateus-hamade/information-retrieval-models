@@ -1,0 +1,9 @@
+Engenharia de Software Gestão de Projetos em Engenharia de Software
+
+Com o aumento da complexidade dos sistemas e a maior necessidade do setor de TI da empresa em fornecer um ambiente estável, a liberação de novo software precisa ser controlada com bastante atenção. Com isso, o uso da metodologia de gerenciamento de projetos PMBOK ajudará a definir itens, tal como
+
+Alternativas:
+A. conteúdo de liberação.
+B. licenciamento de software.
+C. procedimento de controle para documentação das mudanças.
+D. coleta de informações de sistema dentro do escopo do processo.

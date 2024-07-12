@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Matrizes em Estrutura de Dados
+
+A matriz em algoritmos é uma variável composta homogênea multidimensional. Ela é formada por uma sequência de variáveis, todas do mesmo tipo, com o mesmo identificador (mesmo nome), e alocadas sequencialmente na memória. Uma variável tipo matriz precisa de:
+
+Alternativas:
+A. Um índice para cada uma de suas dimensões.
+B. Várias variáveis do mesmo nome.
+C. Uma variável composta em cada dimensão criada.
+D. Pelo menos duas variáveis com o mesmo número em cada dimensão criada.

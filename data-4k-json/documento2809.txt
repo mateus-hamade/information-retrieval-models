@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+No que diz respeito a linguagens de programação e banco de dados, julgue o item a seguir.   O resultado final do algoritmo em português estruturado apresentado abaixo é 13524.   X[1]:=4 X[2]:=2 X[3]:=5 X[4]:=3 X[5]:=1 PARA J:=5 ATE 1 PASSO -1 FACA    PARA I:=1 ATE J-1 FACA       SE (X[I] > X[I+1]) ENTAO         AUX:= X[I]         X[I]:=X[I+1]         X[I+1]:=AUX       FIMSE     FIMPARA   FIMPARA    PARA I:=1 ATE 5 FACA      ESCREVA( (X[I])   FIMPARA    
+
+Alternativas:
+A. Certo
+B. Errado

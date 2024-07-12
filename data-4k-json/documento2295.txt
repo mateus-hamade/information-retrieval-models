@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Considerando a árvore mostrada, em que o nodo A é a raiz da árvore, a visita aos nodos feita em pré-ordem resultará na seguinte sequência: A B D E F C G.  
+
+Alternativas:
+A. Certo
+B. Errado

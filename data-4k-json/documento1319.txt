@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+    A figura precedente representa determinado algoritmo de aprendizado de máquina cujo objetivo é mostrar ou prever a relação entre duas variáveis. Trata-se do algoritmo de  
+
+Alternativas:
+A. Naïve Bayes.
+B. regressão logística.
+C. regressão linear.
+D. árvore de decisão.
+E. gradient boosting.

@@ -1,0 +1,10 @@
+Banco de Dados Administração de banco de dados
+
+Os elementos ambientais básicos definem cada área de conhecimento ou função da Gestão de Dados presentes no guia DAMA-DMBOK. São considerados alguns destes elementos:
+
+Alternativas:
+A. Tecnologia; entregas primárias; e, atividades.
+B. Práticas e técnicas; tecnologia; e, metas e princípios.
+C. Práticas e técnicas; entregas primárias; e, atividades.
+D. Papéis e responsabilidades; tecnologia; e, atividades.
+E. Metas e princípios; atividades; e, papéis e responsabilidades.

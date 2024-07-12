@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Filas , Pilhas
+
+Em estrutura de dados os conceitos de FILAS e PILHAS são usados para implementar diversos recursos computacionais que vão desde compiladores e interpretadores a mecanismos usados nas linguagens de programação para auxiliar os desenvolvedores no dia a dia. Sobre essas estruturas, quais das definições abaixo são corretas? 
+
+Alternativas:
+A. Nas FILAS é usado o princípio do primeiro a entrar é o último a sair, já as PILHAS obedecem a regra do primeiro a entrar é o último a sair.
+B. Nas FILAS é usado o princípio do primeiro a entrar é o primeiro a sair, já as PILHAS obedecem a regra do primeiro a entrar é o primeiro a sair.
+C. Nas FILAS é usado o princípio do segundo a entrar é o primeiro a sair, já as PILHAS obedecem a regra do último a entrar é o último a sair.
+D. Nas FILAS é usado o princípio do primeiro a entrar é o primeiro a sair, já as PILHAS obedecem a regra do primeiro a entrar é o último a sair.
+E. Nas FILAS é usado o princípio do primeiro a entrar é o segundo a sair, já as PILHAS obedecem a regra do segundo a entrar é o terceiro a sair.

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Observe a figura abaixo:   No código a variável J representa: 
+
+Alternativas:
+A. Número do jogo.
+B. Número de apostas.
+C. Jogo com mais marcações.
+D. índice da linha.
+E. Índice da coluna.

@@ -1,0 +1,9 @@
+Banco de Dados SQL , PostgreSQL
+
+Considere a execução do seguinte script SQL, criado para executar em um ambiente PostgreSQL, versão 15, para responder à Questão 28.   Ao finalizar a execução do script acima 
+
+Alternativas:
+A. ocorre erro de violação de chave estrangeira, na linha 29, e o registro não é excluído.
+B. o registro da tabela “Titulacao” é excluído e a chave estrangeira “titulacao_id” na tabela “Funcionario” receberá o valor nulo.
+C. o registro da tabela “Titulacao” é excluído, e a chave estrangeira “titulacao_id”, na tabela “Funcionario”, receberá o id da última “Titulacao” criada.
+D. o registro da tabela “Titulacao” é excluído, e todos os registros da tabela “Funcionario” vinculados à “Titulacao” excluída também serão excluídos.

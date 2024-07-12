@@ -1,0 +1,10 @@
+Banco de Dados SGBD - Sistema de Gerenciamento de Banco de Dados , SQL , PostgreSQL
+
+Analise o comando abaixo, escrito na linguagem SQL (Structured Query Language), o qual foi executado em um banco de dados de um SGBD PostgreSQL 9. TRUNCATE TABLE TB_USER; Considerando que a tabela TB_USER existe no banco de dados e que ela não está vazia, qual o resultado esperado após a execução do comando?
+
+Alternativas:
+A. Os campos com valores nulos serão atualizados para vazio ou zero, dependendo do tipo de dado.
+B. A tabela TB_USER será bloqueada para qualquer tipo de alteração.
+C. Todos os dados da tabela TB_USER serão excluídos, mas a estrutura da tabela será mantida.
+D. Serão removidas todas as restrições de integridade da tabela TB_USER, mas os dados serão mantidos.
+E. A tabela TB_USER será excluída do banco de dados.

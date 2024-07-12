@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Algoritmos consistem em sequências finitas de instruções bem definidas, fornecendo uma abordagem sistemática para resolver problemas computacionais complexos, sendo uma base fundamental na ciência da computação.
+
+Alternativas:
+A. Certo
+B. Errado

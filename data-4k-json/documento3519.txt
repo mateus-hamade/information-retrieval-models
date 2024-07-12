@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Listas
+
+Analise as seguintes sentenças.  I. Os nós de uma árvore binária precisam ser sequencialmente numerados de maneira que o nó-raiz inicie com zero e, a partir dele, os nós sejam numerados por níveis, de modo que os da direita sejam numerados antes dos da esquerda.  II. Árvores são estruturas de dados estáticas com sua raiz representada no nível um.  III. Uma lista linear utiliza ponteiros para a alocação dinâmica dos nós.  Assinale a alternativa correta. 
+
+Alternativas:
+A. Apenas I e II estão corretas.
+B. Apenas II e III estão corretas.
+C. Apenas I e III estão corretas.
+D. Apenas I está correta.
+E. Apenas III está correta.

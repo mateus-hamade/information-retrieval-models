@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Texto associado Ao final do algoritmo, o valor impresso da variável x foi:
+
+Alternativas:
+A. 8
+B. 10
+C. 14
+D. 24
+E. 30

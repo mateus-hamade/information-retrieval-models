@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos
+
+Observe o seguinte algoritmo, construído com VisualAlg 3.0.            Após a execução deste algoritmo, os valores finais de V[1], V[2] e V[3] serão, respectivamente, iguais a:   
+
+Alternativas:
+A. 2, 3 e 7
+B. 3, 2 e 7
+C. 7, 3 e 2
+D. 7, 7 e 7

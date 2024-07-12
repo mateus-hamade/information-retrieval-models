@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos
+
+No que diz respeito às formas de representação, as diferentes formas e respectivos algoritmos de realização das operações matemáticas são muito úteis, pois cada uma têm uma aplicação mais vantajosa que a outra. Cabe ao programador a escolha da forma a ser utilizada pelo sistema, podendo ser _______________, quando o programador define as variáveis e constantes em seu programa, ou _______________, quando é deixado para que o compilador faça a escolha.   Assinale a alternativa que preenche, correta e respectivamente, as lacunas do trecho acima.
+
+Alternativas:
+A. notações simbólicas – números binários
+B. explícita – implícita
+C. formas atuais – formas primitivas
+D. tipo caractere – tipo numérico
+E. Integer – real

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Grafos
+
+É uma noção simples, abstrata e intuitiva, usada para representar a ideia de alguma espécie de relação entre os objetos. Graficamente, aparece representado por uma figura com nós ou vértices. Trata-se dos 
+
+Alternativas:
+A. objetos geométricos.
+B. triângulos.
+C. grafos.
+D. dados.
+E. registros.

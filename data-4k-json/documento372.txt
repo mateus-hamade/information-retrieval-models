@@ -1,0 +1,10 @@
+Banco de Dados Administração de banco de dados
+
+A sigla ETL, originária do inglês, denota, no contexto da análise e exploração de dados, o processo de 
+
+Alternativas:
+A. modelagem conceitual, lógica e física.
+B. extração, transformação e carga de dados.
+C. padronização, agregação e limpeza de dados.
+D. estruturação, seleção e combinação de dados.
+E. exploração, tratamento e disponibilização de dados.

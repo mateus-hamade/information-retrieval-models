@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados , Listas
+
+Considere a estrutura de dados do tipo Lista Encadeada, em que os elementos são alocados na memória à medida que são inseridos na lista, e removidos à medida que são dela retirados. Em um dado momento, essa lista possui 5 elementos (E1, E2, E3, E4 e E5), de forma que E1 aponta para E2, E2 aponta para E3, E3 aponta para E4 e E4 aponta para E5. Deseja-se retirar o elemento E3 dessa lista. Com base nas informações apresentadas, assinale a alternativa que apresenta as ações necessárias para realizar essa operação.
+
+Alternativas:
+A. E2 passa a apontar para E3; Libera-se E2.
+B. E2 passa a apontar para E4; Libera-se E3.
+C. E3 passa a apontar para E2; Libera-se E3.
+D. E4 passa a apontar para E2; Libera-se E4.
+E. E4 passa a apontar para E3; Libera-se E4.

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Sobre o algoritmo abaixo, podemos afirmar que são variáveis globais:   
+
+Alternativas:
+A. X,Ye Z.
+B. X eY, somente.
+C. Ye Z, somente.
+D. somente X.
+E. X e Z, somente.

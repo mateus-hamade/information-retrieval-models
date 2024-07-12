@@ -1,0 +1,10 @@
+Engenharia de Software Gerência de Configuração
+
+O objetivo principal da criação de uma branch em um sistema de controle de versão como o Git é
+
+Alternativas:
+A. sincronizar automaticamente as alterações com um servidor remoto.
+B. comprimir os arquivos do repositório para economizar espaço em disco.
+C. reverter as alterações feitas em um arquivo.
+D. facilitar o trabalho colaborativo, permitindo que várias pessoas trabalhem em diferentes funcionalidades simultaneamente.
+E. excluir permanentemente um arquivo do repositório.

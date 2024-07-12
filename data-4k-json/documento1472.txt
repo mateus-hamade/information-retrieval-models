@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Temos diversas formas que podemos utilizar para representar um algoritmo.      A forma anterior, representa:  
+
+Alternativas:
+A. Pseudocodigo.
+B. Diagrama de Integração
+C. Fluxograma
+D. Diagrama de Chapin
+E. Diagrama de Sequencia

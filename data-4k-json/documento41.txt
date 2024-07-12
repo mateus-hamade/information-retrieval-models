@@ -1,0 +1,9 @@
+Banco de Dados PostgreSQL
+
+O PostgreSQL é um poderoso sistema de gerenciamento de banco de dados relacional de código aberto. Sobre as características do PostgreSQL, refere-se à maneira de iniciar o serviço do PostgreSQL no sistema Linux Ubuntu 23.10:
+
+Alternativas:
+A. Postgres start.
+B. Sudo start postgresql.
+C. Sudo service postgresql stop.
+D. Sudo systemctl start postgresql.

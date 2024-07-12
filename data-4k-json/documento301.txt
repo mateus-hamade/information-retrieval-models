@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados Relacionais
+
+Qual das seguintes afirmações sobre bancos de dados relacionais é correta? 
+
+Alternativas:
+A. Os bancos de dados relacionais armazenam dados em formato não tabular.
+B. O modelo relacional é baseado no conceito de chaves estrangeiras para estabelecer relações entre tabelas.
+C. No modelo relacional, uma chave primária é opcional e pode ser deixada em branco em uma tabela.
+D. Os bancos de dados relacionais não suportam transações ACID.
+E. Os bancos de dados relacionais não permitem a definição de restrições de integridade referencial.

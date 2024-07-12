@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Texto associado Com base no algoritmo acima, e supondo que o valor fornecido para "A" na linha "leia A" seja 3 e o valor fornecido para "B" na linha "leia B" seja 4, pode-se afirmar que o valor da variável "C" na linha "escreva C" é:
+
+Alternativas:
+A. 24
+B. 28
+C. 32
+D. 34
+E. 43

@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
+
+Quanto às estruturas de dados básicas e à linguagem de programação C++, julgue o item seguinte.  Na estrutura do tipo pilha, a mais simples das estruturas de dados, a operação de inserção de um elemento é denominada concatenação.  
+
+Alternativas:
+A. Certo
+B. Errado

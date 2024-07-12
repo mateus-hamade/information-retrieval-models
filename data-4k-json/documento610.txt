@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+Considerando que, em um banco de dados PostgreSQL 9.2, tenha sido identificado um lock causado por uma sessão com pid 13652, assinale a opção que apresenta o comando que deve ser executado para eliminar a sessão.
+
+Alternativas:
+A. select pg_terminate_backend(13652) from information_schema;
+B. execute pg_cancel_backend(13652);
+C. execute pg_terminate_backend(13652);
+D. execute immediate pg_terminate_backend(13652);
+E. select pg_terminate_backend(13652);

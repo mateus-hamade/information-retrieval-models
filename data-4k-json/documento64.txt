@@ -1,0 +1,9 @@
+Banco de Dados DW - Data Warehouse
+
+Leia e assinale CORRETAMENTE.  “É uma estrutura que consolida dados de vários sistemas de origem. O seu objetivo principal é oferecer uma correlação entre dados de diferentes sistemas de fonte de dados, por exemplo, informações de produtos armazenadas em um sistema e dados de pedidos de compra armazenados em outro sistema.”  O trecho diz respeito a(o):
+
+Alternativas:
+A. Data Mart
+B. Data Lake
+C. Data Warehouse
+D. Big Data

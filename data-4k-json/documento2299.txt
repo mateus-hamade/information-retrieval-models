@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+Analise as proposições abaixo sobre algoritmos e estrutura de dados:     I. Os métodos de ordenação por inserção e bolha possuem complexidade O(n2 ) em relação ao número de comparações.  II. Embora O(n2 ), o método de ordenação por inserção possui complexidade Ω(n) em relação ao número de comparações.  III. O método de ordenação por inserção, assim como o Quicksort, é estável.  IV. O método de ordenação Quicksort tem complexidade O(n2 ) em seu pior caso.     Assinale a alternativa CORRETA: 
+
+Alternativas:
+A. Somente as proposições I e III estão corretas.
+B. Somente as proposições I e IV estão corretas.
+C. Somente as proposições II e III estão corretas.
+D. Somente as proposições I, II e IV estão corretas.

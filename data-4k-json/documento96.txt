@@ -1,0 +1,10 @@
+Banco de Dados OLAP (On-line Analytical Processing)
+
+Os sistemas OLAP, com vistas a auxiliar o processo de tomada de decisão, geralmente oferecem um conjunto de operações pré-programadas. A operação que consiste em níveis cada vez maiores de detalhamento na análise de uma determinada dimensão é conhecida como 
+
+Alternativas:
+A. drill-down.
+B. pivoting.
+C. rolap.
+D. slice e dice.
+E. SMP

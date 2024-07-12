@@ -1,0 +1,10 @@
+Banco de Dados PostgreSQL
+
+Considere uma tabela de nome Pessoa, composta pelas colunas id (bigint) e nome (character varying). Uma instrução de SELECT correta, considerando a sintaxe empregada no PostgreSQL, é   
+
+Alternativas:
+A. SELECT tb.id FROM pessoa tb GROUP BY tb.nome;
+B. SELECT tb.id FROM pessoa WHERE tb.id>2 GROUP BY tb.id;
+C. SELECT tb.id,tb.nome FROM pessoa tb ORDER BY tb.nome,tb.id;
+D. SELECT * FROM pessoa tb GROUP BY tb.nome ORDER BY tb.id;
+E. SELECT * FROM pessoa tb WHERE tb.id= "1" ORDER BY tb.nome;

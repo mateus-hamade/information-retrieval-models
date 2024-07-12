@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos
+
+A biblioteca Scikit-Learn emprega o algoritmo Classification And Regression Tree (CART) para treinar Árvores de Decisão. O algoritmo CART baseia-se na recursividade e na estratégia de divisão binária para construir uma árvore de decisão. Inicialmente, a árvore é representada por um único nó, que contém todos os dados de treinamento. A cada passo, o algoritmo busca a melhor maneira de dividir o conjunto de dados. A recursividade continua até que uma condição de parada seja atendida, como atingir uma profundidade máxima da árvore. Uma vez construída a árvore, a fase de predição ocorre ao percorrer a estrutura da árvore de acordo com as condições estabelecidas nos nós, levando a uma predição (inferência) para uma determinada entrada. Considerando-se que n corresponde ao número de features e m ao número de instâncias, qual é a complexidade computacional assintótica de predição para árvores de decisão treinadas com o algoritmo CART?
+
+Alternativas:
+A. O(m)
+B. O(m2)
+C. O(n × m log(m))
+D. O(n2 × m log(m))
+E. O(log2 (m))

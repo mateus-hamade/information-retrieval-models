@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+No âmbito de bancos dados, especialmente NoSQL, o Teorema CAP sustenta que há três requerimentos básicos que existem numa relação especial quando se projeta uma aplicação com uma arquitetura distribuída. Basicamente, respalda a tese de que não se pode obter os três simultaneamente.     Esses três requerimentos são  
+
+Alternativas:
+A. Consistency, Atomic transactions e Partition.
+B. Concurrency Partition, Availability e Tolerance.
+C. Consistency, Availability e Partition Tolerance.
+D. Consistency, Atomic transactions e Persistency.
+E. Caching, Availability e Persistency.

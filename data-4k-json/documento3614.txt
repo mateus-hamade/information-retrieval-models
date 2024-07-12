@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+Texto associado A classificação interna por inserção é um método que realiza a ordenação de um vetor por meio da inserção de cada elemento em sua posição correta dentro de um subvetor classificado.
+
+Alternativas:
+A. Certo
+B. Errado

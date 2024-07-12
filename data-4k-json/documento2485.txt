@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Um robô foi programado para arrumar cada um dos 6 objetos diferentes em uma prateleira do móvel, representado a seguir, de modo que a arrumação de um dia nunca era a mesma dos dias anteriores.  Ele conseguiu fazer isso  
+
+Alternativas:
+A. por mais de 2 anos.
+B. entre 1 ano e meio e 2 anos.
+C. entre 1 ano e 1 ano e meio.
+D. entre 6 meses e 1 ano.
+E. por menos de 6 meses.

@@ -1,0 +1,9 @@
+Sistemas Operacionais Processos
+
+Em relação aos estados possíveis de um processo em um sistema operacional moderno, quando um determinado processo é interrompido por uma solicitação de disco, esse processo entrará no estado de:
+
+Alternativas:
+A. pronto
+B. terminado
+C. bloqueado
+D. em execução

@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+No contexto de bancos de dados NoSQL, sobre o uso de índices analise as afirmativas a seguir. I. O suporte a índices secundários é frequente nas implementações NoSQL mais amplamente usadas, como, por exemplo, MongoBD. II. Índices implementados em tabelas hash em bancos dados NoSQL permitem consultas por intervalos (range) com complexidade O(1). III. Em contraste aos bancos relacionais, árvores B constituem o tipo de índice mais utilizado em bancos NoSQL. Está correto o que se afirma em 
+
+Alternativas:
+A. I, apenas.
+B. I e II, apenas.
+C. I e III, apenas.
+D. II e III, apenas.
+E. I, II e III.

@@ -1,0 +1,9 @@
+Segurança da Informação Autenticação
+
+Tokens e smartcards são dispositivos utilizados em sistemas de segurança da informação para fornecer autenticação e autorização de usuários. Sobre as características desses dispositivos, analise as afirmativas e assinale a INCORRETA.
+
+Alternativas:
+A. Tokens são mais seguros do que smartcards devido à sua natureza física.
+B. Tokens são dispositivos de autenticação que geram senhas únicas e dinâmicas para cada login.
+C. Smartcards armazenam dados sensíveis, como chaves de criptografia, em um microchip embutido.
+D. Smartcards exigem um leitor de cartão para serem utilizados, enquanto tokens geralmente possuem um pequeno display para exibir senhas dinâmicas.

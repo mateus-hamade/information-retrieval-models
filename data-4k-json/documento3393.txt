@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Observe o algoritmo abaixo. Considerando Y=3, será impresso:  
+
+Alternativas:
+A. Número Negativo.
+B. Número Positivo.
+C. Zero.
+D. Fim do Algoritmo.
+E. Fim.

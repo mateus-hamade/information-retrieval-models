@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Observe a seguinte lógica de programação.  Este algoritmo escreve a saída  
+
+Alternativas:
+A. 3, 5, 7, 9
+B. 1, 3, 5, 7, 9
+C. 2, 4, 6, 8
+D. 1, 2, 4, 6, 8
+E. 1, 3, 5, 7, 8

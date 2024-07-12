@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Estrutura de Controle e Repetição
+
+Analise o algoritmo em pseudo código abaixo:    Considerando que uma nota válida deve possuir valores entre 0 e 10 (inclusive), a lacuna que corresponde à condição do comando SE é corretamente preenchida por 
+
+Alternativas:
+A. n1 >= 0 OU n1 <=10 OU n2 >= 0 OU n2 <=10
+B. (n1 >= 0 E n1 <=10) OU (n2 >= 0 E n2 <=10)
+C. (n1 >= 0 OU n1 <=10) E (n2 >= 0 OU n2 <=10)
+D. n1 >= 0 E n1 <=10 E n2 >= 0 E n2 <=10
+E. n1 > 0 E n1 <10 E n2 > 0 E n2 <10

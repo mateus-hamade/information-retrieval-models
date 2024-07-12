@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Listas
+
+A respeito de estruturas de dados, julgue o item seguinte.  A estrutura de uma lista encadeada mantém uma coleção de itens em ordem linear, sem, no entanto, exigir que eles ocupem posições consecutivas na memória
+
+Alternativas:
+A. Certo
+B. Errado

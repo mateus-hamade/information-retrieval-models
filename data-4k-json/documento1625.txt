@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Filas
+
+Sobre algoritmos e estrutura de dados, assinale a afirmativa correta.
+
+Alternativas:
+A. Listas encadeadas ou ligadas são estruturas de dados estáticas, o que significa que o número de nós não pode ser modificado durante a execução do programa.
+B. Pilhas são estruturas de dados do tipo FIFO (first-in first-out), em que o primeiro elemento a ser inserido será o primeiro a ser retirado.
+C. Árvores são estruturas de dados do tipo FIFO (first-in first-out), em que o primeiro elemento a ser inserido será o primeiro a ser retirado.
+D. Filas podem ser implementadas em listas encadeadas ou em vetores.
+E. Pilhas só podem ser implementadas em listas encadeadas.

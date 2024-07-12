@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Busca , Estrutura de Dados ( assuntos)
+
+Efetuar uma pesquisa dentro de uma tabela pode trazer melhores resultados se todos os  registros que a compõem   estiverem ordenados. Ao executar uma pesquisa, é feita uma comparação, entre a chave pesquisada e a chave que  está no meio dessa tabela. Se a chave pesquisada for menor, então ela poderá estar na primeira metade da tabela,  caso contrário, a chave pesquisada poderá estar na segunda metade da tabela. A árvore de pesquisa é uma estrutura  de dados muito eficiente para armazenar informação. Em uma árvore podem ser efetuados percursos, que são visitas  a cada um de seus nós. Dessa forma, visita-se todos os nós. Observe a seguinte estrutura de uma árvore.     Assinale, a seguir, o percurso em pós-ordem dessa árvore. 
+
+Alternativas:
+A. G, D, B, H, I, E, F, C, A.
+B. A, B, D, G, H, E, C, F, I.
+C. G, H, I, E, D, B, A, C, F.
+D. I, H, G, D, E, F, C, B, A.
+E. D, G, B, A, H, E, I, C, F.

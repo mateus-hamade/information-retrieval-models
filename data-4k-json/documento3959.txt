@@ -1,0 +1,10 @@
+Programação JavaScript , Linguagens de programação
+
+Para implementar o upload de um arquivo a partir de uma página web, Carlos utilizou a Application Programming Interface XMLHttpRequest. Para monitorar o progresso parcial durante o envio do arquivo, ele precisou acessar um atributo específico do objeto XMLHttpRequest e registrar um listener para determinado evento.  O atributo e o evento do XMLHttpRequest manipulados por Carlos são, respectivamente:
+
+Alternativas:
+A. request e load;
+B. upload e progress;
+C. upload e loadstart;
+D. request e progress;
+E. request e loadstart.

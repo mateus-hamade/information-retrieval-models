@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Considerada uma evolução da área de recuperação de informações, mineração de textos é um processo de descoberta de conhecimento, que utiliza técnicas de análise e extração de dados a partir de textos, frases ou apenas palavras. A primeira etapa do processo de descoberta de conhecimento em textos, a qual envolve a seleção dos dados que constituem a base de textos de interesse e o trabalho inicial para tentar selecionar o núcleo que melhor expressa o conteúdo destes textos é:
+
+Alternativas:
+A. Análise semântica.
+B. Seleção dos termos.
+C. Preparação dos dados.
+D. Indexação e normalização.
+E. Cálculo da relevância dos termos.

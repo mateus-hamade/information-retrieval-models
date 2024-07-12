@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Acerca de estrutura de dados e algoritmos, julgue o item a seguir.     As árvores B são caracterizadas por minimizarem os custos de tempo em discos magnéticos e possuírem, no máximo, dois filhos em cada nó.  
+
+Alternativas:
+A. Certo
+B. Errado

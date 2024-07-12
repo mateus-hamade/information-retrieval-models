@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Assinale a alternativa que apresenta uma forma correta de declaração de uma variável do tipo matriz no software VisuAlg 3.0.
+
+Alternativas:
+A. m = (0,4;0,2) de inteiro
+B. m: vetor [0..4,0..2] de inteiro
+C. m <- vetor (4,2) de inteiro
+D. m: matriz [4:2] de inteiro
+E. m <- matriz (0..4,0..2) de inteiro

@@ -1,0 +1,9 @@
+Banco de Dados MySQL
+
+O MySQL é compatível com uma variedade de plataformas, incluindo Windows, Linux, macOS, tornando uma escolha flexível para desenvolvedores e administradores de banco de dados. Considerando as características do MySQL, marque V para as afirmativas verdadeiras e F para as falsas.   ( ) É acompanhado por uma variedade de ferramentas e utilitários, incluindo MySQL Workbench (IDE gráfica), MySQL Shell(interface de linha de comando), MySQL Router (roteador de conexão), dentre outros, facilitando o desenvolvimento, a administração e o monitoramento do banco de dados. ( ) Suporta replicação, permitindo que dados sejam copiados de um servidor para outro de forma síncrona ou assíncrona, sendo útil para distribuição de carga, alta disponibilidade e backup. ( ) Oferece recursos de segurança, tais como: autenticação baseada em senha, criptografia de dados, controle de acesso granular e auditoria de segurança, garantindo, assim, a proteção dos dados armazenados.  A sequência está correta em 
+
+Alternativas:
+A. F, F, F.
+B. F, V, F.
+C. V, F, V.
+D. V, V, V.

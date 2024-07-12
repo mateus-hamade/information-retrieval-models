@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Busca
+
+Texto associado Árvore binária é uma estrutura de dados adequada à representação de hierarquia, sendo usada frequentemente em ordenação e pesquisa. Para a busca em um vetor ordenado, pode-se utilizar o algoritmo de busca binária, o qual não exige a implementação de uma árvore binária. 
+
+Alternativas:
+A. Certo
+B. Errado

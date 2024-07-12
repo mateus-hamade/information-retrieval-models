@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Considere o algoritmo em pseudocódigo abaixo.        Considerando que o operador / realiza a divisão inteira, ao executar o algoritmo acima será impresso: Para 654321 o resultado da função digitos =  
+
+Alternativas:
+A. 21
+B. 123456
+C. 654321
+D. 100000
+E. 6

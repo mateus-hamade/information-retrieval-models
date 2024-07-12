@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Recursividade
+
+Objeto que se constitui parcialmente ou é definido em termos de si próprio. Nesse contexto, um tipo especial de procedimento (algoritmo) será utilizado, algumas vezes, para a solução de alguns problemas. Esse procedimento é denominado: 
+
+Alternativas:
+A. Recursividade.
+B. Rotatividade.
+C. Repetição.
+D. Interligação.
+E. Condicionalidade.

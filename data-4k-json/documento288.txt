@@ -1,0 +1,10 @@
+Banco de Dados SGBD - Sistema de Gerenciamento de Banco de Dados
+
+Os Sistemas Gerenciadores de Bancos de Dados relacionais possuem diversos tipos de índices que podem melhorar o desempenho de consultas. Com relação aos índices do tipo cluster, avalie se as afirmativas a seguir são verdadeiras (V) ou falsas (F).  (   ) Não são usados para acelerar a recuperação de todos os registros que possuem o mesmo valor para o campo de cluster. (   ) Um índice de clustering também é um arquivo ordenado com dois campos; o primeiro campo é do mesmo tipo que o campo de cluster do arquivo de dados, e o segundo campo é um bloco de disco ponteiro.  (   ) Há uma entrada no índice de clustering para cada grupo de valor iguais do campo de clustering e contém o valor e um ponteiro para o primeiro bloco nos dados arquivo que possui um registro com esse valor para seu campo de cluster.   As afirmativas são, respectivamente, 
+
+Alternativas:
+A. V – F – F.
+B. V – V – F.
+C. F – F – F.
+D. F – V – F.
+E. F – F – V.

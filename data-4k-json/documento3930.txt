@@ -1,0 +1,10 @@
+Programação Java , Linguagens de programação
+
+Um desenvolvedor Java está implementando um sistema que precisa manipular grandes conjuntos de dados e deseja otimizar o desempenho da aplicação. Qual estrutura de dados em Java é mais adequada para armazenar elementos sem duplicação, permitindo acesso eficiente e verificação de existência?
+
+Alternativas:
+A. Hashset;
+B. Arraylist;
+C. Linkedlist;
+D. Treeset;
+E. Hashmap.

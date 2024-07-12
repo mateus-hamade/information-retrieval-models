@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Qual das alternativas abaixo corresponde ao número decimal 21 representado, respectivamente, em números binário e hexadecimal?
+
+Alternativas:
+A. 1100 – c
+B. 1111 – f
+C. 10101 – 15
+D. 11011 – 21
+E. 101010 – 2a

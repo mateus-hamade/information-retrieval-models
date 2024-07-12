@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+No que se refere a procedimentos e funções, às estruturas de controle de fluxo nas linguagens de programação e à arquitetura J2EE, julgue o item que segue.     As funções podem ser utilizadas, em expressões, como se fossem variáveis.  
+
+Alternativas:
+A. Certo
+B. Errado

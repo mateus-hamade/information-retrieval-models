@@ -1,0 +1,10 @@
+Banco de Dados SGBD - Sistema de Gerenciamento de Banco de Dados
+
+Em um SGBD relacional, a integridade referencial significa e determina que
+
+Alternativas:
+A. as aplicações não são logicamente afetadas quando ocorrem mudanças geográficas dos dados.
+B. a capacidade de manipular um conjunto de dados (relação), através de um simples comando, deve se estender às operações de inclusão, alteração ou exclusão de dados.
+C. todas as informações em um banco de dados relacional são representadas de forma explícita no nível lógico e exatamente em apenas uma forma: por valores em tabelas.
+D. o valor de uma chave estrangeira de uma relação deve ter obrigatoriamente correspondência em uma chave primária de uma outra relação.
+E. programas de aplicação permanecem logicamente inalterados quando ocorrem mudanças no método de acesso ou na forma de armazenamento físico.

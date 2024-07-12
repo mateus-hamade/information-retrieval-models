@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Filas
+
+No que se refere a programação e estruturas de dados, assinale a opção incorreta.
+
+Alternativas:
+A. Uma fila é caracterizada pelo conceito de que qualquer elemento pode ser atendido independentemente da ordem de chegada.
+B. Uma pilha é caracterizada pelo conceito de que o último elemento que chega é o primeiro a ser atendido.
+C. Um ponteiro é um tipo de estrutura de dado que aponta para uma posição de memória em que está o valor do dado em si.
+D. Uma fila pode ser implementada utilizando-se o conceito de ponteiro em um algoritmo computacional.

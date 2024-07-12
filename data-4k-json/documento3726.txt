@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+Uma estrutura de dados em lista duplamente encadeada permite na cadeia movimentos para
+
+Alternativas:
+A. frente, apenas.
+B. trás, apenas.
+C. cima e para baixo ou para frente e para trás.
+D. cima e para baixo, apenas.
+E. frente e para trás, apenas.

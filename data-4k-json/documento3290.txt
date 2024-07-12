@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+A respeito de algoritmos, estruturas de dados e objetos, julgue o  item  que se segue.   Árvore de dados é uma estrutura formada por uma coleção finita de dados, em que um deles é denominado raiz e os demais, folhas. Por serem estruturas disjuntas, não é possível que a árvore seja nula.  
+
+Alternativas:
+A. Certo
+B. Errado

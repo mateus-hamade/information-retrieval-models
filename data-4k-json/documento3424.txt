@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Uma árvore AVL é uma árvore binária de busca autobalanceada que respeita algumas propriedades fundamentais. Como todas as árvores, ela tem uma propriedade chamada altura, que é igual ao valor da altura de sua raiz.  Sabendo que a altura de uma folha é igual a um e que a altura de um nó pai é igual ao máximo das alturas de seus filhos mais um, qual estrutura NÃO pode representar uma árvore AVL? 
+
+Alternativas:
+A. Uma árvore vazia
+B. Uma árvore com dois nós
+C. Uma árvore com três nós e altura igual a dois
+D. Uma árvore com três nós e altura igual a três
+E. Uma árvore com seis nós e altura igual a três

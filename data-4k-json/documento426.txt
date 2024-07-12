@@ -1,0 +1,10 @@
+Banco de Dados Modelagem de dados
+
+Considere o modelo de dados conceitual a seguir     Faça a análise deste diagrama e assinale a alternativa INCORRETA.  
+
+Alternativas:
+A. A entidade SETOR possui dois atributos-chave e a entidade SERVIDOR possui um atributo-chave.
+B. Um servidor deve estar vinculado a pelo menos um setor.
+C. Existem 10 atributos (sendo três atributos-chave), duas entidades e dois relacionamentos nesse diagrama.
+D. Um servidor pode coordenar vários outros servidores.
+E. Um servidor não pode ser coordenado por mais de um coordenador.

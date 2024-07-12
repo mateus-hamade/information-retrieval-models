@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Grafos
+
+No contexto de estrutura de dados, um grafo que consiste em um conjunto de vértices e um conjunto de arestas relacionadas entre esses vértices, onde não há nenhum ciclo direcionado, é um
+
+Alternativas:
+A. grafo acíclico direcionado.
+B. grafo simples.
+C. grafo ponderado.
+D. grafo desconexo.
+E. grafo cíclico.

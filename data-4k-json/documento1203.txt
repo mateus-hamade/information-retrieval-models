@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Recursividade
+
+Acerca de estrutura de dados e algoritmos, julgue o item a seguir.     O seguinte pseudocódigo possui complexidade de tempo de pior caso O(2") para a verificação da existência de um elemento na lista.     função                       BuscaRecursiva(lista,                        tamanho,  elemento)    se tamanho < 1 então    retorna FALSO     se lista[tamanho] == elemento então    retorna VERDADEIRO    senão    BuscaRecursiva(lista, tamanho-1, elemento)  fim função  
+
+Alternativas:
+A. Certo
+B. Errado

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Filas
+
+Uma das formas de o gerente de uma agência bancária acompanhar a qualidade dos serviços prestados aos seus clientes é verificar o estado da ordem de atendimento em vários instantes ao longo do expediente. O sistema que a gerência utiliza para tal fim é a estrutura de dados conhecida como FILA, que mostra a situação da ordem de atendimento no instante da verificação. Nesse contexto, implementa-se uma estrutura de FILA de números inteiros com suas duas operações tradicionais: ENFILEIRAR(Z), que ocorre no instante em que um cliente recebe uma senha Z e entra na FILA; e DESENFILEIRAR( ), que ocorre quando um cliente sai da FILA, caso em que DESENFILEIRAR( ) retorna o número da senha. Sabe-se, também, que a representação do estado da FILA em um instante qualquer é realizada listando os elementos, de forma que o primeiro elemento, da esquerda para a direita, é o mais antigo presente na FILA. Nas condições apresentadas, considere uma FILA que começa vazia e realiza as seguintes operações: ENFILEIRAR(8) → ENFILEIRAR(9) → DESENFILEIRAR( ) → ENFILEIRAR(10) → ENFILEIRAR(11) → ENFILEIRAR(DESENFILEIRAR ( )) → ENFILEIRAR(12) → DESENFILEIRAR( ) → ENFILEIRAR(13) → DESENFILEIRAR( ) Após realizar as operações acima, a FILA estará no estado
+
+Alternativas:
+A. 10 – 11 – 12
+B. 9 – 12 – 13
+C. 9 – 10 – 11
+D. 8 – 10 – 11
+E. 8 – 9 – 10

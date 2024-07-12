@@ -1,0 +1,10 @@
+Banco de Dados Backup em Banco de Dados
+
+As linhas deletadas de uma tabela relacional podem ser recuperadas a partir de uma cópia backup pelo processo de recuperação
+
+Alternativas:
+A. replace.
+B. update.
+C. recovery.
+D. upload.
+E. append.

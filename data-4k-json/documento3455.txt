@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Busca , Estrutura de Dados ( assuntos)
+
+Uma lista linear ou uma tabela é um conjunto não vazio de nós, tais que suas propriedades estruturais decorrem unicamente da posição relativa dos nós dentro da sequência linear. Considerando-se as diferentes listas lineares, tem-se que 
+
+Alternativas:
+A. a complexidade de pior caso do algoritmo de busca em uma lista sequencial ordenada é menor do que em uma lista sequencial não ordenada.
+B. a alocação sequencial de listas é menos eficiente em tempo do que a alocação encadeada quando se deseja o acesso ao k-ésimo elemento da lista.
+C. se os nós consecutivos da lista estão em posição relativa sempre contígua, a lista usa alocação encadeada.
+D. na alocação dinâmica, os nós de uma lista estão aleatoriamente dispostos na memória.
+E. numa busca binária em uma tabela ordenada, o número máximo de iterações é onde n é o tamanho da lista.

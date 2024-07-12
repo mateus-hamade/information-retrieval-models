@@ -1,0 +1,9 @@
+Banco de Dados SQL
+
+A SQL permite operações de manipulação sobre os atributos que aparecerão na lista do SELECT através dos operadores de manipulação. Para combinar duas ou mais cadeias de caracteres e apresentar seu resultado como um atributo da lista do SELECT, deve-se usar o operador: 
+
+Alternativas:
+A. “||”
+B. “$”
+C. “#”
+D. “!”

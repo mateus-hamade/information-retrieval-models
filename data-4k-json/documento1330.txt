@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos
+
+real c, b, d;  real x, y;  c = 5;  b = 8;  d = 3;  x = (c < b) ou (b < d) e (c < d);  y = ((c < b) ou (b < d)) e (c < d);  escreva(x);  escreva(y);      Com base no algoritmo precedente, julgue o item a seguir, relativo a operadores e expressões.     Após a execução desse algoritmo, os valores das variáveis x e y serão diferentes.  
+
+Alternativas:
+A. Certo
+B. Errado

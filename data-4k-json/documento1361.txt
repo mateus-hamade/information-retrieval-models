@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos
+
+Texto associado “Trata-se de um algoritmo capaz de construir modelos de grande poder preditivo utilizando dados de alta dimensão, cuja ideia principal é buscar em espaços de alta dimensão pelo hiperplano ótimo e que a margem entre dois objetos de classes diferentes seja máxima. Para tanto, ele utiliza vetores suporte e a margem é determinada utilizando tais vetores.” As informações referem-se ao algoritmo utilizado no aprendizado de máquina conhecido como: 
+
+Alternativas:
+A. SVM.
+B. Bagging.
+C. AdaBoost.
+D. Random Forest.

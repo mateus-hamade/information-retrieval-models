@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Analise o algoritmo a seguir:                              Considerando apenas duas casas decimais sem arredondamento, o valor exibido será  
+
+Alternativas:
+A. 2.66
+B. 2.70
+C. 2.80
+D. 2.76
+E. 2.90

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Vetores
+
+Um Analista de TI necessitou usar uma estrutura de dados simples que utilizasse pouca carga de memória de armazenamento. Tal estrutura é vista como um arranjo cuja capacidade pode variar dinamicamente, isto é, se o espaço reservado for totalmente ocupado e algum espaço adicional for necessário, este será alocado automaticamente não havendo a necessidade de se preocupar com a capacidade de armazenamento ou sua ocupação. Contudo, para que se possa utilizar essa coleção de dados de forma adequada, algumas informações necessárias devem ser mantidas internamente, tais como a quantidade total de elementos e a última posição ocupada na coleção, conforme exemplificado na figura abaixo.      Trata-se da estrutura linear unidimensional   
+
+Alternativas:
+A. string.
+B. hashing.
+C. árvore.
+D. matriz.
+E. vetor.

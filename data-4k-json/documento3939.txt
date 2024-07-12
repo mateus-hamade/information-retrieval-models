@@ -1,0 +1,10 @@
+Programação JSF (Java Server Faces) , Frameworks Java
+
+Quais são os principais componentes de uma aplicação JavaServer Faces (JSF)?
+
+Alternativas:
+A. HTML, XML, WSDL;
+B. JDBC, Servlets, JSP;
+C. Applets, Swing, AWT;
+D. Managed Beans, Facelets, componentes visuais;
+E. CGI, JavaScript, PHP.

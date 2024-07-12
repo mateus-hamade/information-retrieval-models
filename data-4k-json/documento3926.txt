@@ -1,0 +1,10 @@
+Engenharia de Software UML , Diagrama de Casos de Uso
+
+Qual diagrama da UML é usado para representar o sistema de uma forma geral, sendo possível a visualização dos atores e das funções?
+
+Alternativas:
+A. Diagrama de Classes;
+B. Diagrama de Caso de Uso;
+C. Diagrama de Objetos;
+D. Diagrama de Colaboração;
+E. Diagrama de Sequência.

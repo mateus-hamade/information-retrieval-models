@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+Acerca da pesquisa e da classificação de dados, julgue os próximos itens.  Durante o processo de classificação, é possível gerar-se um vetor indireto de ordenação (VIO), cuja principal vantagem relaciona-se à possibilidade de realização da movimentação das entradas da tabela, a partir de suas posições originais, para a ordenação dos dados.
+
+Alternativas:
+A. Certo
+B. Errado

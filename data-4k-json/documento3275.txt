@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+Considerando o conceito de lista de prioridades em estrutura de dados, assinale a alternativa INCORRETA:  
+
+Alternativas:
+A. A prioridade associada a um dado pode ser descrita por qualquer relação: tempo, custo, etc, mas precisa ser um escalar.
+B. Também conhecida como heap é composta por um conjunto finito de dados, cada qual com uma chave que determinará sua prioridade dentro da lista.
+C. Como as propriedades: i) chave do nó &le; chave do nó à esquerda (se houver); ii) chave do nó &le; chave do nó à direita (se houver); valem para toda a árvore, a raiz contém a chave (prioridade) de menor valor.
+D. Exatamente como as árvores binárias de busca, são implementadas usando arrays.

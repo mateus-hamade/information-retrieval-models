@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Dado o algoritmo abaixo, expresso em pseucódigo:   Após a execução do algoritmo acima, as variáveis VAR1 e VAR2 terão respectivamente os valores: 
+
+Alternativas:
+A. 69 e 33
+B. 67 e 31
+C. 68 e 32
+D. 66 e 30

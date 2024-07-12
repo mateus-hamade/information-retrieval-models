@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
+
+Considere, por hipótese, que uma Analista de Sistemas da Câmara Legislativa está participando de um processo de avaliaçãode quatro softwares concorrentes para suporte a algumas atividades da Câmara. A Analista solicitou que cada empresafornecesse a função de complexidade do principal algoritmo do software. As funções de complexidade estão listadas abaixo. I. f(n) = n²  II.f(n) = nlog₂n III. f(n) = 2n IV. f(n) = 3log₂n Ao fazer a análise dos algoritmos, a Analista conclui corretamente que  
+
+Alternativas:
+A. para entradas de tamanho n até 1.000 qualquer um dos softwares poderá ser utilizado sem comprometer o desempenho do sistema.
+B. há uma relação de dominação assintótica de um dos softwares sobre os demais e este software que domina assintoticamente os outros não deve ser escolhido, pois pode comprometer o desempenho do sistema.
+C. para entradas de tamanho n acima de 1.000 o software IV é o mais indicado para ser escolhido, pois quanto maior o valor de n, menor o valor do log₂n.
+D. para entradas de tamanho n igual ou acima de 1.000.000 qualquer um dos softwares ficará inviável, pois o desempenho do sistema ficará comprometido.
+E. ambos os softwares com funções de complexidade logarítmicas possuem algoritmos ótimos e dominam assintoticamente todos os outros, por isso são as melhores escolhas.

@@ -1,0 +1,10 @@
+Banco de Dados SGBD - Sistema de Gerenciamento de Banco de Dados
+
+Podemos entender banco de dados como um conjunto de dados que descreve e relaciona as atividades de uma organização. Desta forma, não podemos compreender como um sistema de gerenciamento de banco de dados ou SGBD. 
+
+Alternativas:
+A. É o software desenvolvido para gerenciar a manutenção e a utilização de grandes conjuntos de dados.
+B. Conjunto de programas que permite a criação e manipulação do banco de dados, tornando mais fácil o manuseio e o compartilhamento de dados.
+C. Software desenvolvido junto com a criação de um aplicativo para gerenciar um conjunto de dados.
+D. Sistema que gerencia de forma automática o conjunto de dados armazenados.
+E. Sistema que usa técnicas modernas para armazenar e recuperar dados de forma eficiente

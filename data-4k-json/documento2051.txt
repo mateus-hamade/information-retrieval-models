@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Recursividade
+
+Existem casos em que um procedimento ou função chama a si próprio. Sobre introdução à computação, é correto afirmar que
+
+Alternativas:
+A. quando um procedimento ou função chama a si próprio, denomina-se passagem de parâmetro por referência.
+B. quando um procedimento ou função chama a si próprio, denomina-se passagem de parâmetro por valor.
+C. quando um procedimento ou função chama a si próprio, denomina-se recursividade.
+D. quando um procedimento ou função chama a si próprio, denomina-se passagem de parâmetro por variável.
+E. quando um procedimento ou função chama a si próprio, denomina-se passagem de parâmetro por recursão.

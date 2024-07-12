@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+Acerca de métodos de ordenação dos dados, julgue os itens subsequentes.   Em uma pesquisa de um registro em um arquivo sequencial, todos os registros são percorridos até que o registro desejado seja encontrado.  
+
+Alternativas:
+A. Certo
+B. Errado

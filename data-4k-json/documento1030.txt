@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados
+
+Quanto aos esquemas utilizados em um projeto de banco de dados, analise as afirmações abaixo:     I. Descrição precisa dos requisitos do usuário, que utiliza o MER como modelo de dados.  II. Descreve as estruturas de representação do banco de dados.  III. Descreve as estruturas internas de armazenamento, dos esquemas, utilizando comandos DDL.     Os três esquemas descritos acima são denominados de  
+
+Alternativas:
+A. conceitual e físico
+B. lógico e físico
+C. conceitual e lógico
+D. físico e lógico
+E. lógico e conceitual

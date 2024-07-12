@@ -1,0 +1,9 @@
+Banco de Dados Administração de banco de dados
+
+O administrador de Banco de Dados denominado DBA (Database Administrator) é o profissional responsável por realizar a gestão dos bancos que armazenam dados sobre pessoas, lugares ou coisas de uma forma organizada e relacionada entre si, facilitando o processo de recuperação de elementos em uma pesquisa. São consideradas tarefas típicas do cotidiano desse profissional, EXCETO:
+
+Alternativas:
+A. Promover a instalação e a atualização dos sistemas de gerenciamento de Banco de Dados.
+B. Auditar as atividades e investigar as ações efetuadas pelos usuários em um Banco de Dados.
+C. Realizar análise de impacto antes de efetuar as modificações solicitadas pela equipe de desenvolvimento.
+D. Delegar para as equipes de infraestrutura/desenvolvimento as tarefas de criação/manutenção de usuários e perfis de acesso em um Banco de Dados.

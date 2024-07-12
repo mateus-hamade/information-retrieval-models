@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Leia as afirmativas a seguir: I. Um banco de dados é uma coleção de dados relacionados. Nesse contexto, entende-se por dado, toda a informação que pode ser armazenada e que apresenta algum significado dentro do contexto ao qual ele se aplica. II. A lógica de programação é essencial para pessoas que desejam trabalhar com desenvolvimento de programas para computadores. Ela pode ser definida como um conjunto de técnicas para encadear pensamentos a fim de atingir determinado objetivo. Marque a alternativa CORRETA:
+
+Alternativas:
+A. As duas afirmativas são verdadeiras.
+B. A afirmativa I é verdadeira, e a II é falsa.
+C. A afirmativa II é verdadeira, e a I é falsa.
+D. As duas afirmativas são falsas.

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+Com relação a estrutura de dados, modularização e linguagens de programação, julgue os itens a seguir.  I Entre os paradigmas de programação, estão a programação imperativa, a programação funcional, a programação embasada em lógica e a programação orientada por objetos.  II Expressividade, ortogonalidade e confiabilidade são critérios normalmente usados para avaliação de linguagens de programação.  III Fila e pilha são tipos abstratos de dados.  IV A programação modular não implementa a noção de tipo abstrato de dados e sua principal estrutura é um módulo, constituído de uma interface.  V Um interpretador traduz um programa descrito no nível da linguagem para o nível da máquina, enquanto o compilador eleva a máquina ao nível da linguagem, para que o programa execute a partir da fonte.  Estão certos apenas os itens 
+
+Alternativas:
+A. I, II e III.
+B. I, III e V.
+C. I, IV e V.
+D. II, III e IV.
+E. II, IV e V.

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos , Estrutura de Dados ( assuntos)
+
+Qual estrutura apresenta complexidade de inserção, remoção e procura O(log(n)) independentemente se for o melhor ou o pior caso? 
+
+Alternativas:
+A. Pilha
+B. Árvore Binária
+C. Tabela Hash
+D. Fila duplamente encadeada
+E. Árvore AVL

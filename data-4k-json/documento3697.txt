@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Grafos , Vetores
+
+As entradas de uma matriz de incidência que representa um grafo onde uma das dimensões são vértices e a outra são arestas, são representadas apenas por 
+
+Alternativas:
+A. um valor (número de vértices).
+B. um valor (número de arestas).
+C. dois valores (números de vértices e de arestas).
+D. três valores (0, 1 e 2).
+E. dois valores (0 e 1).

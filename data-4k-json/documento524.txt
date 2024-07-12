@@ -1,0 +1,10 @@
+Banco de Dados Oracle
+
+Os direitos dos usuários Oracle são atribuídos, em ordem crescente de privilégios, pelos tipos de acesso
+
+Alternativas:
+A. DBA, resource e connect.
+B. DBA, connect e resource.
+C. resourse, connect e DBA.
+D. connect, DBA e resourse.
+E. connect, resource e DBA.

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Na teoria dos conjuntos fuzzy, que fundamenta a lógica fuzzy, as operações padrão utilizadas são
+
+Alternativas:
+A. união, intersecção e separação.
+B. união, intersecção e complemento.
+C. intersecção, separação e complemento.
+D. união, intersecção e pertinência
+E. intersecção, separação e pertinência.

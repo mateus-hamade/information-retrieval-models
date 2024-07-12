@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Texto associado Variáveis declaradas dentro de funções ou procedimentos são chamadas de variáveis locais e não são visíveis por outras funções. Por esse motivo, não é possível declarar variáveis que possam ser utilizadas por qualquer função de um programa.
+
+Alternativas:
+A. Certo
+B. Errado

@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+Gerenciadores de bancos de dados relacionais usualmente empregam a lógica de três estados quando há operações de comparação envolvendo valores nulos (NULL). Nesse contexto, considere o comando SQL a seguir.  delete from T where exists (select * from T T2 where T.A=T2.A)  Nesse contexto, é correto afirmar que
+
+Alternativas:
+A. nenhuma linha de T será excluída, independentemente do conteúdo da coluna A.
+B. todas as linhas de T que contêm valores não nulos na coluna A serão excluídas.
+C. todas as linhas de T que contêm valores nulos na coluna A serão excluídas.
+D. todas as linhas de T serão excluídas, independentemente do conteúdo da coluna A.
+E. o comando contém um erro, pois o a sintaxe do SQL não permite a autorreferência na cláusula exists.

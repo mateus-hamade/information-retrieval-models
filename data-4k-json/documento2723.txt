@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Para armazenar um algoritmo na memória de um computador e para que ele possa, em seguida, comandar as operações a serem executadas, é necessário que ele seja programado, isto é, que seja transcrito para uma linguagem que o computador possa “entender”, direta ou indiretamente. Os computadores só podem executar diretamente os algoritmos expressos em:
+
+Alternativas:
+A. Linguagem de máquina.
+B. Linguagem orientada a objeto.
+C. Linguagem constante.
+D. Linguagem simbólica.

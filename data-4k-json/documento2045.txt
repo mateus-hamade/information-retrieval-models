@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+   O pseudocódigo acima descrito representa a sintaxe do comando repetição por contagem para/faça. Com relação a esse comando de repetição, assinale a alternativa correta.  
+
+Alternativas:
+A. Esse comando não faz com que a execução de um grupo de ações seja repetida um número predefinido de vezes. Esse recurso somente funciona para uma ação.
+B. Os valores inicial e final podem ser de um tipo diferente do tipo da variável de controle.
+C. Um comando composto não pode ser utilizado no comando de repetição por contagem para/faça.
+D. A execução do comando para/faça é reversa, ou seja, ela se inicia pela atribuição do valor final à variável de controle.
+E. Somente variáveis ordinais simples podem ser utilizadas como variáveis de controle.

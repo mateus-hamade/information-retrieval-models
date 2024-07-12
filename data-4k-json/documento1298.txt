@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos
+
+  Considerando o algoritmo precedente, julgue o item subsecutivo. A seguir, é corretamente mostrado o resultado da execução do algoritmo caso o usuário entre com os números 9 e 5. Digite o número : 9 Digite o número : 5 Resultado: 7.0 
+
+Alternativas:
+A. Certo
+B. Errado

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Recursividade
+
+Sobre o procedimento de recursividade, analise:    Assinale a alternativa correta: 
+
+Alternativas:
+A. Os algoritmos I e II são recursivos.
+B. Somente o algoritmo I é recursivo.
+C. Somente o algoritmo II é recursivo.
+D. O algoritmo I não é recursivo e o II é orientado a objeto.
+E. Os algoritmos I e II não são recursivos.

@@ -1,0 +1,9 @@
+Banco de Dados Banco de Dados Relacionais
+
+O objetivo do projeto de banco de dados relacional é gerar um conjunto de esquemas de relação que nos permita armazenar informações sem redundância desnecessária, e possibilitar recuperar informações com facilidade. Considerando o projeto e a modelagem de Banco de Dados Relacionais, assinale a alternativa INCORRETA.
+
+Alternativas:
+A. A fase de projeto de banco de dados deve ser realizada com cuidado, uma vez que modificações no esquema físico de um banco de dados são mais difíceis de serem realizadas após uma aplicação ter sido construída; entretanto, mudanças no esquema lógico normalmente podem ser facilmente modificadas, já que afetam consultas e atualizações disseminadas pelo código da aplicação.
+B. Em um projeto de bancos de dados, a cardinalidade de mapeamento indica o número de entidades ao qual outra entidade pode ser associada por um conjunto de relacionamentos. As cardinalidades de mapeamento são utilizadas para descrever conjuntos de relacionamento que consideram mais de dois conjuntos de entidades.
+C. A estrutura lógica geral de um banco de dados pode ser projetada com o modelo Entidade Relacionamento (E-R), sendo útil para o mapeamento dos significados e interações do negócio para um esquema conceitual.
+D. Para um relacionamento muitos-para-muitos, cada conjunto de entidades relacionado possui seu próprio esquema, e existe um esquema adicional, que consiste no atributo e na chave primária do conjunto de entidades.

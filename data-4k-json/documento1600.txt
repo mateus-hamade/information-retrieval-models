@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Tipos de Dados
+
+Análise descritiva ou exploratória de dados é uma forma de utilizar métricas e técnicas estatísticas simples ou avançadas para entender e explicar como os dados são. Sobre os tipos de dados, analise as assertivas abaixo e assinale a alternativa correta.  I. Univariada. II. Bivariada. III. Multivariada.
+
+Alternativas:
+A. Todas estão corretas.
+B. Todas estão incorretas.
+C. Apenas I está correta.
+D. Apenas I e II estão corretas.
+E. Apenas II e III estão corretas.

@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados
+
+O diagrama de fluxo de dados (DFD) é uma ferramenta de modelagem usada para descrever o fluxo de informações entre os diferentes processos e sistemas que compõem o negócio. No contexto do Diagrama de Fluxo de Dados qual é a finalidade do diagrama nível 0? 
+
+Alternativas:
+A. Representar as entidades relevantes para um sistema, bem como os relacionamentos entre essas entidades.
+B. Mostrar as atividades do sistema em um nível de detalhamento mais baixo, indicando como os dados são transformados e armazenados em cada etapa.
+C. Identificar os processos que compõem o sistema, mostrando as entradas, saídas e fluxo de dados de cada processo.
+D. Detalhar as entidades envolvidas no sistema, mostrando suas atribuições e relacionamentos com outras entidades.
+E. Representar o fluxo de dados em um nível de detalhamento mais abstrato, mostrando as entradas e saídas do sistema como um todo.

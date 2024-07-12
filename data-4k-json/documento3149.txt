@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Texto associado Com relação ao algoritmo acima, julgue os próximos itens.  O passo 3 do programa é executado 10 vezes.
+
+Alternativas:
+A. Certo
+B. Errado

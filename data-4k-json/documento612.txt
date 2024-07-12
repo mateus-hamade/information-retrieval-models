@@ -1,0 +1,10 @@
+Banco de Dados Recuperação de falhas
+
+A métrica das ferramentas de alta disponibilidade que mede por quanto tempo um sistema fica inoperante antes de ser recuperado ou substituído é o
+
+Alternativas:
+A. tempo médio entre falhas (MTBF).
+B. objetivo de ponto de recuperação (RPO).
+C. downtime médio.
+D. objetivo de tempo de recuperação (RTO).
+E. gerenciamento proativo do desempenho.

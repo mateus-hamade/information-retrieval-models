@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
+
+Com relação às estruturas de controle em programas de computador, julgue o item subsecutivo.  Diferentemente do que ocorre com os comandos da estrutura repita do algoritmo1 apresentado a seguir, os comandos da estrutura enquanto do algoritmo2 apresentado a seguir são executados pelo menos uma vez.    
+
+Alternativas:
+A. Certo
+B. Errado

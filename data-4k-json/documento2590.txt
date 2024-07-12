@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+O processo de otimização de consultas é composto de um grande conjunto de etapas, uma dessas etapas envolve a construção de árvores de consulta, também conhecidas por árvores de sintaxe abstrata.  Uma árvore de consulta é uma estrutura de dados do tipo 
+
+Alternativas:
+A. árvore B que corresponde a uma expressão da álgebra relacional, onde as operações utilizadas na consulta são mapeadas como os nós folhas e as relações são os nós internos da árvore.
+B. árvore B+ que corresponde a uma expressão do cálculo relacional, onde as relações utilizadas na consulta são mapeadas como os nós internos e as operações da álgebra relacional são os nós folhas da árvore.
+C. árvore que corresponde a uma expressão da álgebra relacional, onde as relações utilizadas na consulta são mapeadas como os nós folhas e as operações da álgebra relacional são os nós internos da árvore.
+D. grafo acíclico que corresponde a uma expressão da cálculo relacional, onde as relações utilizadas na consulta são mapeadas como os nós folhas e as operações da álgebra relacional são os nós internos do grafo.
+E. grafo acíclico que corresponde a uma expressão da cálculo relacional, onde as operações utilizadas na consulta são mapeadas como os nós internos e as relações são arestas.

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Vetores
+
+Considere a definição de um arranjo (array) na linguagem Bash: x=(1 2 3 4 5) A sintaxe correta para acessar a última posição desse arranjo é: 
+
+Alternativas:
+A. $x[4]
+B. {$x[5]}
+C. $x[5]
+D. $x{4}
+E. ${x[4]}

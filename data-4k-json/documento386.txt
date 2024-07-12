@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+Texto associado Com referência às tabelas TX e TY, como descritas anteriormente, analise o comando SQL a seguir.  select count(*) from TX t1 left join TY t2 on t1.B=t2.A  O valor exibido pela execução desse comando é:
+
+Alternativas:
+A. 0;
+B. 2;
+C. 3;
+D. 4;
+E. 6.

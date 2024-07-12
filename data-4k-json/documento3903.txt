@@ -1,0 +1,9 @@
+Engenharia de Software UML , Diagrama de Casos de Uso
+
+Qual é a função do elemento nos diagramas de casos de uso da UML (Unified Modeling Language)?
+
+Alternativas:
+A. Denota uma relação de generalização entre casos de uso
+B. Representa a inclusão de um caso de uso base em outro
+C. Sinaliza uma dependência entre casos de uso
+D. Uma referência de um caso de uso que pode executar um outro caso de uso

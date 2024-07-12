@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+O seguinte trecho de pseudo-código representa a definição de uma função (sub-rotina) f com um único argumento x.  ´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´ f(x)  x ← x + 1  devolva x ´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´ Considere agora o seguinte trecho de código que invoca a função f definida acima. ´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´ a ← 0  escreva a escreva f(a) escreva a ´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´ A execução do trecho de código acima resultaria na escrita de   
+
+Alternativas:
+A. 0, 1 e 0 no caso de passagem de parâmetros por valor e 0, 1 e 0 no caso de passagem de parâmetros por referência.
+B. 0, 1 e 1 no caso de passagem de parâmetros por valor e.
+C. 0, 1 e 0 no caso de passagem de parâmetros por valor e 0, 1 e 1 no caso de passagem de parâmetros por referência.
+D. 0, 1 e 1 no caso de passagem de parâmetros por valor e.
+E. 0, 0 e 0 no caso de passagem de parâmetros por valor e.

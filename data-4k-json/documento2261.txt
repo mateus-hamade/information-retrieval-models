@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
+
+No pior caso, a complexidade do algoritmo conhecido como Busca Linear é:
+
+Alternativas:
+A. O(n²)
+B. O(1)
+C. O(n)
+D. O(log n)
+E. O(n log n)

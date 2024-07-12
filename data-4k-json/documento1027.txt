@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados , SGBD - Sistema de Gerenciamento de Banco de Dados
+
+A tecnologia ODBC é amplamente comentada e utilizada quando o assunto é banco de dados. A definição correta para ODBC, é
+
+Alternativas:
+A. Biblioteca voltada para o gerenciamento de operações importação/exportação de dados.
+B. Interface genérica para acesso a dados.
+C. Linguagem de consulta para bancos de dados.
+D. Otimizador de consultas SQL.
+E. Versão padronizada do SQL para acesso a bancos de dados de diferentes fabricantes.

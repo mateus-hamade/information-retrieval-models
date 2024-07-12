@@ -1,0 +1,10 @@
+Banco de Dados Administração de banco de dados
+
+No estabelecimento de uma técnica de mineração de dados de uma empresa, obteve-se um conjunto de estruturas que produzem fluxos de condição do tipo SE – ENTÃO. Nesses fluxos, é possível organizar as respostas, segundo critérios de categorização e de regressão, estabelecendo pontos de decisão relacionados entre si de forma hierárquica.  Nesse caso, qual foi a técnica de mineração aplicada? 
+
+Alternativas:
+A. Redes neurais
+B. Statical methods
+C. Árvore de decisão
+D. Accuracy percentage
+E. Análise de sequência

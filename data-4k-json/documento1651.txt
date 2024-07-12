@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Matrizes em Estrutura de Dados , Vetores
+
+Relacione as duas colunas quanto aos respectivos tipos de Estruturas de Dados: (A) Vetores                   (1) Homogêneas (B) Registros                (2) Heterogêneas (C) Matrizes  
+
+Alternativas:
+A. A2 - B1 - C2
+B. A1 - B1 - C2
+C. A2 - B2 - C1
+D. A1 - B2 - C1

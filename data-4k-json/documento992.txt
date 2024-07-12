@@ -1,0 +1,9 @@
+Banco de Dados Formas normais
+
+Em uma relação a forma mais alta atendida representa o grau em que ela foi normalizada. Essa condição denomina-se: 
+
+Alternativas:
+A. Boyce-Codd.
+B. Forma normal.
+C. Relação aninhada.
+D. Atributo de esquema.

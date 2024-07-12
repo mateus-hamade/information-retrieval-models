@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Busca
+
+A respeito da organização de arquivos, assinale a opção correta.
+
+Alternativas:
+A. Para tornar mais eficiente o processo de busca no arquivo de índice, deve-se fazer uma busca binária; não é necessário ordenar as chaves do arquivo de índice.
+B. A maioria das estruturas de índice é implementada por árvores de busca; não é possível a utilização de árvore binária para a implementação de árvore de busca, apenas árvores AVL.
+C. Para acelerar o processo de pesquisa em um arquivo, deve-se utilizar estruturas de indexação que dependem da ordem física do arquivo.
+D. A principal finalidade da criação de um índice é permitir a rápida localização de um registro no arquivo por meio de um argumento de pesquisa.
+E. Quando da criação de um arquivo de índice, os registros do arquivo de dados são organizados de acordo com a ordem da chave.

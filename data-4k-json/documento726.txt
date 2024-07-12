@@ -1,0 +1,9 @@
+Banco de Dados DW - Data Warehouse
+
+Texto associado Um Data Warehouse é projetado para análises de dados, que envolvem a leitura de grandes quantidades de dados para compreender relações e tendências entre eles. A definição correta de Data Warehouse é: 
+
+Alternativas:
+A. Conjunto de dados armazenados em uma planilha do Excel.
+B. Banco de dados otimizado para consulta e análise de dados históricos.
+C. Software de gerenciamento de dados usado para criar aplicativos web.
+D. Sistema de gerenciamento de banco de dados relacional para armazenamento e processamento de dados.

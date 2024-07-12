@@ -1,0 +1,9 @@
+Banco de Dados SQL
+
+Indique o resultado da execução da seguinte instrução SQL.     Select * from alunos where nome like "%Julio%" order by idade  
+
+Alternativas:
+A. Lista todos os usuários com nome Julio, ordenados pela idade da menor para a maior
+B. Lista todos os usuários cujo nome comece com Julio, ordenados pela idade da menor para a maior
+C. Lista todos os usuários que tenham Julio em qualquer parte do nome, com a idade da maior para a menor
+D. Lista todos os usuários que tenham Julio em qualquer parte do nome, com a idade da menor para a maior

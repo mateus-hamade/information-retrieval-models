@@ -1,0 +1,9 @@
+Banco de Dados Formas normais
+
+A normalização é o processo de organização de dados em tabelas e o estabelecimento de relações para reduzir as redundâncias, aumentar a integridade dos dados e o desempenho. As formas normais (primeira, segunda e terceira) são uma série de procedimentos aplicados em um banco de dados para garantir que as suas tabelas estejam bem estruturadas e consistentes. Além de estar na primeira forma normal (1FN), qual a evidência de que uma tabela esteja na segunda forma normal (2FN)? 
+
+Alternativas:
+A. Ausência de dependência funcional transitiva entre os atributos não chave, com cada atributo não chave dependendo apenas da chave primária diretamente.
+B. Ausência de dependências funcionais não triviais entre os atributos não chave.
+C. Dependência do atributo não chave com a chave primária, não havendo dependência parcial.
+D. Indivisibilidade de todos os atributos, sendo que cada atributo contém apenas valores atômicos.

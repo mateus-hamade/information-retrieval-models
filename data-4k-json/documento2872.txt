@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Um algoritmo é:
+
+Alternativas:
+A. Uma sequência de passos para realizar uma atividade.
+B. A operação matemática inversa a potencia.
+C. A parte de um programa em que se limita a definir os tipos de dados das variaveis.
+D. A parte de um programa em que se limita a definir as constantes.
+E. Um software utilizado para escrever programas

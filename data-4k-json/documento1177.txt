@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
+
+Em uma estrutura de dados do tipo “pilha”, qual das afirmações abaixo corresponde à disciplina de acesso padrão aos elementos de dados nela armazenados? 
+
+Alternativas:
+A. O elemento inserido há mais tempo, dentre aqueles presentes na estrutura de dados, é sempre o próximo a ser removido.
+B. A inserção e remoção de elementos pode se dar em qualquer posição.
+C. O último elemento inserido é sempre o próximo a ser removido.
+D. Elementos são sempre inseridos na primeira posição da estrutura de dados e a operação de remoção sempre retira o elemento presente na última posição.

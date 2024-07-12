@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados
+
+A limpeza de dados, data cleansing, é uma tarefa importante que pode ser complexa e demorada, no entanto é um investimento fundamental que pode melhorar a qualidade e a utilidade dos dados para futuras análises. Seja um conjunto de dados com informações de saúde referentes a uma população. Pode-se limpar esses dados para identificar e tratar valores extremos, discrepantes, contraditórios ou inválidos. Com isso, há maior confiabilidade para estimar a prevalência, a incidência, a mortalidade e os fatores de risco de uma doença naquela população representada por aqueles dados. Por exemplo, seja o conjunto de dados abaixo referente a uma amostra de 5 indivíduos em uma mesma cidade, na qual um analista percebeu a necessidade de limpeza de dados por conta de potenciais inconsistências.  Indivíduo 1: Sexo: Feminino; Idade: 8 anos; Altura: 1,15m; Peso: 40kg; Batimento Cardíaco em Repouso: 85 bpm Indivíduo 2: Sexo: Masculino; Idade: 22 anos; Altura: 1,60m; Peso: 60kg; Batimento Cardíaco em Repouso: 72 bpm Indivíduo 3: Sexo: Feminino; Idade: 40 anos; Altura: 1,60m; Peso: 55kg; Batimento Cardíaco em Repouso: 10 bpm Indivíduo 4: Sexo: Masculino; Idade: 55 anos; Altura: 1,90m; Peso: 100kg; Batimento Cardíaco em Repouso: 70 bpm Indivíduo 5: Sexo: Feminino; Idade: 70 anos; Altura: 1,50m; Peso: 60kg; Batimento Cardíaco em Repouso: 70 bpm  Qual ação é a única claramente necessária para realizar data cleansing neste conjunto de dados específico? 
+
+Alternativas:
+A. Corrigir o valor da altura no indivíduo 1, pois parece anormalmente alto.
+B. Verificar o peso no indivíduo 2, pois nessa idade e altura deveria ser um valor maior.
+C. Confirmar o valor do batimento cardíaco no indivíduo 3, que parece anormalmente baixo.
+D. Alterar o peso no indivíduo 4, pois não condiz com os valores de sexo, idade e altura indicados.
+E. Modificar o valor da altura do indivíduo 5, pois é anormalmente baixo para a idade e sexo.

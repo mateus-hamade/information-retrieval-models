@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Avalie se, no contexto da lógica de programação, as etapas para o desenvolvimento de um programa a seguir estão corretamente descritas:  (   ) Estuda-se o enunciado do problema para definir os dados de entrada, o processamento e os dados de saída. (   ) Usa-se fluxogramas ou português estruturado para descrever o problema com suas soluções. (   ) O algoritmo é transformado em códigos da linguagem de programação escolhida para se trabalhar.  Está correto o que se afirma em 
+
+Alternativas:
+A. I, II e III.
+B. I e III, apenas.
+C. II e III, apenas.
+D. I e II, apenas.
+E. I, apenas.

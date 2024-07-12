@@ -1,0 +1,9 @@
+Engenharia de Software Processos de Software - Desenvolvimento Ágil
+
+Sobre Integração Contínua e Entrega Contínua (CI/CD), definir a infraestrutura e os passos de implantação como código, permitindo a automação e versionamento do processo de entrega, é o benefício de qual prática?
+
+Alternativas:
+A. Pipeline as Service
+B. Pipeline as Code
+C. Code as Pipes
+D. Pipeline as Cloud

@@ -1,0 +1,10 @@
+Banco de Dados Álgebra relacional
+
+Se a agregação possui uma cardinalidade mínima = 1 e uma cardinalidade máxima igual a n, dizemos que é uma agregação de: 
+
+Alternativas:
+A. Um-para-um.
+B. Um-para-muitos.
+C. Muitos-para-muitos.
+D. Muitos-para-um.
+E. Vários-para-vários.

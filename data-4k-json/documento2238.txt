@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Estrutura de Controle e Repetição
+
+Texto associado Os dois últimos pares de valores exibidos serão
+
+Alternativas:
+A. 3,5 e 5,5
+B. 3,4 e 3,5
+C. 4,4 e 5,5
+D. 3,5 e 4,5
+E. 2,5 e 3,4

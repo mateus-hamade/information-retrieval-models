@@ -1,0 +1,10 @@
+Banco de Dados PostgreSQL
+
+No PostgreSQL, para fazer o backup de um banco de dados, deve-se utilizar a ferramenta:
+
+Alternativas:
+A. psql;
+B. pg_dump;
+C. pg_restore;
+D. pgAdmin;
+E. Createdb.

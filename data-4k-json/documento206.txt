@@ -1,0 +1,9 @@
+Banco de Dados SQL
+
+Na linguagem SQL, o comando que é utilizado para remover tabelas do banco de dados é denominado
+
+Alternativas:
+A. After.
+B. Order by.
+C. Drop table.
+D. Erase table.

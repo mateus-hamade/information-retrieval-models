@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Busca
+
+Avalie se são verdadeiras (V) ou falsas (F) as afirmativas a seguir.  I O método de busca “pesquisa binária” necessita de um ordenamento prévio do vetor.  II O método “pesquisa binária” possui o tempo de busca maior que o método “busca sequencial”.  III O método “busca sequencial” é mais indicado quando se sabe antecipadamente que a maior parte dos registros necessita ser pesquisada.  As afirmativas I, II e III são, respectivamente: 
+
+Alternativas:
+A. V, V e F.
+B. V, F e V.
+C. F, V e V.
+D. F, F e F.
+E. V, V e V.

@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
+
+Função de complexidade de algoritmos, cujo tempo de execução ocorre tipicamente em algoritmos que resolvem um problema quebrando-o em problemas menores, resolvendo cada um deles independentemente e, depois, ajuntando as soluções:
+
+Alternativas:
+A. f(n) = O ( log n ).
+B. f(n) = O ( n ).
+C. f(n) = O ( n log n ).
+D. f(n) = O ( n²).

@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+Os principais Sistemas Gerenciadores de Bancos de Dados oferecem total suporte à linguagem SQL. Um aspecto importante da implementação do SQL é o tratamento para valores nulos quando esses são considerados como unknown values. Nesse contexto, considere uma tabela T com colunas A e B, que podem conter valores nulos. T possui 100 registros e, em 50% das linhas, há pelo menos uma coluna preenchida com o valor NULL. Considere a consulta a seguir:                SELECT * FROM T t1                WHERE t1.A = NULL or t1.B = NULL O número máximo de linhas de resultados que seriam retornadas pela consulta é igual a 
+
+Alternativas:
+A. 0.
+B. 25.
+C. 50.
+D. 75.
+E. 100.

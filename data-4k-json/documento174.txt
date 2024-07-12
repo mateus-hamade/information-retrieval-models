@@ -1,0 +1,9 @@
+Banco de Dados DW - Data Warehouse
+
+Na tomada de decisão, um termo é definido como uma coleção de dados orientada por assuntos, integrada e variante no tempo. É um banco de dados contendo dados extraídos do ambiente de produção da empresa, que foram selecionados e depurados, tendo sido otimizados para processamento de consulta e não para processamento de transações. Em geral, requer a consolidação de outros recursos de dados além dos armazenados em base de dados relacionais, incluindo informações provenientes de planilhas eletrônicas e documentos textuais.     Esse termo é conhecido por: 
+
+Alternativas:
+A. Data Mart
+B. Data Toais
+C. Data Mining
+D. Data Warehouse

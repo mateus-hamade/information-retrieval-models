@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
+
+A lacuna do trecho abaixo deve ser preenchida por:  A ___________________________, também conhecida como de decisão ou seleção, caracteriza-se pela execução de determinados códigos de programação dependendo da veracidade de uma condição.
+
+Alternativas:
+A. Estrutura sequencial
+B. Estrutura condicional
+C. Estrutura de repetição
+D. Estrutura constitucional

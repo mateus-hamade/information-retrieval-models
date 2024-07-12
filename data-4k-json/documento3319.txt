@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Texto associado A busca de padrões chamada de força bruta é realizada enumerando-se todas as possíveis configurações das entradas envolvidas e escolhendo-se a melhor entre as configurações enumeradas.  
+
+Alternativas:
+A. Certo
+B. Errado

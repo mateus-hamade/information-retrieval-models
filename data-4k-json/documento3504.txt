@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+A opção em que a estrutura é do tipo LIFO é: 
+
+Alternativas:
+A. fila;
+B. pilha;
+C. árvore;
+D. lista encadeada;
+E. array.

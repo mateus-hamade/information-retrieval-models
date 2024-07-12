@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos , Estrutura de Dados ( assuntos)
+
+O algoritmo a seguir, descrito em pseudocódigo, pode ser utilizado para ordenar um vetor A[0..n].        No pior caso, a complexidade deste algoritmo é:  
+
+Alternativas:
+A. O(n²)
+B. O(1)
+C. O(n)
+D. O(log n)
+E. O(n log n)

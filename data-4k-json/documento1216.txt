@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos
+
+Observe o seguinte algoritmo:              A ferramenta utilizada para construção desse algoritmo é: 
+
+Alternativas:
+A. diagrama de Nassi-Shneiderman
+B. diagrama hierárquico de fluxo
+C. pseudocódigo
+D. fluxograma

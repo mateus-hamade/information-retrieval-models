@@ -1,0 +1,10 @@
+Banco de Dados Segurança
+
+Em um arquivo de acesso sequencial indexado com um índice não ordenado, qual é a técnica mais eficiente para encontrar um registro que corresponde a uma chave única?
+
+Alternativas:
+A. Busca sequencial no índice.
+B. Busca binária no índice.
+C. Busca hash no índice.
+D. Busca por interpolação no índice.
+E. Busca por árvore-B no índice.

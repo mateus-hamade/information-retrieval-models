@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Estruturas de dados como listas, filas, pilhas e árvores são bastante utilizadas em algoritmos, a fim de organizar os dados conforme são inseridos nestas estruturas. Assinale a alternativa que apresenta a estrutura mais adequada para implementar uma fila prioritária em que os elementos são removidos com base em sua prioridade.
+
+Alternativas:
+A. Fila
+B. Árvore de prioridade
+C. Pilha
+D. Lista

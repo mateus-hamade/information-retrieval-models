@@ -1,0 +1,9 @@
+Banco de Dados Banco de Dados Relacionais
+
+Considere o diagrama relacional abaixo, no qual ilustra o projeto de um banco de dados para uma loja virtual:    Diante do cenário apresentado, assinale a alternativa CORRETA. 
+
+Alternativas:
+A. Um produto está relacionado a uma ou várias categorias.
+B. Um produto está relacionado a um ou vários itens.
+C. Um cliente está relacionado apenas a uma única venda.
+D. Um item está relacionado a uma ou várias vendas.

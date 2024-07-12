@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Lógicas de Programação
+
+O raciocínio lógico leva a uma resposta que pode ser verdadeira ou falsa. Na construção de algoritmos para a solução de problemas computacionais, trabalha-se com esse tipo de raciocínio. A respeito desse assunto, julgue o item. Para transferir os quatro discos da torre A da figura abaixo, para a torre C, um a um, mantendo-se a mesma disposição, e sem que, no processo de transferência, um disco grande fique sobre um disco pequeno, serão necessários, no mínimo, 16 movimentos.   
+
+Alternativas:
+A. Certo
+B. Errado

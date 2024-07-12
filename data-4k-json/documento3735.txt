@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+São, respectivamente, um método de busca e um método de ordenação: 
+
+Alternativas:
+A. linear e por seleção direta.
+B. por permutação e linear.
+C. por seleção direta e por permutação.
+D. por permutação e binária.
+E. linear e binária.

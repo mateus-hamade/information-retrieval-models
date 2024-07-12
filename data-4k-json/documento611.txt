@@ -1,0 +1,10 @@
+Banco de Dados DER - Diagrama de Entidade e Relacionamento
+
+         Com relação ao modelo entidade-relacionamento (MER) ilustrado na figura precedente, assinale a opção correta.  
+
+Alternativas:
+A. Um treinamento pode ser solicitado por no máximo um cliente.
+B. O relacionamento SOLICITA é classificado como ternário.
+C. Um cliente pode solicitar vários treinamentos.
+D. O modelo está representado de forma incorreta, pois não se admite, em um MER, o uso de atributos em relacionamentos.
+E. Na entidade CLIENTE, o atributo Nome é do tipo identificador.

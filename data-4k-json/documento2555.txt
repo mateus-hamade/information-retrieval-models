@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
+
+Leia as afirmativas a seguir considerando que f(n) e g(n) são funções positivas. I) Se g(n) é O(f(n)), um algoritmo de função de complexidade de tempo f(n) possui Ordem de complexidade g(n). II) Se g(n) é O(f(n)), f(n) é um limite superior para g(n). III) Se a função g(n) = 7.log(n) +6 , então a função g(n) é O(log(n)). IV) Se g(n) = n2 e f(n) = (n+1)2 temos que g(n) é O(f(n)) e f(n) é O(g(n)). V) Se g(n) = 2n+1 e f(n) = 2n temos que g(n) = O(f(n)). Assinale a alternativa que apresenta somente as afirmativas CORRETAS.
+
+Alternativas:
+A. I, II, IV, V.
+B. II, III, IV.
+C. II, III, IV, V.
+D. I, III, IV, V.
+E. II, III, V.

@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
+
+Em relação às estruturas de controle e de fluxo de execução, julgue o item seguinte.     O laço do-while será executado sempre que a condição for falsa e terminará quando esta for verdadeira, ao passo que o laço repeat-until será executado sempre que a condição for verdadeira e terminará quando esta for falsa.  
+
+Alternativas:
+A. Certo
+B. Errado

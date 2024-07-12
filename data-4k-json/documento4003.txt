@@ -1,0 +1,10 @@
+Engenharia de Software Teste de Software
+
+A analista Luana criou o aplicativo JustNotifica, para dispositivos Android. Em horários determinados, o aplicativo envia notificações locais ao usuário por meio de alarms do Android. Caso o dispositivo seja reiniciado, o aplicativo reagenda o envio das notificações locais de forma transparente ao usuário.  A fim de automatizar o reagendamento de alarms logo após o reinício do dispositivo, o JustNotifica deve possuir a seguinte permissão do Android: 
+
+Alternativas:
+A. QUICKBOOT_POWERON;
+B. ACTION_BOOT_COMPLETED;
+C. LOCKED_BOOT_COMPLETED;
+D. RECEIVE_BOOT_COMPLETED;
+E. ACTION_LOCKED_BOOT_COMPLETED.

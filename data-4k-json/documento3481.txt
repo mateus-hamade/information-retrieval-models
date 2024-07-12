@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Dentre os paradigmas para construção de algoritmos, o método Divisão-e-Conquista, caracteriza-se por:
+
+Alternativas:
+A. reduzir repetidamente o problema em sub-problemas, geralmente de forma recursiva, até que o sub-problema é pequeno o suficiente para ser resolvido.
+B. tentar encontrar a solução através de ciclos de mutações evolucionárias entre gerações de passos.
+C. resolver o problema ao transformá-lo em outro problema.
+D. armazenar explicitamente soluções parciais para evitar o recálculo de soluções já resolvidas anteriormente.
+E. realizando a escolha que parece ser a melhor no momento.

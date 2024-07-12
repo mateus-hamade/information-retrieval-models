@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados
+
+Em um banco de dados, o recurso de controle de dados inseridos em cada coluna, cujo objetivo é avaliar, por meio de expressões como “menor que” e “maior que”, entre outras, intervalos válidos para os valores denomina-se
+
+Alternativas:
+A. nulidade.
+B. unicidade.
+C. valor padrão.
+D. restrições de verificação.
+E. duplicidade.

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Analise o algoritmo abaixo, que foi escrito no software VisuAlg 3.0:     algoritmo "cálculo_média"  var        qtd, cont, soma, media: inteiro  inicio       soma <- 0       leia(qtd)       para cont de 1 ate qtd faca             soma <- soma + cont       fimpara      media <- soma / cont      escreva(media)  fimalgoritmo        O que precisa ser corrigido no algoritmo acima para que ele seja executado sem erros? 
+
+Alternativas:
+A. A atribuição da variável “media” deve ser movida para dentro do laço de repetição “para”.
+B. O tipo da variável “media” deve ser alterado para “real”.
+C. A instrução “escreva(media)” deve ser movida para cima da atribuição da variável “media”.
+D. A variável “cont” deve ser inicializada antes do laço de repetição “para”.
+E. O operador de divisão “/” (barra) deve ser alterado para “%” (percentual).

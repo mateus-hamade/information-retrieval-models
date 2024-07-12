@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+No que se refere aos conceitos de ordenamento, julgue o seguinte item.       A complexidade de tempo do algoritmo bubble sort é do tipo O(n × logn), logo, no caso desse algoritmo, o tempo de execução aumenta exponencialmente com o acréscimo do valor de n. 
+
+Alternativas:
+A. Certo
+B. Errado

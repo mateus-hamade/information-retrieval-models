@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+Sobre listas encadeadas, é INCORRETO afirmar que:  
+
+Alternativas:
+A. os dados são armazenados dinamicamente;
+B. são acessadas pelo primeiro nodo da lista;
+C. o final da lista faz uma referência para null;
+D. possuem tamanho fixo;
+E. pilhas e filas são versões limitadas de listas encadeadas.

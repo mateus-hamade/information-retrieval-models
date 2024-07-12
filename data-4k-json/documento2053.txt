@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Busca , Estrutura de Dados ( assuntos)
+
+A técnica de hashing que, no pior caso, realiza O(1) acessos à memória para executar uma busca é denominada hashing
+
+Alternativas:
+A. direto.
+B. perfeito.
+C. fechado.
+D. uniforme.

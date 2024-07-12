@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+Questão anulada Escolha a alternativa que possua um algoritmo de ordenação pertencente ao grupo dos métodos de ordenação estáveis
+
+Alternativas:
+A. BubbleShort
+B. QuickSort
+C. ShellSort
+D. HeapSort
+E. SelectionSort

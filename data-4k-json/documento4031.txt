@@ -1,0 +1,9 @@
+Segurança da Informação Conceitos Básicos em Segurança da Informação , Firewall em Segurança da Informação , Sistemas de Prevenção-Detecção de Intrusão ( assuntos)
+
+Uma empresa instalou firewalls statefull em sua rede. Isso significa que esses equipamentos vão:
+
+Alternativas:
+A. usar a origem, o destino e outros parâmetros de um pacote de dados para descobrir se os dados apresentam uma ameaça
+B. identificar se um pacote de dados está fora dos parâmetros aceitáveis e restringir ou bloquear os dados do hospedeiro original
+C. usar informações sobre para onde um pacote de dados está indo, de onde ele veio e outros parâmetros para descobrir se os dados apresentam uma ameaça, mas com esses parâmetros sendo inseridos pelo fabricante
+D. inspecionar os pacotes de dados de forma plena, vendo as características dos dados e seus canais de comunicação, examinando e catalogando o comportamento dos mesmos, protegendo segmentos da rede, no caso de um código malintencionado entrar

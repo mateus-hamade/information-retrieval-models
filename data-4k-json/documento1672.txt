@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+Julgue o item subsequente, a respeito de algoritmos para ordenação e pesquisa e de programação recursiva.      A ordenação por seleção, ou Selection sort, requer apenas uma quantidade constante O (1) de espaço de memória adicional.  
+
+Alternativas:
+A. Certo
+B. Errado

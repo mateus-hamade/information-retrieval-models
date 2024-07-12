@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Tipos de Dados
+
+A respeito de linguagens de programação e tipos de dados, julgue o próximo item.   A implementação de tipos de dados elementar, como o inteiro longo, que pode ter um tamanho ilimitado, exige suporte externo ao hardware. 
+
+Alternativas:
+A. Certo
+B. Errado

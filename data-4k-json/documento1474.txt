@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Filas , Listas ( assuntos)
+
+Analise as afirmativas referentes às estruturas de dados básicas:     I – Uma lista linear é uma sequência de zero ou mais itens x1, x2, ..., xn, em que xi é de um determinado tipo e n representa o tamanho da lista linear.     II – Uma pilha é uma lista linear em que todas as inserções, retiradas e geralmente todos os acessos, são feitos em apenas um extremo da lista.     III – Uma fila é uma lista linear em que todas as inserções são realizadas em um extremo da lista e todos os acessos e retiradas são realizados no mesmo extremo da lista.     Estão CORRETAS as afirmativas: 
+
+Alternativas:
+A. I e II, apenas.
+B. I e III, apenas.
+C. II e III, apenas.
+D. I, II e III.

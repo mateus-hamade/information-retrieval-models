@@ -1,0 +1,9 @@
+Banco de Dados MySQL
+
+O MySQL Cluster é uma tecnologia que permite a distribuição de Sistemas Gerenciadores de Banco de Dados (SGBDs) MySQL. O componente que realiza a leitura do arquivo de configuração do MySQL Cluster e distribui a informação para todos os nodos que a solicitem é: 
+
+Alternativas:
+A. ndbd
+B. mysqld
+C. ndb_mgm
+D. ndb_mgmd

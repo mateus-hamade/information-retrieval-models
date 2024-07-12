@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+São exemplos de algoritmos de ordenação, exceto: 
+
+Alternativas:
+A. Bubble Sort
+B. Select Sort
+C. Shell Sort
+D. Busca Sequencial;
+E. Quick Sort;

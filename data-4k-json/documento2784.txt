@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+Considere as assertivas, a seguir, sobre estruturas de dados;   I- Permite acesso somente ao último item inserido.  II- O último item inserido é o primeiro a ser removido.  III- Cada item contém uma referência para o próximo item da estrutura,  IV- Consiste em nós ligados por arestas, sendo que qualquer nó pode ter uma ou mais arestas descendo para outros nós que são chamados de filhos.  V- Estrutura que associa chaves de pesquisa à valores. Uma função matemática é a responsável por gerar um índice a partir de uma determinada chave.   Qual das alternativas a seguir está, respectivamente, associada às assertivas contidas nos itens l, II, III, IV e V? 
+
+Alternativas:
+A. Listas, Grafos, Árvores-B, Vetores, Matrizes.
+B. Tabelas Hash, Árvores, Pilhas, Matrizes, Grafos.
+C. Heaps, Grafos, Listas, Vetores, Pilhas.
+D. Vetores, Listas, Tabelas Hash, Heaps, Árvores-B.
+E. Pilhas, Filas, Listas, Árvores, Tabelas Hash.

@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Julgue o item subsequente, relativo à lógica de programação.     O pseudocódigo a seguir, após executado, apresentará como resultado 13.  funcao X (n) {      se (n == 1 ou n == 2) então          retorne n;       senão          retorne X (n-1) + n * X (n-2);  }  escreva X(4);  
+
+Alternativas:
+A. Certo
+B. Errado

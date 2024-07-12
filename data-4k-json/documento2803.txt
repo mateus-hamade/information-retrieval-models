@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
+
+Considere a afirmativa: “Em uma estrutura de dados do tipo __________, os itens podem ser inseridos e removidos através de uma única extremidade, denominada________. O nome da outra extremidade é chamado de _________.” Marque a alternativa que apresenta os termos que completam adequadamente a afirmativa acima.
+
+Alternativas:
+A. Árvore – Folha – Raiz.
+B. Deque – Início – Cauda.
+C. Fila – Início – Fim da fila.
+D. Lista – Início – Fim da lista.
+E. Pilha – Topo – Base.

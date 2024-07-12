@@ -1,0 +1,10 @@
+Banco de Dados DER - Diagrama de Entidade e Relacionamento
+
+Uma escola que oferece aulas de reforço possui um cadastro de professores especializados em alguma matéria e de alunos que precisam de reforço escolar em matérias específicas. As tabelas estão desenhadas abaixo.     Solicitaram ao DBA que casasse as necessidades dos alunos com a especialidade dos professores, mas não deram muitos detalhes. O DBA preparou, então, três possibilidades de combinação, representadas pelas consultas SQL (padrão SQL99 ou superior) abaixo: I. select nomea, nomep from professores natural join alunos II. select nomea, nomep from professores right join alunos on professores.materia = alunos.materia III. select nomea, nomep from professores full join alunos using (materia) Selecione a alternativa que representa, nesta ordem, o número de tuplas resultantes das consultas I, II e III.  
+
+Alternativas:
+A. 7 – 7 – 9.
+B. 6 – 8 – 8.
+C. 6 – 7 – 9.
+D. 7 – 8 – 9.
+E. 6 – 7 – 8.

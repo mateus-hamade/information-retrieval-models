@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Busca
+
+Considere um vetor de n posições, composto de números de matrículas de alunos de uma universidade. Ao executarmos uma busca sequencial para verificar se a matrícula de determinado aluno está contida, ou não, no vetor, o número de comparações realizadas na busca de uma matrícula dada no vetor, considerando o pior caso, é:
+
+Alternativas:
+A. n − 1
+B. n + 1
+C. n
+D. n − 2
+E. n + 2

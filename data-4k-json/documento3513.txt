@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+Considere: I. Estrutura de dados linear e estática, composta por um número finito de elementos de um determinado tipo de dados.  II. É linear e dinâmica quando encadeada; apresenta um campo para conter o dado a ser armazenado e outro campo para apontar para o próximo elemento.  III. Os elementos associados a cada nó são habitual- mente chamados de filhos desses nós, podendo existir nós sem filhos.  IV. É tipicamente uma representação de vértices ligados por arestas que eventualmente, podem ser direcionadas por meio de setas. Em relação às estruturas de dados, é correto afirmar que os itens I, II, III e IV estão associados, respectivamente, a  
+
+Alternativas:
+A. lista, fila, pilha e vetor.
+B. fila, vetor, grafo e árvore.
+C. vetor, lista, árvore e grafo.
+D. lista, fila, grafos e tabela de hashing.
+E. fila, vetor, árvore e tabela de hashing.

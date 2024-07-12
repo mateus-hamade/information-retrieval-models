@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Tipos de Dados
+
+Em linguagem de programação existem vários tipos de dados. Os que são tipicamente usados como resultados de expressões condicionais, ou como variáveis identificadoras de estado, possuindo apenas dois valores, um correspondente a verdadeiro e outro a falso, é do tipo:  
+
+Alternativas:
+A. Primitive.
+B. Inteiro
+C. Character.
+D. Booleano.
+E. Decimal.

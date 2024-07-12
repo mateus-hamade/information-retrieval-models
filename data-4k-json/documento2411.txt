@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Grafos
+
+Acerca dos conceitos de árvores e grafos, julgue o item que se segue.     A soma dos graus de todos os vértices de um grafo é sempre par.  
+
+Alternativas:
+A. Certo
+B. Errado

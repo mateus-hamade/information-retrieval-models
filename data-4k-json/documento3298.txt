@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Texto associado Os diagramas de estado, também conhecidos como diagramas de bloco, são representações gráficas de algoritmos, ou seja, das instruções e(ou) módulos do processamento.  
+
+Alternativas:
+A. Certo
+B. Errado

@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+Na linguagem SQL, para executar uma operação básica de comparação, utiliza-se a instrução
+
+Alternativas:
+A. select.
+B. distinct.
+C. between.
+D. compare.
+E. where.

@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+Texto associado Considerando a tabela apresentada na Figura 1, qual o comando SQL poderá ser executado para que sejam retornados os nomes das áreas que possuem uma área superior e os respectivos nomes de suas áreas superiores.  
+
+Alternativas:
+A. SELECT A1.NOME, A2.NOME FROM A1 IS AREA, A2 IS AREA WHERE A1.ID = A2.ID;
+B. SELECT NOME, A2.NOME FROM AREA, AREA A2 WHERE ID_AREA_SUPERIOR = A2.ID AND ID_AREA_SUPERIOR IS NOT NULL;
+C. SELECT A1.NOME, A2.NOME FROM AREA AS AREA_SUB, AREA AS A2 WHERE A1.ID_AREA_SUPERIOR = A2.ID_AREA_SUPERIOR;
+D. SELECT A1.NOME, A2.NOME FROM AREA A1, AREA A2 WHERE A2.ID_AREA_SUPERIOR = A1.ID AND A1.ID_AREA_SUPERIOR IS NULL;
+E. SELECT A1.NOME, A2.NOME FROM AREA AS A1, AREA AS A2 WHERE A1.ID_AREA_SUPERIOR = A2.ID;

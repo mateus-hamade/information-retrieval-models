@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Busca
+
+Seja v um array (vetor) contendo objetos que representam títulos eleitorais. Cada título eleitoral é caracterizado, entre outras informações, pelo seu número. Este número identifica unicamente cada título eleitoral. Considere então o problema de criar uma função (método) que, passados como parâmetros um array de títulos eleitorais como o array v e um número x, retorne um título eleitoral cujo número seja igual ao número x. Na definição do algoritmo que implementa a função desejada, qual(ais) estrutura(s) de repetição seria(m) mais adequada(s)?  
+
+Alternativas:
+A. Enquanto (expressão) faça: repete enquanto a expressão for verdadeira.
+B. Para i de 1 até N faça: repete exatamente N vezes.
+C. Para i de 1 até N faça dentro de enquanto (expressão) faça.
+D. Enquanto (expressão) faça dentro de para i de 1 até N faça.

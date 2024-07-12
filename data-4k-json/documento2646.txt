@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Com relação aos tipos de dados elementares e estruturados, julgue o item subsequente.  Em uma árvore binária balanceada, para todo nó que não seja considerado um nó-folha, a subárvore da esquerda terá chaves menores que a chave do nó.  
+
+Alternativas:
+A. Certo
+B. Errado

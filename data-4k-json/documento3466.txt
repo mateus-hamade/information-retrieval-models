@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Texto associado A árvore B propicia rápido acesso aos dados, pesquisando um valor-chave no índice e, pelo fato de ser balanceada, localiza registros exigindo aproximadamente o mesmo volume de recursos computacionais. 
+
+Alternativas:
+A. Certo
+B. Errado

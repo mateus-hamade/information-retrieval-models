@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação , Complexidade de Algoritmos
+
+Analise as afirmativas:  I. Considere o método de ordenação que implementa o seguinte processo: uma coleção desordenada de n elementos é dividida em duas metades e cada metade é utilizada como argumento para a reaplicação recursiva da subrotina. Os resultados das duas reaplicações são, então, combinados pela intercalação dos elementos de ambas, resultando em uma coleção ordenada. A complexidade do caso médio desse algoritmo é expressa por O(n log2 n).  II. Existem aplicações para listas lineares nas quais inserções, retiradas e acessos a itens ocorrem sempre em um dos extremos da lista. Nestes casos a estrutura adequada para resolvê-los é a pilha ou stack.  III. No método Quicksort, o pivô é responsável pelo número de partições em que o vetor é dividido. Como o pivô não pode ser um elemento que esteja repetido no vetor, o Quicksort não funciona quando há elementos repetidos.  Está correto o que se afirma em 
+
+Alternativas:
+A. I e III, apenas.
+B. I, II e III.
+C. I e II, apenas.
+D. II, apenas.
+E. II e III, apenas.

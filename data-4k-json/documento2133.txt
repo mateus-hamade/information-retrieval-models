@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+   Considere a árvore binária apresentada.  Percorrer essa árvore utilizando o algoritmo de pre-oder resultará na seguinte sequência:  
+
+Alternativas:
+A. 11, 5, 48, 35, 8, 57, 16, 42.
+B. 11, 5, 8, 35, 16, 42, 48, 57.
+C. 5, 11, 8, 35, 16, 48, 57, 42.
+D. 42, 16, 8, 5, 11, 35, 57, 48.
+E. 5, 8, 11, 16, 35, 42, 48, 57.

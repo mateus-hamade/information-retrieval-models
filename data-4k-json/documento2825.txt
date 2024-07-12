@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Observe o algoritmo abaixo, considerando que ocorre passagem de parâmetros por valor de M para X e por referência de B para W.     Ao final do processamento, os valores de saída para as variáveis M e B serão, respectivamente:
+
+Alternativas:
+A. 31 e FALSO
+B. 31 e VERDADEIRO
+C. 67 e FALSO
+D. 67 e VERDADEIRO

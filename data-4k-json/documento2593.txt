@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
+
+Assinale a alternativa que apresenta as palavras que preenchem, respectivamente, as lacunas do seguinte texto, sobre estruturas de repetição.     O WHILE é uma estrutura de repetição _____, ele repete a execução de um bloco de sentenças enquanto uma condição permanecer verdadeira. Na primeira vez que a condição se tornar falsa, o WHILE _____ a execução do bloco, e a execução continuará com a sentença ou comando que vem logo após _____ WHILE, na sequência do programa. A estrutura de repetição DO ... WHILE tem um comportamento muito semelhante ao WHILE, com uma diferença crucial, a condição é verificada _____ executar o bloco de instruções correspondente. 
+
+Alternativas:
+A. simples; não repetirá; o bloco do; após.
+B. complexa; repetirá; o; antes.
+C. complexa; não repetirá; o; antes.
+D. simples; repetirá; o bloco do; antes.
+E. complexa; não repetirá; o; após.

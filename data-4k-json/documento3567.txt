@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
+
+Texto associado Nas estruturas de controle, tais como as estruturas de seleção simples, compostas ou encadeadas, é necessário verificar as condições para a realização de uma instrução ou sequência de instruções. 
+
+Alternativas:
+A. Certo
+B. Errado

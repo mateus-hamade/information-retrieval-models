@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados
+
+Analise as assertivas genéricas abaixo sobre replicação em banco de dados: I. A replicação pode ser síncrona ou assíncrona, dependendo da necessidade do sistema. II. A replicação pode melhorar a disponibilidade de dados e contribuir para a recuperação de desastres. III. A replicação em banco de dados garante consistência em todas as réplicas. Quais estão corretas?
+
+Alternativas:
+A. Apenas II.
+B. Apenas I e II.
+C. Apenas I e III.
+D. Apenas II e III.
+E. I, II e III.

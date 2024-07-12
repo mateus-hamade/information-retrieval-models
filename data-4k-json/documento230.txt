@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados
+
+A paralelização em rotinas de ciência de dados traz benefícios importantes, especialmente quando é necessário tratar uma grande quantidade de dados. O principal motivador para paralelizar uma rotina é
+
+Alternativas:
+A. aumentar a segurança sobre o valor correto do resultado.
+B. reduzir a memória total utilizada.
+C. reduzir o tempo para que as rotinas sejam completadas.
+D. simplificar o código das rotinas.
+E. diminuir o custo total do processamento.

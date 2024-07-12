@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos
+
+Com relação a estruturas de controle, seleção, repetição e desvio, julgue o item a seguir.     No algoritmo a seguir, o comando x = x + 10 é executado quatro vezes.  x = 10;  para (y = 40; y < 100; y = y + 16)          x = x + 10;  fim para  escreva(x);     
+
+Alternativas:
+A. Certo
+B. Errado

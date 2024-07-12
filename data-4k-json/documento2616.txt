@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Considerando a estrutura de dados denominada árvore,
+
+Alternativas:
+A. a sua altura é definida como a profundidade média de todos os seus vértices.
+B. um vértice com um ou dois filhos é denominado folha.
+C. cada nó tem no mínimo dois filhos em uma árvore binária.
+D. as folhas de uma árvore binária completa podem ter profundidades distintas entre si.
+E. a profundidade de um vértice em uma árvore é definida como o comprimento da raiz da árvore até esse vértice.

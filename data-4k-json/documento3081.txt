@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
+
+Considere uma pilha s e um item i. As funções que executam a operação primitiva para incluir o item i no topo da pilha s e, a operação para remover o elemento do topo e o retornar como valor da função são, respectivamente,
+
+Alternativas:
+A. bop(s,i) e pop(s,i).
+B. queuein(s,i) e queueout(s,i)
+C. stackpush(s,i) e stacktop(s).
+D. push(s,i) e pop(s).
+E. settop(s,i) e gettop(s).

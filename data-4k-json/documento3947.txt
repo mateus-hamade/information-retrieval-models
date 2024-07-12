@@ -1,0 +1,9 @@
+Segurança da Informação Criptografia , Certificação Digital em Segurança da Informação , Autenticação ( assuntos)
+
+A combinação de propriedades que NÃO é desejável na comunicação segura é: 
+
+Alternativas:
+A. integridade da mensagem e redundância
+B. sigilo do algoritmo criptográfico e codificação
+C. confidencialidade e integridade da mensagem
+D. autenticação das partes envolvidas e redundância

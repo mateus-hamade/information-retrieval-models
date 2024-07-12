@@ -1,0 +1,10 @@
+Banco de Dados Modelagem de dados
+
+Analise abaixo o modelo lógico textual de um banco de dados:  TipoDeUsuario(CodigoTipoUsu,DescricaoTipoUsu) Usuario(CodigoUsu,LoginUsu,CodigoTipoUsu) CodigoTipoUsu referencia TipoDeUsuario   Sobre o modelo lógico acima, é correto afirmar que:
+
+Alternativas:
+A. O campo CodigoTipoUsu da tabela Usuario é uma chave secundária.
+B. O campo DescricaoTipoUsu da tabela TipoDeUsuario é uma chave primária.
+C. Os campos LoginUsu e CodigoTipoUsu da tabela Usuario compõem uma chave primária composta.
+D. O campo CodigoUsu da tabela Usuario é uma chave secundária.
+E. Os campos CodigoTipoUsu da tabela TipoDeUsuario e CodigoUsu da tabela Usuario são chaves irmãs.

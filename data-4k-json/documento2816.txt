@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+Que nome recebem os métodos ou algoritmos que efetuam ordenação de dados por troca?
+
+Alternativas:
+A. bhashing e quicksort.
+B. bubble sort e quicksort.
+C. hashing e bubble sort.
+D. ordenação shell e hashing.
+E. busca por ordenação e hashing.

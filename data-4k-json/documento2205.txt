@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Recursividade
+
+Considere a equação de recorrência abaixo.     T(n) = 0 para n = 1.  T(n) = 2T(n/2) + n – 1 para n > 1.     Após a resolução, a solução encontrada é 
+
+Alternativas:
+A. T(n) = n2 + n log(n) + n.
+B. T(n) = n2 + n log(n).
+C. T(n) = n2 – n + log(n).
+D. T(n) = n log(n) + n – 1.
+E. T(n) = n log(n) – n + 1.

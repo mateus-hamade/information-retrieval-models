@@ -1,0 +1,9 @@
+Segurança da Informação Norma ISO 27001
+
+Os elementos de suporte descritos na norma IEC27001:2013 da Organização Internacional de Normalização (ISO) são:
+
+Alternativas:
+A. awaraness, competence, communication, documented information e resources.
+B. availability, acessibility, concurrency, provenance e resources management.
+C. accountability, interoperability, provenance e resources management.
+D. awaraness, interoperability, concurrency e resources.

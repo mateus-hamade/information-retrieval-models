@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos
+
+Alguns algoritmos de escalonamento podem acabar por priorizar alguns processos em detrimento de outros. Quando um processo nunca é executado porque outros processos são executados por terem maior prioridade, o processo não executado está em condição de:
+
+Alternativas:
+A. blocking.
+B. interruption.
+C. starvation.
+D. deadlock.

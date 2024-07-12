@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados Relacionais
+
+Texto associado Considerando a abordagem de mapeamento objeto-relacional (ORM), seja o mapeamento da classe “Parlamentar” realizado da forma que segue: Parlamentar ( {cod_parlamentar} , nome, partido, email, telefone, endereco, data_nascimento, naturalidade, foto )  A fim de manter, no modelo lógico de banco de dados relacional, a semântica expressa na classe “Submissão” do modelo conceitual, e considerando que   I. o atributo id_parlamentar<FK> indica uma chave estrangeira para a chave primária da tabela “Parlamentar”; II. o atributo id_proposicao<FK> indica uma chave estrangeira para a chave primária da tabela “Proposição”.  Nesse caso, uma abordagem correta seria
+
+Alternativas:
+A. adicionar na tabela “Parlamentar” a chave estrangeira “cod_proposicao”, referenciando a chave primária da tabela “Proposição”.
+B. alterar a cardinalidade máxima da associação entre “Parlamentar” e “Proposição”, com vistas a torná-la com conectividade muitospara-muitos.
+C. criar a tabela “Submissão” com o seguinte esquema: Submissão ({id_parlamentar,id_proposicao} , data, id_parlamentar, id_proposicao).
+D. criar a tabela “Submissão” com o seguinte esquema: Submissão (id_submissao , data, id_parlamentar).
+E. criar a tabela “Submissão” com o seguinte esquema: Submissão (id_submissao , data, id_parlamentar, id_proposicao).

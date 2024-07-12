@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Fluxogramas , Estrutura de Dados ( assuntos)
+
+Texto associado A questão baseia-se na Figura 3, que mostra uma modelagem realizada no BizAgi Modeler 64-bit, versão 3.5.0.065, na qual os nomes foram substituídos, intencionalmente, por letras.  Figura 3 - Modelagem no BizAgi  A Figura 3 exibe uma modelagem realizada no BizAgi Modeler, na qual as setas nº: 
+
+Alternativas:
+A. 1 e 2 apontam, respectivamente, para um Pool ("A") e uma Lane ("B").
+B. 2 e 3 apontam, respectivamente, para um Milestone ("B") e uma Associação ("E").
+C. 3 e 4 apontam, respectivamente, para um Fluxo de sequência ("E") e uma Tarefa ("H").
+D. 4 e 5 apontam, respectivamente, para um Subprocesso ("H") e um Evento intermediário ("G").
+E. 5 e 6 apontam, respectivamente, para um Gateway ("G") e um Objeto de dado ("I").

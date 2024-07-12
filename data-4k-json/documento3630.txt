@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Lógicas de Programação
+
+Texto associado Se as linhas 6 e 7 forem retiradas, o algoritmo passa a ter um erro de lógica, o que leva à execução infinita, independentemente dos valores dos argumentos passados.
+
+Alternativas:
+A. Certo
+B. Errado

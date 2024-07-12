@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+Analise as afirmativas abaixo com relação à cláusula JOIN em SQL. 1. INNER JOIN retorna registros que possuem correspondência em ambas as tabelas. 2. LEFT JOIN retorna todos os registros da tabela da esquerda em caso de correspondências com a tabela da direita, e retorna zero se não houver correspondências. 3. FULL OUTER JOIN é igual à FULL JOIN e ambas as sintaxes podem ser utilizadas indistintamente. Assinale a alternativa que indica todas as afirmativas corretas. 
+
+Alternativas:
+A. É correta apenas a afirmativa 2.
+B. São corretas apenas as afirmativas 1 e 2.
+C. São corretas apenas as afirmativas 1 e 3.
+D. São corretas apenas as afirmativas 2 e 3.
+E. São corretas as afirmativas 1, 2 e 3.

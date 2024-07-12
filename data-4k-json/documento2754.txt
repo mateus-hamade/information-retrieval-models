@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+No que se refere à organização de arquivos e métodos de acesso a bancos de dados, julgue o próximo item.  A utilização de árvores-B+ para implementar acesso indexado a registros é eficiente quando se trata de aplicação em que a operação predominante é a inclusão de novos registros.  
+
+Alternativas:
+A. Certo
+B. Errado

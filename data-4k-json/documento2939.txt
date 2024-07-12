@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Texto associado Considere que os valores lidos para x1, x2 e x3 tenham sido, respectivamente, 5, 4 e 3  Considerando o algoritmo fornecido, caso a linha de programa  Para i de 1 até x1 faça  seja substituída pela linha  Para i de 1 até x1 passo 2 faça  o número de vezes que as instruções serão executadas dentro do loop Para... é igual a
+
+Alternativas:
+A. 0
+B. 1
+C. 2
+D. 3
+E. 5

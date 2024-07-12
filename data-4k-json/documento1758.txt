@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Dados
+
+Considere a operação a seguir.     10(base10) + 10(base2) + 10(base16) + 10(base8)     Qual o resultado da operação (na representação de números sem sinal, com 8 bits)? 
+
+Alternativas:
+A. 00110100 (base 2).
+B. 00100000 (base 2).
+C. 00100001 (base 2).
+D. 00100100 (base 2).
+E. 00100010 (base 2).

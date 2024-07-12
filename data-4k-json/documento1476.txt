@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+Na ordenação por seleção, é necessário permutar o vetor. Para esse caso, o significado de ‘permutar’ é 
+
+Alternativas:
+A. substituir o vetor por chaves de ordenação.
+B. rearranjar os elementos do vetor.
+C. alterar os valores de um vetor A depois de ordenado em um vetor B.
+D. alternar os valores de um vetor A com um vetor B.
+E. ordenar os elementos do vetor A em função de um vetor B de ordenação.

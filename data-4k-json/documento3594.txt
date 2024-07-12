@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Dado o seguinte código em pseudocódigo na linguagem PORTUGOL, qual o valor das variáveis x e y, respectivamente, após sua execução?   
+
+Alternativas:
+A. 1 e 2.
+B. 3 e 4.
+C. 6 e 6.
+D. 6 e 12.
+E. 8 (calculado como 23) e 6(calculado como fatorial de 3).

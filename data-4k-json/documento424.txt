@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+Considerando as instruções em linguagem SQL a seguir, assinale a alternativa que gera o mesmo resultado da seguinte instrução SQL: SELECT matricula, nome FROM SERVIDOR WHERE matric_institucional IN (SELECT chefe_matricula FROM CHEFIA WHERE chefe_matricula='ABC123'); 
+
+Alternativas:
+A. SELECT* FROM SERVIDOR, CHEFIAWHERE matric_institucional = matricula AND chefe_matricula='ABC123';
+B. SELECTS.* FROM SERVIDOR S, CHEFIAC WHERE matric_institucional = matricula AND chefe_matricula='ABC123';
+C. SELECT matricula, nome FROM SERVIDOR, * WHERE matric_institucional = matricula AND chefe_matricula='ABC123';
+D. SELECT matricula, nome FROM * WHERE matric_institucional = matricula AND chefe_matricula='ABC123';
+E. SELECT matricula, nome FROM SERVIDOR, CHEFIA WHERE matric_institucional = matricula AND chefe_matricula='ABC123';

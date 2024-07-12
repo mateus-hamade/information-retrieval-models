@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
+
+Com o comando de repetição repetir-até-que (repeatuntil) pode-se simular o comportamento do enquanto-que (while). Dado o trecho de pseudocódigo esquemático abaixo, assinale a alternativa em que se simula o comportamento do enquanto-que com o repetir-até-que, onde S é uma sequência arbitrária de comandos e C uma expressão boolena que incorpora a condição de parada do laço. enquanto que C S fim-enquanto 
+
+Alternativas:
+A. se C então faça repita S até que C fim-se
+B. se (não C) então faça repita S até que C fim-se
+C. se C então faça repita S até que (não C) fim-se
+D. se (não C) então faça repita S até que (não C) fim-se
+E. se C então faça repita C:=(não C) S até que C fim-se

@@ -1,0 +1,10 @@
+Programação JavaScript , Linguagens de programação
+
+Basicamente, jQuery é uma biblioteca JavaScript. Ela foi desenvolvida para simplificar e diminuir a quantidade de código JavaScript. O comando http://api.jquery.com/focusout   refere-se a um evento que é disparado quando: 
+
+Alternativas:
+A. um elemento perde o foco;
+B. um elemento ou um dos seus descendentes perde o foco;
+C. um elemento ou um dos seus descendentes ganha o foco;
+D. a janela do navegador é redimensionada;
+E. em determinados casos, esse evento é disparado depois de um elemento ter o seu valor modificado e em seguida perder o foco.

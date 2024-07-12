@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Estrutura de Controle e Repetição
+
+Em um algoritmo, apresentado o seguinte código:  "Se Condição1 então Se Condição2 então Comando1 Senão Comando2 Comando3"  Quando a Condição1 for verdadeira, a próxima instrução a ser executada será :
+
+Alternativas:
+A. Comando2.
+B. Se Condição2 então.
+C. Comando1.
+D. Senão.
+E. Comando3.

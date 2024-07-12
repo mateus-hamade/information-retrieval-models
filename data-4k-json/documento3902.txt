@@ -1,0 +1,9 @@
+Programação JavaScript , Linguagens de programação
+
+Ao utilizar a API FETCH do JavaScript, o uso do modo “cors”, irá permitir que: 
+
+Alternativas:
+A. Seja enviado dados em duas URLs distintas ao mesmo tempo
+B. O uso do método PUT seja reconhecido pelo servidor
+C. A aplicação possa acessar recursos em um local diferente da origem
+D. Que os dados sejam interpretados pelo servidor como json

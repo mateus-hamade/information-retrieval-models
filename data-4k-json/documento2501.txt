@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+O programa a seguir é tipicamente uma estrutura:     if (expressão Booleana) {  códigos verdadeiros;  } else {  códigos falsos;  }  
+
+Alternativas:
+A. Repetição.
+B. Sequencial.
+C. Condicional.
+D. Recursiva.

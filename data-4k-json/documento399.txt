@@ -1,0 +1,9 @@
+Banco de Dados SGBD - Sistema de Gerenciamento de Banco de Dados , PostgreSQL
+
+No processo de instalação e/ou configuração do Sistema de Gerenciamento de Banco de Dados (SGBD) PostgreSQL, o comando “initdb” é responsável por criar
+
+Alternativas:
+A. um novo banco de dados no PostgreSQL.
+B. uma cópia de segurança de um banco de dados no PostgreSQL.
+C. um usuário administrador no PostgreSQL.
+D. um cluster de banco de dados no PostgreSQL.

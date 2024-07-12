@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+A estrutura de dados a seguir é do tipo árvore, representada pelos nós de 1 a 10, sendo o nó 1 a raiz da árvore.    Caso seja utilizado o algoritmo de busca denominado Breadth-First Search (BFS), a ordem com que os nós são buscados é: 
+
+Alternativas:
+A. 1, 2, 3, 4, 5, 6, 7, 8, 9, 10.
+B. 1, 2, 5, 3, 6, 4, 7, 8, 9, 10.
+C. 1, 2, 5, 9, 3, 6, 4, 7, 10, 8.
+D. 9, 10, 5, 6, 7, 8, 2, 3, 4, 1.
+E. 10, 9, 8, 7, 6, 5, 4, 3, 2, 1.

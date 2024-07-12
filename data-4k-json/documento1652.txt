@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Considere o algoritmo em pseudocódigo a seguir:            Assinale a alternativa que apresenta CORRETAMENTE a sequência de valores impressos pelo algoritmo:   
+
+Alternativas:
+A. 91, 47, 61, 87, 29.
+B. 91, 61, 47, 87, 29.
+C. 51, 47, 87, 29, 91.
+D. 47, 61, 87, 29, 91.

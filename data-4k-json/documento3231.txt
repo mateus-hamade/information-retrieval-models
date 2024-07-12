@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Busca
+
+Texto associado O método de busca mais rápido, em qualquer tipo de arquivo, denomina-se pesquisa binária. 
+
+Alternativas:
+A. Certo
+B. Errado

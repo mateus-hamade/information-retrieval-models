@@ -1,0 +1,10 @@
+Banco de Dados SQL , Banco de Dados Relacionais
+
+Após ter criado a tabela Cidadao em um banco de dados relacional, aberto e funcionando em condições ideais, um analista necessitou modificar sua estrutura excluindo a coluna Atividade. Para isso ele utilizou corretamente o comando SQL
+
+Alternativas:
+A. DROP IN TABLE Cidadao COLUMN Atividade;
+B. UPDATE TABLE Cidadao DROP COLUMN Atividade;
+C. ALTER TABLE Cidadao DELETE COLUMN Atividade;
+D. ALTER TABLE Cidadao DROP COLUMN Atividade;
+E. UPDATE TABLE Cidadao DELETE COLUMN Atividade;

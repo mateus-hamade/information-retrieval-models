@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Vetores
+
+Nas rodovias paulistas os veículos pagam pedágio em função do número de eixos e da sua categoria. Há 15 categorias de veículos. Para realizar o cálculo do pedágio, existe uma tarifa mínima que é multiplicada por um valor relativo ao número de eixos. Considere a estrutura abaixo que indica a categoria do veículo pelo número da coluna; na primeira linha armazena a quantidade de eixos; na segunda linha armazena o valor pelo qual a tarifa mínima deve ser multiplicada.        Exemplos: o veículo 0 é motocicleta/motoneta/bicicleta a motor que tem 2 eixos, mas é isento; o veículo 2 é caminhonete/furgão que tem 2 eixos e paga 1 tarifa; o veículo 13 é um caminhonete/automóvel com reboque que tem 4 eixos e paga 2 tarifas.     Considerando que n é a categoria do veículo, que tm é a tarifa mínima e que a estrutura é denominada mpedagio, o trecho em pseudocódigo que calcula vp, o valor pedágio, corretamente, é:  
+
+Alternativas:
+A. vp ← mpedagio [n,0] * mpedagio [n,1] * tm
+B. vp ← mpedagio [1,n] * tm
+C. vp ← vp + (mpedagio[0,n] + mpedagio[1,n]) * tm
+D. vp ← (mpedagio[n,0] / mpedagio[n,1]) * tm
+E. se (n = 0) então vp ← 0 senão vp ← (mpedagio[0,n] / 2) * tm fim se

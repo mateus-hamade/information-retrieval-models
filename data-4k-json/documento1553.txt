@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Hashing
+
+As funções de hash são comumente empregadas nos mecanismos de segurança da informação. Quanto às suas propriedades básicas, para que o algoritmo de hash seja considerado forte, é correto afirmar que: 
+
+Alternativas:
+A. a mesma entrada deve produzir saídas diferentes;
+B. deve ser difícil encontrar duas entradas que produzam o mesmo hash;
+C. deve ser possível produzir a entrada original a partir do hash resultante;
+D. pequenas mudanças na entrada devem produzir pequenas mudanças no hash resultante;
+E. mesmo que as entradas possuam o mesmo tamanho, os resultados de hash terão tamanhos diferentes.

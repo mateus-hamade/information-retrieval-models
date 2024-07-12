@@ -1,0 +1,10 @@
+Segurança da Informação Noções de Segurança , Segurança na Internet
+
+A Resolução nº 396, de 7 de junho de 2021, instituiu a Estratégia Nacional de Segurança Cibernética do Poder Judiciário (ENSECPJ). A ENSEC-PJ define ações para o alcance dos seus objetivos. Uma dessas ações visa a estabelecer um modelo centralizado de governança nacional na segurança cibernética do Poder Judiciário.  Um dos objetivos desse modelo centralizado é:
+
+Alternativas:
+A. estabelecer um Sistema de Gestão em Segurança da Informação baseado em riscos, de acordo com a recomendação do Conselho Nacional de Justiça (CNJ);
+B. instituir e manter Equipe de Tratamento e Resposta a Incidentes de Segurança Cibernética (ETIR);
+C. estabelecer rotinas de verificações de conformidade em segurança cibernética;
+D. estimular o compartilhamento de informações sobre incidentes e vulnerabilidades cibernéticas;
+E. fortalecer o Centro de Prevenção, Tratamento e Resposta a Incidentes Cibernéticos (CPTRIC-PJ) do CNJ.

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação , Complexidade de Algoritmos
+
+Em seu pior caso, o tempo de ordenação do algoritmo Quicksort sobre um arranjo de n números é igual a
+
+Alternativas:
+A. O(n2).
+B. O(n).
+C. O(n+1).
+D. O(n.logn).
+E. O(n/2).

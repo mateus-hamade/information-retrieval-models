@@ -1,0 +1,9 @@
+Banco de Dados SQL
+
+Em um banco de dados, uma tabela armazena dados em linhas e organiza suas informações em colunas. É possível, se necessário, excluir uma tabela em um banco de dados. Assinale a instrução para excluir uma tabela e todos os seus dados de um banco de dados.
+
+Alternativas:
+A. DROP TABLE.
+B. DELETE TABLE.
+C. REMOVE TABLE.
+D. TRUNCATE TABLE.

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados , Pilhas
+
+Pilha é uma estrutura de dados 
+
+Alternativas:
+A. cujo acesso aos seus elementos segue tanto a lógica LIFO quanto a FIFO.
+B. cujo acesso aos seus elementos ocorre de forma aleatória.
+C. que pode ser implementada somente por meio de vetores.
+D. que pode ser implementada somente por meio de listas.
+E. cujo acesso aos seus elementos segue a lógica LIFO, apenas.

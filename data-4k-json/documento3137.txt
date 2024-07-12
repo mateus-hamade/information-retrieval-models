@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+  Em face do algoritmo acima, é correto afirmar que  o resultado apresentando ao final do processamento é a sequência 9 12 12 15 18 20 15 20 25.  
+
+Alternativas:
+A. Certo
+B. Errado

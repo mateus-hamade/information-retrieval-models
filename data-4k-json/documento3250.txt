@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+Acerca de métodos de ordenação dos dados, julgue os itens subsequentes.   O método de ordenamento denominado inserção funciona por meio do seguinte processo: encontra-se o menor elemento, que é posicionado na primeira posição, depois posiciona-se o segundo menor elemento na segunda posição, e assim sucessivamente.  
+
+Alternativas:
+A. Certo
+B. Errado

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Hashing
+
+Uma certa tabela de dispersão (hash) em um programa de computador utiliza a função de espalhamento h(k) = k mod m, em que k é a chave e m é o tamanho de um vetor de listas ligadas indexado por h(k).     Para m = 5013, o índice obtido para k = 10034 é 
+
+Alternativas:
+A. 2.
+B. 8.
+C. 5013.
+D. 5021.
+E. 15047.

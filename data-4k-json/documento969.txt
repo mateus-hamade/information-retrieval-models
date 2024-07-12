@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados Relacionais
+
+Num banco de dados relacional, considere uma tabela R, com duas colunas A e B, ambas do tipo string de caracteres, cuja instância é exibida a seguir.   Nesse cenário analise os comandos a seguir. I.  II.  III.  Assinale a lista que contém o número de registros deletados em cada um dos comandos I, II e III, respectivamente, quando executados separadamente e usando a mesma instância inicial descrita. 
+
+Alternativas:
+A. 2, 2 e 0.
+B. 2, 4 e 0.
+C. 4, 4 e 4.
+D. 6, 5 e 6.
+E. 6, 6 e 6.

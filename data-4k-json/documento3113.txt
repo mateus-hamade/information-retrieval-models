@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Independente da linguagem de programação, ao passar um parâmetro por referência em uma função, toda a alteração feita .
+
+Alternativas:
+A. no endereço deste parâmetro formal, dentro do subprograma, refletirá no parâmetro real associado.
+B. neste parâmetro formal, dentro do subprograma, refletirá no endereço do parâmetro real associado.
+C. neste parâmetro formal, dentro do subprograma, não se reflete nos parâmetros reais.
+D. neste parâmetro formal, dentro do subprograma, refletirá no seu parâmetro real associado.
+E. no endereço deste parâmetro formal, dentro do subprograma, refletirá no endereço do parâmetro real associado.

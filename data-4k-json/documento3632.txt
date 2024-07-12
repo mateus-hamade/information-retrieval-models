@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Estrutura de Dados ( assuntos)
+
+Texto associado Se X for um vetor com os elementos [1, 2, 3, 5, 8, 13, 21, 34], a chamada da função func(X, 3, 7) retornará o valor 4.
+
+Alternativas:
+A. Certo
+B. Errado

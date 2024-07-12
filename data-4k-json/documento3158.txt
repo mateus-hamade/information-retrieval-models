@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Estrutura de Controle e Repetição
+
+Acerca de funções, procedimentos e estruturas de controle de fluxo, julgue os próximos itens.  Em C, a sentença for é composta de três expressões, avaliadas em momentos diferentes da execução do laço. A primeira expressão é avaliada a cada vez que se executa o corpo do laço e, se a segunda expressão estiver ausente, esta será considerada verdadeira, tendo-se, assim, potencialmente um laço infinito.
+
+Alternativas:
+A. Certo
+B. Errado

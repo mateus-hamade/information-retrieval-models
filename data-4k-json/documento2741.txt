@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Observe o algoritmo abaixo, que utiliza um procedimento com passagem de parâmetro por valor e por referência.                        Ao final do processamento, serão impressos para as variáveis NUM, ALFA e BETA, respectivamente, os seguintes valores:   
+
+Alternativas:
+A. 6, INVERNO e FALSO
+B. 5, OUTONO e FALSO
+C. 5, INVERNO e VERDADEIRO
+D. 5, PRIMAVERA e VERDADEIRO
+E. 6, OUTONO e VERDADEIRO

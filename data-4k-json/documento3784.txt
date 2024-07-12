@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Envolvido em premissa segundo a qual é fácil multiplicar dois números primos para obter um terceiro número, mas muito difícil recuperar os dois primos a partir desse terceiro número. Trata-se do algoritmo
+
+Alternativas:
+A. DSA.
+B. Diffie-Hellman.
+C. MD5.
+D. MD4.
+E. RSA.

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Listas
+
+Em uma lista ligada com n elementos, o número de comparações para encontrar um elemento é:
+
+Alternativas:
+A. n comparações.
+B. n-1 comparações.
+C. n(n-1) comparações.
+D. n+1 comparações.
+E. (n+1)/n comparações.

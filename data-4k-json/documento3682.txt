@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Grafos
+
+Texto associado No grafo exibido, o caminho  tem comprimento igual a 
+
+Alternativas:
+A. 6.
+B. 5.
+C. 4.
+D. 3.
+E. 2.

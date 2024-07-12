@@ -1,0 +1,10 @@
+Engenharia de Software Processos de Software - Desenvolvimento Ágil , Scrum
+
+Assinale a opção em que é apresentado o evento do Scrum que acontece dentro da sprint e tem como propósito planejar maneiras de aumentar a qualidade e a eficácia da sprint, inspecionando-a em relação a interações e à sua definição de pronto.
+
+Alternativas:
+A. sprint planning
+B. meta do produto
+C. daily scrum
+D. sprint retrospective
+E. product backlog

@@ -1,0 +1,10 @@
+Programação JavaScript , Linguagens de programação
+
+Observe o seguinte script em TypeScript:  interface Tribunal { sigla: string; id: integer; } const tjms: Tribunal = { id: 4, sigla: "TJMS" }  Ao ser executado em um interpretador com TypeScript na versão 4 ou mais recente, o script acima imprime um erro indicando:
+
+Alternativas:
+A. a indefinição do nome ‘string’;
+B. a indefinição do nome ‘integer’;
+C. a indefinição do nome ‘interface’;
+D. o uso inesperado de ‘;’ ao declarar Tribunal;
+E. a atribuição indevida do id de tjms antes da sigla;

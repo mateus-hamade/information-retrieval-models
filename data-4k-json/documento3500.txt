@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Chama-se tautologia a toda proposição que é sempre verdadeira, independentemente da verdade dos termos que a compõem.Um exemplo de tautologia é: 
+
+Alternativas:
+A. se Fulano é alto ou Sicrano é gordo, então Sicrano é gordo.
+B. se Fulano é alto, então Fulano é alto e Sicrano é gordo.
+C. se Fulano é alto, então Fulano é alto ou Sicrano é gordo.
+D. se Fulano é alto ou Sicrano é gordo, então Fulano é alto e Sicrano é gordo.
+E. se Fulano é alto ou não é alto, então Sicrano é gordo.

@@ -1,0 +1,10 @@
+Engenharia de Software Métricas de Software , Metodologia de desenvolvimento de software
+
+O escritório de métricas de uma organização vai iniciar a aplicação de medições de softwares utilizando o Software Non Functional Assessment Process (SNAP).  A medição SNAP:
+
+Alternativas:
+A. impacta na medição do tamanho funcional;
+B. é condicionada à medição das funções transacionais;
+C. depende da forma como o código do sistema está escrito;
+D. pode ser estimada na fase de avaliação de impactos dos requisitos;
+E. deve ser adicionada à medição funcional para determinação do tamanho total do sistema.

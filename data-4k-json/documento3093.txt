@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Tipos de Dados
+
+Texto associado Os arranjos, um tipo de dado estruturado, caracterizam-se como um agregado de dados heterogêneo. 
+
+Alternativas:
+A. Certo
+B. Errado

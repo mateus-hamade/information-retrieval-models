@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
+
+O gráfico abaixo mostra a relação de dominação assintótica entre funções de complexidade de algoritmos. Os valores de tempo e tamanho do problema são apenas referenciais. Considere apenas os seus valores crescentes.        Com base no gráfico, é correto afirmar que  
+
+Alternativas:
+A. a relação de dominação assintótica expressa pela notação O permite comparar funções de complexidade. Por exemplo, um programa O(f4) é sempre melhor que um O(f3).
+B. o comportamento assintótico de uma função f (n) é o limite do comportamento do custo quando n aproxima-se de 2n.
+C. f1, no gráfico, corresponde à função n log2n.
+D. f2, no gráfico, corresponde à função log2n.
+E. f3 e f4, embora sejam exponenciais, apresentam desempenho superior a 2n.

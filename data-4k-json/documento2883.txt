@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Listas
+
+A respeito de estruturas de dados, julgue o item seguinte.  Listas generalizadas são estruturas de dados flexíveis que podem representar qualquer tipo de lista linear, mas não árvores em diferentes graus.
+
+Alternativas:
+A. Certo
+B. Errado

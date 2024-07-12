@@ -1,0 +1,10 @@
+Banco de Dados DER - Diagrama de Entidade e Relacionamento
+
+Um analista de Tecnologia da Informação foi a um departamento de uma universidade conversar sobre um novo módulo para o sistema de gestão da universidade. Ele fez uma elicitação de requisitos e iniciou o projeto do banco de dados. Para representar os conceitos que ele identificou e suas relações, ele utilizou      (I)     . Nesse modelo, ele representou    (II)    ,     (III)   e    (IV)  . Após validar o modelo com os usuários, ele fez o mapeamento desse modelo para o   (V)  . Agora, nesse modelo, ele representou, por exemplo,    (VI)    e    (VII)   .  Assinale a alternativa que contém as respostas corretas quanto ao referido processo:  
+
+Alternativas:
+A. (I) Modelo Entidade-Relacionamento, (II) Relações, (III) Atributos, (IV) Relacionamentos, (V) Modelo Relacional, (VI) Entidades, (VII) Atributos.
+B. (I) Modelo Entidade-Relacionamento, (II) Entidades, (III) Atributos, (IV) Relacionamentos, (V) Modelo Relacional, (VI) Relações, (VII) Atributos.
+C. (I) Modelo Relacional, (II) Entidades, (III) Atributos, (IV) Relacionamentos, (V) Modelo Entidade-Relacionamento, (VI) Relações, (VII) Atributos.
+D. (I) Modelo Relacional, (II) Relações, (III) Atributos, (IV) Relacionamentos, (V) Modelo Entidade-Relacionamento, (VI) Entidades, (VII) Atributos.
+E. (I) Modelo Entidade-Relacionamento, (II) Entidades, (III) Atributos, (IV) Relações, (V) Modelo Relacional, (VI) Entidades, (VII) Relacionamentos.

@@ -1,0 +1,9 @@
+Banco de Dados Álgebra relacional
+
+A álgebra relacional implementa consultas procedimentais sobre dados, de forma que operações são realizadas sobre conjuntos ou relações. Para as relações R e S quaisquer, não necessariamente com atributos comuns, a operação junção natural, simbolizada por R |x|S, é equivalente a:
+
+Alternativas:
+A. R U (R X S).
+B. R X S.
+C. R U S.
+D. R ∩ (R U S).

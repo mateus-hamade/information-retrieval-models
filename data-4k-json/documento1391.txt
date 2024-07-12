@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Avalie a estrutura de dados do tipo árvore abaixo:        O nó C possui, respectivamente, grau e nível:  
+
+Alternativas:
+A. 5 e 3.
+B. 3 e 2.
+C. 2 e 1.
+D. 1 e 2.
+E. 0 e 1.

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
+
+Considerando as estruturas de controle de um algoritmo, pode-se afirmar: 
+
+Alternativas:
+A. São de quatro tipos: estrutura simples e complexas, estrutura de decisão e de repetição
+B. São de vários tipos, e dependem da tecnologia em utilização. As mais conhecidas são as de decisão homogênea.
+C. Existe basicamente cinco tipos de estruturas a saber: simples, de decisão, de repetição, taxonômica e de cardinalidades
+D. Existem basicamente três tipos: estrutura simples ou de sequenciação, de decisão e de repetição.
+E. Existem basicamente dois tipos de estruturas de controle em linguagens de programação. As sequenciais, que garantem que o comando seguinte seja executado e as estruturas de decisão, que permitem que uma repetição possa ser executada ou não.

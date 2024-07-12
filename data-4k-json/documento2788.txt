@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+Analise a figura a seguir e responda, corretamente, qual estrutura de dados ela representa.       
+
+Alternativas:
+A. uma árvore não ordenada.
+B. uma árvore cheia.
+C. um grafo com a vértice F possuindo valência 2.
+D. uma árvore binária.
+E. Nenhuma das alternativas está correta.

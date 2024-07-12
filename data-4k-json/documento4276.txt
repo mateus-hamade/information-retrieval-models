@@ -1,0 +1,10 @@
+Sistemas Operacionais Virtualização
+
+AWS é um conjunto de várias ferramentas, sendo a AWS Lambda responsável por
+
+Alternativas:
+A. avaliar serviços, frameworks e modelos de base de IA e ML.
+B. criar e executar servidores virtuais na nuvem.
+C. avaliar bancos de dados e descobrir como migrar do banco de dados atual.
+D. configurar, operar e ajustar a escala de um banco de dados relacional na nuvem.
+E. executar código, sem se preocupar com servidores.

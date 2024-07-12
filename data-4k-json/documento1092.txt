@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
+
+Relativamente à programação estruturada e a métodos de ordenação, julgue o item subsequente.     Na programação estruturada, a transferência unilateral de controle para outra linha de código deve ser evitada e não são necessários os rótulos ou números de linha para a respectiva identificação dos locais de destino.  
+
+Alternativas:
+A. Certo
+B. Errado

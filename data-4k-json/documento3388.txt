@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Observe o pseudocódigo referente a um programa de computador, em que ocorre passagens de parâmetros por valor de BB para MM e por referência de N1 para NP.    Ao final da execução, as variáveis N1, N2 e BB terão, respectivamente, os seguintes valores 
+
+Alternativas:
+A. 26, 13 e FALSO.
+B. 38, 19 e FALSO.
+C. 38, 19 e VERDADEIRO.
+D. 26, 13 e VERDADEIRO.

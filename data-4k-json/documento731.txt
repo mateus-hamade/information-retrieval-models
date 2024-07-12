@@ -1,0 +1,10 @@
+Banco de Dados Data Mining
+
+Sobre as etapas do processo de descoberta de conhecimento e mineração de dados (KDD, Knowledge Discovery and Data Mining), numere a coluna da direita de acordo com a coluna da esquerda: 1. Seleção de dados  2. Limpeza de dados  3.Mineração de dados 4. Avaliação ( ) São aplicados algoritmos para extração de características dos dados. ( ) O subconjunto objetivado dos dados e os atributos de interesse são identificados examinando-se o conjunto de dados bruto inteiro. ( ) Os padrões são apresentados para os usuários em uma forma inteligível. ( ) Ruído e exceções são removidos, valores de campo são transformados em unidades comuns e alguns campos são criados pela combinação de campos já existentes para facilitar a análise. Normalmente, os dados são colocados em um formato relacional, e várias tabelas podem ser combinadas em uma etapa de desnormalização.   Assinale a alternativa que apresenta a numeração CORRETA da coluna da direita, de cima para baixo, conforme Raghu e Gehrke (2011, p. 739): 
+
+Alternativas:
+A. 3 – 1 – 4 – 2
+B. 1 – 4 – 2 – 3
+C. 1 – 2 – 3 – 4
+D. 3 – 2 – 4 – 1
+E. 1 – 2 – 4 – 3

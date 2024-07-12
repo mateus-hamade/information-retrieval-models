@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação , Complexidade de Algoritmos
+
+Considerando-se a análise assintótica (Notação Big O), qual é a complexidade do caso médio do algoritmo de ordenação chamado de Ordenação por Inserção?  
+
+Alternativas:
+A. O(n²)
+B. O(1)
+C. O(n)
+D. O(n log n)
+E. O(log n)

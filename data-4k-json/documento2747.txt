@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Recursividade
+
+O uso da recursividade geralmente permite uma descrição mais clara e concisa dos algoritmos. Em relação aos conceitos e utilização de recursividade, é correto afirmar:
+
+Alternativas:
+A. Um compilador implementa um procedimento recursivo por meio de um deque, no qual são armazenados os dados usados em cada chamada de um procedimento que ainda não terminou de processar.
+B. Uma exigência fundamental é que a chamada recursiva a um procedimento P esteja sujeita a uma condição B, que não deve ser satisfeita em nenhum momento da execução.
+C. Algoritmos recursivos são apropriados quando o problema a ser resolvido ou os dados a serem tratados são definidos em termos recursivos, pois isso garante sempre a melhor solução para resolver o problema.
+D. Apenas os dados não globais vão para o deque de controle, pois o estado corrente da computação deve ser registrado para que possa ser recuperado de uma nova ativação de um procedimento recursivo.
+E. Na prática, é necessário garantir que o nível mais profundo de recursão seja finito e que também possa ser mantido pequeno, pois em cada ativação recursiva de um procedimento P, uma parcela de memória é requerida.

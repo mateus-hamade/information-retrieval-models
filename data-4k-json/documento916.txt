@@ -1,0 +1,10 @@
+Banco de Dados MySQL
+
+Considerando o sistema gerenciador de bancos de dados MySQL (versão 8.0), uma informação importante é saber quais são as bases de dados existentes no servidor, bem como obter o nome da base de dados selecionada no momento da execução do comando. Os dois comandos que respondem a essas duas questões são, respectivamente,
+
+Alternativas:
+A. RETURN DATABASES; e GET DATABASE();
+B. SHOW DATABASES; e SELECT DATABASE();
+C. RELEASE DATABASES; e SET DATABASE();
+D. REFERENCE DATABASES; e LOAD DATABASE();
+E. PROPT DATABASES; e RELOAD DATABASE();

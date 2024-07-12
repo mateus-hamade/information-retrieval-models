@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
+
+Uma sequência de valores é armazenada em uma estrutura de dados, onde novos elementos são inseridos no final da lista e removidos também do final da mesma. Dessa forma, qualquer elemento só pode ser removido quando todos os elementos inseridos após ele também forem removidos. Essa descrição caracteriza uma estrutura de dados conhecida como:
+
+Alternativas:
+A. Lista duplamente encadeada.
+B. Lista simplesmente encadeada.
+C. Fila.
+D. Pilha.
+E. Árvore binária.

@@ -1,0 +1,9 @@
+Engenharia de Software Processos de Software - Desenvolvimento Ágil
+
+O Manifesto Ágil estabelece valores fundamentais para as metodologias ágeis de desenvolvimento de software. Assinalar a alternativa que NÃO faz parte dos valores fundamentais do Manifesto Ágil.
+
+Alternativas:
+A. Valorizamos mais indivíduos e entrosamento do que processos e ferramentas.
+B. Valorizamos mais softwares operando do que documentação ampla.
+C. Valorizamos mais coparticipação do cliente do que negociação de contratos.
+D. Valorizamos mais processos e ferramentas do que documentação abrangente.

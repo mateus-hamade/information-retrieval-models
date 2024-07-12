@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Estrutura de Controle e Repetição
+
+Texto associado Entre os comandos básicos para a descrição de algoritmos, para que a execução de uma malha seja interrompida e seja executado o comando imediatamente seguinte, utiliza-se dentro da malha, o comando saia, também conhecido como escape de malha.
+
+Alternativas:
+A. Certo
+B. Errado

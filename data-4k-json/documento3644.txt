@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Fluxogramas
+
+Texto associado Assinale a alternativa que apresenta, para o algoritmo apresentado no fluxograma, a soma dos valores de a, b e c resultantes ao final da execução do algoritmo. 
+
+Alternativas:
+A. 17.
+B. 19.
+C. 21.
+D. 23.
+E. 26.

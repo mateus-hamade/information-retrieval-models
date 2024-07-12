@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Hashing
+
+Quais as principais diferenças entre as tabelas hash com encadeamento e com endereçamento aberto?
+
+Alternativas:
+A. Encadeamento tem menor chance de colisões; endereçamento aberto é mais rápido para inserção e remoção.
+B. Encadeamento é mais rápido para busca; endereçamento aberto tem menor chance de colisões.
+C. Encadeamento usa menos memória; endereçamento aberto é mais rápido para busca.
+D. Encadeamento tem maior chance de colisões; endereçamento aberto é mais lento para inserção e remoção.
+E. Encadeamento é mais fácil de implementar; endereçamento aberto é mais difícil de implementar.

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Vetores
+
+Considere o vetor vet a seguir:     Após a execução dos seguintes comandos de atribuição:  aux ← vet[8]  vet[8] ←vet [1]  vet[4] ← vet[6]  vet[6] ← vet[3]  vet[3] ← vet[1] ← aux  A configuração do vetor (do índice 1 ao 8) será 
+
+Alternativas:
+A. ZONAAMAS
+B. AMASZONA
+C. SMAZONAS
+D. AMASSONA
+E. AMAZONAS

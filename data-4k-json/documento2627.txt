@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Na programação de computadores, considere o seguinte algoritmo:  var a, b, c: inteiro  var x, y, z: lógico início  a ← 2  b ← 4  c ← 0  x ← ((a+b) < (b-c) .E. (a*a) = (b-c))  y ← ((b/a) >= (a-c) .OU. (b>=a))  z ← ((a-1) > (c+1) .E. (b*c) >= (a+1)) fim     As variáveis x, y e z receberão, respectivamente, os valores:  
+
+Alternativas:
+A. false, false, false.
+B. true, true, true.
+C. false, false, true.
+D. true, false, true.
+E. false, true, false.

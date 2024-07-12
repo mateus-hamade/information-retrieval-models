@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos
+
+Julgue o item que se segue, relativos a conceitos de avaliação de expressões.      Após o algoritmo a seguir ser executado, os valores das variáveis c e d serão iguais.  real d  real c  d = 6 / -2 + -3 * -2 – 3  escreva (d)  c = 6 / -2 + 3 * 2 – 3  escreva(c)  
+
+Alternativas:
+A. Certo
+B. Errado

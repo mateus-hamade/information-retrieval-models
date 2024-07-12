@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Hashing
+
+Numa tabela hash adequadamente dimensionada, com N chaves, o número médio de acessos para localização de uma chave situa-se entre:
+
+Alternativas:
+A. 1 e 2
+B. N ÷ 2 e N
+C. lg(N) e N
+D. 1 e N ÷ 2
+E. lg(N) e lg(N2 )

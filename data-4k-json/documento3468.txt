@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Estrutura de Controle e Repetição
+
+Observe o pseudocódigo abaixo, que utiliza a estrutura de controle repetir ... até que ... . repetir se (N for impar) então imprimir (N); atribuir N - 3 a N; até que N < 3; Para um valor inicial igual a 13 para a variável N, a estrutura enquanto ... faça ... equivalente e que gera os mesmos resultados, está indicada na alternativa:  
+
+Alternativas:
+A. enquanto N >= 3 faça início atribuir N–3 a N se (N ímpar) então imprimir(N) fim fim-enquanto
+B. enquanto N >= 3 faça inicio fim fim-enquanto
+C. enquanto N = 3 faça atribuir N–3 a N; fim; enquanto N < 3 faça início
+E. enquanto N <= 3 faça

@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados
+
+Qual das seguintes cláusulas abaixo NÃO representa uma restrição de domínio válida na definição de Data Definition Language (DDL) para impor a integridade de dados? 
+
+Alternativas:
+A. CHECK
+B. UNIQUE
+C. DEFAULT
+D. NOT NULL
+E. FOREIGN KEY

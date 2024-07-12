@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+Em estrutura de dados, há um tipo de estrutura especial que associa chaves de pesquisa a valores. Seu objetivo é, a partir de uma busca simples, fazer uma busca rápida e obter o valor desejado. A qual das estruturas de dados a seguir a afirmação se refere?
+
+Alternativas:
+A. Grafos.
+B. Árvore.
+C. Pilha.
+D. Tabela de dispersão.
+E. Árvore Binária de Busca.

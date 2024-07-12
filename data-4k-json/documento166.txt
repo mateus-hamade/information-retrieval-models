@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados
+
+Há um procedimento voltado para bancos de dados que visa simplificar grupos complexos de dados ao eliminar dados redundantes e garantir que as dependências entre os dados façam sentido. Quanto à denominação desse procedimento, assinale a alternativa correta. 
+
+Alternativas:
+A. Extração de chaves primárias
+B. Procedure
+C. Normalização
+D. Processamento de dados
+E. Remoção de dados

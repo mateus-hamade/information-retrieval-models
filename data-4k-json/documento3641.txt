@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados , Pilhas
+
+Quando as inserções e as remoções ocorrem sempre no mesmo lado da lista, trata-se de uma estrutura de dados denominada 
+
+Alternativas:
+A. Fila.
+B. Pilha.
+C. Vetor.
+D. Lista encadeada.
+E. Lista circular.

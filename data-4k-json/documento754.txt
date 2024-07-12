@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados Paralelos e Distribuídos
+
+O Mongo DB é citado frequentemente como um dos bancos de dados não relacionais (NoSQL) mais utilizados no mundo.    Assinale a opção que representa o elemento disponível nesse sistema que mais se assemelha à ideia de tabela relacional. 
+
+Alternativas:
+A. Cluster.
+B. Collection
+C. Database.
+D. Document.
+E. Index.

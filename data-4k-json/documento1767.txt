@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+O pseudocódigo a seguir é referente a um algoritmo com passagem de parâmetros por valor de ALFA para X e por referência de BETA para Y.  Após a execução, para as variáveis ALFA e BETA mostrarão, respectivamente, os seguintes conteúdos: 
+
+Alternativas:
+A. DF e 2021
+B. DF e 2020
+C. RJ e 2021
+D. RJ e 2020

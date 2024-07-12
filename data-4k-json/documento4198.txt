@@ -1,0 +1,9 @@
+Segurança da Informação Backup em Segurança da Informação
+
+O RPO e o RTO são considerações importantes ao se planejar uma estratégia de backup. O que significa RTO em um contexto de backup e recuperação? 
+
+Alternativas:
+A. Restore Task Optimization: a otimização do processo de restauração para backups incrementais.
+B. Recovery Task Operation: o procedimento para recuperar arquivos corrompidos durante o backup.
+C. Restore Time Objective: o tempo máximo permitido para restaurar um sistema a partir de um backup.
+D. Recovery Time Objective: o tempo máximo permitido para restaurar o ambiente ou aplicação após uma interrupção.

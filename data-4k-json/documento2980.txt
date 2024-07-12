@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Texto associado Com base nesses dados, é correto afirmar que, se a chamada da função for feita com os parâmetros a = 1 e b = 3, será retornado o valor
+
+Alternativas:
+A. 3
+B. 4
+C. 5
+D. 6
+E. 0

@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Texto associado O valor do retorno da chamada para a função AlgoritmoMaximo(156, 270) é 6.  
+
+Alternativas:
+A. Certo
+B. Errado

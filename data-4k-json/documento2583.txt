@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
+
+Estruturas de pilhas, filas e árvores binárias são amplamente utilizadas para a construção de algoritmos e programas de computador. Acerca dessas estruturas, julgue o item subsecutivo.  Nas estruturas de pilhas, a inserção de um novo item ou a remoção de um item já existente ocorre tanto na extremidade de baixo quanto no topo da pilha. 
+
+Alternativas:
+A. Certo
+B. Errado

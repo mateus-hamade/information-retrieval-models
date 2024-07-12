@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Analise o pseudocódigo, que ilustra o uso de uma função recursiva.    O valor de retorno de FF e a quantidade de vezes que a função será executada serão, respectivamente, 
+
+Alternativas:
+A. 5 e 1.
+B. 15 e 2.
+C. 60 e 3.
+D. 300 e 4.

@@ -1,0 +1,9 @@
+Banco de Dados Banco de Dados Relacionais
+
+Marque a afirmativa que apresenta a principal atividade que um sistema de gerenciamento de banco de dados relacional distribuído deve implementar. 
+
+Alternativas:
+A. Priorizar a velocidade de acesso aos dados em detrimento da segurança, uma vez que sistemas distribuídos podem apresentar desafios de latência.
+B. Desconsiderar a redundância de dados para minimizar o consumo de recursos, comprometendo a confiabilidade do sistema.
+C. Garantir a consistência e a integridade dos dados, considerando transações que envolvem múltiplos locais.
+D. Focar exclusivamente na escalabilidade do sistema, sem considerar a interoperabilidade com outros sistemas de informação.

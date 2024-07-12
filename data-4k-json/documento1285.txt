@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Observe a árvore binária de busca balanceada AVL a seguir:                  Considerando a inserção dos seguintes elementos (na ordem): 129, 134 e 136, analise as afirmativas a seguir.  I. Provoca uma rotação dupla na árvore, direita/esquerda, o que adiciona um novo nó ao segundo nível da árvore.  II. Resulta em uma rotação simples e aumenta a altura da árvore.  III. Após a inserção, a complexidade computacional das operações se mantém em O(log n), no pior caso, onde n é o número de nós da árvore.     Está correto o que se afirma apenas em   
+
+Alternativas:
+A. II.
+B. I e II.
+C. I e III.
+D. II e III.

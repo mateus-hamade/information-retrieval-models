@@ -1,0 +1,9 @@
+Banco de Dados SQL Server
+
+Foi solicitada pela gerência a criação de uma tarefa complexa, que precisa ser executada de forma sigilosa com um Script no Banco de Dados SQL Server, para atualizar três valores da diretória de 195 para 250, sendo os Ids com numeração:  D1067AE9-6CAC-4535-A53B-01D8CCC002E3 484DB692-FC00-4EEC-8980-46D9838CBC4A 0FD48288-B39A-40AA-B606-7AB88FC808F1 Script escrito: BEGIN TRAN AtualizarCritico UPDATE TabExemplo SET Salario = 250 WHERE Id IN ('D1067AE9-6CAC-4535-A53B-01D8CCC002E3', '484DB692-FC00-4EEC-8980-46D9838CBC4A', '0FD48288-B39A-40AA-B606-7AB88FC808F1')  COMMIT AtualizarCritico SELECT * FROM TabExemplo WITH(NOLOCK) WHERE Id IN ('D1067AE9-6CAC-4535-A53B-01D8CCC002E3', '484DB692-FC00-4EEC-8980-46D9838CBC4A', '0FD48288-B39A-40AA-B606-7AB88FC808F1')  O script apresenta um erro. Fazendo a análise, é correto afirmar que o erro está no  
+
+Alternativas:
+A. Script, pois os Ids estão errados.
+B. Commit, pois está faltando o comando Tran.
+C. Commit, pois está antes do SELECT.
+D. nome AtualizarCritico, que não precisa ser colocado na frente do BEGIN TRAN.

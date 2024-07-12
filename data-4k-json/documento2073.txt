@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+O algoritmo denominado de Merge Sort utiliza, em sua estrutura, o método de dividir para conquistar durante o seu processo de execução. Esse processo é amplamente utilizado em estruturas de dados que precisam manipular estruturas grandes e complexas. Com isso, para qual finalidade o algoritmo Merge Sort foi desenvolvido dentro do contexto de estruturas de dados?
+
+Alternativas:
+A. Ordenação de Dados.
+B. Criptografia de Dados.
+C. Busca de Dados.
+D. Exclusão de Dados.
+E. Inserção de Dados.

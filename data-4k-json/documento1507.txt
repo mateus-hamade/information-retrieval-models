@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Hashing
+
+Em relação a classificação da informação, hash e controle de acesso, julgue o item a seguir.      Considere-se que a versão inicial de um documento digital que tramitava numa organização tenha como hash MD5 calculado o valor 3466cf1f875183edb9dba67893f74667. Considere-se, ainda, que o documento tenha sido revisado por outros dois funcionários e tenha tido seu conteúdo modificado somente em aspectos sutis de pontuação e que, ao fim dessas revisões, o hash MD5 tenha sido novamente calculado. Nesse caso, o valor final do hash MD5 obtido terá sido o mesmo, ou seja, 3466cf1f875183edb9dba67893f74667.        
+
+Alternativas:
+A. Certo
+B. Errado

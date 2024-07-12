@@ -1,0 +1,10 @@
+Banco de Dados Big Data
+
+O Big Data, na sua grande maioria, é um conjunto de dados que a cada milésimo de segundo são inseridos novos; assim sendo, o mundo atual dos dados digitalizados contém uma inimaginável quantidade de informações, base que está em crescimento permanentemente. A característica do Big Data, que faz parte dos 3 Vs e que está relacionada à dinâmica de crescimento e processamento de dados e à necessidade de respostas em um curto prazo ou em tempo real, é:
+
+Alternativas:
+A. Valor.
+B. Volume.
+C. Variedade.
+D. Velocidade.
+E. Veracidade.

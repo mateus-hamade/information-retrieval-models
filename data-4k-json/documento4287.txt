@@ -1,0 +1,10 @@
+Engenharia de Software Processos de Software - Desenvolvimento Ágil , Scrum
+
+No Scrum, determinado objetivo caracteriza-se por ser um compromisso dos developers, por ser o único objetivo da sprint e por ser criado durante o evento sprint planning. Trata-se do(a)
+
+Alternativas:
+A. adaptação.
+B. product backlog.
+C. incremento.
+D. definição de pronto.
+E. meta da sprint.

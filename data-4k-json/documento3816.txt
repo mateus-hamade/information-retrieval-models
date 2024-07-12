@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
+
+Se a complexidade de tempo de um algoritmo é da ordem de Θ (n log n), é correto afirmar que esse algoritmo também é
+
+Alternativas:
+A. Θ (n).
+B. Ω(n2).
+C. Ω(n log n).
+D. O (log n).
+E. O (n).

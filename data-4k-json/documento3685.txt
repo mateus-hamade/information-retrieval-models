@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Lógicas de Programação
+
+Em relação à lógica de programação, considere os pseudocódigos:   
+
+Alternativas:
+A. Somente Alg1 tem consistência em sua representação e chega a um resultado.
+B. Ambos os algoritmos abordam o mesmo problema e chegam ao mesmo resultado.
+C. Somente Alg2 tem consistência em sua representação e chega a um resultado.
+D. O resultado da solução apresentada por Alg2 é maior do que a de Alg1.
+E. O resultado da solução apresentada por Alg2 é menor do que a de Alg1.

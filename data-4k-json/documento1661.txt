@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados
+
+As Estruturas de Dados definem a forma como os dados serão armazenados na memória do computador. Duas das estruturas de dados mais utilizadas na computação são a Pilha e a Fila. Considere as afirmativas abaixo que comparam as estruturas de Pilha e Fila:     I - A estrutura chamada Pilha é descrita como uma estratégia LIFO - last in, first out (o último que entra é o primeiro que sai), isto é, os elementos da pilha só podem ser retirados na ordem inversa à ordem que foram introduzidos.  II - A estrutura chamada Fila é descrita como uma estratégia FIFO - first in, first out (o primeiro que entra é o primeiro que sai), isto é, os elementos da pilha só podem ser retirados na mesma ordem em que foram inseridos.  III - Uma estrutura que recebe dos dados 10, 20, 30, 40 e 50 nessa ordem e só permite a sua retirada na ordem 50, 40, 30, 20 e 10 é um exemplo de uma Pilha.  IV - Uma estrutura que recebe dos dados 10, 20, 30, 40 e 50 nessa ordem e só permite a sua retirada na ordem 50, 40, 30, 20 e 10 é um exemplo de uma Fila.  V - Um programa que usa apenas estruturas de Pilha recebe os dados 1, 2, 3, 4 e 5 nessa ordem e imprime os dados na ordem 1, 2, 3, 4 e 5 pode ter sido implementado com duas estruturas de Pilha consecutivas.     As afirmativas CORRETAS são:  
+
+Alternativas:
+A. I, III, IV e V, apenas.
+B. I, II, III e V, apenas.
+C. I, II e III, apenas.
+D. II, IV e V, apenas.
+E. II, III e IV, apenas.

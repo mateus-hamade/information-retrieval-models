@@ -1,0 +1,9 @@
+Segurança da Informação Criptografia
+
+Dentro das práticas de segurança cibernética, uma técnica crucial é a codificação de informações para torná-las ilegíveis para indivíduos não autorizados. Essa técnica pode ser realizada de duas maneiras: usando uma chave única para codificação e decodificação (simétrica) ou usando chaves diferentes para essas operações (assimétrica). Qual das seguintes opções representa CORRETAMENTE a técnica de segurança descrita?
+
+Alternativas:
+A. Segurança de endpoint.
+B. Firewall.
+C. Autenticação.
+D. Criptografia.

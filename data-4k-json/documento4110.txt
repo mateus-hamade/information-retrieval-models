@@ -1,0 +1,9 @@
+Engenharia de Software Orientação a Objetos
+
+Na análise orientada a objetos, uma instância concreta de uma classe, seja ela uma entidade física ou conceitual, que tem características (atributos) e comportamentos (métodos), refere-se a: 
+
+Alternativas:
+A. Objeto.
+B. Associação.
+C. Agregação.
+D. Mensagem.

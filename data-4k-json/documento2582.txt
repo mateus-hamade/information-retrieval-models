@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Listas
+
+Estruturas de pilhas, filas e árvores binárias são amplamente utilizadas para a construção de algoritmos e programas de computador. Acerca dessas estruturas, julgue o item subsecutivo.  Em uma lista linear, a inserção de um elemento é feita em uma extremidade e a eliminação, na outra. Esse tipo de estrutura também é conhecida como FIFO (first in, first out).  
+
+Alternativas:
+A. Certo
+B. Errado

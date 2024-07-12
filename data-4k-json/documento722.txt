@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados
+
+Qual das seguintes chaves geralmente é usada para representar as relações entre as tabelas?
+
+Alternativas:
+A. Chave mestra
+B. Chave primária
+C. Chave secundária
+D. Chave estrangeira
+E. Chave representativa

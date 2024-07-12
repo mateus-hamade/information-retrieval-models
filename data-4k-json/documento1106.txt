@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Uma Rede Neural Convolucional (do inglês, Convolutional Neural Network - CNN) é um algoritmo de aprendizado de máquina profundo que pode, a partir dos dados de entrada, atribuir importância (pesos e vieses que podem ser aprendidos) a vários aspectos dos dados e, portanto, obter maior diferenciação. São características da arquitetura das redes neurais convolucionais:
+
+Alternativas:
+A. as camadas de convolução realizam extração de características e as camadas de pooling reduzem a dimensionalidade.
+B. as camadas de convolução aplicam dropout para ajustar o formato dos dados para serem processados pelas camadas de pooling.
+C. as camadas de pooling são baseadas em word embeddings dinâmicos, sendo adequadas para processar dados textuais.
+D. as camadas de pooling realizam o fine-tunning para minimizar a função de perda, que mede a diferença entre as previsões do modelo e os rótulos corretos.

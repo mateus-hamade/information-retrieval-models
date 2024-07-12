@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Fluxogramas
+
+Texto associado No fluxograma, o cálculo da soma aparece incompleto. Assinale a alternativa cuja fórmula completa torna o cálculo correto.
+
+Alternativas:
+A. SOMA = SOMA + TAB(X) * X
+B. SOMA = SOMA + TAB(X) * (X-11)
+C. SOMA = SOMA + TAB(X) * (11-X)
+D. SOMA = SOMA + TAB(X-11) * X
+E. SOMA = SOMA + TAB(11-X) * X

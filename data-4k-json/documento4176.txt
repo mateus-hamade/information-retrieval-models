@@ -1,0 +1,9 @@
+Arquitetura de Computadores Sistemas de numeração
+
+O sistema de numeração binário utiliza apenas dois símbolos: “1” e “0”, como a representação das ideias de “ligado e desligado”, “aberto e fechado”, “cheio e vazio” etc. Cada dígito binário na representação recebe o nome de “bit”, uma contração das palavras inglesas binary digit. Assinale a alternativa que apresenta a combinação binária para o número 201.
+
+Alternativas:
+A. 10010011b
+B. 11001001b
+C. 10101010b
+D. 10111110b

@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados
+
+As técnicas de controle de concorrência são usadas para garantir a propriedade de não interferência ou isolamento das transações executadas simultaneamente. Algumas das principais técnicas usadas para controlar a execução concorrente de transações são baseadas no conceito de bloqueio de itens de dados. Considerando os tipos de bloqueios, assinale a opção que contém o esquema de bloqueio que possui dois estados — bloqueado e desbloqueado — e que é considerado muito restritivo para itens de banco de dados, porque no máximo uma transação pode manter um bloqueio em determinado item. 
+
+Alternativas:
+A. bloqueios compartilhados
+B. bloqueios binários
+C. bloqueios exclusivos
+D. bloqueio em duas fases conservador
+E. bloqueio em duas fases básico

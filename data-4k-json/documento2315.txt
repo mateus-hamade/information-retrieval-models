@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+O algoritmo Heapsort, quando usado para ordenar uma coleção n elementos distintos, possui, respectivamente, complexidade de melhor caso e de pior caso iguais a
+
+Alternativas:
+A. O(1) e O(n log n)
+B. O(n2) e O(n4)
+C. O(n) e O(n2)
+D. O(n log n) e O(n log n)
+E. O(n log n) e O(n log n4)

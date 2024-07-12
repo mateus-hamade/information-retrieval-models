@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+Assinale a opção correta. 
+
+Alternativas:
+A. As formas pre?xa e pos?xa são denominadas notação polinésica reversa e notação polinésica.
+B. Numa expressão in?xa, as operações são efetuadas na ordem em que aparecem.
+C. Numa expressão ?xa, as operações são efetuadas na ordem em que melhor se realizam.
+D. Numa expressão pos?xa, as operações são efetuadas na ordem em que aparecem.
+E. As formas pre?xa e pos?xa são denominadas notação determinada a priori e notação determinada a posteriori.

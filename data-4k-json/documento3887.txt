@@ -1,0 +1,10 @@
+Engenharia de Software Inteligencia Artificial
+
+Em termos de regulamentação de Inteligência Artificial (IA), a seguinte estratégia é frequentemente considerada essencial para garantir a segurança e a ética nas relações:
+
+Alternativas:
+A. desenvolvimento de padrões internacionais, jurídicos e regulatórios, para a implementação de IA.
+B. regulamentação rigorosa e uniforme em todos os países acerca da aplicação de IA.
+C. banimento total do uso de IA em determinados setores, especialmente nas áreas da saúde, segurança e controle de acesso.
+D. deixar a regulamentação essencialmente com as empresas desenvolvedoras de IA, tendo em vista sua expertise na análise da tecnologia.
+E. priorizar a autorregulação regulada do setor pelas entidades desenvolvedoras de IA.

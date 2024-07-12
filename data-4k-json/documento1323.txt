@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+O armazenamento de objetos consiste em uma tecnologia que armazena e gerencia dados em um formato não estruturado denominado objetos. A esse respeito, assinale a opção correta. 
+
+Alternativas:
+A. O armazenamento de objetos é o tipo de armazenamento ideal para data lakes, pois oferece uma arquitetura para grandes volumes de dados em que cada parte dos dados é armazenada como objeto.
+B. As soluções de armazenamento de objetos são proprietárias, de modo que não são adequadas para sistemas em nuvem, porque não possuem escalabilidade.
+C. Os metadados são ignorados e tidos como não essenciais no processamento de armazenamento para a tecnologia de objetos.
+D. Com o tipo de armazenamento de objetos, os objetos ficam guardados em no mínimo três buckets, os quais são arquivos em pastas.
+E. O armazenamento de objetos pressupõe um armazenamento hierárquico e em camadas específicas do sistema de arquivo S3.

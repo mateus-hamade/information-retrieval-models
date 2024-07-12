@@ -1,0 +1,10 @@
+Banco de Dados DER - Diagrama de Entidade e Relacionamento
+
+Qual das opções a seguir NÃO é uma característica essencial de uma entidade em um modelo de dados?
+
+Alternativas:
+A. Possui atributos que a descrevem.
+B. É uma abstração de um objeto do mundo real.
+C. Pode ter relacionamentos com outras entidades.
+D. É representada por um registro em uma tabela.
+E. Todas as opções anteriores são características essenciais de uma entidade.

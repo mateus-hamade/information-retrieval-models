@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+A necessidade de estar em constante aprimoramento das organizações transcendeu do objetivo de conhecer seu ambiente para predizer e prescrever por meio de modelos. Sobre modelos preditivos e prescritivos, assinale a afirmativa correta. 
+
+Alternativas:
+A. A modelagem preditiva é baseada somente em uma única instância de dados.
+B. Modelos preditivos não podem oferecer embasamento para tomadas de decisões de organizações.
+C. A maior desvantagem da modelagem prescritiva é que ela não disponibiliza mecanismos de feedback para buscar recomendações de melhoria.
+D. Uma grande característica dos modelos prescritivos é que eles utilizam somente estatística para basear decisões, tornando, dessa forma, as estratégias das empresas mais eficientes.
+E. Os modelos preditivos podem ser definidos como modelos que identificam padrões e relações em dados e, dessa forma, oferecem uma previsão do assunto desejado, apresentando possibilidades futuras.

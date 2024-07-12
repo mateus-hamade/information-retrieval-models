@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Considere o pseudocódigo abaixo:  O resultado final mostrado na tela será  
+
+Alternativas:
+A. 27.
+B. 29.
+C. 31.
+D. 48.
+E. 42.

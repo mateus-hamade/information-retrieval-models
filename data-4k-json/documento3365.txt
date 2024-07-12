@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Observe o algoritmo abaixo, referente a um programa de computador, onde / representa divisão entre inteiros.         algoritmo prog;      var           array[1..8] of inteiros : tab;          lógica : achou;          inteiro : D, m, ini, fim, centro;      procedimento PROC11;      início          para m de 1 até 8 faça ler(tab[m]);      fim_do_procedimento;      procedimento PROC22;      início          ler(D);          achou=false;          ini = 1;fim = 8;centro = (ini+fim) / 2;          enquanto (D < > tab[centro]) e (ini < > fim) faça               início                  se D > tab[centro] então ini = centro+1                                            senão fim = centro;                  centro = (ini + fim) / 2;               fim_do_procedimento;          se D = tab[centro] então achou = VERDADEIRO                                    senão achou = FALSO;          se achou então escreva(D,' encontra-se na posição ',centro)                         senão escreva(D,' não se encontra na tabela...');      fim_do_procedimento;      início         PROC11;         PROC22;      fim_do_algoritmo.    
+
+Alternativas:
+A. combinacional
+B. segmentada
+C. particionada
+D. sequencial
+E. binária

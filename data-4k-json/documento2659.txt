@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Assinale a opção que apresenta corretamente a classificação da hierarquia de Noam Chomsky utilizada na descrição de linguagens de programação e na implementação de interpretadores e compiladores.
+
+Alternativas:
+A. gramática normativa gramática descritiva gramática semântica de contexto gramáticas sintática regulares
+B. gramática com estrutura de frase gramática sensíveis ao contexto gramática livres de contexto gramáticas regulares
+C. análise léxica análise sintática análise semântica geração de código binário geração de código executável
+D. análise semântica gramática restritas ao contexto gramáticas regulares geração de código binário geração de código executável
+E. análise léxica análise sintática gramática de contexto gramática de expressões regulares

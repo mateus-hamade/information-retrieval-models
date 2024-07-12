@@ -1,0 +1,10 @@
+Banco de Dados PostgreSQL
+
+Um administrador de banco de dados PostgreSQL precisa recuperar o espaço ocupado em disco por tuplas mortas, especialmente em tabelas atualizadas com frequência. Qual comando pode ser utilizado para essa finalidade? 
+
+Alternativas:
+A. TOAST
+B. pgbadger
+C. VACUUM
+D. REINDEX
+E. pg_dump

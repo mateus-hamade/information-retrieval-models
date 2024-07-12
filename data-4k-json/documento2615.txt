@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Considere a notação abaixo para as seguintes operações lógicas:     Assinale a alternativa que apresenta a simplificação da expressão: ¬((¬A v B) ^ ¬B).  
+
+Alternativas:
+A. A v B.
+B. A ^ B.
+C. A ^ ¬B.
+D. ¬A v ¬B.

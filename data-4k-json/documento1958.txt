@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+Quanto a estruturas de dados e algoritmos básicos, julgue o item seguinte. O algoritmo de classificação bubblesort apresenta sistematicamente desempenho médio inferior ao desempenho médio do algoritmo quicksort.
+
+Alternativas:
+A. Certo
+B. Errado

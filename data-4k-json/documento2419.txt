@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Observe a expressão lógica abaixo:     ((((true AND true) OR false) AND true) AND (true OR (true AND false)))     Considerando os operadores lógicos AND (e) e OR (ou), e os operandos lógicos true (verdadeiro) e false (falso), é CORRETO afirmar que o valor lógico dessa expressão é:  
+
+Alternativas:
+A. verdadeiro.
+B. falso.
+C. indefinido.
+D. nulo.

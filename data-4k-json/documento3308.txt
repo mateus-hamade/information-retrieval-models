@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
+
+Texto associado Em estruturas do tipo case a execução de código ocorre somente no caso de determinada condição especificada na estrutura ter sido satisfeita.  
+
+Alternativas:
+A. Certo
+B. Errado

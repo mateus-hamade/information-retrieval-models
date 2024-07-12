@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos , Estrutura de Dados ( assuntos)
+
+Texto associado Os programas 1 e 2 utilizam o mesmo método de pesquisa em um vetor. Nesse método, se for considerado um vetor de n elementos, o consumo de tempo é da ordem de complexidade:
+
+Alternativas:
+A. O (n2 ).
+B. O (n).
+C. O (nlogn).
+D. O (log2n).
+E. O (log2n2 ).

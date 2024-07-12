@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
+
+Considere a Sequência de Fibonacci (0, 1, 1, 2, 3, 5, 8, 13, ...), onde os dois primeiros termos valem 0 e 1 respectivamente, e cada termo seguinte é a soma de seus dois predecessores. O pseudocódigo a seguir apresenta um algoritmo simples para o cálculo do N-ésimo termo dessa sequência.  Assinale a opção que mostra a complexidade desse algoritmo. 
+
+Alternativas:
+A. O(n/2)
+B. O(n)
+C. O(n2)
+D. O(log n)
+E. O(2n)

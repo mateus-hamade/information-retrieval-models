@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
+
+Considerando a estrutura de dados do tipo Pilha, assinale a alternativa correta a respeito de operações realizadas sobre esse tipo de estrutura.
+
+Alternativas:
+A. A pilha é uma estrutura de dados do tipo FIFO (First-In, First-Out).
+B. A pilha é uma estrutura de dados do tipo GIGO (Garbage-In, Garbage-Out).
+C. Um elemento a ser inserido é colocado na base da pilha.
+D. Um elemento a ser removido é o que está há mais tempo na estrutura de dados.
+E. Um elemento a ser removido é o que está há menos tempo na estrutura de dados.

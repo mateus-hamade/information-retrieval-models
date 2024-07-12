@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+No que se refere aos conceitos de avaliação das expressões, julgue o item seguinte.     Considerando-se o algoritmo  q = -4^2 + (-4)^2   escreva(q),     é correto afirmar que o algoritmo escreverá em tela o número 32.  
+
+Alternativas:
+A. Certo
+B. Errado

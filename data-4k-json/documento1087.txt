@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos
+
+Analise o algoritmo abaixo, escrito no software VisuAlg 3.0.     01 algoritmo "descubra"  02 var   03 cont: inteiro  04  __________ teste(var v: inteiro)  05  inicio  06  escreval(v)  07  fim__________  08  inicio  09  para cont de 1 ate 9 faca  10  teste(cont)  11 fimpara  12 fimalgoritmo     Para que o algoritmo acima funcione corretamente, as lacunas nas linhas 04 e 07 devem ser preenchidas com a palavra:  
+
+Alternativas:
+A. parametro
+B. caso
+C. procedimento
+D. funcao
+E. subprograma

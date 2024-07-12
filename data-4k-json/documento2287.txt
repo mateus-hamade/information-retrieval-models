@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Fluxogramas , Estrutura de Dados ( assuntos)
+
+Observe a estrutura de dados, conforme a figura abaixo.         Na posição 1 da estrutura há um registro especial, apenas para dar início ao processo de pesquisa. O fluxograma a seguir faz a pesquisa desta estrutura, imprimindo os dados nela constantes.   Qual a ordem em que os registros serão impressos?  
+
+Alternativas:
+A. Sequencial física dos registros.
+B. Numérica de Código.
+C. Alfabética de Nome.
+D. Numérica de Idade.
+E. Alfabética de Cargo.

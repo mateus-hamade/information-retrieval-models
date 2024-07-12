@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Um ciclo de instrução é:
+
+Alternativas:
+A. O período de tempo no qual um computador lê e processa uma instrução em linguagem de máquina da sua memória.
+B. O período de tempo no qual um computador lê uma instrução em linguagem de máquina da sua memória.
+C. O período de tempo no qual um computador processa uma instrução em linguagem de máquina da sua memória.
+D. Nenhuma das alternativas anteriores.

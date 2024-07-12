@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
+
+Em uma estrutura de dados do tipo pilha, o elemento que será removido da estrutura é aquele que está armazenado
+
+Alternativas:
+A. há mais tempo
+B. há menos tempo.
+C. na base da estrutura
+D. no cabeçalho da estrutura.
+E. no centro da estrutura.

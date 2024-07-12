@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Uma árvore binária completa com 15 nós tem altura igual a
+
+Alternativas:
+A. 1.
+B. 2.
+C. 3.
+D. 4.
+E. 5.

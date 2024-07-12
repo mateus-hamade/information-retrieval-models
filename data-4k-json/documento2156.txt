@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Observe o seguinte pseudo-código:     X[1] <- 10  X[2] <- X[1] + 20 * 2  X[3] <- 100  Y <- X[2]  SE X[1] = 10 ENTAO X[1] <- X[3] + X[1] + 50  Z <- Y + X[1] + x[2]     Ao final da execução do código acima, qual é o valor da variável Z? 
+
+Alternativas:
+A. 260
+B. 220
+C. 230
+D. 200

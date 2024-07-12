@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos
+
+Questão anulada Qual dos algoritmos a seguir representa um algoritmo de caminho mínimo? 
+
+Alternativas:
+A. Node
+B. Stack
+C. Binary tree
+D. Idijkstra
+E. Bubble sort

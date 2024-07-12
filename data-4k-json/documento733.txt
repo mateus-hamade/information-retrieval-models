@@ -1,0 +1,10 @@
+Banco de Dados Oracle
+
+Fábio é um DBA que trabalha como suporte técnico da Oracle. Um cliente abriu um chamado solicitando ajuda para definir as configurações de disco de sua Engineer System na modalidade On-premises (Compra do equipamento). No chamado, o cliente informou que possui um espaço de armazenamento líquido de 150 Terabytes e que pretende usar paridade com nível de RAID 5 para garantir a segurança e redundância dos dados. Com base nessas informações, a quantidade aproximada, em Terabytes, de espaço disponível para dados sem a paridade informada por Fábio ao cliente é:
+
+Alternativas:
+A. 130;
+B. 120;
+C. 110;
+D. 100;
+E. 75.

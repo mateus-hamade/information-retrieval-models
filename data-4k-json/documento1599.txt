@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Podemos afirmar que uma árvore de decisão sofreu overfitting, quando ocorrer:
+
+Alternativas:
+A. erro validação (h) > erro treinamento (h)
+B. erro validação (h) - erro treinamento (h) > limiar determinado
+C. erro treinamento (h) = 0
+D. erro validação (h)/erro treinamento (h) < 1
+E. erro do treinamento (h) / erro de validação (h) / 100

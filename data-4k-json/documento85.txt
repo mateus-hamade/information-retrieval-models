@@ -1,0 +1,10 @@
+Banco de Dados SQL Server , SGBD - Sistema de Gerenciamento de Banco de Dados , SQL
+
+Considere que você esteja trabalhando com bancos de dados que contêm informações sobre livros e autores utilizando o SGBD SQLServer. Analise o script a seguir.       Avalie se os itens a seguir apresentam a escrita correta em uma consulta SQL nesse banco, que faça um JOIN entre as tabelas de livros e autores, em que cada livro é listado junto com uma lista de todos os seus autores (nomes de autores agregados em uma única String).       A escrita dessa consulta SQL está correta em 
+
+Alternativas:
+A. I, apenas.
+B. IV, apenas.
+C. I e III, apenas.
+D. I e IV, apenas.
+E. I, III e IV.

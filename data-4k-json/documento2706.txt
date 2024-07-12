@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Hashing
+
+No método de transformação (hashing), os registros armazenados em uma tabela são diretamente endereçados a partir de uma transformação aritmética sobre a chave de pesquisa. Com relação às funções de transformação e colisões, assinale a opção correta.
+
+Alternativas:
+A. Devido ao fato de as transformações nas chaves serem aritméticas, uma função hashing aceita como chave apenas um valor numérico: não é possível passar uma chave não numérica, pois não é possível fazer transformação da chave.
+B. Os métodos de transformação mais conhecidos e funcionais incluem o resto da multiplicação.
+C. Uma função de transformação deve mapear as chaves em números inteiros, dentro de um intervalo da forma [0, M - 1], em que M representa o valor da chave.
+D. Endereçamento separado, que é uma forma de resolver colisões, constrói uma lista linear encadeada para cada endereço da tabela.
+E. Endereçamento aberto, utilizado para resolver colisões, é um processo que consiste na utilização de uma matriz esparsa.

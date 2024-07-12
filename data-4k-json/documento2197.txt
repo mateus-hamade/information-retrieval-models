@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
+
+Uma transformação polinomial é uma ferramenta fundamental na demonstração de que determinado problema é NP-difícil.     Avalie as afirmações sobre propriedades que transformações polinomiais devem satisfazer.     I. Para toda transformação polinomial, deve existir uma Máquina de Turing determinística que a computa em tempo polinomial.  II. Se uma transformação polinomial transforma um elemento de linguagem A em um elemento de linguagem B, então A é um subconjunto não necessariamente próprio de B.  III. Se uma transformação polinomial transforma um elemento de uma linguagem A em um elemento de linguagem B, e A pertence a NP, então B pertence a NP.  IV. A quantidade de espaço utilizada pela transformação pode ser limitada por uma constante.     Está correto apenas o que se afirma em 
+
+Alternativas:
+A. I e II.
+B. I e IV.
+C. I, II e III.
+D. II, III e IV
+E. III e IV.

@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Listas
+
+Texto associado O código apresentado declara três classes, cujos nomes são Reverso, No e Lista, sendo a classe Reverso a única que é publicamente visível.
+
+Alternativas:
+A. Certo
+B. Errado

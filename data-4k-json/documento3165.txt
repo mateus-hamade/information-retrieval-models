@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Uma cadeia corresponde a uma sequência de elementos denominados caracteres. Considera-se “padrão” o texto que se deseja encontrar e “texto” a origem, o local a buscar o padrão desejado. Sobre algoritmos de pesquisa em cadeia de caracteres, assinale a alternativa INCORRETA.  
+
+Alternativas:
+A. Nos algoritmos em que padrão e texto não são pré- processados, os algoritmos são do tipo sequencial, on- line e de tempo-real.
+B. O algoritmo de força bruta é um exemplo dos algoritmos em que padrão e texto não são pré- processados.
+C. Nos algoritmos de padrão pré-processado, os algoritmos são do tipo sequencial e o padrão é conhecido anteriormente, o que permite o seu pré- processamento.
+D. Os algoritmos em que padrão e texto são pré- processados, constrói-se um índice, o que vale a pena quando a base de dados é grande e semi-estática.
+E. Os algoritmos em que padrão e texto são pré- processados são usados em diversas aplicações como, por exemplo, em programas de edição de textos.

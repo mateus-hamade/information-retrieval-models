@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação , Estrutura de Dados ( assuntos)
+
+O algoritmo a seguir, descrito em pseudocódigo, pode ser utilizado para ordenar um vetor V[1..n] em ordem crescente.        Este algoritmo é conhecido como:  
+
+Alternativas:
+A. Insertion sort
+B. Selection sort
+C. Merge sort
+D. Quick sort
+E. Bubble sort

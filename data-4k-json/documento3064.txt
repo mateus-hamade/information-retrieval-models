@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Considere o algoritmo em pseudocódigo a seguir:          Analise as seguintes afirmativas sobre o algoritmo:    I. O algoritmo usa uma estrutura de repetição com teste no início.  II. O algoritmo irá calcular a média dos números de 0 a 9.  III. O comando “Mostrar” irá exibir o valor da variável “resultado” no dispositivo padrão de saída.  Estão CORRETAS as afirmativas:  
+
+Alternativas:
+A. I e II, apenas.
+B. I e III, apenas.
+C. II e III, apenas.
+D. I, II e III.

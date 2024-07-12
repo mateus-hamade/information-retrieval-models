@@ -1,0 +1,10 @@
+Banco de Dados Oracle
+
+Qual o formato padrão de entrada da data no Oracle 11g, em que DD é o dia com dois dígitos, MON são as três primeiras letras do mês, MM é o número do mês com dois dígitos e YYYY é o ano com quatro dígitos?
+
+Alternativas:
+A. DD-MON-YYYY
+B. MON-DD-YYYY
+C. YYYY-MON-DD
+D. MM-DD-YYYY
+E. DD-MM-YYYY

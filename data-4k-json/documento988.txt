@@ -1,0 +1,9 @@
+Banco de Dados Arquitetura de Banco de Dados
+
+Considerando que a arquitetura ANSI/SPARC se divide em três níveis – interno, externo e conceitual, analise as afirmativas a seguir. I. Nível interno: se ocupa do modo como os dados são fisicamente armazenados dentro do sistema. II. Nível externo: se ocupa do modo como os dados são vistos por usuários individuais. III. Nível conceitual: é o nível intermediário entre o nível interno e externo;se ocupa de apresentar os dados armazenados dentro do sistema como uma visão vista pelos usuários individuais. Está correto o que se afirma em
+
+Alternativas:
+A. I, II e III.
+B. I e II, apenas.
+C. I e III, apenas.
+D. II e III, apenas.

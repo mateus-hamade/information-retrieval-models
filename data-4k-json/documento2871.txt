@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Alguns dos algoritmos mais utilizados para o aprendizado de programação sao:
+
+Alternativas:
+A. C #e Java,
+B. Python e PHP
+C. De Ordenação e de Busca
+D. Condicionais eRepetitivos.
+E. Internet Explorere Google Chrome.

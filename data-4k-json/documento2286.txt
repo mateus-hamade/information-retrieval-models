@@ -1,0 +1,8 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Considere a tabela a seguir, que contém dados do IMC (Índice de Massa Corporal) de uma pessoa, com uma escala típica de valores, dentre as várias existentes.   A fórmula para o cálculo do IMC é IMS = PESO / ALTURA2 Das expressões abaixo, em pseudocódigo, qual a que expressa corretamente a lógica para calcular e imprimir o IMC dos dois casos extremos da tabela? 
+
+Alternativas:
+A. IMC = PESO / ALTURA / ALTURA se IMC <16 OR IMC >40 então IMPRIMIR IMC
+B. IMC = PESO / ALTURA * ALTURA se IMC <16 AND IMC >40 então IMPRIMIR IMC
+C. IMC = PESO / (ALTURA * ALTURA)

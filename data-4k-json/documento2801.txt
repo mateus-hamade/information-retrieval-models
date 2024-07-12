@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Recursividade
+
+Uma boa lógica de programação é fundamental para que os algoritmos sejam bem desenvolvidos e, consequentemente, os programas bem implementados, claro que se agregando o conhecimento da sintaxe da linguagem de programação escolhida. Dessa forma, pensando-se em estruturas de algumas implementações, considere o seguinte trecho de código:     int fibonacci (int N)  {  if (N <= 1)  return N;  else  return ( fibonacci(N - 1) + fibonacci(N - 2) );  }     Pode-se afirmar, a partir do código anteriormente apresentado, que:  
+
+Alternativas:
+A. existe uma estrutura de repetição.
+B. existe uma estrutura de desvio múltipla.
+C. existe um processo recursivo.
+D. existe um chamada de função com passagem de parâmetros por referência.

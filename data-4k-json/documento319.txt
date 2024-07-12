@@ -1,0 +1,10 @@
+Banco de Dados DW - Data Warehouse
+
+Relacione as características de um data warehouse listadas a seguir com suas descrições, conforme estabelecido por William Inmon.  1. Orientados a Assunto. 2. Integração. 3. Não Volátil. 4. Variante no Tempo. ( ) O foco de um data warehouse na mudança ao longo do tempo é essencial para descobrir tendências e identificar padrões e relacionamentos ocultos nos negócios, para isso os analistas precisam de grandes quantidades de dados. Isso contrasta muito com o processamento de transações on-line onde os requisitos de desempenho exigem que os dados históricos sejam movidos para arquivos. ( ) Os data warehouses devem colocar dados de fontes diferentes em um formato consistente. Eles devem resolver problemas como nomear conflitos e inconsistências entre unidades de medida. ( ) Significa que, uma vez inseridos no data warehouse, os dados não devem mudar. Essa característica é lógica porque o propósito de um data warehouse é permitir que um analista analise o que ocorreu no passado. ( ) Os data warehousessão projetados para ajudar os profissionais a analisar grandes volumes de dados. Por exemplo, para saber mais sobre os dados de vendas de uma empresa, o analista pode construir um data warehouse que concentre a venda. Usando esse data warehouse, ele poderá responder perguntas como "Quem foi nosso melhor cliente para este item no ano passado?" ou "Quem provavelmente será nosso melhor cliente no próximo ano?"   A relação correta, na ordem dada, é:  
+
+Alternativas:
+A. 1 – 2 – 3 – 4.
+B. 2 – 1 – 4 – 3.
+C. 4 – 2 – 3 – 1.
+D. 3 – 4 – 1 – 2
+E. 2 – 3 – 1 – 4.

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
+
+A função da Memoização na estratégia Top-Down para a solução de problemas, utilizando Programação Dinâmica, é implementar um algoritmo
+
+Alternativas:
+A. recursivo, em tempo polinomial, para resolver subproblemas sobrepostos.
+B. recursivo, em tempo exponencial, para resolver subproblemas não sobrepostos.
+C. iterativo, em tempo exponencial, para resolver subproblemas sobrepostos.
+D. iterativo, em tempo polinomial, a partir de uma implementação recursiva exponencial.
+E. iterativo, em tempo polinomial, a partir de uma implementação recursiva polinomial.

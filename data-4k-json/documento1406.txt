@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Sobre estruturas básicas para a criação de um algoritmo, analise as afirmativas a seguir. I. Em um algoritmo, toda condição tem que ser uma expressão lógica, algo que possamos pensar como “isto é verdadeiro ou isto é falso”. II. Operadores lógicos podem ser de disjunção; conjunção; e, negação. III. Para resolver um problema algoritmo precisamos de três estruturas básicas: estruturas sequenciais; estruturas de repetição; e, estruturas de decisão. IV. São exemplos de tipos de dados: strings; caractere; inteiro; real; lógico; e, variável. Está correto o que se afirma apenas em 
+
+Alternativas:
+A. I e II.
+B. I, II e III.
+C. I, III e IV.
+D. II, III e IV.

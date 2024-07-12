@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Texto associado Considerando o algoritmo apresentado, assinale a alternativa que contém o número de vezes que o comando                  Senão z  z + 2;  é executado.
+
+Alternativas:
+A. 3
+B. 4
+C. 6
+D. 8
+E. 9

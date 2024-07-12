@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Listas
+
+Texto associado O tipo de dados Lista é polimórfico, pois uma instância de Lista armazena uma lista de instâncias de qualquer tipo.
+
+Alternativas:
+A. Certo
+B. Errado

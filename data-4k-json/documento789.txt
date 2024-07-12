@@ -1,0 +1,10 @@
+Banco de Dados MySQL
+
+Assinale a alternativa que NÃO corresponde à técnica que pode ser usada para otimização de instruções do tipo SELECT no MySQL 8. 
+
+Alternativas:
+A. Adicionar um índice.
+B. Diminuir o número de leituras de tabelas inteiras.
+C. Usar o comando ANALYZE_TABLE periodicamente.
+D. Criptografar o banco de dados.
+E. Ajustar o tamanho dos espaços de memória usados para cache.

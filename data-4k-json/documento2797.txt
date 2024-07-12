@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
+
+As estruturas de repetição são usadas para iterar comandos em laços. Com base nas estruturas de repetição, assinale a alternativa CORRETA:
+
+Alternativas:
+A. O teste do Enquanto/Faça é feito no final do laço.
+B. O teste do Repita/Até é feito no início do laço.
+C. O Para/Faça é usado quando não se sabe a quantidade de iterações.
+D. A diferença entre o Enquanto/Faça e o Repita/Até é que no último, os comandos serão executados ao menos uma vez.
+E. O Se/Então/Senão é um caso especial de estrutura de repetição.

@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados
+
+Julia é uma WebDesigner e recebeu um modelo de dados com a seguinte especificação de um campo a ser armazenado no banco de dados DB_ProcessJud do sistema SIS_ProcessJud. NUM_PROCESSO, INTEGER, NOT NULL, PRIMARY KEY  A partir do modelo de dados recebido, Julia pode concluir que NUM_PROCESSO é um campo:
+
+Alternativas:
+A. inteiro de acesso reservado;
+B. do tipo caractere com tamanho fixo;
+C. utilizado como chave de acesso ao sistema SIS_ProcessJud;
+D. que permite o armazenamento de valores nulos em determinadas circunstâncias;
+E. identificador único de um registro em uma tabela do banco de dados DB_ProcessJud.

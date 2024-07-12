@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação , Estrutura de Dados ( assuntos)
+
+Um programador construiu uma função para ordenar vetores de inteiros por meio do algoritmo de ordenação por inserção (insertion sort). A versão iterativa desse algoritmo possui dois loops aninhados. Suponha que esse programador tenha inserido, imediatamente antes do incremento da variável de controle do loop mais externo, uma chamada de uma função para percorrer e exibir o conteúdo do vetor que está sendo ordenado. O trecho de código a seguir ilustra como essa chamada é feita.        A Figura abaixo exibe o vetor que foi passado como parâmetro em uma chamada da função de ordenação.        O que será exibido no console quando o valor da variável i for igual a 3?  
+
+Alternativas:
+A. 1 1 11 12 17 4 17 35 43 78
+B. 1 12 4 17 11 17 1 35 43 78
+C. 1 1 4 78 17 35 43 11 17 12
+D. 1 12 35 78 17 4 43 11 17 1
+E. 1 1 4 11 17 35 43 78 17 12

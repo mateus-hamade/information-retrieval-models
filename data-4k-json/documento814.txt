@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados
+
+Um programador de Back-End precisava construir uma transação longa, que alterava várias tabelas de um Banco de Dados, de forma que uma das alternativas ocorresse: ou a transação fosse completada, ou todos os dados permanecessem em seu estado original. Para isso, contou com a propriedade de transações conhecida como
+
+Alternativas:
+A. atomicidade
+B. consistência
+C. durabilidade
+D. isolamento
+E. permanência

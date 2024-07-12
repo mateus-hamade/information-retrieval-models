@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Matrizes em Estrutura de Dados
+
+Considere o seguinte algoritmo para responder à  questão. O algoritmo está expresso na forma de uma pseudolinguagem. Suponha que o valor lido para a variável k seja igual a 3.                            início                               tipo TMAT = matriz [1..5,1..5] de inteiros;                               inteiro: i, j, k;                              TMAT: Mat;                                leia k;                               para i de 1 até 5 faça                               [                                  para j de 1 até 5 faça                                  [                                    Mat[i,j] ← i-j;                                  ]                               ]                               imprima (Mat[2,3]*Mat[3,2]);                            fim.   No algoritmo apresentado foram acrescentadas as seguintes linhas de comando imediatamente antes do comando imprima.                         para i de 1 até 5 faça                        [                          para j de 1 até 5 faça                          [                            Mat[i,j] ← Mat[i,j] + k;                          ]                        ]  Dessa forma, com essa modificação, após a execução do algoritmo, a somatória dos elementos da linha 1 da matriz Mat será igual a:
+
+Alternativas:
+A. 1
+B. 2
+C. 3
+D. 4
+E. 5

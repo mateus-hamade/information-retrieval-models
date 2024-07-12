@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+Assinale a opção em que é apresentada a palavra-chave, em SQL, que deve ser incluída em uma instrução de SELECT para evitar a apresentação de resultados duplicados da tabela.
+
+Alternativas:
+A. UNIQUE
+B. NOTDUPLICATE
+C. NOTALL
+D. DISTINCT
+E. ONLY

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
+
+Numa competição de programação, ganhava mais pontos o time que apresentasse o algoritmo mais eficiente para resolver o pior caso de um determinado problema. A complexidade assintótica (notação Big O) dos algoritmos elaborados está ilustrada na tabela abaixo.    O time que obteve a medalha de prata (2o algoritmo mais eficiente) é o 
+
+Alternativas:
+A. Branco.
+B. Amarelo.
+C. Azul.
+D. Verde.
+E. Vermelho.

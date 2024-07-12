@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Algoritmos de Ordenação
+
+Seja o vetor A com n elementos (n>5), cujo primeiro elemento está na posição 1 e o último está na posição n. O algoritmo a seguir, que está escrito em pseudocódigo, busca ordenar o vetor A:           Essencialmente, o pseudocódigo refere-se ao algoritmo  
+
+Alternativas:
+A. ordenação por seleção.
+B. ordenação por inserção.
+C. ordenação por bolha.
+D. Quicksort.

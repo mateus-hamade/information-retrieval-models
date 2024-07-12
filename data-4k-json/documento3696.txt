@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Texto associado A função busca1 busca um registro que contém a chave x na lista L, e retorna o índice do registro na lista, caso o registro seja encontrado ou, caso contrário, retorna zero.
+
+Alternativas:
+A. Certo
+B. Errado

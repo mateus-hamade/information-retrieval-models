@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Matrizes em Estrutura de Dados
+
+Texto associado Considerando a execução do algoritmo, a posição (2,3,1) da matriz M, ou seja, M[2,3,1], será atualizada com o valor:
+
+Alternativas:
+A. 7
+B. 4
+C. 10
+D. 12
+E. 0

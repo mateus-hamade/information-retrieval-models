@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Considerando os paradigmas de programação, a programação estruturada não permite o uso de comandos do tipo:
+
+Alternativas:
+A. FOR
+B. GOTO
+C. WHILE
+D. DO...UNTIL
+E. IF-THEN-ELSE

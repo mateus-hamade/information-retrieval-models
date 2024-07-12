@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+Assinale a alternativa correta a respeito dos principais algoritmos de ordenação.
+
+Alternativas:
+A. O algoritmo de ordenação QuickSort é um algoritmo eficiente, porém deve ser implementado visando a uma boa escolha do elemento pivô.
+B. O algoritmo de ordenação por inserção tem uma implementação cara, porém com um desempenho estável.
+C. O algoritmo de ordenação HeapSort é um algoritmo eficiente em relação ao tempo, porém ineficiente em relação à memória.
+D. O algoritmo de ordenação ShellSort tem sua principal desvantagem quando os dados a serem ordenados estão parcialmente ordenados.
+E. O algoritmo de ordenação por seleção tem uma implementação cara, porém com desempenho estável.

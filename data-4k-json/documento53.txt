@@ -1,0 +1,9 @@
+Banco de Dados Data Mining
+
+Um analista de tecnologia da Prefeitura de Rio Branco recebeu a seguinte demanda da Secretaria de Segurança Pública: identificar comportamentos e características, de um conjunto de dados referente a processos judiciais ligados a ataques maliciosos a servidores de dados. O analista utilizou técnicas de mineração de dados e apresentou o seguinte resultado: 75% dos envolvidos em processos judiciais ligados a ataques maliciosos a servidores de dados também estão envolvidos em processos ligados a roubo de dados sigilosos. Com base no relato, o analista utilizou a técnica de 
+
+Alternativas:
+A. classificação.
+B. árvores binárias.
+C. associação.
+D. previsão.

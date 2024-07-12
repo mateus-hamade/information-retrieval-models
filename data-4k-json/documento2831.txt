@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Texto associado Ao realizar um percurso em pós-ordem na árvore, os nós são visitados na seguinte ordem:
+
+Alternativas:
+A. I, H, G, F, E, D, C, B, A
+B. A, B, C, D, E, F, G, H, I.
+C. B, C, A, F, E, G, I, H, D.
+D. C, B, F, G, E, I, H, D, A

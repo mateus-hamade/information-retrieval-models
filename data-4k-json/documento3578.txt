@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Hashing
+
+Texto associado Cada posição da tabela receberá aproximadamente o mesmo número de elementos.
+
+Alternativas:
+A. Certo
+B. Errado

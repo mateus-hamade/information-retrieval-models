@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Texto associado Suponha os seguintes valores lidos para r, s, t, respectiva- mente: 5 ; 2 ; 10.  No algoritmo apresentado, o valor impresso de t, ao final do programa, será igual a:
+
+Alternativas:
+A. -20
+B. 0
+C. 4
+D. 20
+E. 39

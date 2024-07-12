@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Observe a rotina abaixo escrita em pseudocódigo. Considerando-se a linha 1 como o ponto de entrada, e que os parâmetros 'a' e 'b' são passados por referência, o valor impresso na linha 5 é:  1. início 2. x : inteiro = 40 3. y : inteiro = 10 4. calcular (x,y) 5. imprimir x 6. fim 7. procedimento calcular(a:inteiro, b:inteiro) 8. a = a - (b * 3) + (b / 2); 9. a = (a * b) / 5; 10. fim da função
+
+Alternativas:
+A. 40
+B. 30
+C. 15
+D. 10
+E. 80

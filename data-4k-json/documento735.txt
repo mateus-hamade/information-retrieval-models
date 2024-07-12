@@ -1,0 +1,10 @@
+Banco de Dados PostgreSQL
+
+Juliana necessita preparar o banco de dados BD_APOIO criado no PostgreSQL para o primeiro uso. De modo a executar a tarefa de popular o BD_APOIO com celeridade, Juliana deve:
+
+Alternativas:
+A. efetuar a carga de cada tabela usando o comando COPY, com índices habilitados para facilitar a criação de foreign keys na carga de outras tabelas;
+B. efetuar a carga de cada tabela reduzindo o valor da variável de configuração maintenance_work_mem para não ultrapassar o valor da variável work_mem;
+C. criar mais de um tablespace no sistema de arquivos lógico, de modo a garantir que haja espaço de swapping para carga de dados de todas as tabelas;
+D. executar a inserção de dados de todas as tabelas no modo autocommit desligado;
+E. executar o comando ANALYZE antes, para que o processo de carga utilize estatísticas atualizadas.

@@ -1,0 +1,10 @@
+Banco de Dados SQL , Banco de Dados Relacionais
+
+Utilizando um banco de dados relacional, aberto e funcionando em condições ideais, um analista excluiu todos os privilégios de um usuário e, a seguir, atribuiu novos privilégios a outro profissional. Posteriormente, criou uma tabela de controle com nomes de usuários e respectivos privilégios e incluiu dados nessa tabela. Após criada, ele incluiu os nomes e os privilégios nessa tabela. Considerando a ordem das operações realizadas pelo analista, ele utilizou comandos SQL respectivamente correspondentes a
+
+Alternativas:
+A. DCL − DML − DML − DDL.
+B. DCL − DCL − DDL − DDL.
+C. DCL − DCL − DDL − DML.
+D. DDL − DDL − DML − DML.
+E. DML − DML − DCL − DCL.

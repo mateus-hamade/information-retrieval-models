@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+Texto associado Com relação à tabela FILIACAO (Tabela 1), definida anteriormente, o comando SQL que produz a lista dos nomes das pessoas que são citadas na instância da referida tabela, sem repetições, é:
+
+Alternativas:
+A. select Pessoa FROM FILIACAO UNION ALL select Genitor FROM FILIACAO
+B. select Pessoa FROM FILIACAO UNION select Genitor FROM FILIACAO
+C. select distinct Pessoa, Genitor FROM FILIACAO
+D. select distinct Pessoa UNION distinct Genitor FROM FILIACAO
+E. select Pessoa FROM FILIACAO and select Genitor FROM FILIACAO

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+João trabalha no setor de BI da empresa e recebeu a tarefa de identificar agrupamentos de alunos de uma escola segundo seu desempenho acadêmico. A partir das notas obtidas, João deve formar grupos tal que integrantes de um grupo tenham desempenho similar, e que integrantes de grupos distintos sejam dissimilares. O algoritmo mais apropriado para essa tarefa é:
+
+Alternativas:
+A. Apriori;
+B. decision tree;
+C. PageRank;
+D. CART;
+E. k-means.

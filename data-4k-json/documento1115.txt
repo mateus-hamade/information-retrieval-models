@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
+
+No processo de otimização de redes neurais artificiais, diferentes métodos e técnicas são utilizados para determinar os melhores parâmetros do aprendizado. Para reduzir o overfitting, uma das técnicas amplamente utilizadas é a regularização, que apresenta como características: 
+
+Alternativas:
+A. adição de um termo que maximiza a função de custo e menor generalização.
+B. redução dos pesos e maior resistência a ruídos no treinamento.
+C. aumento dos pesos e maior generalização por redução dos vieses.
+D. redução dos pesos e menor generalização no aprendizado.

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Marque a opção relativa às fases da construção de um algoritmo:
+
+Alternativas:
+A. Entrada, Processamento e Saída
+B. Especificação, Desenvolvimento e Manutenção
+C. Requisitos, Prototipação e Codificação
+D. Scrum, RUP, XP
+E. Nenhuma das afirmações

@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+Julgue os itens a seguir, relacionados a dados do tipo elementar e do tipo estruturado.     I Dados do tipo elementar são aqueles que não podem ser decompostos.   II Um float (ponto flutuante) é considerado um dado do tipo estruturado.   III Uma string é um dado do tipo estruturado.      Assinale a opção correta.  
+
+Alternativas:
+A. Apenas o item II está certo.
+B. Apenas os itens I e II estão certos.
+C. Apenas os itens I e III estão certos.
+D. Todos os itens estão certos.

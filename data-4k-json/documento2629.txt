@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Considere o trecho de um algoritmo em pseudocódigo que mostra comandos condicionais (se) aninhados com início e fim delimitados por { }: if ( T1 ) {     Comando1;       if ( T2 e T3) { Comando2; Comando3; } else Comando4; if ( T4 ou T5 ) Comando5; else { Comando6; } Comando7; } Analisando esse trecho, é CORRETO afirmar que:
+
+Alternativas:
+A. se T1 e T4 forem verdadeiros e T2 falso, o Comando1, o Comando2 e o Comando5 serão executados.
+B. o Comando7 será executado independentemente de qualquer valor dos testes.
+C. se T1 for verdadeiro e T5 verdadeiro, o Comando5 e o Comando7 serão executados.
+D. se T1, T2 e T3 forem verdadeiros, o Comando1, o Comando2 e o Comando4 serão executados.

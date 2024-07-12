@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados
+
+Relacionamentos são as ligações que devem existir entre as entidades. A chave que tem a mesma funcionalidade da chave primária, porém, neste momento, não está exercendo a função de chave primária, pois está sendo usado como atributo comum, é denominada de
+
+Alternativas:
+A. chave eleita.
+B. chave estrangeira.
+C. chave candidata.
+D. super chave.
+E. chave composta.

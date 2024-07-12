@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Busca
+
+Sobre algoritmos de busca, analise as informações a seguir.     I. Uma busca linear sobre um array de uma dimensão pode ser implementada com um laço e possui complexidade, no pior caso, linearmente relacionada ao tamanho do array.  II. Uma busca binária sobre um array de uma dimensão pode ser implementada com um laço e possui complexidade, no pior caso, linearmente relacionada ao logaritmo do tamanho do array.  III. Uma busca binária recursiva sobre um array de uma dimensão pode ser implementada sem laços e possui complexidade, no pior caso, linearmente relacionada ao logaritmo do tamanho do array.  IV. Uma busca linear sobre um array de duas dimensões pode ser implementada com dois laços e possui complexidade, no pior caso, linearmente proporcional à soma da quantidade de linhas e colunas do array.  V. Uma busca em uma estrutura de dados chamada Tabela de Dispersão (Hash Table) pode ser implementada sem laços e possui complexidade, no pior caso, constante, independentemente do tamanho do array.     Estão CORRETAS, apenas, as proposições 
+
+Alternativas:
+A. I, II e III.
+B. II e V.
+C. I, III, IV e V.
+D. III, IV e V.
+E. I, II e IV.

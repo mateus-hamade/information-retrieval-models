@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Um programa tem a seguinte expressão lógica:  (NOT A=9 AND C=4) OR (NOT A=9 AND B<7) OR (A=9 AND C=4).  Qual das alternativas abaixo apresenta, de forma simplificada, a mesma lógica da expressão original acima descrita? 
+
+Alternativas:
+A. A=9 OR (NOT B<7 AND C=4)
+B. A=9 OR (B<7 AND NOT C=4)
+C. B<7 OR (A=9 AND C=4)
+D. C=4 OR (NOT A=9 AND B<7)
+E. C=4 OR (A=9 AND B<7)

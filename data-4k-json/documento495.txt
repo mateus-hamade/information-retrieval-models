@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+Essa estrutura é indicada para armazenar pequenos registros que possuem interconexões complexas, como é o caso de dados em redes sociais. Um vértice representa um objeto do mundo real, enquanto uma aresta representa uma relação entre dois vértices. Considerando-se o modelo de dados NoSQL, que se caracteriza por diversas abordagens para armazenamento e recuperação de informações, qual das alternativas abaixo corresponde ao modelo que consiste basicamente em vértices conectados por arestas?
+
+Alternativas:
+A. Chave-valor.
+B. Orientado a documentos.
+C. Orientado a colunas.
+D. Orientado a grafos.
+E. Orientado a linhas.

@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados
+
+Existe um tipo de banco de dados que possui uma estrutura semelhante a uma árvore, em que todos os nós representam registros e os ramos indicam campos. Qual é o nome dado a esse tipo de banco de dados? 
+
+Alternativas:
+A. Multinível
+B. Hierárquico
+C. De rede
+D. Relacional
+E. Orientado a objetos

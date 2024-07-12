@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
+
+Um trecho de um programa contém a expressão lógica de um comando de teste (IF-THEN-ELSE), representada, abaixo, em metalinguagem.     (P = 5) AND (Q NOT < 3) OR (P NOT = 5) AND  (Q < 3) OR (P = 5) AND (Q < 3)     Assinale a alternativa que indica a forma simplificada da expressão equivalente, que mantém a mesma lógica. 
+
+Alternativas:
+A. (P = 5) OR (P NOT = 5) AND (Q < 3)
+B. (Q < 3) OR (P = 5) AND (Q NOT < 3)
+C. (P = 5) OR (Q < 3)
+D. (P = 5) AND (Q < 3)
+E. (P NOT = 5) OR (P = 5) AND (Q < 3)

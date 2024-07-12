@@ -1,0 +1,10 @@
+Programação Java , Linguagens de programação
+
+A analista Joana está implementando um sistema observando os padrões de arquitetura de aplicações corporativas. Ela escreveu a classe J, que estabelece a comunicação entre uma instância da classe A e uma instância da classe B. As classes A e B são independentes entre si.  Ao estabelecer uma comunicação entre dois objetos independentes, a classe J implementa o padrão básico:
+
+Alternativas:
+A. plugin;
+B. gateway;
+C. mapeador;
+D. camada supertipo;
+E. interface separada.

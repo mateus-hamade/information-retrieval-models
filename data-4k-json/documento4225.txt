@@ -1,0 +1,9 @@
+Programação Web
+
+As aplicações WEB facilitam consideravelmente o cotidiano dos usuários, automatizando cadastros, promovendo ambientes eletrônicos para compras e digitalizando diversos procedimentos que demandavam um tempo considerável para serem operacionalizados. Em um sistema eletrônico de vendas, uma medida protetiva e necessária para a aplicação é que o armazenamento de dados sensíveis como, por exemplo, o número de cartão de crédito, seja armazenado de forma criptografada, aumentando a segurança do dado sensível dentro da aplicação. Para minimizar os riscos de vulnerabilidades causadas pelo armazenamento inseguro de dados criptografados, são medidas que podem ser aplicadas de forma preventiva, EXCETO:
+
+Alternativas:
+A. Desativar o armazenamento em cache para respostas que contenham dados confidenciais.
+B. Gerar chaves de forma criptograficamente aleatória e armazenadas na memória como um array de bytes.
+C. Armazenar senhas usando fortes funções de hash adaptáveis e saltadas com um fator de trabalho como Argon2, SHA1, bcrypt ou PBKDF2.
+D. Classificar os dados processados, armazenados ou transmitidos por um aplicativo, identificando os dados confidenciais, conforme legislação de privacidade, requisitos regulamentares ou necessidades de negócios.

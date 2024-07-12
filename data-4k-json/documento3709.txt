@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Hashing
+
+Texto associado Corrigindo-se o erro citado, o pseudocódigo corresponderia a uma operação de 
+
+Alternativas:
+A. inserção de x em H.
+B. inserção da chave de x em H.
+C. inserção da chave da chave de x em H.
+D. remoção da chave de x de H.
+E. remoção de x de H.

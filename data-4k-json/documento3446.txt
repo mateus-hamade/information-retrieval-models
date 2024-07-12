@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Grafos
+
+O procedimento troca de r arestas (r-exchange) é uma das heurísticas de maior sucesso em obter uma solução aproximadamente ótima para o problema do caixeiro-viajante com n vértices. Em relação a esse procedimento, considere as afirmativas a seguir.  I - A partir de um ciclo Hamiltoniano H, o procedimento retira r arestas de H, produzindo r caminhos desconexos e os reconecta usando arestas diferentes daquelas retiradas, produzindo uma nova rota H’.  II - De um ciclo Hamiltoniano H é produzido um novo ciclo H’, o qual difere de H em exatamente r arestas, as demais (n-r) arestas coincidem.  III - Caso o custo de H’, produzido a partir da troca de r arestas de um ciclo Hamiltoniano H, seja maior que o custo de H, então H é substituído por H’, senão um novo conjunto de r arestas de H é selecionado para troca.  IV - O processo de troca de r arestas é repetido até que nenhuma melhora adicional seja alcançada.  V - O procedimento r-exchange termina em um ótimo global, chamado de r-ótimo ou r-opt.  São corretas APENAS as afirmativas 
+
+Alternativas:
+A. I e II.
+B. III e IV
+C. I, IV e V.
+D. II, III, IV e V
+E. I, II, III e V.

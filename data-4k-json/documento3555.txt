@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Listas
+
+Assinale a opção correta. 
+
+Alternativas:
+A. Um nodo indicador de janelas armazena um valor especial chamado high window (HW).
+B. Um nodo prioritário é um nodo extra mantido sempre na posição mais acessada de uma lista encadeada.
+C. Um nodo cabeça é um nodo extra mantido sempre na primeira posição de uma lista encadeada.
+D. Um nodo sentinela autoriza o acesso a valores elevados chamados top values (TV).
+E. Um nodo cabeça armazena um valor especial chamado strong head (SH).

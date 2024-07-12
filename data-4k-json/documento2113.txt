@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Matrizes em Estrutura de Dados
+
+Acerca das estruturas homogêneas de dados vetor e matriz e dos conceitos de pilhas, filas e árvores binárias, julgue o item.     Matriz é uma estrutura de armazenamento do tipo bidimensional. Diz‐se que uma matriz de dimensão 2 é uma matriz que exige apenas um índice para identificar até dois elementos em sua estrutura.  
+
+Alternativas:
+A. Certo
+B. Errado

@@ -1,0 +1,10 @@
+Banco de Dados SQL , Banco de Dados Relacionais
+
+Seja o esquema de um banco de dados relacional seguinte, criado pelo usuário U1, que possui direito de criação de tabelas no ambiente:  AUTOR ( id_autor <PK>, nome_autor ) RELATORIO ( id_rel <PK>, conteudo, id_autor <FK>, data_registro ) Restrições de integridade:  Tabela AUTOR: id_autor é chave primária; nome_autor ≠  NULO. Tabela RELATORIO: id_rel é chave primária; conteudo ≠  NULO; data_registro ≠  NULO; id_autor é chave estrangeira e referencia LOCALIDADE(id_loc).  Os usuários U2 e U3 receberam de U1 o direito de consulta e atualização nas tabelas AUTOR e RELATORIO. Dado que o usuário U2 desfruta da confiança de U1, ele recebeu o benefício de propagação dos direitos que recebeu. Já o usuário U4 recebeu de U1 apenas o direito de consulta na tabela RELATORIO. Mais adiante, o usuário U1 soube que o usuário U2 propagou o direito de atualização para o usuário U4 na tabela RELATORIO, sem que ele (usuário U1) tivesse conhecimento do fato. Tendo em vista a quebra de confiança, o usuário U1 decidiu revogar todos os direitos concedidos anteriormente a U2, deixando-o sem acesso ao seu banco de dados. Considerando os mecanismos de segurança discricionários de sistemas de bancos de dados relacionais, assinale a opção que indica o comando SQL a seguir reflete alguma das situações descritas no contexto apresentado.  
+
+Alternativas:
+A. GRANT select ON Relatorio TO U4 WITH GRANT OPTION
+B. GRANT select, update ON Autor, Relatorio TO U2 WITH GRANT OPTION
+C. GRANT select, update ON Autor, Relatorio TO U2, U3
+D. REVOKE select, update ON Autor, Relatorio FROM U2 WITHOUT GRANT OPTION
+E. REVOKE select, update ON Relatorio FROM U3

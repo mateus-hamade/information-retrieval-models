@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
+
+Métodos de classificação por contagem são mais eficientes em termos de complexidade de tempo de execução que os métodos de classificação por comparação de chave.  
+
+Alternativas:
+A. Certo
+B. Errado

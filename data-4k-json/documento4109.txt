@@ -1,0 +1,9 @@
+Programação HTML (HyperText Markup Language) , Linguagens de marcação
+
+No contexto do HTML5 (Hyper Text Markup Language 5), o termo “Flow Content” refere-se aos elementos que podem ser incluídos dentro do corpo (body) de um documento HTML, sendo utilizados para estruturar o conteúdo e geralmente exibidos em linha ou em blocos, conforme o contexto. Com base nisso, assinalar a alternativa que descreve CORRETAMENTE a função do elemento “aside”.
+
+Alternativas:
+A. Define uma seção de navegação.
+B. Define um parágrafo de texto.
+C. Define o rodapé de uma seção ou do documento inteiro.
+D. Define conteúdo relacionado ou suplementar que está fora do fluxo principal do documento.

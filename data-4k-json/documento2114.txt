@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Vetores
+
+Acerca das estruturas homogêneas de dados vetor e matriz e dos conceitos de pilhas, filas e árvores binárias, julgue o item.     Os vetores são declarados, geralmente, por meio de colchetes, os quais são usados também para identificar um elemento específico do vetor.  
+
+Alternativas:
+A. Certo
+B. Errado

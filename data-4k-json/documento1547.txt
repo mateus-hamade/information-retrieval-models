@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Listas
+
+Assinale a alternativa que apresenta o nome do tipo de estrutura em que cada elemento armazena um ou vários dados e um ponteiro para o próximo elemento, que permite o encadeamento e mantém a estrutura linear, sendo que, nesse tipo de estrutura, são abordadas as seguintes operações: inserir no início da lista; inserir no fim; consultar toda a lista; remover um elemento qualquer dela; e esvaziá-la.
+
+Alternativas:
+A. lista simplesmente encadeada e não ordenada
+B. lista simplesmente encadeada e ordenada
+C. lista duplamente encadeada e não ordenada
+D. lista duplamente encadeada e não ordenada
+E. lista triplamente encadeada

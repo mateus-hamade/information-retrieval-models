@@ -1,0 +1,10 @@
+Banco de Dados Modelagem de dados
+
+Em relação à modelagem de dados, assinale a opção correta. 
+
+Alternativas:
+A. Na especialização parcial, toda a entidade na superclasse deve ser um membro de pelo menos uma das subclasses na especialização.
+B. O modelo relacional representa os dados em um banco de dados apenas como uma coleção de relações (tabelas).
+C. Generalização e especialização na modelagem conceitual em banco de dados são conceitos usados para representar objetos do mundo real que possuem diferentes atributos.
+D. Atributos representam todos os valores possíveis que um domínio pode receber.
+E. Na modelagem de dados relacional, diferentes tabelas de dados se unem ou se vinculam a partir de chaves que representam a relação de entidades do mundo real.

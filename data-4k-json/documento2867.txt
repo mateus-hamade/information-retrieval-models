@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+A estrutura de dados “Nó” , utilizada para definir listas ligadas, deve conter pelo menos:
+
+Alternativas:
+A. Um valor e uma ligação ao próximo no.
+B. Um valor e um método que defina se um valor é maior ao outro.
+C. Um indice é um valor.
+D. Um valor HASH é um vetor de valores.
+E. Uma chave é um valor

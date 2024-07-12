@@ -1,0 +1,9 @@
+Banco de Dados Banco de Dados Relacionais
+
+Na monitoração e otimização de desempenho de bancos de dados relacionais, uma métrica importante é o número de blocos que contêm tuplas de uma relação r (br), calculado como: br = nr/ fr, sendo nr o número de
+
+Alternativas:
+A. blocos de memória existentes no servidor do banco de dados.
+B. tuplas da relação r.
+C. valores distintos da relação r.
+D. valores nulos da relação r.

@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Grafos
+
+Texto associado Considerando-se a implementação de um grafo denso, direcionado e ponderado, se o número de vértices ao quadrado tem valor próximo ao número de arcos, o uso de uma matriz de adjacência simétrica apresenta vantagens em relação ao uso de uma lista de adjacência.
+
+Alternativas:
+A. Certo
+B. Errado

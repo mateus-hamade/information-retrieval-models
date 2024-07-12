@@ -1,0 +1,10 @@
+Banco de Dados DW - Data Warehouse
+
+Considerando-se a natureza e o propósito dos sistemas de gerenciamento de dados, um data warehouse (DW) é descrito como um(a)
+
+Alternativas:
+A. ferramenta voltada primariamente para garantir a redundância de dados, assegurando cópias de segurança e recuperação em tempo real.
+B. estrutura centralizada, projetada para consolidar, armazenar e facilitar a consulta de grandes volumes de dados históricos oriundos de múltiplas fontes.
+C. infraestrutura destinada a armazenar dados mais recentes e válidos por períodos curtos de tempo, removendo informações mais antigas para garantir a otimização do espaço disponível.
+D. ambiente otimizado para armazenar registros diários de operações sobre dados, priorizando transações e operações frequentes de atualização.
+E. repositório projetado para garantir a integridade referencial, reduzindo a necessidade de redundância de dados.

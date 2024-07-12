@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+Texto associado À luz das características de funcionamento do SQL, o número mínimo de vezes que esse comando deve ser acionado para restaurar a instância original, é 
+
+Alternativas:
+A. 1.
+B. 2.
+C. 3.
+D. 4.
+E. 5.

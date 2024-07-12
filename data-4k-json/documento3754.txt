@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+São algoritmos de classificação por trocas apenas os métodos
+
+Alternativas:
+A. SelectionSort e InsertionSort.
+B. MergeSort e BubbleSort.
+C. QuickSort e SelectionSort.
+D. BubbleSort e QuickSort.
+E. InsertionSort e MergeSort.

@@ -1,0 +1,9 @@
+Banco de Dados Recuperação de falhas
+
+O processo de recuperação de falhas em um ambiente de banco de dados objetiva preservar a consistência das informações após a ocorrência de uma falha. Para que este processo seja executado com integridade, é necessário que, no momento da recuperação dos efeitos das transações, as propriedades ACID sejam satisfeitas. Trata-se do significado correto da sigla ACID:
+
+Alternativas:
+A. Agregação; Correção; Integridade; e, Desempenho.
+B. Atomicidade; Correção; Isolamento; e, Durabilidade.
+C. Agregação; Consistência; Isolamento; e, Desempenho.
+D. Atomicidade; Consistência; Integridade; e, Durabilidade.

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Vetores
+
+Questão anulada Sobre vetores e matrizes é incorreto afirmar que: 
+
+Alternativas:
+A. Vetores são utilizados quando se necessita de apenas um índice para identificar seus elementos.
+B. Matrizes são utilizadas quando se necessita de mais de um índice para identificar seus elementos.
+C. Uma matriz de x linhas e y colunas contêm (x * y) posições onde podem ser armazenados dados.
+D. Em um vetor, os dados são homogêneos e têm o acesso de forma aleatória através de seus índices.
+E. O valor contido em uma posição específica de uma matriz pode ser obtido diretamente através do seu único índice.

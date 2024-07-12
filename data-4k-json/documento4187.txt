@@ -1,0 +1,9 @@
+Engenharia de Software Desenvolvimento de Software
+
+Qual classe NÃO pertence ao FastAPI?
+
+Alternativas:
+A. APIRouting
+B. APIRouter
+C. APIRoute
+D. APIWebSocketRoute

@@ -1,0 +1,10 @@
+Segurança da Informação Controles de segurança
+
+Considere as afirmações abaixo e, em seguida, assinale a alternativa que indica quais são as verdadeiras.   I. Um sistema de detecção de intrusão passivo é projetado para detectar ameaças e informar ao administrador da rede sobre a atividade maliciosa detectada.   II. O sistema de prevenção de intrusão representa o comportamento de um sistema de detecção de intrusão ativo.   III. O sistema de detecção de intrusão é projetado com o objetivo de bloquear automaticamente a atividade maliciosa, seja por configuração de firewalls e comutadores ou outras técnicas, como encerramento de conexão via envio de pacotes reset.
+
+Alternativas:
+A. Somente as afirmações I e II são verdadeiras.
+B. Somente as afirmações I e III são verdadeiras.
+C. Somente as afirmações II e III são verdadeiras.
+D. As afirmações I, II e III são verdadeiras.
+E. As afirmações I, II e III não são verdadeiras.

@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
+
+Texto associado Em uma estrutura de dados do tipo pilha, o único elemento que pode ser removido é o que está na base.  
+
+Alternativas:
+A. Certo
+B. Errado

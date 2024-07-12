@@ -1,0 +1,10 @@
+Banco de Dados Formas normais
+
+A normalização consiste em um processo de refinamento do esquema de banco de dados que busca eliminar possíveis redundâncias de dados entre as entidades. Avalie como verdadeiras ou falsas as seguintes afirmações: I. A 1FN define que a relação de atributos não deve possuir valores de atributos que sejam multivalorados ou compostos. II. A 1FN cumpre com os requisitos da 2FN. III. A 3FN cumpre com os requisitos da 1FN. IV. A 3FN requer que uma entidade não possua nenhum atributo dependente de outro que não faça parte da chave primária (dependência transitiva). São verdadeiras somente as seguintes afirmativas: 
+
+Alternativas:
+A. Apenas I, III e IV.
+B. Apenas I, II e IV.
+C. Apenas I e II.
+D. Apenas III e IV.
+E. Apenas I e IV.

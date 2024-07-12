@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Recursividade
+
+A recursividade na programação de computadores envolve a definição de uma função que
+
+Alternativas:
+A. apresenta outra função como resultado.
+B. aponta para um objeto.
+C. aponta para uma variável.
+D. chama uma outra função.
+E. pode chamar a si mesma.

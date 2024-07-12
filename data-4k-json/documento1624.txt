@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Acerca de estruturas de dados, assinale a alternativa correta.
+
+Alternativas:
+A. A estrutura denominada Pilha é considerada do tipo FIFO (first in, first out); o primeiro elemento inserido será o primeiro elemento a ser removido.
+B. A estrutura denominada Fila é considerada do tipo FILO (first in, last out); o primeiro elemento a ser inserido será o último elemento a ser removido.
+C. A estrutura denominada lista simplesmente encadeada não ordenada armazena um ou vários dados em cada elemento, e tem um ponteiro apontado para o último elemento que permite o encadeamento e a estrutura linear.
+D. A estrutura denominada árvore é um conjunto finito de elementos, onde cada elemento é denominado nó, e o primeiro nó é conhecido como raiz da árvore.
+E. A estrutura denominada árvore AVL é uma árvore binária não balanceada, em que cada nó representa uma diferença de altura entre as subárvores direita e esquerda de 1, 2 ou 3 nós.

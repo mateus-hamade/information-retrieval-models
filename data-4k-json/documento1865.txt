@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Texto associado A questão baseia-se nas Figuras 2(a) e 2(b). A Figura 2(a) mostra um algoritmo elaborado na ferramenta VisuAlg 2.0. A Figura 2(b) mostra uma sequência de números que poderão ser utilizados pelo algoritmo da Figura 2(a). Por exemplo, se o algoritmo necessitar apenas de um número, será utilizado o 15, caso necessite de um segundo número, será empregado o 8, e assim sucessivamente, da esquerda para a direita, na medida do necessário, até a conclusão da execução desse algoritmo.   Figura 2(a) - Algoritmo     O algoritmo da Figura 2(a) será executado utilizando-se os dados da Figura 2(b), na medida do necessário, da esquerda para a direita. Ao final da execução de tal algoritmo, pode-se afirmar que será exibida a seguinte sequência de caracteres:
+
+Alternativas:
+A. ZZYX.
+B. XYXZ.
+C. ZYXX.
+D. XZYY.
+E. XYZZ.

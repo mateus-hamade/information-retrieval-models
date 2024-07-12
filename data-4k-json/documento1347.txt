@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
+
+Define-se que uma função é contínua em um número k se satisfaz as seguintes condições: C1: a função tem imagem definida no número k. C2: o limite da função no número k existe. C3: o valor da imagem e o valor do limite no número k são iguais. Se uma das condições não for verificada, diz-se que a função é descontínua no número k. Assinale a alternativa que apresenta a estrutura INCORRETA.
+
+Alternativas:
+A. SE não (C1 e C2 e C3), ENTÃO a função é descontínua no número k.
+B. SE (C1 e C2 e C3), ENTÃO a função é contínua no número k.
+C. SE não (C1 ou C2 ou C3), ENTÃO a função é contínua no número k.
+D. SE (não C1 ou não C2 ou não C3), ENTÃO a função é descontínua no número k.

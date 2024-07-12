@@ -1,0 +1,10 @@
+Banco de Dados Concorrência em Banco de Dados
+
+Quando um banco de dados é utilizado por mais de um usuário, tem que administrar o(a) _________________ entre as informações que estão sendo acessadas pelos usuários. Isso ocorre quando, em um banco de dados, usuários distintos tentam acessar a mesma informação e então é feito um(a) _________________ entre essas transações.  Assinale a alternativa que preenche, correta e respectivamente, as lacunas do trecho acima. 
+
+Alternativas:
+A. processo de serialização – isolamento
+B. controle de concorrência – controle
+C. propriedade de não interferência – execução
+D. rol de operações executadas – gerenciamento
+E. método ACID – login

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação , Estrutura de Dados ( assuntos)
+
+O Quicksort é um dos métodos de ordenação mais eficientes disponíveis e a técnica de busca por espalhamento ou hashing é muito utilizada em diversas aplicações. Em relação a estes métodos é correto afirmar:
+
+Alternativas:
+A. O método Quicksort é, essencialmente, uma aplicação do princípio “dividir para conquistar”. Para a ordenação, inicialmente o vetor é dividido em uma sublista da direita e uma da esquerda, de modo que todo elemento da sublista da esquerda seja menor que o da direita. Em seguida, ordenam-se, pelo mesmo processo, as duas sublistas de forma recursiva.
+B. Para o cálculo da complexidade do Quicksort, leva-se em consideração o número de vezes que n (número de elementos do vetor) pode ser dividido por 10 que é O(log10n), e em cada partição são feitas O(n) comparações.
+C. No Quicksort, o pivô é responsável pelo número de partições em que o vetor é dividido. Como o pivô não pode ser um elemento que esteja repetido no vetor, o Quicksort não funciona quando há elementos repetidos.
+D. Espalhamento ou hashing é o processo de transformação de uma chave em um endereço. O tempo gasto com buscas em uma tabela de espalhamento depende do tamanho da tabela, e aí reside sua grande vantagem: devem sempre ser usadas tabelas pequenas.
+E. O índice gerado pela função hash é chamado endereço efetivo e o endereço verdadeiro do registro é chamado endereço primário. Quando duas ou mais chaves possuem o mesmo endereço efetivo, dizemos que houve dispersão, e essas chaves são chamadas de homônimas.

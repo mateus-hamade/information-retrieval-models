@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados Relacionais
+
+Qual o nome da propriedade de uma transação, no contexto de sistemas gerenciadores de bancos de dados relacionais e de bancos de dados relacionais, que define que uma transação deve ser executada por completo ou não ser executada?
+
+Alternativas:
+A. Isolamento
+B. Persistência
+C. Completude
+D. Atomicidade
+E. Consistência

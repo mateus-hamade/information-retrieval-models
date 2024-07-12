@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Em lógica de programação, o significado de um operador, ou seja, a operação que realiza e o tipo de resultado dependem dos tipos de seus operandos. Assim, é correto afirmar que os operadores se classificam em:
+
+Alternativas:
+A. maior ou menor que a função lógica.
+B. verdadeiro ou falso.
+C. inteiro, float ou string.
+D. unitários (“unários”), binários ou ternários.
+E. caracteres especiais, acentuação e pontuação.

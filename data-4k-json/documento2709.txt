@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+A estrutura de dados apropriada para armazenar uma sequência de requisições HTTP, que chegam à um servidor Web e que devem ser processadas de forma sequencial, é a:
+
+Alternativas:
+A. pilha;
+B. fila;
+C. árvore de difusão;
+D. tabela de dispersão;
+E. árvore B.

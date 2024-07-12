@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Autômatos
+
+Dado o autômato Finito abaixo, assinale a alternativa onde a expressão regular (ER) o representa:  
+
+Alternativas:
+A. a*b(cb)a*.
+B. aba(cb).
+C. a*b(cb)*a.
+D. a*b*c*b*a*.

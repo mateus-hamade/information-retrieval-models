@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Considere a seguinte árvore de pesquisa binária:               Ao executarmos o procedimento de remoção do nó 11, na nova árvore binária de busca, teremos como filhos do nó 20 os nós
+
+Alternativas:
+A. 2 e 17
+B. 2 e 21
+C. 11 e 21
+D. 14 e 21
+E. 17 e 21

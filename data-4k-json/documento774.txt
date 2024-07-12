@@ -1,0 +1,10 @@
+Banco de Dados SGBD - Sistema de Gerenciamento de Banco de Dados
+
+Qual é a diferença entre concorrência pessimista e otimista em Sistemas de Gerenciamento de Bancos de Dados (SGBD)?
+
+Alternativas:
+A. A concorrência pessimista utiliza bloqueios para evitar conflitos entre transações, enquanto a concorrência otimista verifica conflitos após a conclusão da transação.
+B. A concorrência pessimista verifica conflitos após a conclusão da transação, enquanto a concorrência otimista utiliza bloqueios para evitar conflitos entre transações.
+C. A concorrência pessimista é mais adequada para sistemas com baixo volume de transações, enquanto a concorrência otimista é mais adequada para sistemas com alto volume de transações.
+D. A concorrência pessimista é mais rápida que a concorrência otimista em sistemas de alto volume de transações.
+E. A concorrência pessimista e otimista são termos sinônimos em SGBD.

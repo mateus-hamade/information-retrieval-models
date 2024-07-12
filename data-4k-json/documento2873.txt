@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Analise a função a seguir, descrita em pseudocódigo.   O comando print f(10) exibe
+
+Alternativas:
+A. 0.
+B. 1.
+C. 80.
+D. 1920.
+E. 3840.

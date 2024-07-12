@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+A expressão regular a|b* representa o conjunto:
+
+Alternativas:
+A. {a, b, bb, bbb, ...}.
+B. {ab, abb, abbb, ...}.
+C. {ε, a, b, bb, bbb, ...}.
+D. {ba, bba, bbba, ...}.
+E. {aba, abba, abbba, ...}.

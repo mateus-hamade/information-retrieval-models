@@ -1,0 +1,10 @@
+Banco de Dados Arquitetura de Banco de Dados
+
+O processamento em batchtem grande eficiência; é altamente escalável, de baixo custo e processa dados em repouso. Assinale, a seguir, os três componentes essenciais de uma arquitetura em batch (Hadoop).
+
+Alternativas:
+A. Kafka; Spark; e, Flink.
+B. YARN; Spark; e, Kafka.
+C. HDFS; Kafka; e, Akka Streams.
+D. Flink; MapReduce; e, Akka Streams.
+E. HDFS; MapReduce e/ou Spark; e, YARN.

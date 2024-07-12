@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
+
+Utilize o método mestre para resolver recorrências das equações abaixo.     T1 (n) = 9T1 (n/3) + n  T2 (n) = T2 (2n/3) + 1     As ordens de complexidade correspondentes são  
+
+Alternativas:
+A. T1 (n) = θ(n2 ). T2 (n) = θ(n2 ).
+B. T2 (n) = θ(n lg n).
+C. T2 (n) = θ(lg n)
+D. T1 (n) = θ(n lg n).
+E. T2 (n) = θ(n).

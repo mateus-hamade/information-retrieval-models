@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+Texto associado  O indicador “Despesas com Educação” também foi medido em diversos municípios do estado do Rio Grande do Sul e as seguintes atividades deverão ser realizadas com base nestes dados:  I. Unir aos dados ordenados dos anos de 2008 a 2012, os dados já ordenados dos anos de 2000 a 2011, criando um único novo vetor ordenado.  II. Construir uma estrutura de dados que permita inserir o indicador de 2012 relativo às “Despesas com Educação” e os nomes de todos os municípios do Estado. A estrutura deve permitir realizar uma consulta eficiente pelo nome do município para obter o valor do indicador e também mostrar os nomes dos municípios em ordem alfabética junto com seu indicador.     Para as tarefas I e II, optou-se, de forma correta e mais adequada, por utilizar 
+
+Alternativas:
+A. o método de ordenação Merge Sort de 2 vetores para a tarefa I e uma árvore binária de pesquisa de altura mínima para a tarefa II.
+B. um arquivo sequencial para armazenar todos os dados e um vetor de registros para receber os dados lidos do arquivo para a tarefa I e uma árvore-B de ordem 1 para a tarefa II.
+C. o método hashing fechado (ou de endereçamento aberto) para a tarefa I e uma árvore AVL de ordem 4 para a tarefa II.
+D. o método de ordenação Quicksort de 2 vetores para a tarefa I e uma fila encadeada ordenada para a tarefa II.
+E. o método de ordenação Merge Sort de 2 vetores para a tarefa I e uma tabela hash cuja chave seja obtida pelo método de divisão sobre o indicador, para a tarefa II.

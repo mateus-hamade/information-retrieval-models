@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+A respeito dos conceitos de função e avaliação de expressões, julgue o item subsequente.      Considere o seguinte algoritmo.     função real arredonda (real valor)         valor = inteiro ((valor)/8.0)*8         retorne valor     real x  x = (leia(“Digite um valor: “))  escreva (arredonda(x))     A função arredonda(), presente no algoritmo precedente, retorna o arredondamento de um número de entrada para um valor múltiplo de 8.  
+
+Alternativas:
+A. Certo
+B. Errado

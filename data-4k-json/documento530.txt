@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+A função CAST( ) da linguagem SQL, especificamente,
+
+Alternativas:
+A. converte operações lógicas dentro do banco de dados em linguagem SQL.
+B. converte uma string de dados em uma string numérica para efetuar operações lógicas.
+C. transforma tipos de dados definidos como string para outros do tipo inteiros (integer).
+D. converte os tipos de caracteres UNICODE para Western-1.
+E. converte um valor de um tipo caractere de dados para outro tipo de dados.

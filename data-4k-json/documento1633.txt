@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
+
+Uma tecnologia de lógica de programação de software consiste no uso de poucas soluções de lógica para a solução de qualquer problema como: Sequence; If then else, do while, do until... Essa tecnologia surgiu com o nome de:
+
+Alternativas:
+A. projeto conceitual.
+B. método das estruturas lógicas.
+C. método lógico.
+D. desenho lógico.
+E. programação estruturada.

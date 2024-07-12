@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+Sobre subconsultas não relacionadas em SQL, é correto afirmar que: 
+
+Alternativas:
+A. A consulta principal (externa) é executada antes da subconsulta (interna).
+B. A subconsulta pode ser incluída nas Instruções WHERE, HAVING e FROM.
+C. Subconsulta de várias linhas retornam mais de uma coluna da instrução SELECT interna.
+D. A condição de uma subconsulta envolve uma operação de igualdade entre uma coluna e o resultado que será retornado pela subconsulta.
+E. Subconsulta de várias colunas retornam mais de uma linha da instrução SELECT interna.

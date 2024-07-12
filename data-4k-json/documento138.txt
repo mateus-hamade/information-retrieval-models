@@ -1,0 +1,9 @@
+Banco de Dados Segurança
+
+No âmbito da segurança física de banco de dados, a política de controle na qual um sujeito poderá ter acesso a determinado objeto se seu nível de classificação for igual ou superior ao do objeto e se pertencer a, pelo menos, uma categoria a que o objeto também pertença é denominada política 
+
+Alternativas:
+A. discricionária ou compulsória.
+B. compulsória ou mandatária.
+C. discricionária ou provisória.
+D. mandatária ou provisória.

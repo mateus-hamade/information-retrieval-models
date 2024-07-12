@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
+
+Texto associado A principal diferença entre o while e o do é que o teste condicional, no caso do while, é feito após executar o código interno ao loop. Já no loop do, o corpo do loop é executado várias vezes, no fim do loop. 
+
+Alternativas:
+A. Certo
+B. Errado

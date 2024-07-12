@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Texto associado A questão baseia-se na Figura 1, que mostra um algoritmo elaborado na ferramenta VisuAlg 2.0.      Na medida em que o algoritmo da Figura 1 for sendo executado, serão fornecidos, sequencialmente, os seguintes números inteiros, como entrada de dados: "3", "6" e "7". Portanto, ao final da execução desse algoritmo, pode-se afirmar que será(ão) exibido(s) qual(is) caractere(s)?
+
+Alternativas:
+A. AB.
+B. AC.
+C. AD.
+D. AE.
+E. E.

@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados Relacionais
+
+Analise o esquema relacional a seguir.     create table X1(   A1 int not null primary key,   B1 int)  create table X2(   A2 int not null primary key,   B2 int)  create table X3(   A1 int not null unique,   A2 int,   B3 int,   foreign key(A1) references X1(A1),   foreign key(A2) references X2(A2)  )   Sobre esse esquema, analise as afirmativas a seguir. I. Cada elemento de X1 pode estar relacionado, via X3, a zero, um ou mais elementos de X2. II. Cada elemento de X1 pode estar relacionado a zero, um ou mais elementos de X3. III. Cada elemento de X2 pode estar relacionado a zero ou apenas um elemento de X3.  Está correto somente o que se afirma em: 
+
+Alternativas:
+A. I;
+B. II;
+C. III;
+D. I e II;
+E. II e III.

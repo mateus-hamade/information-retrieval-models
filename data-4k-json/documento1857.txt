@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Recursividade
+
+A respeito da construção de algoritmos, julgue o item subseqüente.  O algoritmo descrito a seguir calcula corretamente o fatorial de um número, lido pelo teclado, por meio de método de recursividade.       
+
+Alternativas:
+A. Certo
+B. Errado

@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+Sobre a teoria da informação, julgue o item que se segue.  Embora não haja conceitos únicos para dados e informação, é possível afirmar que os dados são matéria-prima para a informação.
+
+Alternativas:
+A. Certo
+B. Errado

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+NÃO se trata de um método de ordenação (algoritmo): 
+
+Alternativas:
+A. inserção direta.
+B. seleção direta.
+C. inserção por meio de incrementos decrescentes.
+D. direta em cadeias.
+E. particionamento.

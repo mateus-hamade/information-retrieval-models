@@ -1,0 +1,9 @@
+Banco de Dados SQL
+
+Um usuário técnico de um ambiente com Sistema Gerenciador de Banco de Dados, baseado no SQL, deseja remover todos os registros de uma tabela, mas mantendo a estrutura da mesma. Para isso, ele vai usar o comando da DDL do SQL conhecido como: 
+
+Alternativas:
+A. DROP
+B. ALTER
+C. DELETE
+D. TRUNCATE

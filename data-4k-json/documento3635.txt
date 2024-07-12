@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Uma proposição (uso em programação lógica) pode ser observada como uma declaração lógica que pode ou não ser verdadeira. Ela consiste em objetos e nas suas interrelações. A lógica formal foi desenvolvida para fornecer um método de descrição de proposições com o objetivo de permitir que estas, formalmente declaradas, sejam 
+
+Alternativas:
+A. quantificadas.
+B. verificadas quanto à validade.
+C. analisadas por sua qualidade.
+D. classificadas por sua complexidade.
+E. escritas sempre em hexadecimal.

@@ -1,0 +1,9 @@
+Banco de Dados Banco de Dados Orientados a Objetos
+
+Sobre os conceitos de modelagem de dados orientada a objetos, analise as proposições abaixo.   I.   A herança serve para controlar o acesso aos atributos e métodos de uma classe, acrescentando a ela novos atributos ou métodos, mas mantendo inalterada sua constituição original. II.  Os atributos são as características de um objeto e essas características também são conhecidas como variáveis ou campos. III. Polimorfismo é o princípio pelo qual duas ou mais classes derivadas de uma mesma superclasse podem invocar métodos que têm a mesma identificação, assinatura, mas comportamentos distintos, especializados para cada classe derivada, usando para tanto uma referência a um objeto do tipo da superclasse. IV. Instanciar um objeto é o mesmo que declarar os atributos de classes.   É correto o que se afirma, apenas, em
+
+Alternativas:
+A. I e III.
+B. I e IV.
+C. II e III.
+D. II e IV.

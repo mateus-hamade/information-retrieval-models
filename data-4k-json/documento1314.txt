@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Lógicas de Programação
+
+O raciocínio lógico leva a uma resposta que pode ser verdadeira ou falsa. Na construção de algoritmos para a solução de problemas computacionais, trabalha-se com esse tipo de raciocínio. A respeito desse assunto, julgue o item. O próximo número da sequência 12, 13, 15, 18, 22, 27, 33 é o número 49. 
+
+Alternativas:
+A. Certo
+B. Errado

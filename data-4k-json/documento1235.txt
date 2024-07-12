@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Julgue o item a seguir, relativo a algoritmos de linguagem de programação.     As funções predefinidas nas linguagens de programação devem ser modificadas pelo desenvolvedor do sistema, de forma a adaptá-las aos tipos de dados que se quer utilizar.  
+
+Alternativas:
+A. Certo
+B. Errado

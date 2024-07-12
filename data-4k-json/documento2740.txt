@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Observe o algoritmo abaixo.                                 Após a execução, esse algoritmo irá gerar os seguintes números:   
+
+Alternativas:
+A. 2 3 4 5 6 7
+B. 1 1 2 3 5 8
+C. 2 4 6 8 10 12
+D. 1 3 5 7 9 11
+E. 2 1 3 2 4 3

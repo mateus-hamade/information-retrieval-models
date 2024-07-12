@@ -1,0 +1,9 @@
+Engenharia de Software Processos de Software - Desenvolvimento Ágil , Scrum
+
+Durante a realização da Sprint Review no Scrum, o principal objetivo é:
+
+Alternativas:
+A. Apresentar e inspecionar as funcionalidades desenvolvidas durante a Sprint, obtendo feedback do Product Owner e stakeholders.
+B. Planejar as atividades para a próxima Sprint, estabelecendo metas de longo prazo para o projeto.
+C. Realizar uma revisão detalhada do código fonte para identificar possíveis melhorias técnicas.
+D. Analisar os relatórios de progresso e garantir a conformidade com os prazos estabelecidos.

@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Texto associado Considere que um analista, ao especificar um código que execute 10 vezes determinado comando x, escreva o seguinte pseudocódigo.  para i &rarr; 1 até 10 faça  comando X;  Nesse caso, é correto afirmar que o analista utilizou uma estrutura de repetição cuja execução realizará o propósito desejado corretamente.  
+
+Alternativas:
+A. Certo
+B. Errado

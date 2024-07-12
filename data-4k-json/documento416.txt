@@ -1,0 +1,10 @@
+Banco de Dados DW - Data Warehouse
+
+Qual é o processo principal envolvido na preparação dos dados para carregamento em um data warehouse?
+
+Alternativas:
+A. Realizar análises complexas nos dados brutos.
+B. Armazenar os dados sem nenhuma transformação.
+C. Carregar os dados diretamente dos sistemas transacionais.
+D. Extrair, transformar e carregar (ETL) os dados.
+E. Realizar backups dos dados em intervalos regulares.

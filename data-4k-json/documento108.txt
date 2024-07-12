@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+Texto associado Considerando as tabelas Competidor e Disputa, descritas anteriormente, analise o comando SQL abaixo. Excetuados os títulos, o número de linhas produzidas pela execução desse comando é:
+
+Alternativas:
+A. 0;
+B. 6;
+C. 12;
+D. 30;
+E. 36.

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Estrutura de Dados ( assuntos)
+
+Considere o seguinte algoritmo:     Para i de 7 até 4 Faça  aux <- v[i]  v[i] <- v[7 - i]  v[7 - i] <- aux  i <- i - 1  Fim_Para  max = maior v  v[2] <- v[0]  v[max - v[2]] <- v[max - v[1]]     Assinale a alternativa que possui o estado final do vetor v inicialmente definido com os elementos de 32 a 39. 
+
+Alternativas:
+A. 37, 38, 39, 36, 35, 34, 33, 32
+B. 38, 38, 39, 36, 35, 34, 33, 32
+C. 39, 38, 39, 36, 35, 34, 33, 32
+D. 39, 39, 39, 36, 35, 34, 33, 32
+E. 39, 38, 37, 36, 35, 34, 33, 32

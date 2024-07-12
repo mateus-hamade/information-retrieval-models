@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Na análise da profundidade média de um nó em uma árvore de pesquisa binária construída aleatoriamente com n nós, temos como resultado:   
+
+Alternativas:
+A. O (lg n)
+B. O (n lg n)
+C. 1 + (n lg n)
+D. 1 + O (lg n)
+E. 1 + O (lg n/(1+n))

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Considere que há 3 categorias para pagantes de pensões alimentícias: a primeira engloba os que pagam até 1 valor base (R$ 900.00), a segunda os que pagam de 2 até 4 valores base e a terceira os que pagam acima de 4 valores base. Um programador apresentou o trecho em pseudocódigo abaixo como solução para identificar os pagantes destas 3 categorias.        Um Técnico Programador, ao analisar o trecho acima, afirma corretamente que  
+
+Alternativas:
+A. não há erro de lógica nem de sintaxe.
+B. o comando escolha deve ser substituído por um conjunto de comandos condicionais (se) aninhados que trate os valores da variável valor (do tipo real) como solicitado.
+C. o comando escolha é o mais adequado para a solução, pois os valores das pensões são múltiplos de 900.00.
+D. embora haja erro de sintaxe no comando escolha, a lógica da solução atende de forma correta o que foi solicitado no problema.
+E. para que a lógica da solução fique correta, basta trocar o tipo da variável valor para inteiro e retirar os .00 dos valores de cada caso do comando escolha.

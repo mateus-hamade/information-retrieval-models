@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos
+
+Na reprodução utilizada em algoritmos genéticos, quando os descendentes recebem, em seu código, aspectos diferentes dos indivíduos mais evoluídos dentro das populações, o operador genético usado é denominado
+
+Alternativas:
+A. acasalamento.
+B. mutação.
+C. recombinação.
+D. evolução.
+E. hereditariedade.

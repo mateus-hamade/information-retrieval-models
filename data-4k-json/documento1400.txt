@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+No contexto da construção de compiladores para linguagens de programação, o uso da notação polonesa posfixa é comum quando é necessário representar expressões aritméticas, como a que segue. A*(B+C)/D-E A expressão correta na referida notação é: 
+
+Alternativas:
+A. A*BC*/D/E-
+B. A+BC*D/E-
+C. ABC+*D/E-
+D. ABC+D*/E-
+E. ABCD/*+E-

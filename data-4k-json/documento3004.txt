@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Busca
+
+Acerca da pesquisa e da classificação de dados, julgue os próximos itens.  A pesquisa binária, o mais simples dos métodos de pesquisa, consiste na comparação de um argumento com a chave de entrada localizada no meio da tabela, não sendo aplicável em tabelas ordenadas.
+
+Alternativas:
+A. Certo
+B. Errado

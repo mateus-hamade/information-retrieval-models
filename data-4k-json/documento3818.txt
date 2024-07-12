@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
+
+Observe o algoritmo em JAVA.  A complexidade de tempo desse algoritmo, no pior caso, em que n corresponde ao número de elementos do vetor v, é
+
+Alternativas:
+A. Θ(n).
+B. O (n log n).
+C. O (n2).
+D. Θ(n log n).
+E. Ω(n2 log n).

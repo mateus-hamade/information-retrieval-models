@@ -1,0 +1,10 @@
+Banco de Dados Arquitetura de Banco de Dados
+
+Segundo Coulouris, Dollimore e Kindberg (2011), sistemas distribuídos são compostos por uma rede de computadores interconectados, nos quais os recursos e tarefas são distribuídos entre os nós. Essa abordagem permite melhorar a escalabilidade, desempenho e confiabilidade das aplicações, além de promover a colaboração entre diferentes dispositivos. De acordo com o tema, assinale a alternativa correta. 
+
+Alternativas:
+A. Os sistemas distribuídos podem ser classificados em dois tipos principais: sistemas locais e sistemas remotos.
+B. Em um sistema distribuído, todos os nós devem estar fisicamente localizados no mesmo local para garantir uma comunicação eficiente.
+C. Os sistemas distribuídos são restritos a redes de área local (LAN) e não podem ser aplicados em ambientes de redes de longa distância (WAN).
+D. A arquitetura em camadas é uma abordagem comum em sistemas distribuídos, na qual as diferentes funcionalidades são divididas em camadas sobrepostas.
+E. Um sistema distribuído pode ser composto por um número fixo de nós, sem a possibilidade de inclusão ou remoção dinâmica de nós.

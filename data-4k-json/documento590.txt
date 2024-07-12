@@ -1,0 +1,9 @@
+Banco de Dados Banco de Dados
+
+Considere a seguinte relação e dependências funcionais.     Esquema_funcionario = (matricula, nome, rua, cep, cidade, pais)     matricula ➝ nome, rua, cep, cidade, pais  cep ➝ cidade, pais     A forma normal mais elevada na qual a relação acima se encontra é a 
+
+Alternativas:
+A. primeira forma normal.
+B. segunda forma normal.
+C. terceira forma normal.
+D. quarta forma normal.

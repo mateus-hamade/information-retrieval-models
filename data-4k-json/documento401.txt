@@ -1,0 +1,10 @@
+Banco de Dados MySQL
+
+Considere o seguinte procedimento (store procedure) e as tabelas contendo funcionários e seus dependentes, de um banco de dados em MySQL   Após a execução do procedimento: CALL Reajuste (@resposta), qual o valor da variável @resposta?   
+
+Alternativas:
+A. João
+B. Maria
+C. José
+D. Ana
+E. Carlos

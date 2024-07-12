@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados , Filas ( assuntos)
+
+Assinale a alternativa que apresenta a estrutura de dados mais adequada à pesquisa em memória.
+
+Alternativas:
+A. Árvores
+B. Filas
+C. Listas não lineares
+D. Pilhas

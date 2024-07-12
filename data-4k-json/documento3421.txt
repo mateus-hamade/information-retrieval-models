@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Considere as definições a seguir. • O nível do nó raiz de uma árvore é 1. • O nível de qualquer nó subsequente é igual ao nível do seu nó pai mais 1. • A profundidade de uma árvore é igual ao maior nível encontrado dentre todos os seus nós. Partindo-se das premissas acima, a menor e a maior quantidade de nós, respectivamente, que poderiam existir em uma árvore binária de profundidade 4 são  
+
+Alternativas:
+A. 3 e 15
+B. 4 e 15
+C. 3 e 16
+D. 4 e 16
+E. 5 e 16

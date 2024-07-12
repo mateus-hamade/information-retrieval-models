@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados
+
+A normalização de dados é o processo de analisar os esquemas de relações com base nas dependências funcionais de seus atributos e chaves primárias, envolvendo uma série de Formas Normais (FN). Observe o esquema da tabela “Pedido”, a seguir.     A tabela "Pedido" possui chave primária composta (ID_PEDIDO, ID_CLIENTE), atributos com valores atômicos e dependência parcial de coluna não chave (NOME_CLIENTE) com parte da chave primária (ID_CLIENTE). Com base nisso, “Pedido” está normalizada na FN:  
+
+Alternativas:
+A. 1FN;
+B. 2FN;
+C. 3FN;
+D. 4FN;
+E. 5FN.

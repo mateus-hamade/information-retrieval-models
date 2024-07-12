@@ -1,0 +1,9 @@
+Banco de Dados MySQL
+
+No MySQL, qual é a finalidade da engine de armazenamento InnoDB em relação à integridade transacional?
+
+Alternativas:
+A. Fornecer indexação avançada para consultas de leitura intensiva.
+B. Otimizar o armazenamento físico dos dados para melhorar o desempenho de consultas.
+C. Facilitar a replicação de dados entre servidores MySQL em um ambiente distribuído.
+D. Gerenciar transações ACID para garantir a integridade dos dados.

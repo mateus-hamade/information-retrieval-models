@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados , Filas
+
+Uma fila dupla que se trata de uma lista linear na qual os elementos podem ser inseridos ou removidos de qualquer extremo denomina-se 
+
+Alternativas:
+A. hashing.
+B. grafo.
+C. deque.
+D. lista aberta.
+E. lista fechada.

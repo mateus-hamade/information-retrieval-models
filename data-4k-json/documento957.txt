@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados
+
+Existem dois tipos de prevenção de deadlock quando se utiliza timestamp para controle de concorrência: ESPERAR-MORRER e FERIR-ESPERAR. Suponha que as transações T1, T2 e T3 tenham timestamps 5, 10 e 15, respectivamente. No esquema ESPERAR-MORRER, se T3 solicitar um item de dado mantido por T2, então _____ será desfeita. Já no esquema FERIR-ESPERAR, se T1 solicitar um item de dado mantido por T2, então o item de dado será liberado de _____, e _____ será desfeita. Se T3 solicitar um item mantido por T2, então _____ esperará. Assinale a alternativa que preenche, correta e respectivamente, as lacunas do trecho acima.  
+
+Alternativas:
+A. T3 – T2 – T2 – T3
+B. T1 – T2 – T3 – T1
+C. T2 – T3 – T3 – T2
+D. T3 – T1 – T1 – T3
+E. T1 – T3 – T1 – T2

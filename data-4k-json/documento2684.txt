@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Hashing
+
+Em processamento de dados, diversas técnicas são estudadas como forma de tornar mais eficazes os processos de indexação, organização e armazenamento de dados. Sobre as afirmações abaixo, assinale com V as verdadeiras e com F as falsas.  ( ) O hashing é uma metodologia de indexação de arquivos empregada por sistemas operacionais que possibilita o acesso sequencial aos dados.  ( ) A organização direta de arquivos também é conhecida como organização aleatória de arquivos e possibilita acessar diretamente um registro em disco, usando-se uma chave de registro.  ( ) Uma colisão acontece quando os discos deixam de funcionar ao executarem uma operação de gravação (escrita).  ( ) Dispositivo de armazenamento com acesso direto é indispensável à organização sequencial de arquivos, pois permite a criação de novos arquivos sequenciais, contendo tanto os registros atualizados quanto os não alterados.  ( ) A organização sequencial de arquivos determina que os registros sejam armazenados de acordo com um campo-chave. É exemplo de um campo-chave o CPF de um indivíduo.  Assinale a alternativa que contém a sequência CORRETA, de cima para baixo.  
+
+Alternativas:
+A. V, V, V, F, F.
+B. F, V, F, F, V.
+C. F, F, F, V, V.
+D. V, F, V, F, F.
+E. F, V, V, F, F.

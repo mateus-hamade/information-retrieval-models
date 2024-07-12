@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Texto associado Dado o programa: 1.INI; 2.MOV M1; 3.SE M1=015 IRP 4 SENAO SOM 1 IRP 5; 4.SOM M1; 5.IMP; 6.FIM;  (Dados da questão 48)  A lógica principal do programa apresentado na questão de número 48 representa uma estrutura de controle denominada estrutura
+
+Alternativas:
+A. sequence.
+B. de repetição do-until.
+C. de repetição do-while.
+D. de seleção if-then-else.
+E. de seleção case.

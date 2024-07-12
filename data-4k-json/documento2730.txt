@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
+
+O modelo "seleção de múltipla escolha" abaixo:    expressa as possibilidades de uma estrutura de controle "seleção" do tipo:    
+
+Alternativas:
+A. simples.
+B. composta.
+C. seqüencial.
+D. encadeada heterogênea.
+E. encadeada homogênea.

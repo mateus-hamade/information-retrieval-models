@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos
+
+Texto associado  Quando uma loja de e-commerce sugere um produto para o cliente com base em suas compras e/ou pesquisas recentes ou uma plataforma de streaming sugere um filme ou série com base no que o cliente comumente assiste, os algoritmos destes ambientes estão usando o conceito de aprendizado de máquina. Tipicamente, estes algoritmos são classificados como: 
+
+Alternativas:
+A. aprendizagem supervisionada (ou com supervisão).
+B. aprendizagem não supervisionada (ou sem supervisão).
+C. aprendizagem por reforço.
+D. aprendizagem aleatória.

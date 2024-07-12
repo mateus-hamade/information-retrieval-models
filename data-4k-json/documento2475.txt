@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Hashing
+
+Algoritmos de hash são bastante utilizados como elementos de garantia da segurança da informação. A propriedade da informação garantida pela utilização desses algoritmos é a:
+
+Alternativas:
+A. confidencialidade;
+B. disponibilidade;
+C. integridade;
+D. irretratabilidade;
+E. autenticidade.

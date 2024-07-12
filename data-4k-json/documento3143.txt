@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+Texto associado Entre os algoritmos de ordenação e pesquisa bubble sort, quicksort e heapsort, o quicksort é considerado o mais eficiente, pois se caracteriza como um algoritmo de dividir- para- conquistar, utilizando operações de particionamento.
+
+Alternativas:
+A. Certo
+B. Errado

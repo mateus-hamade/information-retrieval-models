@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Listas
+
+Em relação às estruturas de dados utilizadas em computadores, é correto afirmar que,
+
+Alternativas:
+A. em uma árvore binária, cada nó pode assumir apenas valores 0 ou 1.
+B. uma lista ligada é uma estrutura linear e dinâmica, composta por nós que apontam para o próximo elemento da lista (com exceção do último).
+C. na fila, os primeiros dados inseridos serão os últimos a serem removidos.
+D. na pilha, os últimos dados inseridos serão os últimos a serem removidos.
+E. em uma árvore, cada elemento tem apenas mais um elemento a ele associado.

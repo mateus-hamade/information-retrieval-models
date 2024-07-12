@@ -1,0 +1,9 @@
+Segurança da Informação Criptografia
+
+Qual a técnica de segurança da informação que envolve o cálculo de um hash criptográfico do conteúdo de um documento, a criptografia do hash resultante com uma chave privada e a anexação do hash criptografado ao documento para garantir sua integridade e autenticidade? 
+
+Alternativas:
+A. Chave simétrica.
+B. Assinatura digital.
+C. Certificado digital.
+D. Assinatura eletrônica.

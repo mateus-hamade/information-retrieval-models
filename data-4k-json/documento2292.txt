@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Filas
+
+A estrutura de dados ______ é uma lista linear em que todas as inserções são realizadas em um extremo da estrutura, e todas as retiradas e acessos são realizados no outro extremo da estrutura. Uma implementação por meio de arranjos é circular, delimitada pelos apontadores “Frente” e “Trás”. Para inserir um item, basta mover o apontador “Trás” uma posição no sentido horário; para retirar um item, basta mover o apontador ”Frente” uma posição no sentido horário. Assinale a alternativa que completa corretamente a lacuna do texto acima.
+
+Alternativas:
+A. tabela hash
+B. árvores B
+C. pilha
+D. árvore binária de pesquisa
+E. fila

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+A estrutura de dados que é organizada como árvore binária, mas que utiliza uma matriz de chaves, onde a posição da chave implicitamente realiza o papel dos ponteiros, é conhecida como
+
+Alternativas:
+A. árvore B.
+B. FIFO.
+C. heap.
+D. LIFO.
+E. árvore R.

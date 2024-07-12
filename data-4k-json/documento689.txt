@@ -1,0 +1,9 @@
+Banco de Dados SQL Server , SQL
+
+Assinale a função do SQL Server que deveria ser utilizada para se calcular o número de linhas em uma consulta SQL. 
+
+Alternativas:
+A. COUNT()
+B. SUM()
+C. CALC()
+D. CONT()

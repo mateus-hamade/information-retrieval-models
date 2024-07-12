@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Qual a complexidade de tempo assintótica para buscar um registro em uma árvore B+ com X chaves e altura Y? 
+
+Alternativas:
+A. O(log X)
+B. O(log Y)
+C. O(X)
+D. O(Y)
+E. O(X log Y)

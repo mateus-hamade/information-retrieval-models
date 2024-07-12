@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Busca
+
+A busca binária é conhecida também como busca logarítmica. Sobre a busca binária, assinale a alternativa INCORRETA.  
+
+Alternativas:
+A. Para um conjunto de 15 elementos, ocorreria, no mínimo, 1 comparação e, no máximo, 4 comparações.
+B. Quando comparada com a busca sequencial, a busca binária, há uma redução logarítmica dos elementos a serem pesquisados .
+C. Em uma sequência ordenada de forma crescente, caso o elemento procurado seja menor que o elemento do meio, continua-se a busca com o subconjunto da direita. Em caso contrário, com o subconjunto da esquerda.
+D. Considerando uma sequência qualquer, deve-ser dividir o conjunto ao meio e verificar se o elemento procurado é igual ao elemento central.
+E. Se o elemento procurado estiver entre os últimos ou não estiver no conjunto, a busca linear poderá ser mais lenta do que a busca binária.

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+O método mais simples para eliminar um registro de uma árvore de busca multidirecional é
+
+Alternativas:
+A. apagar o espaço de memória alocado ao registro.
+B. fazer o sucessor em ordem s, ou predecessor, ocupar o lugar do registro a ser eliminado.
+C. obter a sequencia linear das chaves seguintes e fazer a substituição do registro eliminado pelo nó pai.
+D. reter a chave na árvore e marcá-la, de alguma forma, como representando um registro eliminado.
+E. utilizar uma função recursiva de busca com a informação da localização do registro a ser eliminado, evitando sua leitura.

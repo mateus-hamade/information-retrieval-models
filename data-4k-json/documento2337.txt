@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
+
+Uma árvore binária completa de busca, isto é, uma árvore em que todos os níveis têm o máximo número de elementos, tem um total de N nós.     O número máximo de comparações necessárias para encontrar um elemento nessa árvore é 
+
+Alternativas:
+A. N
+B. N2
+C. log2 (N+1)
+D. (N+1)*log2 (N+1)

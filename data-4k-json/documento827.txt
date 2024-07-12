@@ -1,0 +1,10 @@
+Banco de Dados Oracle
+
+Considere o seguinte comando: CREATE SEQUENCE sequenciaquestao  START WITH 100  INCREMENT BY 2  NOCACHE  NOCYCLE; Analise as assertivas abaixo e assinale a alternativa correta. I. No ORACLE, se forem omitidas as cláusulas CACHE e NOCACHE na criação da SEQUENCE, o banco de dados irá fazer um CACHE de 20 sequencias por default. II. Quando uma transação gerou e utilizou valores de uma SEQUENCE e a transação for finalizada com ROOLBACK, os valores gerados para SEQUENCE também serão desfeitos e ela voltará ao valor que tinha antes. III. A primeira referência a sequenciaquestao.NEXTVAL retornará o valor 101.
+
+Alternativas:
+A. Todas estão corretas.
+B. Todas estão incorretas.
+C. Apenas I está correta.
+D. Apenas II está correta.
+E. Apenas III está correta.

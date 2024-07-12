@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Estruturas de pilhas, filas e árvores binárias são amplamente utilizadas para a construção de algoritmos e programas de computador. Acerca dessas estruturas, julgue o item subsecutivo.  Uma estrutura do tipo árvore é considerada binária se e somente se um conjunto infinito de elementos denominados nós existir. 
+
+Alternativas:
+A. Certo
+B. Errado

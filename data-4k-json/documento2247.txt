@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
+
+Texto associado  Tendo como referência o algoritmo precedente, julgue o próximo item.     O algoritmo em apreço é O(n), ou seja, um algoritmo de complexidade linear, porque realiza um total de 6n + 4 unidades de tempo.  
+
+Alternativas:
+A. Certo
+B. Errado

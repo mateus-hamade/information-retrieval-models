@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Texto associado A função Troca (x, y) faz com que o conteúdo das duas variáveis passadas como parâmetros seja trocado, isto é, ao retornar da função, o conteúdo que antes estava em x passa a estar em y, e o conteúdo antes em y encontra-se em x.  Ao final do programa, o conteúdo das variáveis m, n, p, nessa sequência, estará sempre em ordem
+
+Alternativas:
+A. não crescente.
+B. não decrescente.
+C. idêntica à que estava no início do programa.
+D. invertida em relação à que estava no início do programa.
+E. aleatória, mas diferente da que estava no início do programa.

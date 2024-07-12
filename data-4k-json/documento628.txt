@@ -1,0 +1,10 @@
+Banco de Dados Data Mining
+
+Quanto a Noções de Data Mining e Business Intelligence (BI), analise as assertivas abaixo e assinale a alternativa correta. I. Data Mining faz a varredura de uma pequena quantidade de dados de cada vez. II. Business Intelligence atua na parte física de infraestrutura. III. Data Mining também é conhecido como mineração de dados. IV. Business Intelligence passou a ser tratado como uma aplicação de estratégia integrada.
+
+Alternativas:
+A. Todas as assertivas estão corretas.
+B. Todas as assertivas estão incorretas.
+C. Apenas a assertiva I está correta.
+D. Apenas as assertivas I e II estão corretas.
+E. Apenas as assertivas III e IV estão corretas.

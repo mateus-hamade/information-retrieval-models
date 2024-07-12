@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Texto associado Com relação ao programa anterior, é correto afirmar que: 
+
+Alternativas:
+A. a linha 31, ao executar o programa, a saída será 8;
+B. a linha 31, ao executar o programa, a saída será 16;
+C. a linha 31, ao executar o programa, a saída será " 736";
+D. a linha 31, ao executar o programa, a saída será 10;
+E. não é possível acessar o campo s.b, pois ele é um campo privado.

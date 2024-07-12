@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Filas , Pilhas
+
+Questão anulada Com base em seu conhecimento sobre estruturas de dados, assinale a alternativa que preenche corretamente as lacunas do enunciado abaixo, na ordem em que aparecem.  Uma estrutura de dados do tipo ________ é uma coleção de objetos que são inseridos e retirados de acordo com o princípio de que o ________ que entra é o ________ que sai; enquanto a estrutura de dados do tipo ________ é uma coleção de objetos que são inseridos e removidos de acordo com o princípio de que o ________ que entra é o ________ que sai.
+
+Alternativas:
+A. pilha – último – primeiro – fila – último – último
+B. pilha – último – primeiro – fila – primeiro – primeiro
+C. fila – primeiro – último – pilha – último – primeiro
+D. fila – primeiro – primeiro – pilha – último – último
+E. pilha – primeiro – último – fila – último – último

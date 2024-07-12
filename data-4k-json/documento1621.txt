@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Listas
+
+Assinale a estrutura de dados caracterizada por um conjunto de dados dispostos por uma sequência de nós, onde cada nó também armazena um ponteiro que indica a posição do próximo elemento. 
+
+Alternativas:
+A. Fila.
+B. Pilha.
+C. Lista encadeada.
+D. Árvore balanceada.
+E. Vetor.

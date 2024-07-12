@@ -1,0 +1,10 @@
+Banco de Dados SGBD - Sistema de Gerenciamento de Banco de Dados
+
+Em um Sistema Gerenciador de Banco de Dados Relacional (SGBD-R), o otimizador de consultas é um componente que possui uma série de tarefas e de atividades cruciais para assegurar que as consultas sejam processadas de maneira eficiente. NÃO representa uma funcionalidade típica do otimizador de consultas 
+
+Alternativas:
+A. escolher o plano de execução mais eficiente para uma consulta, a partir de vários planos possíveis.
+B. escolher entre diferentes métodos de acesso a dados (por exemplo, varredura sequencial, uso de índice) para processar uma consulta.
+C. utilizar estatísticas sobre os dados armazenados para avaliar a seletividade de diferentes predicados em uma consulta.
+D. ser responsável por criar novas tabelas no banco de dados, com base nas consultas mais realizadas.
+E. avaliar frequentemente diferentes estratégias de junção para decidir a ordem em que as relações são acessadas e combinadas.

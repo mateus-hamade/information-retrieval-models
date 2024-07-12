@@ -1,0 +1,10 @@
+Banco de Dados SGBD - Sistema de Gerenciamento de Banco de Dados
+
+Em relação às linguagens de definição e manipulação de dados: Em um SGBD, em que a separação entre os níveis conceitual e interno são bem claras, é utilizada a linguagem ....I.... , para a especificação do esquema interno. Onde a separação entre os níveis interno e conceitual não é muito clara, o SGBD possui um compilador que permite a execução das declarações para identificar as descrições dos esquemas e para armazená-las no catálogo. Neste caso utiliza-se a ....II.... . No SGBD, cuja arquitetura utiliza os esquemas conceitual, interno e externo, é necessária a adoção da ....III.... . Preenchem correta e respectivamente as lacunas I, II e III:
+
+Alternativas:
+A. Data Definition Language – DDL; Vision Definition Language – VDL; Data Manipulation Language – DML.
+B. Storage Definition Language – SDL; Data Definition Language – DDL; Vision Definition Language – VDL.
+C. Data Manipulation Language – DML; Vision Definition Language – VDL; Storage Definition Language – SDL.
+D. Storage Definition Language – SDL; Vision Definition Language – VDL; Data Manipulation Language - DML.
+E. Data Definition Language – DDL; Data Manipulation Language – DML; Storage Definition Language – SDL.

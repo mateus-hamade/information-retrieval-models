@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados , Filas ( assuntos)
+
+Texto associado Entre alguns tipos de estrutura de dados, podem ser citados os vetores, as pilhas e as filas.
+
+Alternativas:
+A. Certo
+B. Errado

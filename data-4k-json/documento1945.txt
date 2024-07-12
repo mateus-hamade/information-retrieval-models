@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Em uma árvore binária completa:
+
+Alternativas:
+A. Cada nó possui zero ou dois filhos.
+B. Todo nó que possui alguma subárvore árvore vazia se localiza no último ou penúltimo nível da árvore.
+C. Todo nó que possui alguma subárvore árvore vazia se localiza no último nível da árvore.
+D. Todas as chaves da subárvore esquerda são maiores que a chave da raiz.
+E. Todas as chaves da subárvore direita são menores que a chave da raiz.

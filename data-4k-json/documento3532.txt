@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Recursividade
+
+Texto associado Tanto a recursividade direta quanto a indireta necessitam de uma condição de saída ou de encerramento.
+
+Alternativas:
+A. Certo
+B. Errado

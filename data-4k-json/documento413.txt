@@ -1,0 +1,9 @@
+Banco de Dados Banco de Dados
+
+Um Banco de Dados consiste em um conjunto de dados interrelacionados, agrupados internamente de acordo com o seu significado no mundo real. Acerca dos componentes que formam um BD, avalie as sentenças a seguir: I- Em um BD, os dados são valores que descrevem objetos e fatos do negócio e/ou problema trabalhado. II- Os índices de um BD são estruturas de dados que agilizam a consulta aos dados armazenados, realizadas pelos usuários e/ou sistemas. III- O catálogo de um BD armazena as informações sobre o esquema do banco de dados e seus objetos, além de informações estatísticas para a otimização de consultas aos dados.  Estão CORRETAS as sentenças:
+
+Alternativas:
+A. I e II.
+B. I e III.
+C. II e III.
+D. I, II e III.

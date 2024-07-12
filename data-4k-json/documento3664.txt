@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Considere o trecho do algoritmo (Pseudo-Código):    Em relação às estruturas básicas de controle, o trecho de algoritmo acima refere-se a estrutura  I. condicional simples. II. condicional composta. III. de repetição. IV. de decisão ou seleção.  É correto o que consta APENAS em
+
+Alternativas:
+A. II, III e IV.
+B. II e IV.
+C. I e III.
+D. II e III.
+E. I, III e IV.

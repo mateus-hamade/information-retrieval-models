@@ -1,0 +1,9 @@
+Banco de Dados Banco de Dados
+
+O Open Database Connectivity (ODBC) é uma tecnologia que permite 
+
+Alternativas:
+A. a conexão entre aplicações desenvolvidas em diferentes linguagens de programação a bancos de dados por meio de uma interface padrão.
+B. a eliminação da necessidade de converter comandos SQL para o formato específico do banco de dados.
+C. a execução de operações de leitura em bancos de dados, sem suporte a comandos de modificação.
+D. a utilização de um único driver para todos os tipos de banco de dados, independentemente da plataforma.

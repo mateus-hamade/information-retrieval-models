@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Considerando o teorema De Morgan de lógica proposicional:. Assinale qual das condições a seguir aplica esse teorema em linguagem pascal. 
+
+Alternativas:
+A. (not x) and y = (not y)
+B. not(x and y) = (not x) or (not y)
+C. not (x or y) = (not x) and (not y)
+D. (not x) and = (not x) or (not y)
+E. (not x) = (not y)

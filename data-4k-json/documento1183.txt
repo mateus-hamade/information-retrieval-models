@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos
+
+Com relação às técnicas de agrupamento, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.  ( ) Os algoritmos de agrupamento hierárquicos são divididos em dois grupos principais: aglomerativos e divisíveis. ( ) O algoritmo de agrupamento aglomerativo é uma abordagem bottom-up que começa com todos os dados em um único cluster; os clusters são divididos progressivamente até que cada dado esteja em seu próprio cluster individual. ( ) Os algoritmos de agrupamento divisíveis são uma abordagem top-down, na qual um único cluster é dividido em vários clusters à medida que avançamos na hierarquia.  As afirmativas são, respectivamente,
+
+Alternativas:
+A. V – V – V.
+B. V – F – V.
+C. F – V – V.
+D. V – F – F.

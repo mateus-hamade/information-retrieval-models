@@ -1,0 +1,10 @@
+Engenharia de Software Desenvolvimento de Software
+
+Texto associado Em relação aos princípios dos modelos ágeis de desenvolvimento de software, assinale a alternativa INCORRETA.
+
+Alternativas:
+A. Envolvimento do cliente: Os clientes devem estar intimamente envolvidos no processo de desenvolvimento. Seu papel é fornecer e priorizar novos requisitos do sistema e avaliar suas iterações.
+B. Entrega incremental: O software é desenvolvido em incrementos com o cliente, especificando os requisitos para serem incluídos em cada um.
+C. Pessoas, não processos: As habilidades da equipe de desenvolvimento devem ser reconhecidas e exploradas. Membros da equipe devem desenvolver suas próprias maneiras de trabalhar, sem processos prescritivos.
+D. Não aceitar mudanças: Deve-se considerar que os requisitos do sistema não vão mudar. Por isso, projete o sistema de maneira que não seja necessário efetuar mudanças.
+E. Manter a simplicidade: Deve-se focalizar a simplicidade, tanto do software a ser desenvolvido quanto do processo de desenvolvimento. Sempre que possível, indica-se trabalhar ativamente para eliminar a complexidade do sistema.

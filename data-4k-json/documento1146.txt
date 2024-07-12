@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos
+
+Considere o seguinte algoritmo abaixo feito de acordo com Diagrama de Chapin:     INÍCIO     OBTENHA X1, X2     RESP = Parte inteira de ((X1 * 2)/X2)         ESCREVA     "LESTE"   	   ESCREVA     "OESTE"   	         ESCREVA     "NORTE"         	         ESCREVA     "SUL''            FIM     Se X1 for igual a 4, e X2 for igual a 3, será escrita a palavra: 
+
+Alternativas:
+A. SUL
+B. LESTE
+C. OESTE
+D. NORTE
+E. SUL

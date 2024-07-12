@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Listas
+
+Em uma implementação de listas por meio de apontadores, cada item da lista é encadeado com o seguinte, mediante uma variável do tipo apontador. Sobre listas encadeadas, analise as assertivas e, em seguida, assinale a alternativa que apresenta as corretas.  I. Não é possível inserir e retirar elementos sem necessidade de deslocar os itens seguintes da lista.  II. A implementação de listas por meio de apontadores permite utilizar posições não contíguas de memória.  III. Uma das desvantagens deste tipo da implementação de listas, por meio de apontadores, é a utilização de memória extra para armazenar os apontadores.  IV. Em aplicações em que não existe previsão sobre o crescimento da lista, é conveniente utilizar listas encadeadas por apontadores, porque neste caso o tamanho máximo da lista não precisa ser definido a priori.  
+
+Alternativas:
+A. Apenas I, II e III.
+B. Apenas I, II e IV.
+C. Apenas II, III e IV.
+D. Apenas I e II.
+E. Apenas III e IV.

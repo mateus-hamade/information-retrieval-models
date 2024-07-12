@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Grafos
+
+No âmbito das máquinas de estados, um relacionamento entre dois estados, indicando que um objeto em um determinado estado realizará certas ações e entrará em outro estado, dependendo da ocorrência de algum evento e da satisfação de alguma condição, é chamado de
+
+Alternativas:
+A. transição.
+B. ativação.
+C. proteção.
+D. efeito.
+E. destino.

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Assinale a alternativa que apresenta o tipo de algoritmo que utiliza linguagem estruturada e cuja forma se assemelha à de um programa escrito na linguagem de programação Pascal; alguns autores o chamam de “português estruturado”, embora existam pequenas diferenças em sua estrutura e em sua simbologia. 
+
+Alternativas:
+A. diagrama de blocos
+B. diagrama de Chapin
+C. fluxograma
+D. descrição narrativa
+E. pseudocódigo

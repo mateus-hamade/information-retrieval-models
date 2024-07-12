@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Recursividade
+
+Considere uma variável de nome X que é passada para uma função que a recebe como sendo sua variável A. A função realiza uma alteração no conteúdo de sua variável A e essa alteração é refletida na variável X fora da função. Nesse caso, pode-se afirmar que houve uma
+
+Alternativas:
+A. herança.
+B. passagem de parâmetro por referência.
+C. recursividade.
+D. passagem de parâmetro por valor.
+E. renomeação indireta de variáveis.

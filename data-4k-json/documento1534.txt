@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Filas
+
+A estrutura de dados representada por uma lista linear em que todas as inserções são realizadas em um extremo da lista, e todas as retiradas e geralmente os acessos são realizados no outro extremo da lista é: 
+
+Alternativas:
+A. Pilha.
+B. Matriz.
+C. Fila.
+D. Árvore.

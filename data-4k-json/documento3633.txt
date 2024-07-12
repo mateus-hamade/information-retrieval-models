@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Texto associado Na chamada à função func(VET, X, Y), para que a função não execute infinitamente, é necessário que o valor de X seja menor que o valor de Y, qualquer que seja o vetor VET.
+
+Alternativas:
+A. Certo
+B. Errado

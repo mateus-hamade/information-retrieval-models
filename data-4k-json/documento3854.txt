@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Questão anulada  Para descobrir se um ano é bissexto (possui 366 dias), pode-se aplicar a seguinte regra: se o ano for divisível por 400, então o ano é bissexto. Além disso, se o ano não for divisível por 400 mas for divisível por 4 e, ao mesmo tempo, não for divisível por 100, então o ano é bissexto. Nos demais casos pode-se afirmar que o ano não é bissexto. Considerando as três definições a seguir, qual das alternativas representa uma expressão lógica que tem valor lógico verdadeiro somente quando o ano for bissexto?     Definição 1: o valor da expressão a rd b é o resto da divisão inteira de a por b.  Definição 2: o valor da expressão a eq b é verdadeiro quando o valor de a for igual ao valor de b e falso caso contrário.  Definição 3: os símbolos v, ^ e ~ representam, respectivamente, os operadores lógicos E, OU e NEGAÇÃO. 
+
+Alternativas:
+A. ((ano rd 400) eq 0) v (((ano rd 4) eq 0) ^ ~ ((ano rd 100) eq 0))
+B. ((ano rd 400) eq 0) v (((ano rd 4) eq 0) v ((ano rd 100) eq 0))
+C. ((ano rd 400) eq 0) v (((ano rd 100) eq 0) ^ ((ano rd 4) eq 0))
+D. ((ano rd 100) eq 0) v (((ano rd 4) eq 0) v ~ ((ano rd 400) eq 0))
+E. ((ano rd 100) eq 0) ^ (((ano rd 4) eq 0) ^ ~ ((ano rd 400) eq 0))

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+A primeira abstração introduzida, nos primórdios da computação, foi o uso de mnemônicos, em assembly. Assim, sobre linguagens de programação, é correto afirmar que, com o surgimento das linguagens de alto nível, a primeira abstração introduzida por essas linguagens foi o conceito de
+
+Alternativas:
+A. variáveis.
+B. structs.
+C. pilha.
+D. top-down.
+E. sprints.

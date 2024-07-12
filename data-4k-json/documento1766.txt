@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Fluxogramas
+
+Na computação é usada muita lógica. Além de conhecimento de linguagens de programação, é necessário conhecer expressões lógicas. Considere os lados de um triângulo como A, B e C. Analise as afirmações abaixo: Triângulo – figura geométrica fechada de três lados, em que cada um é menor que a soma dos outros dois. Triângulo equilátero – um triângulo com três lados iguais. Triângulo isósceles – um triângulo com dois lados iguais. Triângulo escaleno – um triângulo com todos os lados diferentes.  Assinale a expressão lógica que está ERRADA.
+
+Alternativas:
+A. Equilátero: (A = B) e (B = C).
+B. Escaleno: (A <> B) e (B <> C) e (A <> C).
+C. Isósceles: (A = B) ou (B = C) ou (A = C).
+D. Triângulo: (A < B + C) e (B < A + C) e (C > A + B).
+E. Equilátero: (C = A) e (A = B).

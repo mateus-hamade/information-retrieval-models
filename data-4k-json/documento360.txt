@@ -1,0 +1,10 @@
+Banco de Dados SGBD - Sistema de Gerenciamento de Banco de Dados
+
+Em um Sistema Gerenciador de Banco de Dados (SGBD) relacional, a gerência de bloqueios é crucial para manter a consistência e a integridade dos dados durante o acesso concorrente por várias transações. Existem diversos níveis e tipos de bloqueio, e eles estão associados ao propósito do bloqueio. A respeito desses diversos níveis e tipos de bloqueio, constata-se que o 
+
+Alternativas:
+A. bloqueio de linha impede o acesso a várias linhas de dados na tabela, e o bloqueio compartilhado impede leituras simultâneas.
+B. bloqueio de linha impede o acesso a uma única linha de dados na tabela, e o bloqueio compartilhado permite que várias transações leiam dados simultaneamente.
+C. bloqueio de tabela é utilizado para evitar leituras simultâneas de dados por várias transações, e o bloqueio compartilhado impede qualquer forma de leitura ou de escrita nos dados.
+D. bloqueio de tabela é aplicado em uma única linha, e o bloqueio exclusivo permite que várias transações leiam dados simultaneamente, evitando, porém, que elas façam uma atualização.
+E. bloqueio de página impede o acesso a uma única linha, e o bloqueio exclusivo permite leituras simultâneas por várias transações.

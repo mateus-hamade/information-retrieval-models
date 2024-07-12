@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Antes de se escrever um programa em uma linguagem de programação, uma prática recomendada é apresentar a lógica de programação usando uma pseudolinguagem. Considere o algoritmo em pseudolinguagem apresentado abaixo, em que o operador mod retorna o resto da divisão inteira.   Um Estagiário, ao analisar o algoritmo acima, conclui corretamente que  
+
+Alternativas:
+A. o operador lógico e está errado e deve ser substituído pelo operador lógico ou na instrução se.
+B. a lacuna I deve ser preenchida com a instrução imprima ("O ano é do século XX pois inicia-se com ", n).
+C. a lacuna I deve ser preenchida com a instrução imprima ("Os dois últimos dígitos do ano = ", n).
+D. se for fornecido 1950 para ano será impresso Ano inválido.
+E. o usuário pode digitar apenas valores de ano com 4 dígitos, positivos e menores ou iguais ao ano atual (2018).

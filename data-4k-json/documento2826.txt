@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Observe o algoritmo abaixo.     Após a execução, a variável S será impressa uma quantidade de vezes igual a:
+
+Alternativas:
+A. 8
+B. 6
+C. 4
+D. 2

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos
+
+Suponha que o seguinte algoritmo seja executado:     Algoritmo  ---declare D, K, NUMERO, SOMA numérico  ---leia NUMERO  ---SOMA ← NUMERO +1  ---K ← QUOCIENTE (NUMERO, 2)  ---D ← 2  ---repita  ----------se D> K  --------------então interrompa  ----------fim se  ----------se RESTO (NUMERO, D) = 0  --------------então SOMA ← SOMA + D  ----------fim se  ----------D ← D + 1  ---fim repita  ---escreva SOMA  fim algoritmo     Qual valor será escrito se for lido o valor 10? 
+
+Alternativas:
+A. 11
+B. 13
+C. 16
+D. 18
+E. 25

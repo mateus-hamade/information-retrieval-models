@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos
+
+Algoritmos de ordenação são técnicas fundamentais na área da computação e são utilizados para organizar e ordenar coleções de dados, como listas ou arrays, de acordo com critérios específicos. Esses algoritmos têm uma ampla gama de aplicações em sistemas computacionais e são essenciais para a eficiência e eficácia de processos, nas mais diversas áreas do mundo do trabalho. Considere o algoritmo de ordenação ilustrado no pseudocódigo abaixo:     função sort(lista, esquerda, direita)  se esquerda < direita  pivo_index = particionar(lista, esquerda, direita)  sort(lista, esquerda, pivo _index - 1)  sort(lista, pivo_index + 1, direita)     função particionar(lista, esquerda, direita)  pivo = lista[direita] # escolhendo o pivo como último  elemento  i = esquerda - 1  para j de esquerda até direita -1  se lista[j] <= pivo  i=i+ 1  trocar(lista[i], lista[j])  trocar(lista[i + 1 ], lista[direita]) # colocando o pivo em sua  posição correta  retornar i + 1     # Inicializando o algoritmo com os índices apropriados  lista= [valores a serem ordenados]  sort(lista, 0, comprimento(lista)-1)     Qual das alternativas abaixo corresponde ao algoritmo em questão? 
+
+Alternativas:
+A. Heap Sort.
+B. Bubble Sort.
+C. Merge Sort.
+D. Counting Sort.
+E. Quick Sort.

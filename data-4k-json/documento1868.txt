@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Grafos
+
+A respeito de lógica, estrutura e linguagem de programação, julgue o item seguinte.     Na estrutura do tipo grafo, cada elemento indica o próximo elemento, seja aquele que o antecede ou aquele que é seu sucessor, e cada elemento está associado a somente um antecessor e a vários sucessores.  
+
+Alternativas:
+A. Certo
+B. Errado

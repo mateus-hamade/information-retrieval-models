@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Recursividade
+
+Um problema de algoritmo em uma estrutura recursiva demostra que:
+
+Alternativas:
+A. Cada instância do problema contém uma instância menor do mesmo problema.
+B. Toda instância do problema contém uma instância maior do mesmo problema.
+C. Cada instância do problema contém uma instância maior do mesmo problema.
+D. Cada instância do problema contém uma instância maior de outro problema.

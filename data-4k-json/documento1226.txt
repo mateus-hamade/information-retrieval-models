@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Assinale a opção que apresenta a representação correta de instruções, em pseudocódigo tipado, para definir uma variável e modificar e imprimir seu conteúdo em uma saída.
+
+Alternativas:
+A. variavel = 0; variavel = 1 + 2; imprime(variavel);
+B. inteiro variavel = 0; imprime(inteiro);
+C. variavel = "1" + "2";
+D. inteiro variavel = "0";

@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Texto associado A travessia em pré-ordem em árvore binária inicialmente percorre a subárvore à esquerda (em pré-ordem), passa pela raiz e finaliza na subárvore à direita (também em pré-ordem).
+
+Alternativas:
+A. Certo
+B. Errado

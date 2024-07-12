@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Grafos
+
+Texto associado O grafo representado é um grafo
+
+Alternativas:
+A. conexo.
+B. fortemente conexo.
+C. não orientado.
+D. parcial.
+E. isolado.

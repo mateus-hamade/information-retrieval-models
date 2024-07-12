@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Qual é o máximo de tentativas que devem ser feitas para quebrar uma senha numérica de 4 algarismos?
+
+Alternativas:
+A. 24
+B. 210
+C. 42
+D. 102
+E. 104

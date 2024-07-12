@@ -1,0 +1,10 @@
+Banco de Dados BI (Business Intelligence)
+
+Considere o seguinte exemplo de relatório no Power BI: “No gráfico de dispersão, tem-se os campos CURSO, MATRÍCULA e RESULTADOS DE ARRECADAÇÃO R$ que permitem ao usuário determinar os cursos que proporcionaram maiores resultados correlacionados com a quantidade de matrículas”. Agora, o usuário deseja visualizar esse mesmo gráfico com os dados separados por ano e por cidade, e são campos que não constam no gráfico. Qual é o recurso do Power BI que permite realizar essa visualização?   
+
+Alternativas:
+A. Filtros.
+B. Expressões DAX.
+C. Gráfico de área empilhada.
+D. Drill Down e Drill up.
+E. Segmentação de dados.

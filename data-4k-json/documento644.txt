@@ -1,0 +1,10 @@
+Banco de Dados Administração de banco de dados
+
+Segundo Silva (2019), o gerenciamento de processos e recursos em sistemas distribuídos é de extrema importância para garantir o desempenho, a eficiência e a confiabilidade desses sistemas, que são compostos por diversos dispositivos interconectados. Um dos desafios nessa área é o escalonamento adequado de tarefas, considerando a alocação eficiente de recursos e a minimização do tempo de resposta. Sobre o tema, assinale a alternativa correta.
+
+Alternativas:
+A. A técnica de clustering em sistemas distribuídos refere-se à criação de grupos de nós idênticos que compartilham tarefas e recursos de forma colaborativa, aumentando a disponibilidade e a confiabilidade do sistema.
+B. O algoritmo de escalonamento First-Come, First-Served (FCFS) é amplamente utilizado em sistemas distribuídos para garantir a execução rápida de tarefas de alta prioridade.
+C. O conceito de balanceamento de carga em sistemas distribuídos refere-se à distribuição equilibrada do trabalho entre os nós do sistema, a fim de evitar sobrecarga e melhorar o desempenho global.
+D. A replicação de processos em sistemas distribuídos é uma técnica defasada, uma vez que cada nó é capaz de executar todas as tarefas de forma independente e autômata.
+E. A utilização de um servidor centralizado é a melhor abordagem para sistemas distribuídos pelo ponto de vista do gerenciamento de processos e recursos, pois simplifica a coordenação, evita gargalos de processos e reduz a complexidade do sistema.

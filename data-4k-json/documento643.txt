@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados , Banco de Dados Relacionais
+
+Analise a seguinte situação: "Em uma rede distribuída utilizada para compartilhamento de arquivos, existem três servidores: A, B e C. Esses servidores armazenam cópias idênticas de um arquivo. Para garantir a consistência dos dados, sempre que um cliente realiza uma alteração no arquivo em um dos servidores, essa alteração deve ser propagada para os demais servidores de forma síncrona. No entanto, há a possibilidade de que ocorra uma falha de rede durante a replicação". Nesse cenário, assinale a alternativa que apresenta a melhor e mais adequada ação para manter a consistência, o sincronismo e a replicação corretos nos servidores, além de exemplificar corretamente seu funcionamento.
+
+Alternativas:
+A. Implementar um mecanismo de replicação por consenso, em que os servidores A, B e C trocam mensagens e chegam a um acordo sobre a atualização do arquivo antes de propagar as alterações, mas tal alternativa não é adequada para manter totalmente a consistência, o sincronismo e a replicação corretos nos servidores.
+B. Utilizar uma abordagem de replicação baseada em transações, em que todas as alterações no arquivo são encapsuladas em transações distribuídas. Os servidores coordenam-se para garantir que todas as transações sejam sempre executadas de forma atômica consistente, isolada e durável (propriedades ACID), assegurando a correta replicação e sincronismo dos dados.
+C. Adotar um protocolo de sincronismo baseado em timestamp, em que as alterações são propagadas para os demais servidores considerando a ordem de chegada, evitando conflitos de versão.
+D. Adotar um modelo de consistência eventual forte, em que todas as réplicas são atualizadas em algum momento, mesmo que haja possíveis leituras inconsistentes.
+E. Utilizar uma técnica de replicação passiva, em que cada servidor aguarda a solicitação explícita de replicação vinda de outro servidor antes de atualizar seus dados.

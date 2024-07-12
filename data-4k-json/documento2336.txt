@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Vetores
+
+Texto associado Após a execução do programa, o maior valor presente em alguma posição do vetor V3 será:
+
+Alternativas:
+A. 10
+B. 12
+C. 14
+D. 16
+E. 18

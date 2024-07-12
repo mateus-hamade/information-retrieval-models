@@ -1,0 +1,10 @@
+Engenharia de Software Orientação a Objetos
+
+Considerando o paradigma da orientação a objetos, identifique os quatro pilares mestres que norteiam o fundamento da tecnologia.
+
+Alternativas:
+A. Classe, Abstração, Coesão e Encapsulamento.
+B. Variáveis, Classe, Objeto e Método.
+C. Agregação, Acoplamento, Colaboração e Especificação.
+D. Classe, Objeto, Atributo e Método
+E. Acoplamento, Coesão, Colaboração e Encapsulamento.

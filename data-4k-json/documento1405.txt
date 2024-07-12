@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Grafos
+
+Os grafos são uma estrutura de dados usada para representar um modelo em que existem relações entre os objetos de uma certa coleção. Descreve corretamente o conceito de grafo em estruturas de dados: 
+
+Alternativas:
+A. Representa objetos conectados por meio de arestas.
+B. Armazena elementos de forma organizada e sequencial.
+C. Permite o acesso direto aos elementos por meio de uma chave.
+D. Permite a ordenação dos elementos de acordo com um critério predefinido.

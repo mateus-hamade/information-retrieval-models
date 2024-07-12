@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+As coleções de dados podem ser classificadas em estruturas lineares e estruturas não lineares. Nesse contexto, é correto afirmar que
+
+Alternativas:
+A. a fila de prioridade é uma versão especial da fila, uma estrutura não linear. Quando se retira um elemento desta estrutura é selecionado aquele que tem maior prioridade, tendo portanto a ordenação do tipo FIFO.
+B. a lista é uma estrutura linear cuja implementação pode ser feita por meio de lista ligada em que as estruturas são estáticas ou através de um array para permitir que as estruturas sejam ligadas dinamicamente.
+C. na pilha, uma estrutura não linear, os elementos são colocados e retirados por um único lado da lista, ou seja, pelo topo, que é alterado sempre que um elemento é adicionado ou retirado da pilha. É um tipo de estrutura que tem a ordenação do tipo LILO.
+D. na tabela de Hash a chave é transformada num índice inteiro que é usado para acessar os dados. A chave pode ser um string, desde que haja uma função que transforme essa chave num inteiro. É uma estrutura linear.
+E. tendo uma estrutura não linear, um array dinâmico é criado usando técnicas de alocação e gestão dinâmica de memória. Pode ser redimensionado e é alocado durante o tempo de compilação.

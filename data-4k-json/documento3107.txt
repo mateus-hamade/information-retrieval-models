@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+A estrutura de dados conhecida como Árvore Binária de Pesquisa (ABP) encontra diversas aplicações em soluções práticas. Sobre esta estrutura é correto afirmar:
+
+Alternativas:
+A. Uma ABP é um conjunto finito de nós que possui um nó especial chamado raiz do qual partem os nós de duas árvores binárias distintas: a da esquerda e a da direita.
+B. Quando os elementos a serem inseridos na ABP estão em ordem crescente, resulta em uma ABP com altura mínima.
+C. Para se utilizar uma ABP como método de ordenação, basta fazer o caminhamento ou percurso em “em-ordem” e obter todos os elementos ordenados.
+D. Uma característica que confere à ABP grande agilidade na pesquisa e recuperação de elementos é que seus nós são sempre rearranjados de forma que a árvore resultante é sempre perfeitamente balanceada.
+E. ABP são um caso especial de listas encadeadas em que nenhum nó aponta para mais de 2 sucessores.

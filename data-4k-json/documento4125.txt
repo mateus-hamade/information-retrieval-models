@@ -1,0 +1,10 @@
+Segurança da Informação Ataques e ameaças
+
+A fraude na Internet que usa softwares maliciosos nos quais as vítimas recebem e-mails ou mensagens eletrônicas instantâneas pedindo para verificar ou confirmar uma conta junto a um banco ou provedor de serviços se denomina
+
+Alternativas:
+A. hoax.
+B. spam.
+C. trojan.
+D. phishing.
+E. ranzomware.

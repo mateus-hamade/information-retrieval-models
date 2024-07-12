@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Listas
+
+Em programação, mais especificamente na parte que trata de estrutura de dados, existem os conceitos de listas encadeadas. A imagem a seguir representa um tipo de lista encadead. Qual é o tipo dessa lista?  
+
+Alternativas:
+A. Lista de encadeamento reverso.
+B. Lista de encadeamento duplo.
+C. Pilha.
+D. Árvore Binária.
+E. Lista circular.

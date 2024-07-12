@@ -1,0 +1,10 @@
+Programação C++ (mais mais) , Linguagens de programação
+
+Assinale a opção que corresponde à linguagem de programação padrão do Arduino.
+
+Alternativas:
+A. Basic
+B. Java
+C. JavaScript
+D. Cobol
+E. C++

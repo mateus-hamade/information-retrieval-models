@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+Texto associado O heapsort é um algoritmo de ordenação em que a quantidade de elementos armazenada fora do arranjo de entrada é constante durante toda a sua execução. 
+
+Alternativas:
+A. Certo
+B. Errado

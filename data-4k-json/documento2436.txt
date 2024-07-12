@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Filas
+
+A lógica FIFO (first-in first-out) é utilizada na estrutura de dados do tipo
+
+Alternativas:
+A. pointer ou ponteiros.
+B. queue ou filas.
+C. stack ou pilhas.
+D. array ou matrizes.

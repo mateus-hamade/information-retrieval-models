@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+O comando SQL que está correto, sem erros de sintaxe, é: 
+
+Alternativas:
+A. SELECT Servicos.ServicoID, Clientes.NomeCliente FROM Servicos INNER JOIN Clientes ON Servicos.ClienteID = Clientes.ClienteID;
+B. SELECT COUNT(DISTINCT Cidade) FROM TABLE Clientes;
+C. SELECT * FROM Clientes WHERE Cidade IS LIKE 'Recife';
+D. UPDATE Clientes TO NomeCliente = 'Maria da Silva' AND City= 'Caruaru' WHERE ClienteID IS 11234;
+E. DELETE FROM Clientes WHERE NomeCliente=*.*;

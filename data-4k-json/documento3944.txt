@@ -1,0 +1,9 @@
+Segurança da Informação Backup em Segurança da Informação
+
+A realização de backups regulares é uma das ações recomendadas para evitar a perda de dados. O daemon que pode executar tarefas agendadas com comandos que realizam backups é o: 
+
+Alternativas:
+A. date
+B. cron
+C. uptime
+D. prompt

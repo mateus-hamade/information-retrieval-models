@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+Em relação às estruturas de dados, considere:  I. Um tipo abstrato de dados está desvinculado de sua implementação, ou seja, a sua definição visa a preocupação com o que ele faz e não como ele faz.  II. A lista duplamente encadeada além de saber o próximo nó, cada elemento também conhece o nó anterior a ele na lista, o que facilita a remoção de um elemento e a exibição dos elementos na ordem inversa.  III. A implementação dinâmica de pilhas possui as mesmas vantagens que as listas dinâmicas, ou seja, não é necessário saber a quantidade máxima de elementos que serão armazenados.  IV. Lista, pilha, fila e array são casos típicos de estruturas lineares, enquanto árvore, grafo e heap são casos típicos de estruturas não lineares.  É correto o que se afirma em: 
+
+Alternativas:
+A. I e IV, apenas.
+B. I, II e III, apenas.
+C. II, III e IV, apenas.
+D. I, II, III e IV.
+E. II e III, apenas.

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Dada a árvore binária de busca a seguir, assinale a alternativa que apresenta a sequência de inserção que a gera.                                                    
+
+Alternativas:
+A. 10, 5, 22, 25, 16, 12, 90.
+B. 10, 5, 22, 25, 16, 20, 12 .
+C. 10, 5, 12, 25, 16, 22, 90.
+D. 10, 12, 16, 90, 5, 22, 25.
+E. 10, 12, 22, 5, 25, 16, 90.

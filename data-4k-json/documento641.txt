@@ -1,0 +1,10 @@
+Banco de Dados Backup em Banco de Dados
+
+Assinale a alternativa INCORRETA sobre tolerância a falhas e segurança em sistemas distribuídos. 
+
+Alternativas:
+A. O backup de dados centralizado é uma técnica de tolerância a falhas que mantém cópias de segurança de todos os dados em um único local e pode ser aplicada nesse contexto.
+B. A diversidade de versões de software é uma técnica de tolerância a falhas que utiliza diferentes versões de programas para reduzir a probabilidade de falhas simultâneas e pode ser aplicada nesse contexto.
+C. O mecanismo de retransmissão é uma técnica de tolerância a falhas que reenvia mensagens ou pacotes de dados para compensar falhas de comunicação ou perda de pacotes e pode ser aplicada nesse contexto.
+D. O controle de concorrência é uma técnica de tolerância a falhas que coordena o acesso concorrente a recursos compartilhados e pode ser aplicada nesse contexto.
+E. A criptografia de dados ponta a ponta, embora não seja uma técnica exclusiva de tolerância a falhas, desempenha um papel importante na proteção de informações sensíveis em sistemas distribuídos e pode ser aplicada nesse contexto.

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Considere o programa em pseudocódigo abaixo:   É correto afirmar: 
+
+Alternativas:
+A. Como o programa utiliza o comando enquanto ao invés do comando para, não seria necessário incrementar a variável de controle indice dentro do bloco, uma vez que esta é incrementada de 1 automaticamente.
+B. O resultado do cálculo da comissão do vendedor é atribuído à variável comissao e corresponde a 1% do valor da venda realizada por ele.
+C. O valor da variável vendas é atribuído ao vetor comissao na posição do vetor correspondente ao valor do indice relacionado ao vendedor.
+D. O segundo comando enquanto percorre novamente os vetores, começando do indice 1, incrementando a variável indice e mostrando os dados dos vendedores: nome e comissão.
+E. O primeiro comando enquanto faz com que o fluxo do programa seja repetido até que a variável indice fique menor que 10, ou seja, esse bloco de comandos vai ser repetido 10 vezes.

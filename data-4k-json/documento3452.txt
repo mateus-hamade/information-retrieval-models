@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
+
+A estrutura de dados de iteração na qual uma ação será executada pelo menos uma vez, antes da avaliação da condição, é implementada pelo comando básico 
+
+Alternativas:
+A. condicional.
+B. faça enquanto.
+C. seqüencial.
+D. de repetição.
+E. de seleção.

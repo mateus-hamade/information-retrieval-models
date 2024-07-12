@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+Os métodos de ordenação correspondem ao processo de rearranjar um conjunto de objetos em ordem ascendente ou descendente. O objetivo da ordenação é facilitar a recuperação posterior dos itens do conjunto ordenado. Um algoritmo de ordenação que pode ser usado em uma ampla variedade de situações é denominado de
+
+Alternativas:
+A. deque.
+B. pilha.
+C. fila.
+D. quicksort
+E. árvore.

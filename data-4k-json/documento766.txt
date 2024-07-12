@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados Paralelos e Distribuídos , SQL
+
+Qual das seguintes opções descreve melhor a diferença entre as linguagens de consulta SQL e NoSQL?
+
+Alternativas:
+A. SQL é uma linguagem relacional, enquanto NoSQL é uma linguagem não relacional.
+B. SQL é uma linguagem mais antiga do que NoSQL.
+C. SQL é uma linguagem que usa tabelas, enquanto NoSQL é uma linguagem que usa documentos, gráficos ou colunas.
+D. SQL é uma linguagem que suporta transações ACID, enquanto NoSQL é uma linguagem que não suporta transações.
+E. SQL é uma linguagem mais lenta do que NoSQL.

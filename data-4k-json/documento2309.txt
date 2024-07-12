@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Considere o pseudo-código abaixo:     F0 = 0  F1 = 1  I = 0  ARA I DE 1 ATÉ 10, FAÇA  T = F1  F1 = F1 + F0  F0 = T  FIM PARA  MOSTRE F1     O valor da variável F1 exibido é  
+
+Alternativas:
+A. 54.
+B. 33.
+C. 89.
+D. 93.
+E. 141.

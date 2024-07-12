@@ -1,0 +1,9 @@
+Banco de Dados Banco de Dados
+
+Uma das principais ferramentas utilizadas em um projeto de sistemas de informação consiste na representação gráfica de como as informações se movem em meio aos processos de um sistema, mostrando entradas e saídas de dados, pontos de armazenamento e as rotas entre cada destino. Este conceito define o: 
+
+Alternativas:
+A. DFD — Diagrama de fluxo de dados.
+B. DER — Diagrama de entidades e relacionamento.
+C. DTE — Diagrama de transição de estados.
+D. Dicionário de dados.

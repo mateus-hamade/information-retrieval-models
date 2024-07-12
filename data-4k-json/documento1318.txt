@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
+
+Depois de pensar sobre determinado problema, João fez um rascunho de uma função, produzindo o algoritmo em pseudocódigo do quadro:    Qual a complexidade de tempo dessa função na notação Big-O? 
+
+Alternativas:
+A. O(n)
+B. O(n²)
+C. O(n³)
+D. O(log n)
+E. O(n log n)

@@ -1,0 +1,10 @@
+Banco de Dados SQL Server
+
+O SQL Server 2000 implementa três tipos de funções definidas pelo usuário (UDF): I. scalar valued, que retorna um único valor em resposta a cada uma das chamadas à função; II. inline table valued, cuja cláusula RETURNS especifica uma tabela com suas colunas e tipos de dados; III. multi-statement table valued, cuja cláusula RETURNS é seguida da palavra TABLE sem uma lista de colunas. Está correto o tipo de UDF descrito em
+
+Alternativas:
+A. I, II e III.
+B. I, somente.
+C. II, somente.
+D. III, somente.
+E. II e III, somente.

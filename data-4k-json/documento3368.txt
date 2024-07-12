@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Filas
+
+A melhor definição para a estrutura de dados chamada FILA é(são): 
+
+Alternativas:
+A. É uma estrutura de dados linear, que também pode ser linear e dinâmica. É composta por nós que apontam para o próximo elemento.
+B. São estruturas baseadas no princípio FIFO (first in, first out), em que os elementos que foram inseridos no início são os primeiros a serem removidos.
+C. São estruturas baseadas no princípio LIFO (last in, first out), na qual os dados que foram inseridos por último na pilha serão os primeiros a serem removidos.
+D. É uma estrutura de dados em que cada elemento tem um ou mais elementos associados.
+E. São estruturas de dados lineares e estáticas, isto é, são compostas por um número fixo (finito) de elementos de um determinado tipo de dados. O tempo de acesso aos elementos é muito rápido porém, a remoção de elementos pode ser custosa se não for desejável que haja espaços "vazios" no meio da estrutura.

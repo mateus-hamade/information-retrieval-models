@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
+
+Levando em consideração a estrutura de dados do tipo “Pilha”, analise os itens a seguir e, ao final, assinale a alternativa correta:  I – Um elemento a ser removido é o que está há menos tempo na estrutura de dados. II – Um elemento a ser removido é o que está há mais tempo na estrutura de dados. III – Um elemento a ser inserido é colocado na base da pilha. 
+
+Alternativas:
+A. Apenas o item I é verdadeiro.
+B. Apenas o item II é verdadeiro.
+C. Apenas o item III é verdadeiro.
+D. Apenas os itens II e III são verdadeiros.
+E. Todos os itens são verdadeiros.

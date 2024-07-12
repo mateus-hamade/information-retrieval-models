@@ -1,0 +1,9 @@
+Engenharia de Software Desenvolvimento de Software
+
+Sobre técnicas de desenvolvimento de software, assinalar a alternativa que, respectivamente, descreve de forma CORRETA o significado das siglas TDD, BDD e FDD.
+
+Alternativas:
+A. Transaction-driven development, Branch-driven Development e Framework-driven Development.
+B. Test-driven development, Behavior-driven Development e Feature-driven Development.
+C. Transaction-driven development, Behavior-driven Development e Function-driven Development.
+D. Test-driven development, Branch-driven Development e Function-driven Development.

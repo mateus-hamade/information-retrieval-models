@@ -1,0 +1,10 @@
+Sistemas Operacionais Linux , Segurança de sistemas operacionais
+
+No Red Hat Enterprise Linux 9.0, o modo como o SELinux atua como se estivesse aplicando as políticas de segurança sem, no entanto, negar nenhuma operação é o modo:
+
+Alternativas:
+A. autorizativo;
+B. coercitivo;
+C. desativado;
+D. passivo;
+E. permissivo.

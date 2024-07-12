@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação , Estrutura de Dados ( assuntos)
+
+Considere um array R que contém 1.000.000 de chaves ordenadas.  Assinale o número máximo de acessos a R necessários para encontrar uma determinada chave.  
+
+Alternativas:
+A. 10
+B. 20
+C. 40
+D. 80
+E. 160

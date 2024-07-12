@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Em relação a estrutura de dados árvore, avalie se são verdadeiras (V) ou falsas (F) as afirmativas a seguir.  I O número de nível mais alto de uma árvore é conhecido como grau de uma árvore.  II Quando um nó possui grau zero, diz-se que ele é um nó terminal ou folha.  III Árvores são estruturas de dados estáticas em que os dados possuem uma ordem pré-definida, os elementos são dispostos de acordo com uma hierarquia e existe um nó principal conhecido como raiz.  As afirmativas I, II e III são, respectivamente:  
+
+Alternativas:
+A. V, F e V.
+B. F, V e F.
+C. V, F e F.
+D. F, F e F.
+E. V, V e F.

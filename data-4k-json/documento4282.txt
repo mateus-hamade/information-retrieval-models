@@ -1,0 +1,10 @@
+Engenharia de Software UML
+
+Considerando os diagramas da UML, assinale a opção em que é apresentado o diagrama mais indicado para definir um estereótipo customizado, atendendo a requisitos específicos de modelagem e adaptando o metamodelo da UML a uma diferente plataforma.
+
+Alternativas:
+A. visão geral da interação
+B. estrutura composta
+C. tempo
+D. objetos
+E. perfil

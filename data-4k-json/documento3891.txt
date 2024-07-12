@@ -1,0 +1,9 @@
+Sistemas Operacionais Cloud Computing
+
+Ao comparar PaaS (Plataforma como Serviço) e IaaS (Infraestrutura como Serviço), pode-se afirmar que a diferença principal entre eles consiste em que
+
+Alternativas:
+A. PaaS é usado em empresas públicas, enquanto IaaS em empresas privadas.
+B. PaaS fornece recursos de hardware, enquanto IaaS, plataformas de software.
+C. PaaS fornece plataformas de software, enquanto IaaS, recursos de hardware.
+D. PaaS não oferece gerencia dos recursos de hardware e software, enquanto IaaS, a infraestrutura de rede é mantida pelo cliente.

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados , Hashing
+
+Existem dois tipos de algoritmos para cifra com chave simétrica, são eles:
+
+Alternativas:
+A. cifras de hash e cifras stream
+B. initialization vector e hashing
+C. swapping and hash
+D. cifras de bloco e cifras de stream
+E. espaços contínuos e cifras de bloco

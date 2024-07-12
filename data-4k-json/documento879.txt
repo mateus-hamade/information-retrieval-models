@@ -1,0 +1,10 @@
+Banco de Dados DER - Diagrama de Entidade e Relacionamento
+
+A modelagem ER prevê a descrição dos dados, os seus relacionamentos ou os aspectos de informação de um domínio de conhecimento. Considerando o diagrama ER abaixo, assinale a única alternativa correta.   
+
+Alternativas:
+A. Uma entidade EMPREGADO é fraca e apresenta um autorrelacionamento.
+B. Uma instância da entidade EMPREGADO pode existir sem possuir um dependente associado.
+C. Um autorrelacionamento entre as entidades EMPREGADO e DEPARTAMENTO é possível.
+D. Uma ou múltiplas instâncias de EMPREGADO atuam em uma ou múltiplas instâncias de DEPARTAMENTO.
+E. Uma entidade EMPREGADO gerencia apenas um EMPREGADO e atua em pelo menos um DEPARTAMENTO.

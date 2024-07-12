@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Busca , Estrutura de Dados ( assuntos)
+
+Analise a árvore binária de busca (BST), abaixo, representada pelas chaves dos seus nós.        Qual é a sequência de chaves representativa do seu percurso em pré-ordem?  
+
+Alternativas:
+A. 11; 12; 18; 23; 27; 45; 53; 71
+B. 11; 18; 12; 27; 53; 71; 45; 23
+C. 23; 12; 11; 18; 45; 27; 71; 53
+D. 53; 71; 27; 45; 18; 11; 12; 23
+E. 23; 45; 71; 27; 53; 18; 12; 11

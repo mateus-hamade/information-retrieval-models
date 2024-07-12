@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Busca
+
+Os algoritmos de busca e de ordenação compreendem um conjunto de algoritmos de elevada importância para a computação. Os dois principais algoritmos de buscas são: busca sequencial e busca binária. Sobre o algoritmo de busca sequencial, marque a alternativa INCORRETA.
+
+Alternativas:
+A. É o método de pesquisa mais simples que existe, cuja a implementação não suporta mais de um registro com uma mesma chave, pois retorna o primeiro encontrado.
+B. O seu funcionamento consiste em, a partir do primeiro registro, pesquisar sequencialmente até encontrar o valor procurado ou até chegar ao fim do vetor e então parar.
+C. É o método de busca eficiente para um vetor ordenado. Esse método é semelhante ao que usávamos para procurar uma palavra no dicionário, por exemplo.
+D. O algoritmo de busca sequencial percorre a lista comparando a chave com os valores dos elementos em cada uma das posições. Se a chave for igual à algum dos elementos, retorna a posição correspondente na lista. Se a lista toda for percorrida e a chave não for encontrada, retorna o valor −1.
+E. A busca sequencial é a técnica mais simples de realizar uma busca em uma lista de dados desordenados. Ela visa procurar o valor através de comparações sucessivas a partir do primeiro elemento (ou último) até que se encontre o valor desejado ou até que os elementos da estrutura se esgotem. Pode-se utilizar vetor, lista encadeada ou arquivo binário como estrutura de dados.

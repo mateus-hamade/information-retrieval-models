@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+A linguagem SQL para bancos de dados é constituída das sublinguagens “Data Manipulation Language – DML”, “Data Definition Language – DDL” e “Data Control Language – DCL”. Fazem parte da DCL os seguintes comandos:
+
+Alternativas:
+A. DROP e DELETE.
+B. DELETE e REVOKE.
+C. REVOKE e GRANT.
+D. GRANT e SELECT.
+E. SELECT e DROP.

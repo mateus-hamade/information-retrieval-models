@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
+
+Observe abaixo a estrutura de dados, em forma de tabela.         Nesta tabela, foram realizadas uma série de operações de inserção e retirada de elementos, conforme descrito e ilustrado abaixo.   Pode-se deduzir, pelas operações realizadas, que tal estrutura é uma 
+
+Alternativas:
+A. lista indexada.
+B. árvore.
+C. fila.
+D. fila duplamente encadeada.
+E. pilha.

@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Texto associado Considerando a figura acima, que ilustra um diagrama representando a hierarquia para a resolução de um problema em módulos, julgue os itens a seguir.  As variáveis V6 e V8 podem ser utilizadas pelos respectivos algoritmos em que foram declaradas e pelo algoritmo A.
+
+Alternativas:
+A. Certo
+B. Errado

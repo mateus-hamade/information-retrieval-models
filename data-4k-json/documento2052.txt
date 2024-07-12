@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Complexidade de Algoritmos
+
+Referente à análise da complexidade de algoritmos, preencha as lacunas e assinale a alternativa correta.     Um ___________ é, em outras palavras, uma norma executável para estabelecer um determinado efeito desejado, que na prática será geralmente a obtenção de uma solução a certo tipo de problema. O conceito central da ______________ e da ciência da computação é o de algoritmo. 
+
+Alternativas:
+A. algoritmo / internet
+B. programa / internet
+C. código / programação
+D. deque / internet
+E. algoritmo / programação

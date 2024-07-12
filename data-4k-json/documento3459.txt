@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+Texto associado A estrutura linear em que a inserção é feita em uma extremidade e a eliminação, na outra, é denominada lista FIFO.
+
+Alternativas:
+A. Certo
+B. Errado

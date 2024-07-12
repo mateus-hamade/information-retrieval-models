@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Estrutura de Controle e Repetição
+
+Texto associado Ao final da execução do algoritmo, a variável R terá o valor
+
+Alternativas:
+A. 3.
+B. 4.
+C. 5.
+D. 6.
+E. 7.

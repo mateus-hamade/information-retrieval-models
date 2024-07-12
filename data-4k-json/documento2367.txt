@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+Um algoritmo de ordenação é executado através dos seguintes passos: (I) escolha de um elemento da lista, denominado pivô; (II) rearranjo da lista, de forma que todos os elementos anteriores ao pivô sejam menores do que ele e que todos os elementos posteriores ao pivô sejam maiores do que ele; e, também, de modo que o pivô, ao fim do processo, esteja em sua posição final, havendo duas sublistas não ordenadas; (III) ordenação recursiva das sublistas dos elementos menores e dos elementos maiores. Que algoritmo é esse?
+
+Alternativas:
+A. Quick Sort
+B. Merge Sort
+C. Bubble Sort
+D. Insertion Sort
+E. Selection Sort

@@ -1,0 +1,10 @@
+Banco de Dados Modelagem de dados
+
+Relacione a Coluna 1 à Coluna 2, associando o modelo mais adequado para definir a estrutura lógica dos dados no banco de dados com as respectivas aplicações.   Coluna 1 1. Documentos. 2. Grafos. 3. Multidimensional.   Coluna 2  ( ) Aplicações para fazer avaliação de marketing de conteúdo utilizam visualizações rápidas e objetivas do desempenho e da produtividade, oferecendo uma melhor compreensão do que necessita ser reforçado ou aprimorado.  ( ) Aplicações de catálogo em comércio eletrônico armazenam milhares de atributos sobre produtos em uma unidade única, facilitando o gerenciamento de dados e provendo maior velocidade na leitura. A alteração de um produto, por exemplo, a inclusão ou remoção de atributos, não afetará a descrição dos demais produtos.  ( ) Aplicações para analisar KPIs (indicador-chave de desempenho) são ferramentas de gestão que armazenam indicadores e/ou valores quantitativos que podem ser medidos, comparados e acompanhados, de forma a avaliar o desempenho dos processos e das estratégias de um negócio.  ( ) As aplicações de detecção de fraude em cartão de crédito armazenam as relações entre as transações, atores e outras informações relevantes para permitir que se encontrem padrões comuns nos dados. As organizações podem identificar, por exemplo, uma rede de usuários conectados e itens como contas de e-mail, endereços e números de telefones em comum, resultando em uma rede de informações altamente conectada e complexa, que pode ser consultada, visualizada e analisada para detecção de fraudes.     A ordem correta de preenchimento dos parênteses, de cima para baixo, é: 
+
+Alternativas:
+A. 3 – 2 – 2 – 1.
+B. 1 – 2 – 3 – 3.
+C. 2 – 3 – 1 – 1.
+D. 2 – 3 – 1 – 2.
+E. 3 – 1 – 3 – 2.

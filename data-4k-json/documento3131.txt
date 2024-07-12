@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Em relação aos conceitos de programação orientada a objetos e lógica de programação, julgue os itens subsequentes.  O resultado abaixo será obtido ao se executar o algoritmo que a ele se segue.  Resultado:  1 0; 0 0; 2 1; 1 0; 3 2; 2 2;  Algoritmo:  program p; var v: inteiro; funcao f(v: inteiro; var k:inteiro): inteiro; var p,q:inteiro; inicio se v < 2 então inicio f := v; k := 0; fim senão inicio f := f(v-1, p) + f(v-2, q); k := p + q + 1; fim; escreva(n,' ',k,'; '); fim ; inicio n := 4; escreva(f(3,n),n); fim  
+
+Alternativas:
+A. Certo
+B. Errado

@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Texto associado O algoritmo de Dijkstra utiliza a técnica de relaxamento e produz, ao final de sua execução, uma árvore de caminhos mais curtos entre um vértice origem s e todos os vértices que são alcançáveis a partir de s. 
+
+Alternativas:
+A. Certo
+B. Errado

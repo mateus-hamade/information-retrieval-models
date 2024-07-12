@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Considere uma árvore como ilustrada na figura a seguir.                    Considerando que os nós mais à esquerda têm precedência sobre os nós mais à direita, e que só se imprime o elemento do nó na sua primeira visita, podemos dizer que as ordens de visitação aos nós, obtidas, primeiro, com uma busca em profundidade (DFS) e, depois, com uma busca em largura (BFS), nesta árvore, são, respectivamente:   
+
+Alternativas:
+A. BELADGKOCJNPFIMH e HFIMCJNPADGKOBEL
+B. ABEDLGCKJFIONPMH e BELADGKOCJNPFIMH
+C. ACBDEGLFKJHIONMP e HFIMCJNPADGKOBEL
+D. HFCADBEGLFJKIMNOP e HFIMCJNPADGKOBEL
+E. ACBDEGLFKJHIONMP e BELADGKOCJNPFIMH

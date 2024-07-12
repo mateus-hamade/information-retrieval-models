@@ -1,0 +1,10 @@
+Programação Linguagens de programação , Python
+
+   A seguir, é apresentado o resultado do código precedente, desenvolvido em Python, ao final de sua execução. Ação: corre voa  Com base nessas informações, é correto afirmar que o princípio da orientação a objeto utilizado nesse programa, especialmente em relação ao método acao, é a(o)
+
+Alternativas:
+A. abstração.
+B. encapsulamento.
+C. herança.
+D. polimorfismo.
+E. recursividade.

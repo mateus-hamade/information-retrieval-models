@@ -1,0 +1,10 @@
+Sistemas Operacionais Sistemas de arquivos
+
+Avalie a seguinte figura e as afirmações seguintes, ambos sobre o sistema de arquivos NTFS:   Fonte: http://wiki.icmc.usp.br/  I. NTFS Boot Sector provê bloco BIOS com informação sobre o volume, a estrutura do sistema de arquivos e o carregador do SO. II. Master File Table contém informação para recuperação de arquivos na partição NTFS. III. O File System Data apresenta dados não contidos na MFT Master.  Está(ão) correta(s) a(s) afirmativa(a): 
+
+Alternativas:
+A. I, apenas.
+B. II, apenas.
+C. III, apenas.
+D. I e II, apenas.
+E. I, II e III.

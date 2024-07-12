@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Considere as seguintes tabelas verdade:   Analisando as entradas e saídas das tabelas verdade, é correto afirmar que as portas lógicas A e B desempenham, respectivamente, as funções lógicas 
+
+Alternativas:
+A. XNOR e AND.
+B. XOR e NAND.
+C. XNOR e NAND.
+D. XOR e AND.

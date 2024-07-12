@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição , Lógicas de Programação
+
+Assinale a opção que apresenta o comando que tem a função de implementar desvios incondicionais no programa, mas que é de uso proibido na programação estruturada.
+
+Alternativas:
+A. IF-THEN-ELSE
+B. CASE
+C. GOTO
+D. WHILE
+E. REPEAT

@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+As estruturas de dados, junto com o estudo de algoritmos, fazem parte dos fundamentos da programação. Implementadas por meio de listas, duas estruturas de dados restringem a política de manipulação dos elementos da lista, conforme descrições a seguir: I. Tipicamente estabelece uma política FIFO – First In, First Out de acesso aos dados. Em outras palavras, a ordem estabelecida nessa estrutura é a ordem de inserção. No momento de retirar um nó da lista, o nó mais antigo ou o primeiro que entrou é o primeiro a ser retirado. Como as políticas de inserção e remoção são predefinidas, para esse tipo de estrutura as operações são descritas de forma genérica, INSERT e REMOVE. II. Tipicamente estabelece uma política LIFO – Last In, First Out de acesso aos dados. Nessa estrutura, no momento de retirar um nó da lista, o nó mais recente ou o último que entrou é o primeiro a ser retirado. Essa estrutura também oferece basicamente duas operações de manipulação, PUSH, para inserção de um elemento no topo, e POP, para retirada do elemento do topo. As descrições em I e II fazem referência, respectivamente, às estruturas de dados conhecidas como
+
+Alternativas:
+A. árvore e grafo.
+B. grafo e árvore.
+C. fila e pilha.
+D. pilha e fila.

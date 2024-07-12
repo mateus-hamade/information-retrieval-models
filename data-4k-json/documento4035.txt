@@ -1,0 +1,9 @@
+Segurança da Informação Noções de Segurança , Auditoria de Sistemas
+
+Devido a problemas recentes em uma rede de computadores, o gerente da mesma resolveu utilizar um sistema que vai analisar os pacotes dessa rede, para monitorar o seu tráfego, inspecionando esses pacotes transmitidos, para identificar quais estão apresentando esses problemas. Esse sistema é conhecido como:
+
+Alternativas:
+A. PLC
+B. VPN
+C. Power
+D. Sniffer

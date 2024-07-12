@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos , Estrutura de Dados ( assuntos)
+
+O ecossistema Hadoop se refere aos vários componentes da biblioteca de software Apache Hadoop, incluindo projetos de código aberto e ferramentas complementares para armazenar e processar Big Data. Algumas das ferramentas mais conhecidas incluem HDFS, Pig, YARN, MapReduce, Spark, HBase Oozie, Sqoop e Kafka, cada uma com função específica no ecossistema Hadoop. São funções dos componentes do ecossistema Hadoop: 
+
+Alternativas:
+A. HDFS gerencia o armazenamento e o MapReduce gerencia o processamento de dados.
+B. Spark é uma ferramenta para o armazenamento, desenvolvido para substituir o HDFS.
+C. Kafka é uma ferramenta para processamento de dados distribuídos, em substituição ao processamento em lote.
+D. HDFS gerencia o processamento e o MapReduce gerencia o armazenamento de dados.

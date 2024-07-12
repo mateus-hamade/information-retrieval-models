@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+Observe abaixo uma implementação em C# de um algoritmo de ordenação  public class InsertionSort   {        public int[] iSort(int[] input)       {           for (int i = 1; i < input.Length; i++)          {               int key = input[i];               int j = i - 1;               while (j >= 0 && input[j] > key)               {                    input[j + 1] = input[j];                    j--;               }               input[j + 1] = key;           }           return input;       } }  A implementação realiza um procedimento de ordenação sobre um vetor de números inteiros. Ao final da ordenação, o vetor ordenado é apresentado no monitor.  Assinale a alternativa que apresenta o método de ordenação utilizado.
+
+Alternativas:
+A. Quicksort
+B. Bolha (Bubble Sort)
+C. Inserção (Insertion Sort)
+D. Intercalação (Mergesort)
+E. Seleção (Selection Sort)

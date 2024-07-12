@@ -1,0 +1,10 @@
+Segurança da Informação Conceitos Básicos em Segurança da Informação
+
+A segurança da informação pode ser entendida como o processo de proteção das informações de ameaças para assegurar a sua
+
+Alternativas:
+A. integridade, disponibilidade e confidencialidade.
+B. legalidade, integralidade e moralidade.
+C. confidencialidade, moralidade e integridade.
+D. legalidade, disponibilidade e integridade.
+E. eficiência, disponibilidade e confidencialidade.

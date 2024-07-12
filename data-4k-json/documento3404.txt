@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados , Hashing
+
+É um tipo de estrutura de dados em que a função de dispersão é a responsável por gerar um índice a partir de determinada chave; por causa das colisões, muitas tabelas de dispersão são aliadas com alguma outra estrutura de dados: 
+
+Alternativas:
+A. vetores.
+B. matrizes.
+C. listas encadeadas.
+D. tabela hash.
+E. sort.

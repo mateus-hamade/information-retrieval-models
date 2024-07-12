@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Assinale a alternativa que apresenta como pode ser denominado um conjunto finito de passos formalmente definidos de modo a apresentar a solução para um problema.
+
+Alternativas:
+A. Backup.
+B. Algoritmo.
+C. Banco de dados.
+D. Software.
+E. Trojan.

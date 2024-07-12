@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Filas
+
+Julgue o próximo item, relativo aos conceitos de estrutura de dados.       Os elementos de uma fila poderão ser retirados somente na ordem inversa em que foram inseridos, ou seja, respeitando-se o conceito last in, first out.
+
+Alternativas:
+A. Certo
+B. Errado

@@ -1,0 +1,10 @@
+Banco de Dados ETL (Extract Transform Load)
+
+Maria está construindo um sistema de aprendizado de máquina que utiliza a informação sobre a segmentação de clientes que está armazenada no CRM da empresa. Porém, a segmentação que ela extrai do CRM possui os valores "bronze", "prata" e "ouro", que seu sistema não entende.  Para isso, Maria quer implementar um processo de ETL que recodifica a segmentação para os valores "0", "1" e "2" representando, respectivamente, "bronze", "prata" e "ouro" antes de carregar os dados em seu sistema.  O tipo de transformação que Maria deve empregar em seu processo ETL é 
+
+Alternativas:
+A. deduplication.
+B. filtering.
+C. join.
+D. mapping.
+E. sorting.

@@ -1,0 +1,10 @@
+Banco de Dados Catálogo de um banco de dados
+
+O DBA de um banco de dados SQL Server 2019 precisou procurar no catálogo algumas definições existentes sobre um esquema da base de dados específico para executar o seu trabalho. Ele descobriu que:  • Para procurar as tabelas existentes, deveria consultar a SYS.TABLES, e para encontrar as chaves primárias existentes, poderia consultar a tabela _____________; • Encontraria na tabela _________ o identificador do tipo de dado associado aos atributos de uma dada tabela; • Para encontrar os procedimentos armazenados na base de dados, precisava consultar a SYS.PROCEDURES, e que se quisesse saber detalhes dos parâmetros de um dado procedimento armazenado, poderia encontrá-los na ___________; Assinale a alternativa que preenche, correta e respectivamente, as lacunas do trecho acima. 
+
+Alternativas:
+A. SYS.INDEXES – SYS.COLUMNS – SYS.PARAMETERS
+B. SYS. INDEXES _KEYS – SYS.TYPES – SYS.PARAMETERS
+C. SYS.INDEXES – SYS. COLUMNS – SYS.PROCEDURES_EXTENDED
+D. SYS.INDEXES – SYS.TYPES – SYS.PARAMETERS
+E. SYS.PRIMARY_KEYS – SYS.TYPES – SYS.PROCEDURES_EXTENDED

@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Listas , Pilhas
+
+Considere as afirmativas a seguir sobre estrutura de dados: I. Uma estrutura de dados heterogênea envolve a utilização de mais de um tipo básico de dado. II. Uma lista encadeada pode ser definida como uma sequência de células em que cada célula contém um elemento e o endereço da célula seguinte. III. Uma pilha é uma estrutura de dados baseada no princípio “First In First Out” (FIFO). IV. Filas e pilhas são estruturas de dados lineares; o organograma de uma empresa pode ser representado por uma estrutura de árvore. Está CORRETO o que se afirma, apenas, em:
+
+Alternativas:
+A. I e II.
+B. I e III.
+C. I, II e IV.
+D. II, III e IV.

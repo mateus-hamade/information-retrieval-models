@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Grafos
+
+Uma árvore de espalhamento de um grafo ponderado conectado é mínima se a soma dos pesos de todas as arestas for mínima.  
+
+Alternativas:
+A. Certo
+B. Errado

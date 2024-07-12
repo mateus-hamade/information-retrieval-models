@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+Qual caractere especial em SQL pode ser utilizado com o operador LIKE de modo a representar qualquer caractere numérico?
+
+Alternativas:
+A. ?
+B. *
+C. !
+D. –
+E. #

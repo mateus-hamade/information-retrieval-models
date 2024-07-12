@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+Analise as assertivas abaixo relativas à atualização de visão em SQL: I. A estratégia de modificação de consulta altera a consulta da visão em uma consulta na tabela base. A desvantagem é que pode ser ineficiente para visões com consultas complexas, que são demoradas de serem executadas. II. A materialização de visão cria fisicamente uma tabela temporária quando a visão é consultada pela primeira vez e mantém essa tabela com a suposição de que outras consultas à visão acontecerão em seguida. III. Na atualização incremental, pode-se determinar quais novas tuplas devem ser inseridas, excluídas ou modificadas em uma visão materializada quando uma atualização é realizada na tabela base. IV. Uma atualização em uma visão definida sobre uma única tabela com funções de agregação pode ser mapeada para uma atualização direta sobre a tabela base. Quais estão corretas?  
+
+Alternativas:
+A. Apenas I e II.
+B. Apenas II e III.
+C. Apenas I, II e III.
+D. Apenas II, III e IV.
+E. I, II, III e IV.

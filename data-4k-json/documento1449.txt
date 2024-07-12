@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
+
+Em relação às estratégias de avaliação dos modelos preditivos, analise as assertivas abaixo, assinalando V, se verdadeiras, ou F, se falsas. ( ) O exemplar verdadeiro-positivo pertence à classe positiva, mas o classificador o classificou como pertencente à classe negativa. ( ) O f-score (medida F) é a percentagem de acertos ou verdadeiros positivos dentre todos os exemplos classificados como positivos. ( ) O exemplar verdadeiro-negativo pertence à classe negativa e o classificador o classificou como pertencente à classe negativa. ( ) A sensibilidade ou revocação (recall) é a taxa de verdadeiros positivos, isto é, porcentagem de verdadeiros positivos dentre todos os exemplares cuja classe esperada é a classe positiva. A ordem correta de preenchimento dos parênteses, de cima para baixo, é:   
+
+Alternativas:
+A. V – F – F – V.
+B. V – V – F – F.
+C. V – F – V – F.
+D. F – V – F – V.
+E. F – F – V – V.

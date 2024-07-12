@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Questão anulada  Observe o algoritmo abaixo, que mostra o uso de uma função.     Após a execução, esse algoritmo irá gerar, respectivamente, os seguintes valores para X e Y:  
+
+Alternativas:
+A. 0 e 3.
+B. 0 e 6.
+C. 1 e 1.
+D. 1 e 3.
+E. 1 e 6.

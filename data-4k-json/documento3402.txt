@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Grafos
+
+Um grafo consiste num conjunto de nós (ou vértices) e num conjunto de arcos (ou arestas). É correto afirmar que o grau de um nó é 
+
+Alternativas:
+A. o número de arcos incidentes nesse nó.
+B. um número associado ao arco, também chamado de peso.
+C. a distância entre este nó e um outro nó qualquer do grafo.
+D. a posição deste nó em relação ao nó raiz do grafo
+E. o número de pares ordenados que formam o arco.

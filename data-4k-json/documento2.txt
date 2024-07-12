@@ -1,0 +1,10 @@
+Banco de Dados Oracle
+
+Na ferramenta avançada de análise e apresentação de dados Oracle BI Enterprise Edition (Oracle BIEE), a área que permite automatizar os processos comerciais, podendo ser empregada para fornecer alertas orientados a eventos, publicação programada de conteúdo e execução de ação condicional orientada a evento, é denominada
+
+Alternativas:
+A. condições.
+B. análises.
+C. painéis.
+D. agentes.
+E. scorecards.

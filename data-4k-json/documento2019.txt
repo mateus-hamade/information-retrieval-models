@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Busca
+
+Texto associado A busca por A* é realizada utilizando o custo do caminho do nó inicial até o nó objetivo e o valor da heurística do nó inicial até o nó objetivo.
+
+Alternativas:
+A. Certo
+B. Errado

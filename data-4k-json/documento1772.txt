@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+A figura abaixo ilustra um esquema para elaboração de algoritmos e programas no que se refere às técnicas de programação.  Na geração de códigos executáveis, os processos P1 e P2 são denominados, respectivamente: 
+
+Alternativas:
+A. codificação e linkedição
+B. compilação e linkedição
+C. compilação e interpretação
+D. codificação e interpretação

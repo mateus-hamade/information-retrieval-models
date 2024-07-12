@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Busca
+
+Suponha uma estrutura de dados do tipo vetor, a qual possui algumas centenas de elementos ordenados. Buscas por valores dos elementos desse vetor são constantes e, portanto, é necessário utilizar um método de busca eficiente. Das seguintes opções, qual seria o método de busca ou o algoritmo mais adequado?
+
+Alternativas:
+A. Busca linear.
+B. Busca binária.
+C. Bubble sort.
+D. Quick sort.
+E. Busca sequencial.

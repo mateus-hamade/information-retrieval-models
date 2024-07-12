@@ -1,0 +1,9 @@
+Arquitetura de Computadores Armazenamento de Dados em Arquitetura de Computadores
+
+Em relação à alocação de espaço em disco, é possível ter problemas significativos ao provisionar mais espaço do que está efetivamente disponível. Se ocorrer um crescimento excessivo em uma LUN (Logical Unit Number), todas as operações associadas ao armazenamento em questão seriam impactadas, resultando na interrupção do funcionamento adequado. Sendo assim, é correto afirmar: que, no tipo
+
+Alternativas:
+A. Thin Provision, um espaço de 50% é alocado na sua criação.
+B. Thin Provision, todo o espaço é alocado no momento da sua criação
+C. Thick Provision, um espaço mínimo é utilizado no momento da sua criação.
+D. Thick Provision, todo o espaço é alocado no momento da sua criação.

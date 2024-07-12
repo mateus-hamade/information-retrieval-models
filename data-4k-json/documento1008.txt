@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados
+
+Analise as afirmativas abaixo sobre MongoDB. 1. Um documento é a unidade básica de dados e é mais ou menos equivalente a um registro; é um banco de dados relacional, porém mais expressivo. 2. Uma coleção contém similaridades com e remete a uma tabela no modelo relacional. 3. Cada instância do MongoDB pode conter um único banco de dados que por sua vez pode conter múltiplas coleções. Assinale a alternativa que indica todas as afirmativas corretas.
+
+Alternativas:
+A. É correta apenas a afirmativa 3.
+B. São corretas apenas as afirmativas 1 e 2.
+C. São corretas apenas as afirmativas 1 e 3.
+D. São corretas apenas as afirmativas 2 e 3.
+E. São corretas as afirmativas 1, 2 e 3.

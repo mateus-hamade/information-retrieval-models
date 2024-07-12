@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Texto associado Considerando que a variável y recebeu o valor 117 quando foi lida, será exibido, ao final, o valor  
+
+Alternativas:
+A. 1110101
+B. 1-1-1-0-1-0-1
+C. 1010111
+D. 1-1-1-0-1-0-1-
+E. 1110101-

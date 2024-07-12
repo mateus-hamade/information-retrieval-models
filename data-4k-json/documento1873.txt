@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Grafos
+
+Considere uma estrutura de dados que consiste em um conjunto finito de nós e arestas interligando os nós. Assinale a alternativa que apresenta uma estrutura de dados que corresponde a essa definição.
+
+Alternativas:
+A. Fila.
+B. Grafo.
+C. Pilha.
+D. Tabela.
+E. Vetor.

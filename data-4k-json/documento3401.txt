@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Tipos de Dados
+
+Em um programa, quando usamos o tipo float estamos nos referindo a dados do tipo: 
+
+Alternativas:
+A. Inteiro.
+B. Lógico.
+C. Caractere.
+D. Real.
+E. Composto.

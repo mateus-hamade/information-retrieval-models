@@ -1,0 +1,10 @@
+Banco de Dados MySQL
+
+É um comando MySQL 8 que, quando executado, remove a permissão do usuário Usuario de inserir na tabela Tabela? 
+
+Alternativas:
+A. REMOVE INSERT ON Tabela FROM 'Usuario';
+B. DELETE INSERT ON Tabela FROM 'Usuario';
+C. REVOKE INSERT ON Tabela FROM 'Usuario';
+D. REVOKE GRANT OPTION ON Tabela FROM 'Usuario';
+E. DENY INSERT ON Tabela FROM 'Usuario';

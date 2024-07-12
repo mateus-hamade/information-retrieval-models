@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados , Filas
+
+Uma fila duplamente terminada, isto é, uma estrutura linear que permite inserir e remover de ambos os extremos é chamada
+
+Alternativas:
+A. Árvore.
+B. Shift-and.
+C. Autômato.
+D. Deque.
+E. Boyer-Moore.

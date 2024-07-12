@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Hashing , Listas
+
+Com relação a métodos de pesquisa de dados, julgue os itens subsecutivos.   Listas encadeadas não são utilizadas na busca que emprega tabelas hash.  
+
+Alternativas:
+A. Certo
+B. Errado

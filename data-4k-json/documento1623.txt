@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Vetores
+
+A estrutura de dados “vetor” (array) é um arranjo unidimensional que pode acomodar múltiplos dados. Sobre essas estruturas de dados, assinale a alternativa incorreta.
+
+Alternativas:
+A. Os dados de um vetor são mapeados numa área contígua da memória.
+B. Os dados de um vetor são do mesmo tipo.
+C. Cada um dos dados de um vetor pode ser acessado informando-se o identificador do vetor e o inteiro que indica a ordem do dado na sequência.
+D. Os dados de um vetor são armazenados na memória ordenadamente, em modo crescente.
+E. Pode-se atribuir um dado a um elemento de qualquer posição do vetor, independentemente do que foi atribuído aos demais elementos.

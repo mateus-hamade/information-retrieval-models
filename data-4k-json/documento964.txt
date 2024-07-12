@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados Relacionais
+
+Considere a representação de mapeamento objeto-relacional abaixo.        Objetos da classe Produto, criada em Java, podem ser mapeados para a tabela Produtos do banco de dados relacional. Para fazer esse mapeamento são utilizadas anotações e classes, como Entity e Id, que se encontram no pacote II  As lacunas I e II são preenchidas, correta e respectivamente, com  
+
+Alternativas:
+A. Hibernate e javax.persistence
+B. NHibernate e java.sql.persistence
+C. Hibernate e java.jpa.persistence
+D. NHibernate e java.sql
+E. Hibernate e java.sql.persistence

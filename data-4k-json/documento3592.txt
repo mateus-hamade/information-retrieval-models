@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Sobre as estruturas de dados conhecidas como árvores, selecione a alternativa CORRETA. 
+
+Alternativas:
+A. Uma árvore binária é aquela que tem como conteúdo somente valores binários.
+B. Uma árvore é composta por duas raízes, sendo uma principal e a outra secundária.
+C. As operações básicas sobre árvores são extrai-raiz e alterarfolha.
+D. O percurso de uma árvore binária, conhecido como subordem, visita a sub-árvore direita, depois a raiz e depois a subárvore esquerda.
+E. O percurso de uma árvore binária, conhecido como préordem, visita a raiz, depois a sub-árvore esquerda e depois a sub-árvore direita.

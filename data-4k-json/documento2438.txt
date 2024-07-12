@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Filas , Pilhas
+
+Considerando os conceitos de estruturas de dados, analise as afirmativas abaixo, dê valores Verdadeiro (V) ou Falso (F).     ( ) as filas são utilizadas para controlar o acesso de arquivos que concorrem a uma única impressora.  ( ) a pilha é uma estrutura de dados baseada no princípio LIFO, na qual os dados que foram inseridos primeiros na pilha serão os últimos a serem removidos.  ( ) os nós de uma árvore binária possuem graus zero, um ou dois.     Assinale a alternativa que apresenta a sequência correta de cima para baixo. 
+
+Alternativas:
+A. V - V - V
+B. V - V - F
+C. V - F - V
+D. F - F - V
+E. F - F - F

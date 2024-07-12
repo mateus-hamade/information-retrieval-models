@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+Uma _________ B+ é uma estrutura de dados muito utilizada em banco de dados e sistemas de arquivos. Que palavra completa a frase corretamente?
+
+Alternativas:
+A. Pilha.
+B. Árvore.
+C. Lista.
+D. Matriz.
+E. Fila.

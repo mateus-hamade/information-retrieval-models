@@ -1,0 +1,10 @@
+Programação JSF (Java Server Faces) , Frameworks Java
+
+Um analista de sistemas está envolvido no desenvolvimento de uma aplicação web em JavaServer Faces (JSF). Considerando os conceitos de programação em Java, qual é a finalidade principal do JSF no contexto de desenvolvimento web?
+
+Alternativas:
+A. Manipulação de dados em banco de dados;
+B. Implementação de algoritmos de busca;
+C. Desenvolvimento de interfaces gráficas de usuário;
+D. Interação com o sistema operacional;
+E. Gerenciamento de processos do sistema.

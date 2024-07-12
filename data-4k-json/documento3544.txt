@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Quando se pretende escrever um programa numa determinada linguagem de programação, a de que o computador possa executar um conjunto de passos e fornecer os resultados pretendidos, podemos elaborar um pseudocódigo de modo a facilitar a compreensão e escrita do programa. Com relação a pseudocódigo, analise as seguintes afirmativas:  I. Os pseudocódigos são constituídos usualmente pelo vocabulário de uma linguagem corrente, por exemplo, o português, e pela sintaxe global de uma outra, como por exemplo, a linguagem de Programação Estruturada.  II. A Iteração permite que partes de um programa sejam repetidas um número finito de vezes, segundo uma condição de controle. III. Para indicar a operação de atribuição, utiliza-se o símbolo    Podemos afirmar corretamente que: " → "
+
+Alternativas:
+A. Todas as afirmativas estão corretas.
+B. Todas as afirmativas estão incorretas.
+C. Apenas as afirmativas I e II estão corretas.
+D. Apenas as afirmativas II e III estão corretas.
+E. Apenas as afirmativas I e III estão corretas.

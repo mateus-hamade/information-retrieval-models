@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+No que diz respeito às estruturas de informação, julgue o item subsecutivo.  Percorrendo a árvore binária abaixo em pós-ordem, obtém-se o seguinte resultado: 1 * 2 – 3 / 4 + 5 * 6.                                    
+
+Alternativas:
+A. Certo
+B. Errado

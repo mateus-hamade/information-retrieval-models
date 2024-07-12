@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+Sobre junções em SQL, é correto afirmar que:
+
+Alternativas:
+A. A junção natural é uma operação de junção entre colunas da mesma tabela.
+B. A junção SELF recupera todas as linhas da junção, além das linhas que não possuem correspondentes na tabela à esquerda da operação.
+C. A junção externa compara todas as colunas que possuem nomes idênticos das tabelas envolvidas na junção.
+D. Na junção natural, ON compara todas as colunas da tabela envolvida por meio da coluna indicada.
+E. A junção externa à esquerda recupera todas as linhas da junção, além das que não possuem correspondentes na tabela à esquerda da operação.

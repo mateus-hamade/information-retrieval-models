@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Listas
+
+Com relação às estruturas de dados abstratas do tipo Lista, considere as seguintes afrmativas:  1. Um mesmo valor não poderá ocorrer mais de uma vez na lista.  2. Pode-se dizer que as estruturas de dados abstratas Lista e Sequência são sinônimos.  3. Pode-se utilizar arrays em Java para implementar listas.  Assinale a alternativa que indica todas as afrmativas corretas.  
+
+Alternativas:
+A. É correta apenas a afrmativa 1.
+B. É correta apenas a afrmativa 2.
+C. São corretas apenas as afrmativas 1 e 3
+D. São corretas apenas as afrmativas 2 e 3.
+E. São corretas as afrmativas 1, 2 e 3

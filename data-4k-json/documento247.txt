@@ -1,0 +1,10 @@
+Banco de Dados PostgreSQL
+
+Considere que, em um banco de dados, há uma tabela com dados de indústrias, contendo os seguintes atributos:  INDUSTRIA (cnpj, razao-social, capital-social, qtd-alteracoes)  Nessa tabela, a chave primária é o atributo cnpj. Foi criada a seguinte stored procedure, codificada segundo a sintaxe do PostgreSQL:     Ao ser executada, essa procedure
+
+Alternativas:
+A. altera o capital social de todas as indústrias.
+B. busca as empresas com mais de uma alteração.
+C. registra a quantidade de alterações realizadas em todas as indústrias.
+D. incrementa a quantidade de alterações de todas as indústrias de São Paulo.
+E. atualiza o capital social de uma indústria e registra quantas alterações foram realizadas nesse capital social.

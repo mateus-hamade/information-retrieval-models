@@ -1,0 +1,10 @@
+Banco de Dados Modelagem de dados
+
+Considere os diferentes paradigmas de modelagem de dados: relacional, orientada a objetos e mapeamento objeto-relacional. Sobre esses paradigmas, verifica-se que
+
+Alternativas:
+A. a modelagem orientada a objetos permite a representação de entidades complexas com atributos e comportamentos, refletindo mais de perto o mundo real.
+B. a modelagem relacional é mais flexível do que a orientada a objetos, pois permite uma representação mais dinâmica dos dados.
+C. o mapeamento objeto-relacional é um método exclusivo da modelagem relacional, permitindo a conversão direta de objetos em tabelas.
+D. o mapeamento objeto-relacional é uma técnica exclusiva da modelagem orientada a objetos, não sendo aplicável a sistemas baseados em modelagem relacional.
+E. os dados, na modelagem orientada a objetos, são representados como tabelas com linhas e colunas, semelhante à abordagem relacional.

@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+O professor ao desenhar a figura abaixo pergunta aos alunos qual a estrutura de dados seria mais representativa com essa imagem. José levantou logo a mão e disse que era um array. Maria disse que José estava errado, pois era uma árvore binária. Logo em seguida, depois de pensar, João fala para o professor que seria o conceito de vetor, dado na aula passada. Finalmente, depois da provocação do professor, Mario afirma, categoricamente, que somente poderia ser o conceito de tabela.    Assinale abaixo, o aluno com a resposta tecnicamente correta : 
+
+Alternativas:
+A. José
+B. Maria
+C. João
+D. Mario

@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+De acordo com a árvore de pesquisa abaixo, analise as seguintes afirmativas:    I. A árvore de pesquisa é binária.  II. Percorrer a árvore, usando caminhamento central recupera as chaves 1, 2, 3, 4, 5, 6, 7, nesta ordem respectiviamente.  III. A árvore de pesquisa está balanceada.  Marque a alternativa CORRETA: 
+
+Alternativas:
+A. apenas as afirmativas I e II são verdadeiras.
+B. apenas as afirmativas I e III são verdadeiras.
+C. apenas as afirmativas II e III são verdadeiras.
+D. todas as afirmativas são verdadeiras.

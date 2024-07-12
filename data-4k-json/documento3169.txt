@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Uma árvore é uma estrutura de dados bidimensional, não-linear, que possui propriedades especiais e admite muitas operações de conjuntos dinâmicos, tais como: pesquisa, inserção, remoção, entre outros. Sobre árvores, assinale a alternativa correta.  
+
+Alternativas:
+A. Árvores se assemelham a listas e pilhas, uma vez que são todos exemplos de estruturas de dados bidimensionais.
+B. Nó folha é o nó no topo da árvore, do qual descendem os demais nós.
+C. Grau da árvore é o número máximo de níveis dos seus nós.
+D. Grau do nó é o número de descendentes do nó, ou seja, o número de subárvores de um nó.
+E. Altura da árvore é o número máximo de subárvores de um nó.

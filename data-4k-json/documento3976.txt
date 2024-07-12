@@ -1,0 +1,10 @@
+Engenharia de Software Processos de Software - Desenvolvimento Ágil , Scrum
+
+O Scrum é um dos frameworks ágeis mais utilizados em desenvolvimento de software. Nesse framework, existem dois papéis essenciais: o Product Owner e o Scrum Master.  O Scrum Master, como facilitador do processo Scrum, pode colaborar com o Product Owner de diversas maneiras, incluindo:
+
+Alternativas:
+A. a introdução de práticas de desenvolvimento de ponta;
+B. a compreensão do planejamento de produtos em um ambiente empírico;
+C. o gerenciamento do orçamento do projeto;
+D. ajuda com a codificação de novos recursos;
+E. coordenação das reuniões das dailies da equipe.

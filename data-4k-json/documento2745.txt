@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Texto associado Considerando que os ponteiros inicio e fim foram inicializados com NULO, é correto afirmar que a função Fila2
+
+Alternativas:
+A. sempre insere a informação info no início da fila encadeada.
+B. lista as informações da fila encadeada.
+C. sempre retira a informação info do início da fila encadeada, caso a fila não esteja vazia.
+D. somente desaloca espaço de memória para a informação info caso ela não esteja presente na fila encadeada.
+E. sempre faz o ponteiro fim apontar para o ponteiro inicio na retirada da 1ª informação na fila encadeada.

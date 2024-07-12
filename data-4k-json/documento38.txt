@@ -1,0 +1,9 @@
+Banco de Dados DW - Data Warehouse
+
+Data warehousing é normalmente integrado com ferramentas de análise de dados. Sobre o Processamento Analítico On-line (OLAP) no contexto de data warehousing, assinale a afirmativa que define corretamente OLAP. 
+
+Alternativas:
+A. Método para criar backups de dados.
+B. Técnica de processamento de dados em lote.
+C. Protocolo de comunicação para acesso a dados.
+D. Conjunto de ferramentas para análise interativa de dados multidimensionais.

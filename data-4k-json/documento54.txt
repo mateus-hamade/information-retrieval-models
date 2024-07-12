@@ -1,0 +1,9 @@
+Banco de Dados SGBD - Sistema de Gerenciamento de Banco de Dados
+
+Integridade de dados é o conjunto de regras previamente estabelecidas nos sistemas gerenciadores de banco de dados, para garantir que de um processo de atualização não resultem dados inconsistentes. As regras de integridade de dados podem ser implementadas de forma declarativa ou procedural. Qual a característica de uma regra de integridade procedural?
+
+Alternativas:
+A. A garantia de que as tabelas não contenham valores duplicados.
+B. A apresentação na forma de programa na linguagem nativa.
+C. A restrição na faixa de valores válidos para determinado atributo.
+D. A sincronização de valores entre chave estrangeira e primária.

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Fluxogramas
+
+A figura abaixo representa um trecho de fluxograma de um código (sketch) a ser escrito em Wiring (linguagem do Arduino).      Trata-se de uma estrutura de controle do tipo: 
+
+Alternativas:
+A. do/while
+B. if/else
+C. while
+D. if
+E. switch/case

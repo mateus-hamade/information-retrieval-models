@@ -1,0 +1,10 @@
+Banco de Dados BI (Business Intelligence)
+
+Qual o nome da linguagem de transformação de dados do Power Query?
+
+Alternativas:
+A. M
+B. VB
+C. DAX
+D. node
+E. NoSQL

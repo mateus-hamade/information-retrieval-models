@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Uma árvore binária completa, estritamente binária, cuja raiz está no nível 0 e a altura da árvore é 5, possui uma quantidade de nós igual a
+
+Alternativas:
+A. 63.
+B. 62.
+C. 32.
+D. 31.
+E. 30.

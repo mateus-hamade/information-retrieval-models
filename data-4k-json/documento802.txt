@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados
+
+Assinale a alternativa que NÃO corresponde a um método usado comumente para tornar um sistema de banco de dados tolerante a falhas. 
+
+Alternativas:
+A. Replicação.
+B. Armazenamento RAID.
+C. Particionamento (sharding).
+D. Backups frequentes.
+E. Nenhuma das alternativas anteriores.

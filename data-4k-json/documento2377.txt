@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Julgue o item subsequente, relativo à lógica de programação.     Para o seu correto funcionamento, os algoritmos devem ser implementados como um conjunto de métodos e mensagens.  
+
+Alternativas:
+A. Certo
+B. Errado

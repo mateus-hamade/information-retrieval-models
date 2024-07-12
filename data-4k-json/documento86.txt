@@ -1,0 +1,9 @@
+Banco de Dados SQL
+
+Considerando-se a existência de uma tabela denominada REVENDAS, com os campos NOME, TELEFONE e CONTATO, assinale o comando SQL necessário para apresentar o campo NOME e CONTATO da tabela REVENDAS, sem repetir dados armazenados no campo NOME que sejam iguais. 
+
+Alternativas:
+A. SELECT DISTINCT nome, * FROM revendas
+B. SELECT FROM revendas DISTINCT nome, contato
+C. SELECT nome DISTINCT, contato FROM revendas
+D. SELECT DISTINCT nome, contato FROM revendas

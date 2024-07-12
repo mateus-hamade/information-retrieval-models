@@ -1,0 +1,9 @@
+Banco de Dados DW - Data Warehouse
+
+A principal finalidade de um Data Warehouse é
+
+Alternativas:
+A. realizar transações financeiras distribuídas e rápidas.
+B. armazenar dados operacionais offline e em tempo real.
+C. fornecer uma fonte centralizada de dados para análise e tomada de decisões.
+D. fazer o processamento de dados em lote em alta velocidade e de forma escalável.

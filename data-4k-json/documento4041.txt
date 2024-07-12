@@ -1,0 +1,9 @@
+Sistemas Operacionais Windows
+
+Se um usuário de uma máquina com sistema operacional MS Windows quiser exibir as conexões TCP ativas, portas nas quais o computador está em escuta, estatísticas de Ethernet, tabela de roteamento de IP e estatísticas de IPv4, utilizando linha de comando, o comando adequado é o:
+
+Alternativas:
+A. ipconfig
+B. netstat
+C. route
+D. ping

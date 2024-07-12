@@ -1,0 +1,9 @@
+Banco de Dados Administração de banco de dados
+
+Um administrador de sistemas necessita instalar o sistema operacional CentOS (versão 7) em uma máquina que atuará como servidor de banco de dados da Secretaria de Saúde.  O utilitário de instalação a ser executado pelo administrador chama-se  
+
+Alternativas:
+A. rattlesnake.
+B. anaconda.
+C. cobra.
+D. snake.

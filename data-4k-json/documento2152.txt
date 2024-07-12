@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Tem-se uma variável A, do tipo INTEIRO, já validada, que só pode conter os valores 1 e 2. Deseja-se atribuir à variável A o valor 2, se ela possuir o valor 1, e atribuir o valor 1, se ela possuir o valor 2. Qual das sequências de código abaixo NÃO efetua a correta atribuição de valores conforme descrito acima, considerando que INT é uma função que torna um valor calculado em inteiro e que a tabela TAB contém o valor 2 na posição 1 e o valor 1 na posição 2?
+
+Alternativas:
+A. A = TAB (A)
+B. A = INT ((A + 2 )/2)
+C. A = 3 - A
+D. Se A = 1 então A = 2 senão A = 1
+E. Se A = 2 então

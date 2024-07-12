@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+A linguagem SQL possui um conjunto de operadores que permite comparar os valores de campos, testando se são iguais, diferentes, menores, etc. Analise as assertivas abaixo e assinale a alternativa correta. I. A condição LIKE permite uma comparação que envolva um padrão, mas não exige a combinação exata como o operador de igualdade. II. Com o uso da condição LIKE, é possível comparar partes do campo com um padrão que pode estar no início, meio ou fim do conteúdo do campo. III. O comando LIKE não pode ser logicamente negado. 
+
+Alternativas:
+A. Todas estão corretas.
+B. Todas estão incorretas.
+C. Apenas I e II estão corretas.
+D. Apenas I e III estão corretas.
+E. Apenas II e III estão corretas.

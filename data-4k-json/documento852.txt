@@ -1,0 +1,10 @@
+Banco de Dados Data Mining
+
+Qual é a etapa de modelagem da metodologia CRISP-DM na qual são tratados os valores nulos e pode ser necessário fazer fusão com outros dados? 
+
+Alternativas:
+A. Entendimento do Negócio.
+B. Preparação de Dados.
+C. Modelagem.
+D. Avaliação.
+E. Implementação.

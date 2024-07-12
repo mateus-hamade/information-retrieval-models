@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Analise o algoritmo genérico abaixo, em Portugol, e determine o valor final da variável C: algoritmo declare A, B, C numérico A ← 1 B ← A + 2 C ← B * 3 C ← A + B - C / B + A fim algoritmo 
+
+Alternativas:
+A. -1,25
+B. 3
+C. 2
+D. -0,6...

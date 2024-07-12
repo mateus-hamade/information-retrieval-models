@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+[Questão inédita] Acerca de métodos e algoritmos de ordenação, selecione a alternativa que descreve melhor o trecho abaixo: É um algoritmo de ordenação simples. Realiza pelo menos n2 comparações para ordenar n elementos. É considerado ineficiente na ordenação de um conjunto muito grande de itens. Pode ser resumido em algumas etapas: 1 - compara dois elementos adjacentes e, quando o primeiro for maior que o segundo, ambos são trocados; 2 - realiza a troca definida em 1 para todos os pares de elementos adjacentes, começando com os dois primeiros e terminando com os dois últimos (n-1 e n). Assim, o último elemento será o maior. 3 - repete o passo 2 para todos os elementos, com exceção do último, sucessivamente.
+
+Alternativas:
+A. Método da bolha.
+B. Ordenação por inserção.
+C. Ordenação por seleção.
+D. Ordenação de árvores.
+E. Ordenação por particionamento.

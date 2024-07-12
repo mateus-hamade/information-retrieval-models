@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos
+
+Avalie o trecho de algoritmo abaixo, escrito em pseudocódigo (Portugol), cujo objetivo é a ordenação de um vetor em ordem crescente. Considere que "v" é um vetor de números inteiros com 5 posições que foi declarado e preenchido anteriormente, e que “t” é uma variável inteira que também foi preenchida anteriormente com o tamanho desse vetor. para j de 1 até t faça    para i de 1 até t faça         se v[i] > v[i+1] então             aux ← v[i]             v[i] ← v[i+1]             v[i+1] ← aux        fimse     fimpara fimpara Caso o operador relacional ">" (maior) fosse trocado pelo operador ">=" (maior ou igual), mais quantas linhas do algoritmo teriam que ser alteradas para que o resultado esperado (ordenação do vetor em ordem crescente) continuasse a ser o mesmo?
+
+Alternativas:
+A. Uma.
+B. Duas.
+C. Três.
+D. Quatro.
+E. Nenhuma.

@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+O caminhamento com percurso pós-ordem em uma árvore binária resultou na sequência “A X K D C J B”, em que cada caractere refere-se a um nó visitado. Nesse caso, o nó raiz refere-se ao caractere
+
+Alternativas:
+A. A.
+B. C.
+C. D.
+D. B.

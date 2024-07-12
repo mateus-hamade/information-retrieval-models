@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+Sobre o algoritmo de ordenação Quick Sort, escolha a assertiva correta.
+
+Alternativas:
+A. Foi inventado após 1970.
+B. Tem O(n log n) no pior caso.
+C. Quick Sort, assim como Bubble Sort, é um algoritmo recomendado apenas para finalidades didáticas, não sendo bem aplicável em ambientes de produção.
+D. Não é um algoritmo de ordenação estável.
+E. Não é um algoritmo que permite paralelismo.

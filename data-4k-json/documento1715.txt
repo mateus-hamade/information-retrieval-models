@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Em conformidade com CORMEN et al., considerar uma estrutura de dados ligada, na qual cada nó é um objeto. Além de uma chave e de dados satélites, cada nó contém atributos “esquerda”, “direita” e “p”, que apontam para os nós correspondentes ao seu filho à esquerda, ao seu filho à direita e ao seu pai, respectivamente. Essa estrutura refere-se à:
+
+Alternativas:
+A. Árvores de busca binárias.
+B. Pilhas.
+C. Filas.
+D. Listas ligadas.
+E. Arrays.

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Tipos de Dados
+
+Entre os três tipos de MBeans monitores da especificação JMX estão os do tipo GaugeMonitor, que observam atributos cujo valor varia arbitrariamente e são 
+
+Alternativas:
+A. de ponto flutuante, apenas
+B. inteiros, apenas
+C. lógico, apenas
+D. inteiros ou de ponto flutuante
+E. inteiros ou lógico

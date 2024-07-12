@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
+
+Algoritmos são o grande coadjuvante da computação. Na computação um programa codifica um algoritmo de modo a ser executado, resolvendo assim, um determinado problema. Sobre este tópico, analise as afirmativas abaixo e de valores Verdadeiro (V) ou Falso (F).  ( ) A complexidade de um algoritmo não reflete o esforço computacional requerido para executá- lo. À quantidade de trabalho exercida pelo algoritmo, pode ser dada em termos do tempo de execução ou da quantidade de memória requerida.  ( ) Uma das medidas de desempenho de um algoritmo muito importante é o tempo de execução, ou complexidade em tempo.  ( ) Tem-se também a complexidade em espaço a qual usa como medida de desempenho a quantidade de memória necessária para a execução de algoritmo.  Assinale a alternativa que apresenta a sequência correta de cima para baixo.
+
+Alternativas:
+A. F - V - F
+B. V - F - V
+C. F - V - V
+D. V - V - V

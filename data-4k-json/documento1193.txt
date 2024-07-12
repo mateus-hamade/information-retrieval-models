@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+As árvores de decisão são um modelo de aprendizado de máquina que opera por meio da construção de uma estrutura em forma de árvore para tomar decisões e que oferece uma compreensão clara da lógica de decisão e da hierarquia de características que contribuem para as predições finais. Elas são versáteis e podem ser usadas tanto para tarefas de classificação quanto para as de regressão. Nesse contexto, considere a construção de uma árvore de regressão usando a classe DecisionTreeRegressor do ScikitLearn e seu treinamento em um conjunto de dados quadrático com max_depth=2, conforme mostrado a seguir:  from sklearn.tree import DecisionTreeRegressor tree_reg = DecisionTreeRegressor(max_depth=2) tree_reg.fit(X, y)  A árvore resultante é representada na Figura a seguir.     GÉRON, A. Hands-on machine learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniquesto Build Intelligent Systems. 2 ed. Sebastopol, CA: O’Reilly Media, Inc.: 2019, p. 183.  Considerando-se o cenário apresentado e que se deseja fazer uma predição para uma nova instância, com x1 = 0.6, qual será o valor predito? 
+
+Alternativas:
+A. 0.015
+B. 0.074
+C. 0.111
+D. 0.259
+E. 110

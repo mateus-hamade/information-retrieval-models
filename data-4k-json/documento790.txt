@@ -1,0 +1,10 @@
+Banco de Dados MySQL
+
+Analise as assertivas abaixo sobre o sistema de banco de dados MySQL versão 8 e assinale a alternativa correta. I. O sistema suporta múltiplos mecanismos de armazenamento. II. O tipo de dado JSON é suportado, permitindo acesso a campos internos de um valor. III. Tabelas diferentes podem ser transacionais ou não-transacionais no mesmo banco de dados. 
+
+Alternativas:
+A. Todas estão corretas.
+B. Todas estão incorretas.
+C. Apenas I e II estão corretas.
+D. Apenas I e III estão corretas.
+E. Apenas II e III estão corretas.

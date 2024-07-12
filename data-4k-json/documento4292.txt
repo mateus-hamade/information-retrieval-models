@@ -1,0 +1,10 @@
+Engenharia de Software RUP (Rational Unified Process) - Processo Unificado Rational , Processos de Software
+
+No RUP (rational unified process), o marco da arquitetura de ciclo de vida, no qual são examinados os objetivos e o escopo detalhados do sistema, assim como a resolução dos principais riscos, é obtido ao final da
+
+Alternativas:
+A. fase elaboração.
+B. fase iniciação.
+C. disciplina requisitos.
+D. disciplina implantação.
+E. disciplina análise e design.

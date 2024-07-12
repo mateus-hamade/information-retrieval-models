@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+É uma propriedade das árvores balanceadas (árvores B)
+
+Alternativas:
+A. ter como 2 (dois) o limite inferior para o número de chaves que um nó pode conter.
+B. somente armazenar informação satélite nas folhas.
+C. as folhas poderem ter profundidades diferentes.
+D. cada nó interno dever estar pelo menos ¾ completo.
+E. não possuir limite superior para o número de chaves que um nó pode conter.

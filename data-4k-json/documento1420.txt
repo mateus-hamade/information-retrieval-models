@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados , Árvores
+
+O analista de tecnologia da informação solicitou que você escrevesse um algoritmo para uma pesquisa de campo por meio de um instrumento da lógica de programação e você optou por instrumentos narrativos. Das opções seguintes, aquela que contém apenas instrumentos narrativos é:
+
+Alternativas:
+A. português estruturado e árvore de decisão.
+B. tabela de decisão e pseudocódigo.
+C. árvore de decisão e tabela de decisão.
+D. pseudocódigo e português estruturado.
+E. diagrama hierárquico de fluxo e tabela de decisão.

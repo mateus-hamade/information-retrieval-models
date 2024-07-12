@@ -1,0 +1,10 @@
+Engenharia de Software Inteligencia Artificial
+
+No aprendizado de máquina, o algoritmo de classificação considerado mais rudimentar e simples, que cria o modelo simplesmente baseado na moda da classe, ou seja, classifica todas as instâncias de acordo com a classe dominante, é conhecido como
+
+Alternativas:
+A. ZeroR.
+B. validação cruzada.
+C. K-means.
+D. DBSCAN.
+E. florestas aleatórias.

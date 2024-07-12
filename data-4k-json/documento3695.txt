@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Algoritmos de Busca
+
+Texto associado Na função busca1, para cada elemento da lista, dois testes são realizados: i <= L.NS e L.A[i].chave = x.
+
+Alternativas:
+A. Certo
+B. Errado

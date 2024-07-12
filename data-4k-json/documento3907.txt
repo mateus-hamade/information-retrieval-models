@@ -1,0 +1,9 @@
+Arquitetura de Computadores Arquitetura de processadores: RISC, CISC, WISC e Microprocessadores.
+
+A tecnologia RISC empregada em processadores, caracteriza-se principalmente por: 
+
+Alternativas:
+A. Instruções executadas pelo hardware
+B. Compatibilidade de armazenamento em memória flash
+C. Ausência de pipeling
+D. Gerenciamento de portas USB

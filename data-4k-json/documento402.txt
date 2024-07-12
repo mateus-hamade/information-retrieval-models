@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados Relacionais
+
+Considerando a utilização de chave primária e chave estrangeira em uma tabela de um banco de dados relacional, identifique a afirmativa que contém uma característica comum a esses dois tipos de chave.
+
+Alternativas:
+A. Utilizam uma ou mais colunas.
+B. Permitem valores duplicados.
+C. O valor nulo é permitido.
+D. Não identificam unicamente a linha em uma tabela.
+E. É permitido mais de uma chave por tabela.

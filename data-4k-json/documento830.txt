@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados Relacionais
+
+Nos sistemas de bancos de dados relacionais, uma Transação é um conjunto de uma ou mais operações que compõem uma única unidade lógica de trabalho a ser executada. As transações devem seguir o princípio ACID: Atomicidade, Consistência, Isolamento e Durabilidade. Analise as assertivas abaixo e assinale a alternativa correta. I. O ROLLBACK é utilizado para garantir o princípio da durabilidade das transações. II. Em caso de falha, uma transação que foi finalizada por COMMIT precisa ser desfeita. III. Na execução de uma transação, em caso de falha, ela pode ser finalizada com sucesso, mesmo que alguma de suas operações não tenham sido realizadas. IV. A execução de uma transação não pode ser interferida por quaisquer outras transações que acontecem simultaneamente.
+
+Alternativas:
+A. Todas estão corretas.
+B. Todas estão incorretas.
+C. Apenas IV está correta.
+D. Apenas I e IV estão corretas.
+E. Apenas II e III estão corretas.

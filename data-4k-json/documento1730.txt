@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Vetores
+
+Considerando o tema estrutura de dados, assinale a alternativa que apresenta o nome correto para a definição: “Esta estrutura mantêm uma série de elementos de dados, geralmente do mesmo tamanho e tipo de dados. Elementos individuais são acessados por sua posição na estrutura. A posição é dada por um índice, também chamado de subscrição”.
+
+Alternativas:
+A. Estrutura tipo Registro.
+B. Estrutura tipo Array.
+C. Estrutura tipo Hash.
+D. Estrutura tipo Condicional.

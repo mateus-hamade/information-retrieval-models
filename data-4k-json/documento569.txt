@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+A cláusula GROUP BY pode ser usada nas expressões SQL
+
+Alternativas:
+A. Drop Index e Insert Into.
+B. Select e Create View.
+C. Grant e Alter Table.
+D. Create Table e Insert Into.
+E. Revoke e Select.

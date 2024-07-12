@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Grafos
+
+Julgue o item, relativos aos conceitos de programação e às estruturas de dados.       A estrutura na qual cada elemento pode ter vários antecessores e vários sucessores recebe o nome de grafo.  
+
+Alternativas:
+A. Certo
+B. Errado

@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+Assinale a alternativa que indica corretamente operador SQL usado para testar se há algum registro em uma subconsulta.
+
+Alternativas:
+A. IS
+B. HAS
+C. EXISTS
+D. HAVING
+E. THEREIS

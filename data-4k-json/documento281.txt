@@ -1,0 +1,10 @@
+Banco de Dados Backup em Banco de Dados , SGBD - Sistema de Gerenciamento de Banco de Dados
+
+Um DBA necessita fazer backups no SGBD MariaDB, porém existem diversos recursos e formas de se executar essas ações, analise os itens a seguir.  I. O programa mariadb-dump executa um backup lógico no MariaDB. É a maneira mais flexível de realizar backup e restore de dados, é uma boa opção quando o tamanho dos dados é relativamente pequeno. Para conjuntos de dados grandes, o arquivo de backup pode ser grande e o tempo de restauração demorado.  II. O programa mariadb-hotcopy é um fork do Percona XtraBackup com suporte adicional para compactação e criptografia de dados. O programa está disponível na versão MariaDB 10.1 ou posterior.  III. O programa mariadb-backup realiza um backup físico e funciona apenas para fazer backup de tabelas MyISAM e ARCHIVE. Ele só pode ser executado na mesma máquina que o local dos diretórios do banco de dados.  Está correto o que se afirma em
+
+Alternativas:
+A. I, apenas.
+B. II, apenas.
+C. III, apenas.
+D. I e II, apenas.
+E. II e III, apenas.

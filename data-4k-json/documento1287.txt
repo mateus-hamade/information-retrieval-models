@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Na lógica de programação, um tipo de dado __________ é caracterizado como um número que possui parte decimal, podendo ser positivo, negativo ou zero.  Assinale a alternativa que preenche corretamente a lacuna do trecho acima. 
+
+Alternativas:
+A. real
+B. inteiro
+C. cartesiano
+D. booleano
+E. flutuante

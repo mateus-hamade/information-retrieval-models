@@ -1,0 +1,10 @@
+Arquitetura de Computadores Memória
+
+Em uma arquitetura ponte norte e ponte sul, qual componente é controlado pelo chipset ponte norte?
+
+Alternativas:
+A. Mouse;
+B. Teclado;
+C. Memória RAM;
+D. Disco Rígido;
+E. Ethernet.

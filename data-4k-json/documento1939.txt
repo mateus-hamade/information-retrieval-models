@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+No que se refere à lógica de programação, julgue o item a seguir. Em um algoritmo, uma expressão geralmente é considerada válida quando as suas variáveis e constantes respeitam o número e os tipos de argumentos das operações envolvidas.  
+
+Alternativas:
+A. Certo
+B. Errado

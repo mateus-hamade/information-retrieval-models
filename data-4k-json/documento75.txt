@@ -1,0 +1,9 @@
+Banco de Dados Data Mining
+
+A mineração de dados consiste na inferência de relações com base em um grande volume de dados. No que tange à mineração de dados, um algoritmo de classificação é o:
+
+Alternativas:
+A. FP-Growth.
+B. K-NN.
+C. LDA.
+D. Mean Shift.

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Vetores
+
+Dada uma declaração de matriz de três dimensões e uma atribuição:  (1) declarar M[5,4,3] : literal (2) M[4,3,2]￩"ABC"  A literal "ABC" foi armazenada na posição representada pelas dimensões coluna, linha e profundidade, respectivamente: 
+
+Alternativas:
+A. 4, 2 e 3.
+B. 4, 3 e 2.
+C. 3, 4 e 2.
+D. 3, 2 e 4.
+E. 2, 3 e 4.

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Uma árvore binária completa tem, no 5º nível, uma quantidade de nós igual a 
+
+Alternativas:
+A. 31
+B. 32
+C. 64
+D. 15
+E. 16

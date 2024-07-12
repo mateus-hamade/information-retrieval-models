@@ -1,0 +1,9 @@
+Banco de Dados SQL Server
+
+Um analista de infraestrutura necessita instalar o MS SQLServer 2014 em um Core Server com Windows Server na Secretaria de Saúde do Estado do Mato Grosso.  Assinale a opção que indica a lista de pré-requisitos indicados pelo Microsoft para que a instalação seja bem-sucedida.   
+
+Alternativas:
+A. Windows Server 2008 R2 SP1 e Windows Installer 3.0.
+B. Windows Server 2008 R2 SP1, .NET Framework 4.0 SP1 Full Profile e Windows PowerShell 3.0.
+C. .NET Framework 4 Server Core Profile, Windows Server 2008 R2 SP1 e Windows PowerShell 2.5.
+D. .NET Framework 2.0 SP2, .NET Framework 3.5 SP1 Full Profile, .NET Framework 4 Server Core Profile, Windows Installer 4.5 e Windows PowerShell 2.0.

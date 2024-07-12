@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Estrutura de Controle e Repetição
+
+Texto associado Por meio de um algoritmo que utilize estruturas de repetição, mas não use recursividade, é impossível obter o mesmo resultado do algoritmo apresentado.
+
+Alternativas:
+A. Certo
+B. Errado

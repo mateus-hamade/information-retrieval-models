@@ -1,0 +1,10 @@
+Banco de Dados MySQL
+
+João é um administrador de banco de dados MySQL e precisa realizar o backup lógico completo do banco de dados "tjse_db". Para isso, João deverá utilizar o comando: 
+
+Alternativas:
+A. backup -u root -p tjse_db > backup.sql
+B. mybackup -u root -p tjse_db > backup.sql
+C. mysqldump -u root -p tjse_db > backup.sql
+D. dump database -u root -p tjse_db > backup.sql
+E. select * from tjse_db into outfile backup.sql

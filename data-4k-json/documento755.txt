@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados
+
+A normalização das estruturas de dados é uma etapa importante do processo de modelagem relacional para eliminar distorções ou anomalias no modelo.  Diz-se que uma tabela está na segunda forma normal, de acordo com as regras da normalização, se ela está na primeira forma normal e 
+
+Alternativas:
+A. as linhas da tabela são unívocas, sem chaves compostas e todos os seus atributos são atômicos.
+B. as linhas não contêm itens repetitivos, atributos com valores nulos e nem multidimensionais.
+C. cada uma das colunas não pertencentes à chave primária não for dependente parcialmente dessa chave.
+D. contém apenas chaves externas e conecta-se outras tabelas por múltiplas junções.
+E. as colunas não pertencentes à chave primária ficam determinadas transitivamente por esta.

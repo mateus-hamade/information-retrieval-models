@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
+
+    Dada a configuração inicial da pilha mostrada na Figura I, o valor do registrador ax, ao final da execução da sequência de instruções acima, será
+
+Alternativas:
+A. 3000h
+B. 5000h
+C. B000h
+D. C000h
+E. D000h

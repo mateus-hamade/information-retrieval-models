@@ -1,0 +1,9 @@
+Banco de Dados SQL
+
+O comando TRUNCATE em SQL é uma Instrução
+
+Alternativas:
+A. Data Manipulation Language (DML).
+B. Data Definition Language (DDL).
+C. Data Control Language (DCL).
+D. Transaction Control Languages (TCL).

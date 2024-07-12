@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados
+
+Texto associado  Analise o comando a seguir quando aplicado à tabela T1, anteriormente descrita.     delete from T1  where A >= (select min(A) from T1)      and A <= (select max(A) from T1)     O efeito desse comando sobre a tabela T1 é: 
+
+Alternativas:
+A. nulo, pois nenhuma linha é removida;
+B. a remoção da primeira e da segunda linhas, somente;
+C. a remoção da primeira e da terceira linhas, somente;
+D. a remoção da segunda e da terceira linhas, somente;
+E. a remoção de todas as linhas.

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados , Filas ( assuntos)
+
+Sobre as estruturas de dados usadas em programação, NÃO é correto afirmar:
+
+Alternativas:
+A. Uma fila é uma lista onde as inserções são sempre feitas em uma ponta e as remoções são sempre feitas na outra.
+B. Uma pilha é uma lista onde as inserções e remoções são sempre feitas na mesma ponta.
+C. Um árvore de busca binária é uma estrutura de dados onde todos os nós são valores, todos os nós à esquerda contêm uma subárvore com os valores menores ao nó raiz da subárvore e todos os nós da subárvore à direita contêm somente valores maiores ao nó raiz.
+D. Uma lista ligada é uma estrutura de dado linear e estática, isto é, é composta por um número fixo (finito) de elementos.
+E. Matrizes são vetores n-dimensionais.

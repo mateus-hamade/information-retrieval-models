@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Suponha que T seja uma árvore binária de pesquisa inicialmente vazia, e considere a inserção dos elementos 30, 50, 60, 20, 40, 10 e 25 em T, exatamente nessa ordem. Qual das sequências abaixo corresponde a um percurso de T em pré- ordem?
+
+Alternativas:
+A. 30 50 60 40 20 25 10
+B. 10 25 20 40 60 50 30
+C. 10 20 25 30 40 50 60
+D. 30 20 10 25 50 40 60
+E. 60 50 40 30 25 20 10

@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+Acerca dos conceitos e características de estrutura de dados e autômatos, julgue os itens a seguir.  Considere um vetor C com valores entre 0 e 999, em que cada elemento do vetor é dividido em três partes (unidade, dezena e centena). Nesse caso, o método de classificação por distribuição de chave, aplicado sobre C, realizará a ordenação dos valores pela execução de sucessivos passos, tomando-se em cada passo apenas uma parte do elemento.
+
+Alternativas:
+A. Certo
+B. Errado

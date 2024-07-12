@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Recursividade
+
+Assinale a alternativa que define corretamente a técnica de função fatorial empregada no pseudocódigo a seguir.  1. funcao fatorial(n)  2.    se n=1 então  3.           fatorial = 1  4.    senao  5.           fatorial = n * fatorial(n-1)  6. fim funcao 
+
+Alternativas:
+A. Árvore Binária.
+B. Backtracking.
+C. Árvore Rubro-Negra.
+D. Árvore de Decisão.
+E. Recursividade.

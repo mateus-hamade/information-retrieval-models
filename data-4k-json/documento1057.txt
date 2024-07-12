@@ -1,0 +1,10 @@
+Banco de Dados DER - Diagrama de Entidade e Relacionamento
+
+Observe o Diagrama Estendido de Entidade e Relacionamento apresentado a seguir.     Ao analisar a quantidade de linhas (tuplas) que podem ser armazenadas nas entidade apresentadas, é correto afirmar que o total de linhas em  
+
+Alternativas:
+A. Patrimonio tem de ser igual à soma das linhas em Veiculo e Movel.
+B. Veiculo tem de ser igual à soma das linhas em Passageiro e Carga.
+C. Veiculo tem de ser maior ou igual à soma das linhas em Passageiro e Carga.
+D. Patrimonio tem de ser igual à soma das linhas em Passageiro, Carga e Movel.
+E. Patrimonio tem de ser menor ou igual à soma das linhas em Veiculo e Movel.

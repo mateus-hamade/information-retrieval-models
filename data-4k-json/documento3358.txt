@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Uma árvore binária .................... é uma árvore binária na qual as alturas das duas subárvores de todo nó nunca diferem em mais de ................... -.  Assinale a alternativa que completa,correta e respectivamente, as lacunas do texto.  
+
+Alternativas:
+A. randômica ... 1
+B. randômica ... 2
+C. balanceada ... 1
+D. entrelaçada ... 1
+E. entrelaçada ... 2

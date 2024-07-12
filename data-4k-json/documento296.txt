@@ -1,0 +1,10 @@
+Banco de Dados SGBD - Sistema de Gerenciamento de Banco de Dados
+
+Para implementar um SGBD, inicia-se com a especificação dos esquemas conceituais e internos para o banco de dados e seus mapeamentos. Então, uma linguagem é usada pelo DBA e pelos projetistas de banco de dados para definir ambos os esquemas. Assinale a alternativa que apresenta a sigla da linguagem referida de definição de dados.  
+
+Alternativas:
+A. VDL.
+B. SDL.
+C. SQL.
+D. DML.
+E. DDL.

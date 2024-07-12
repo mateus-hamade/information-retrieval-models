@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Acerca de pseudocódigo, descrição narrativa e fluxograma, que são usados para a descrição de algoritmos, julgue os próximos itens.  A descrição narrativa é uma forma de algoritmo que utiliza linguagem estruturada e, embora sua estrutura e simbologia apresentem pequenas diferenças em relação à língua portuguesa, também é chamada de português estruturado.
+
+Alternativas:
+A. Certo
+B. Errado

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Vetores
+
+Dado o algoritmo Busca, onde A é um vetor e n é o número de elementos de A,  Busca (A, n)            x ← A [1]           para i de 2 até n, faça                   se A [i] > x então x ← A [i]           devolve x  o valor da saída x para o vetor de entrada A = (3, 2, 1, 7, 2, 5), onde n = 6, será
+
+Alternativas:
+A. 7
+B. 6
+C. 3
+D. 2
+E. 1

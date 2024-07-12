@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
+
+Listas encadeadas constituem estruturas de dados muito úteis na concepção de algoritmos e simulações. O atendimento de um caixa de banco, por exemplo, é simulado por uma lista do tipo 
+
+Alternativas:
+A. Circular.
+B. FIFO.
+C. FILO.
+D. LIFO.
+E. PILHA.

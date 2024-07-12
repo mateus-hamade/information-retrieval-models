@@ -1,0 +1,10 @@
+Sistemas Operacionais Cloud Computing
+
+Juliana está implementando um aplicativo web. Para não ter que se preocupar com questões de servidores como virtualização e sistema operacional, ela quer utilizar um serviço de computação em nuvem que ofereça ferramentas de desenvolvimento e um gerenciador de banco de dados.  Para isso, Juliana deve contratar o serviço de computação em nuvem:
+
+Alternativas:
+A. IaaS;
+B. PaaS;
+C. SaaS;
+D. BDaaS;
+E. STaaS.

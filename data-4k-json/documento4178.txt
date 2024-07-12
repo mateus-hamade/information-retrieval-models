@@ -1,0 +1,10 @@
+Programação Linguagens de programação
+
+Na linguagem LabVIEW,
+
+Alternativas:
+A. as aplicações são executadas em singletasking.
+B. a programação é baseada em fluxos de dados.
+C. as aplicações são processadas em single thread.
+D. a utilização do software de programação é restrita aos hardwares de aquisição da própria LabVIEW.
+E. a sequencialidade das ações é obtida pela programação linha a linha.

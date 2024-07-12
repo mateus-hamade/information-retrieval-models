@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+Qual é a diferença entre a cláusula WHERE e a cláusula HAVING em uma consulta SQL?
+
+Alternativas:
+A. WHERE é usada para filtrar registros com base em critérios especificados, enquanto HAVING é usada para filtrar grupos agregados com base em critérios especificados.
+B. WHERE é usada para ordenar registros com base em critérios especificados, enquanto HAVING é usada para filtrar registros com base em critérios especificados.
+C. WHERE e HAVING são usadas de forma intercambiável em consultas SQL.
+D. WHERE é usada para agrupar registros com base em critérios especificados, enquanto HAVING é usada para filtrar registros com base em critérios especificados.
+E. WHERE é usada para agrupar registros com base em critérios especificados, enquanto HAVING é usada para ordenar registros com base em critérios especificados.

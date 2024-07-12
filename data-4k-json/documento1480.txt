@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
+
+Das alternativas a seguir, aquela que contém apenas exemplos de estruturas de repetição é:
+
+Alternativas:
+A. Do while e Else.
+B. If e Do.
+C. While e For.
+D. Else e if.
+E. If e for.

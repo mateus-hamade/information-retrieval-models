@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+Uma estrutura de dados que possui três campos: dois ponteiros e campo de informação denomina-se 
+
+Alternativas:
+A. lista encadeada dupla.
+B. lista encadeada simples.
+C. pilha.
+D. fila.
+E. vetor.

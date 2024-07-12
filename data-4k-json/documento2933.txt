@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Texto associado Que número seria impresso caso esse programa executasse?
+
+Alternativas:
+A. 0
+B. 10
+C. 15
+D. 100
+E. 150

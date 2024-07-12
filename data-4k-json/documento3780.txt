@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Árvore AVL balanceada em altura significa que, para cada nó da árvore, a diferença entre as alturas das suas sub- árvores (direita e esquerda) sempre será
+
+Alternativas:
+A. menor ou igual a 2.
+B. igual a 0 ou -1.
+C. maior que 1.
+D. igual a 1.
+E. igual a -1, 0 ou 1.

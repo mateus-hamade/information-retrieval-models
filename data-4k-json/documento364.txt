@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados
+
+Sistemas de informações na gestão de pessoas disponibilizam diferentes tipos de dados, que podem ser classificados segundo categorias diversas.  Os dados sobre a expectativa das pessoas e planos de desenvolvimento referem-se a
+
+Alternativas:
+A. registros inseridos pelas pessoas, com supervisão de suas chefias, com informações históricas que relatam desejos e necessidades dos indivíduos e seus planos individuais de ascensão vertical ou a movimentação lateral, sendo usados pela organização para conciliação de expectativas.
+B. insumos resultantes do processo de avaliação com pessoas internas, que apresenta informações sobre resultados obtidos, desenvolvimento e comportamento, e avaliações colegiadas sobre potencial e possibilidades de desenvolvimento, sendo usados pela organização para avaliar relacionamento com as chefias.
+C. insumos resultantes de processo de avaliação realizados por entidades ou profissionais especializados, de modo a complementar as informações referentes ao potencial para ocupar posições críticas para a organização, sendo usados pela organização para reflexão sobre a carreira.
+D. informações pessoais, biografia profissional, posições ocupadas na organização, ações de desenvolvimento pelas quais a pessoa passou, projetos em que atuou, formação pessoal e profissional, sendo usados pela organização para recrutamento interno.
+E. ausências, afastamentos, viagens realizadas a trabalho, acidentes de trabalho em que a pessoa esteve envolvida, sendo usados pela organização para processo sucessório e movimentação interna.

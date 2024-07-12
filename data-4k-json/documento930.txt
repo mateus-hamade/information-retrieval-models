@@ -1,0 +1,10 @@
+Banco de Dados Administração de banco de dados
+
+Analise as assertivas abaixo sobre benefícios de procedimentos armazenados (stored procedures) em bancos de dados relacionais:  I. Melhor manutenabilidade: é possível alterar o código de um procedimento armazenado diretamente, sem que as diferentes aplicações que o usam sejam impactadas. II. Maior segurança: é possível conceder a procedimentos armazenados os privilégios de acesso necessários ao acesso/atualização dos objetos que manipula. Se usuários forem forçados a atualizar certos objetos da base de dados através de procedimentos armazenados específicos, é possível limitar a concessão de privilégios a usuários para acesso/manipulação desses objetos. III. Melhor desempenho: um procedimento armazenado pode executar com melhor desempenho no servidor, pode se beneficiar de otimizações específicas feitas pelo sistema de gerência de banco de dados, pode implicar em redução de tráfego entre o servidor e a aplicação cliente, entre outras razões. Quais estão corretas? 
+
+Alternativas:
+A. Apenas III.
+B. Apenas I e II.
+C. Apenas I e III.
+D. Apenas II e III.
+E. I, II e III.

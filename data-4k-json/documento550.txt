@@ -1,0 +1,10 @@
+Banco de Dados Modelagem de dados
+
+São elementos da representação de um modelo conceitual de dados (MCD):
+
+Alternativas:
+A. identificador, relacionamento, atributo, entidade.
+B. entidade, coluna, índice primário, relacionamento.
+C. tabela, coluna, índice primário, relacionamento.
+D. entidade, relacionamento, identificador, chave estrangeira.
+E. relacionamento, chave estrangeira, índice secundário, índice único.

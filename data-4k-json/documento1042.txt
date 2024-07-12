@@ -1,0 +1,10 @@
+Banco de Dados Modelagem de dados
+
+Durante a fase inicial de modelagem conceitual dos dados, o profissional precisa observar atentamente tudo que for relevante no mundo real e que deva ser “transportado” para o sistema que se está projetando. Selecione a alternativa que mostra o componente de abstração no qual se encontram detalhados os componentes de estrutura do banco de dados, como tabelas, campos, tipos de valores, índices etc. 
+
+Alternativas:
+A. Modelo conceitual
+B. Modelo lógico
+C. Modelo físico
+D. Relacionamentos
+E. Condicionalidade

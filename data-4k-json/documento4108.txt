@@ -1,0 +1,9 @@
+Programação CSS (Cascading Style Sheets)
+
+No CSS 3, as pseudo classes dinâmicas controlam os estados dos elementos. Sabendo disso, qual pseudo classe é aplicada quando o cursor do mouse está sobre o elemento? 
+
+Alternativas:
+A. :checked
+B. :empty
+C. :hover
+D. :not

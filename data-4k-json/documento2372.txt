@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Julgue o item seguinte a respeito da construção de algoritmos, dos conceitos de variáveis e de bloco de comandos e das estruturas de controle.     Uma das vantagens de se construir um algoritmo por meio do pseudocódigo é o fato de que a passagem do algoritmo para uma linguagem de programação qualquer se torna uma atividade quase que instantânea.  
+
+Alternativas:
+A. Certo
+B. Errado

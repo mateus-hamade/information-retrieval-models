@@ -1,0 +1,10 @@
+Engenharia de Software Gerência de Configuração
+
+O desenvolvimento de um software geralmente envolve grandes equipes de desenvolvimento que trabalham colaborativamente em um ambiente distribuído cujas mudanças so naturais e precisam ser gerenciadas. Ñeste contexto, o Gerenciamento de Configuração de Software Cobre todo o ciclo de vida do software. É correto afirmar que NÃO é um dos objetivos do gerenciamento de configuração de software:
+
+Alternativas:
+A. melhoraria da qualidade.
+B. reduzir/controlar erros.
+C. identificar, organizar, controlar e comunicar mudanças.
+D. controle de usuários.
+E. ontrole de versões.

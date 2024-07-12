@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Texto associado O algoritmo acima
+
+Alternativas:
+A. tem um comando de repetição dentro de outro comando de repetição, então o trecho de pesquisa na tabela será executado pelo menos 2 vezes.
+B. possui uma tabela, que é uma estrutura de dados conhecida como matriz e, neste caso, é uma matriz 3x4.
+C. não faz consistência dos dados de entrada e não verifica os limites máximos dos valores de debito.
+D. calcula corretamente a multa de todas as empresas que possuem débito e mais de 1 mês de atraso.
+E. apresenta erro de lógica, pois deveria ser usado o operador lógico OU ao invés do operador E no trecho (debito >= tabela[i].de E debito <= tabela[i].ate).

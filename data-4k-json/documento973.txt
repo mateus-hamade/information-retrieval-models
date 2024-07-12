@@ -1,0 +1,10 @@
+Banco de Dados Big Data
+
+A análise de dados prescritiva é uma técnica de análise de dados que 
+
+Alternativas:
+A. se concentra na descrição de dados passados e presentes, com o objetivo de encontrar tendências e padrões que possam ser usados para prever eventos futuros.
+B. usa modelos matemáticos e estatísticos para identificar a melhor solução possível para um determinado problema.
+C. se concentra em identificar as causas subjacentes de um problema e em encontrar maneiras de corrigi-las.
+D. usa algoritmos de aprendizado de máquina para identificar padrões e tendências em grandes conjuntos de dados.
+E. usa modelos de aprendizado profundo para identificar padrões em dados não estruturados.

@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Controle e Repetição
+
+Sobre Estruturas de Seleção/Condição, analise as afirmativas e dê valores Verdadeiro (V) ou Falso (F).  ( ) A instrução else é obrigatória em todas as estruturas de condição. ( ) A instrução else em uma estrutura de condição é executada quando a condição no if é avaliada como falsa. ( ) Estruturas de condição não são necessárias em programação, pois é possível realizar todas as operações sem avaliar condições.  Assinale a alternativa que apresenta a sequência correta de cima para baixo.
+
+Alternativas:
+A. F - F - F
+B. F - V - F
+C. V - F - V
+D. V - V - V

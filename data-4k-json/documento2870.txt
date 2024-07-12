@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Tipos de Dados
+
+As variáveis são construções das linguagens de programação nas quais são armazenados valores durante a execução de um programa. Marque a alternativa que liste somente tipos de dados comumente utilizados em programação:
+
+Alternativas:
+A. Inteiro, For, String.
+B. Condicional, Contador, Algoritmo.
+C. Fungao, Banco de Dados, Sistema Operacional.
+D. Inteiro, Booleano, Caractere.
+E. Booleano, Imperativo, For.

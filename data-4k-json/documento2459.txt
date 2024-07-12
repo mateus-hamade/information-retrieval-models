@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+   Assinale a opção que apresenta a saída resultante da execução do algoritmo antecedente.  
+
+Alternativas:
+A. 12345
+B. 1245
+C. 3
+D. 0124
+E. 1234

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Questão anulada  Observe o algoritmo abaixo, que mostra o uso passagem de parâmetros, por valor da variável RJ para SP e por referência da variável RS para MG.     Após a execução, esse algoritmo irá gerar, respectivamente, os seguintes valores para RS, RJ e XY:  
+
+Alternativas:
+A. FALSO, 23 e 2017.
+B. FALSO, 75 e 2018.
+C. FALSO, 75 e 2017.
+D. VERDADEIRO, 23 e 2017.
+E. VERDADEIRO, 75 e 2018.

@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Estrutura de Controle e Repetição
+
+Em relação aos comandos em pseudocódigo correspondentes às estruturas de decisão e repetição dos algoritmos, correlacione as colunas a seguir:  Comando (pseudocódigo)                          Estrutura de decisão/repetição  I. Se...então                                    ( ) Estrutura de repetição com teste no final II. Escolha...Caso                            ( ) Estrutura de seleção simples III. Repita...Até                               ( ) Estrutura de repetição com variável de controle IV. Para...Até...Faça                       ( ) Estrutura de seleção de múltipla escolha  A sequência CORRETA, de cima para baixo, é:
+
+Alternativas:
+A. II, I, III, IV.
+B. III, II, IV, I.
+C. III, I, IV, II.
+D. IV, I, III, II.

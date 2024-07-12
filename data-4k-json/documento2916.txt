@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Texto associado Ao final da execução do algoritmo, a variável a1 terá um valor
+
+Alternativas:
+A. maior ou igual a 301.
+B. menor ou igual a 50.
+C. entre 51 e 100.
+D. entre 101 e 200
+E. entre 201 e 300

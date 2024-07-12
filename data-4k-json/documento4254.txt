@@ -1,0 +1,10 @@
+Sistemas Operacionais Estrutura do Sistema Operacional
+
+Leia o fragmento de texto a seguir para responder a questão.     Um sistema operacional não é um bloco único e fechado de software executando sobre o hardware. Na verdade, ele é composto de diversos componentes com objetivos e funcionalidades complementares. (adaptado).     Relativo aos componentes mais relevantes de um sistema operacional típico, analise as afirmativas.     I. Núcleo: é o coração do sistema operacional, responsável pela gerência dos recursos do hardware usados pelas aplicações. Ele também implementa as principais abstrações utilizadas pelos aplicativos e programas utilitários.  II. Camada mais baixa: é a camada do sistema operacional que constitui o chamado “núcleo” do sistema (ou (kernel), usualmente executa em um modo especial de operação da memória, denominado modo privilegiado ou modo sistema.  III. Drivers: módulos de código específicos para acessar os dispositivos físicos. Existe um driver para cada tipo de dispositivo, como discos rígidos SATA, portas USB, placas gráficas etc. Muitas vezes, o driver é construído pelo próprio fabricante do hardware e fornecido em forma compilada (em linguagem de máquina) para ser acoplado ao restante do sistema operacional.  IV. Programas utilitários: são programas que facilitam o uso do sistema computacional, fornecendo funcionalidades ao núcleo de forma criptografada, como formatação de discos e mídias, configuração de dispositivos, manipulação de arquivos móveis (mover, copiar, apagar), interpretador de comandos, terminal, interface gráfica, gerência de janelas etc.  V. Código de inicialização: (boot code) a inicialização do hardware requer uma série de tarefas complexas, como reconhecer os dispositivos instalados, testá-los e configurálos adequadamente para seu uso posterior.        Assinale a alternativa CORRETA.  
+
+Alternativas:
+A. Apenas as afirmativas I, II e IV estão corretas.
+B. Apenas as afirmativas III e V estão corretas.
+C. Apenas as afirmativas I, III e V estão corretas.
+D. Apenas as afirmativas I e II estão corretas.
+E. Nenhuma das afirmativas está correta.

@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Vetores
+
+Em algoritmos e estruturas de dados existe um tipo de estrutura chamada vetor. Sobre vetores, assinale a alternativa INCORRETA.  
+
+Alternativas:
+A. Trata-se de variáveis do mesmo tipo, que possuem um mesmo identificador (nome), e são alocadas aleatoriamente na memória.
+B. Como as variáveis tem o mesmo nome, o que as distingue é um índice que referencia sua localização dentro da estrutura.
+C. Na seguinte declaração: 1 DECLARE nome[tamanho] tipo “nome” é o nome da variável, “tamanho” é a quantidade de variáveis que vão compor o vetor e “tipo” é o tipo básico dos dados que serão armazenados no vetor. Em pseudocódigo, uma sintaxe válida de atribuição em um vetor pode ser: X[1] <- 45
+E. Vetor também é conhecido como variável composta homogênea unidimensional.

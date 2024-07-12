@@ -1,0 +1,9 @@
+Banco de Dados Gatilhos (Triggers) , SQL
+
+Um trigger assemelha-se a um procedimento armazenado que é invocado automaticamente, sempre que ocorre um evento previamente especificado. Sobre os diversos tipos de triggers no PL/SQL do SGBD Oracle, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.  ( ) Se o trigger for criado em uma tabela ou visão, o evento de gatilho será composto de instruções SQL do tipo DDL e será chamado de trigger de transição cruzada. ( ) Um trigger condicional pode ser um trigger do tipo DML ou de sistema que possui uma cláusula WHEN que especifica uma condição SQL que avalia para cada linha afetada pelas instruções presentes no trigger. ( ) Quando um trigger é acionado, as tabelas às quais ele faz referência podem estar passando por alterações feitas por instruções SQL nas transações iniciadas por outros usuários. As instruções SQL executadas com prioridade em relação as instruções SQL independentes.  As afirmativas são, respectivamente,
+
+Alternativas:
+A. V – V – F.
+B. V – F – V.
+C. F – V – F.
+D. F – F – V.

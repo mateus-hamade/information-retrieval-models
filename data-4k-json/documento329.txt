@@ -1,0 +1,9 @@
+Banco de Dados SQL
+
+Texto associado Considerando a execução do comando SQL apresentado anteriormente, assinale a coluna do resultado que não contém valores nulos (null). 
+
+Alternativas:
+A. X1.
+B. X3.
+C. X7.
+D. X9.

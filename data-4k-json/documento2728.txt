@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
+
+Assinale a opção correta relativa às operações básicas suportadas por pilhas.
+
+Alternativas:
+A. Push: insere um novo elemento no final da pilha.
+B. Push: coloca um elemento no topo da pilha.
+C. Top: transfere o último elemento para o topo da pilha.
+D. Pop: adiciona elementos ao topo da pilha.

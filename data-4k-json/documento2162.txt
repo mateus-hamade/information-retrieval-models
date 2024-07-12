@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Considere a árvore AVL abaixo.        Marque o item que contém o percurso em pré-ordem após a inserção de um nó contendo o valor 100.  
+
+Alternativas:
+A. 54, 63, 78, 82, 87, 96, 99, 100
+B. 63, 54, 78, 100, 99, 96, 82, 87
+C. 63, 78, 54, 87, 82, 96, 99, 100
+D. 78, 63, 54, 100, 99, 96, 87, 82
+E. 78, 54, 63, 96, 87, 82, 99, 100

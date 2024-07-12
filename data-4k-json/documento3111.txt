@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Filas
+
+O conceito de fila circular pode ser implementado, utilizando um vetor. Supondo ser desejado implementar uma fila de dados com um vetor de N posições, poderemos ter no máximo N elementos na fila. Para controle é criado duas variáveis – INICIO e FIM – que armazenam os índices do vetor e marcam o início e fim da fila, respectivamente.  Considerando que a operação "a%b", retorna o resto da divisão de a por b (operação de Módulo da divisão), a expressão correta para calcular o novo início (INICIO) da fila, após a retirada de um elemento da fila, é 
+
+Alternativas:
+A. INICIO = INICIO+1
+B. INICIO = (INICIO%1)+N
+C. INICIO = INICIO%(N+1)
+D. INICIO = INICIO+(1%N)
+E. INICIO = (INICIO+1)%N

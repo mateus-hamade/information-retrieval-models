@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+Quando a Estrutura de dados é composta por variáveis do mesmo tipo primitivo, têm-se por definição, estruturas compostas: 
+
+Alternativas:
+A. isonômicas;
+B. heterogêneas;
+C. homogêneas;
+D. bidimensionais;
+E. polivalentes.

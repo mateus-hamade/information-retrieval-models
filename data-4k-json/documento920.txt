@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+Suponha que um programador tenha especificado a seguinte sequência de comandos SQL:   set transaction isolation level repeatable read; Select max(salario) from funcionarios; Update funcionarios set salario = salario*10 where salario < (select avg(salario) from funcionarios); commit; Ao definir esse nível de isolamento para sua transação, o programador está sujeito à ocorrência de problemas de acesso concorrente com outras transações. Analise cada assertiva abaixo, assinalando V, se verdadeira, ou F, se falsa. ( ) Leitura suja. ( ) Leitura não repetitiva. ( ) Registro fantasma. A ordem correta de preenchimento dos parênteses, de cima para baixo, é:
+
+Alternativas:
+A. V – V – F.
+B. V – V – V.
+C. F – F – V.
+D. F – V – V.
+E. F – F – F.

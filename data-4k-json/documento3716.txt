@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Recursividade
+
+Texto associado Recursão ocorre quando uma função chama a ela mesma direta ou indiretamente.
+
+Alternativas:
+A. Certo
+B. Errado

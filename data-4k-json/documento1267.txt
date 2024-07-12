@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Filas , Pilhas
+
+Ao lidar com estruturas de dados do tipo, lista, fila, pilha e árvores, quando se trata de acesso a elementos em ordem específica, como exemplo: FIFO (First In, First Out), ou seja, primeiro a entrar, primeiro a sair, e LIFO (Last In, First Out), ou seja, último a entrar, primeiro a sair. Com base neste conceito, assinale qual a estrutura mais adequada.
+
+Alternativas:
+A. Árvore para FIFO e Lista para LIFO
+B. Lista para FIFO e Fila para LIFO
+C. Árvore para LIFO e Fila para FIFO
+D. Fila para FIFO e Pilha para LIFO

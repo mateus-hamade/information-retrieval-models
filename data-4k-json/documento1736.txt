@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+Dentre os problemas identificados pela gerência de um banco comercial, está a localização das contas dos seus titulares nas listagens e nos relatórios impressos em diferentes situações. Um especialista de TI sugeriu ordenar as contas por meio dos CPF dos seus n titulares antes das impressões. Dentre alguns algoritmos pré-selecionados para essa ordenação, o especialista escolheu o algoritmo de ordenação por inserção, no qual o consumo de tempo é, no melhor caso, proporcional a
+
+Alternativas:
+A. n log n
+B. log n
+C. n²
+D. n
+E. 1

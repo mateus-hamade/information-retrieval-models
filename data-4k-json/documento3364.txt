@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Busca , Estrutura de Dados ( assuntos)
+
+Seja um vetor de inteiros com 400 elementos distintos ordenados em ordem crescente.  Qual é o número máximo de iterações necessárias para encontrar um elemento qualquer do vetor caso seja utilizado o algoritmo de busca binária?  
+
+Alternativas:
+A. 7
+B. 8
+C. 9
+D. 200
+E. 400

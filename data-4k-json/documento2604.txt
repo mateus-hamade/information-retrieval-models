@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
+
+A preocupação com a complexidade de algoritmos é de extrema importância para o projeto de algoritmos eficientes. Neste contexto, a complexidade de tempo no pior caso para o algoritmo de ordenação QuickSort é
+
+Alternativas:
+A. O(n²).
+B. O(n).
+C. O(n² Log n).
+D. O(n Log n).
+E. O(n Log n Log n).

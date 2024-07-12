@@ -1,0 +1,9 @@
+Banco de Dados Conceitos Básicos em Banco de Dados
+
+Dados são um conjunto de fatos em estado bruto que podem ser utilizados para tomadas de decisão. Os dados podem ser divididos entre estruturados e não-estruturados. Sobre os dados estruturados, assinale a afirmativa correta.
+
+Alternativas:
+A. Mensagens de e-mail são dados estruturados.
+B. Dados estruturados são organizados em linhas e colunas.
+C. Dados estruturados são armazenados em arquivos no formato “.TXT”.
+D. Mecanismos de busca possuem dificuldade para pesquisar dados estruturados.

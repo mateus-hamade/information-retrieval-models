@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+Considerando-se uma estrutura de dados organizada na forma de uma tabela hash, gravada num HD rígido, com N chaves, na qual a função de espalhamento e o espaço total de armazenagem tenham sido escolhidos de forma que não haja colisões, o número médio de acessos para a recuperação de uma chave é 
+
+Alternativas:
+A. 1
+B. lg2 (N ÷ 2)
+C. N ÷ 2
+D. N
+E. 2N

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Recursividade
+
+Seja a função recursiva f definida como                                      f(a,b)                                        se b = 0 ehtão                                              retorna a                                        senão                                                retorna f(b, a MOD b)  onde x MOD y é o resto da divisão de x por y. O valor de f (30, 21)é
+
+Alternativas:
+A. 0
+B. 1
+C. 3
+D. 7
+E. 9

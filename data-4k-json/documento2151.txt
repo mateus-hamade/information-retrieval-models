@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Filas , Pilhas
+
+A maioria dos softwares de aplicação possui comandos de "Desfazer" e "Refazer". O primeiro desfaz a última operação ou texto digitado, enquanto que, o segundo refaz uma operação ou texto desfeito, conforme sugerem os nomes dos comandos.  Internamente, nos softwares, podem ser usadas duas estruturas de dados que armazenam as sucessivas operações de "Desfazer" e "Refazer", de modo que o próximo "Refazer" sempre recupera o último "Desfazer". Os tipos de estrutura de dados que podem ser usados para "Desfazer" e "Refazer" são, respectivamente: 
+
+Alternativas:
+A. Fila e Fila
+B. Fila e Pilha
+C. Pilha e Fila
+D. Pilha e Pilha
+E. Pilha e Fila duplamente encadeada

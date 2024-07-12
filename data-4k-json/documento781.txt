@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados
+
+Assinale a alternativa que NÃO é um tipo de atributo presente em bancos de dados.
+
+Alternativas:
+A. Atributo derivado.
+B. Atributo composto.
+C. Atributo chave.
+D. Atributo redundante.
+E. Atributo multivalorado.

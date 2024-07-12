@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Busca
+
+Analise as sentenças relacionadas abaixo, retiradas da obra Projeto de algoritmos com implementações em Pascal e C, de Ziviani (1999), acerca de métodos de pesquisa em memória primária. I - Método de pesquisa para registros ordenados que consiste em comparar a chave com o registro que está no meio da tabela, se a chave é menor, então o registro procurado está na primeira metade da tabela; se a chave é maior, então o registro procurado está na segunda metade da tabela. O processo é repetido até que a chave seja encontrada ou retorne pesquisa sem sucesso. II - Neste método de pesquisa, podemos implementá-lo de duas maneiras: não-balanceada e balanceada. Ambas possuem nodos, todo nodo interno contém um registro e, para cada nodo, a seguinte propriedade é verdadeira: todos os registro com chaves menores estão à esquerda, e todos os registros com chaves maiores estão à direita. III - O método de pesquisa mais simples que existe e funciona da seguinte forma: a partir do primeiro registro, pesquise sequencialmente até encontrar a chave procurada ou o fim do registro e, então, pare. Tais sentenças se referem, respectivamente, aos métodos de pesquisa: 
+
+Alternativas:
+A. Quicksort, em Árvore e Bubblesort.
+B. Binário, em Árvore e Sequencial.
+C. Árvore, Quicksort e Bubblesort.
+D. Bubblesort, Quicksort e Binário.
+E. Quicksort, Bubblesort e em Árvore.

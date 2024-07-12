@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Considere o algoritmo abaixo, descrito em pseudocódigo.    Suponha que os dados de entrada SALARIO e TITULO sejam, respectivamente, "1000,00" e "Doutor". Qual o valor do salário com a gratificação, em reais, que será apresentado na saída do algoritmo?
+
+Alternativas:
+A. 1000,00
+B. 2000,00
+C. 3000,00
+D. 5000,00
+E. 6000,00

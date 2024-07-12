@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+Texto associado A eficácia do método de ordenação rápida (quicksort) depende da escolha do pivô mais adequado ao conjunto de dados que se deseja ordenar. A situação ótima ocorre quando o pivô escolhido é igual ao valor máximo ou ao valor mínimo do conjunto de dados. 
+
+Alternativas:
+A. Certo
+B. Errado

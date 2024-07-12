@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+Texto associado Considerando o modelo ER apresentado pela Figura 1, pretende-se implementar uma expressão SQL para apresentar o nome de todos os empregados (emp_nome), a descrição APENAS do último cargo (car_descricao) que cada um assumiu, bem como a data de início (emc_inicio) nesse último cargo. Sendo assim, analise as assertivas abaixo.   Quais estão corretas? 
+
+Alternativas:
+A. Apenas I.
+B. Apenas I e II.
+C. Apenas I e III.
+D. Apenas II e III.
+E. I, II e III.

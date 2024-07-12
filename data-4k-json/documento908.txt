@@ -1,0 +1,10 @@
+Banco de Dados Arquitetura de Banco de Dados , Modelagem de dados
+
+Considere a seguinte representação de um modelo hierárquico de dados:  De acordo com essa figura, os itens indicados como I e II representam, respectivamente, registro 
+
+Alternativas:
+A. principal e registro secundário.
+B. inicial e registro final.
+C. proprietário e registro membro.
+D. principal e registro auxiliar.
+E. total e registro parcial.

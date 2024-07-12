@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Texto associado No algoritmo abaixo, se o valor de c for igual a 15, então o resultado será igual a 59.   
+
+Alternativas:
+A. Certo
+B. Errado

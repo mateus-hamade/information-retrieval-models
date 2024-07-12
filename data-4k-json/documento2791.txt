@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Analise o algoritmo de Euclides a seguir, que permite a determinação do Máximo Divisor Comum - MDC entre dois números inteiros (x e y)     INÍCIO  1. Pedir para o usuário fornecer valores inteiros para x e y.  2. Enquanto y e” 0 Faça  3. r resto da divisão entre x e y.  4. x y.  5. y r.  6. Fim enquanto.  7. Exiba para o usuário o MDC procurado e que está em x.  FIM     Supondo-se que a entrada do usuário seja 5 e 2, ou seja x=5 e y=2, podemos concluir de forma correta que   
+
+Alternativas:
+A. o algoritmo exibirá um resultado final.
+B. x em algum momento terá valor = 3.
+C. r em algum momento terá valor = 5.
+D. o algoritmo possui fim se alterada a linha 2 para Enquanto y = 0 Faça.
+E. Todas as alternativas estão incorretas.

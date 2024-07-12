@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+Texto associado De acordo com a tabela T1, descrita anteriormente, analise o comando SQL a seguir.  select * from T1 UNION ALL select * from T1 UNION select * from T1  Afora os títulos, o número de linhas produzidas pela execução do comando acima é:
+
+Alternativas:
+A. 1;
+B. 2;
+C. 3;
+D. 6;
+E. 9.

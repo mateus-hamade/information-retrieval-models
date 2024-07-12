@@ -1,0 +1,10 @@
+Arquitetura de Computadores Memória
+
+A BIOS de um computador pessoal deve ser gravada em memória do tipo  
+
+Alternativas:
+A. EEPROM.
+B. RAM.
+C. PROM.
+D. SRAM.
+E. ROM.

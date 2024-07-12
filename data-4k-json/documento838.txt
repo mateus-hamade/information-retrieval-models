@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+Sobre o Doctrine, analise as assertivas abaixo, assinalando V, se verdadeiras, ou F, se falsas. ( ) O mapeamento objeto-relacional deve ser especificado preferencialmente em XML. ( ) Consultas a bancos de dados podem ser escritas em DQL (Doctrine Query Language). ( ) Qualquer objeto que se deseja salvar no banco de dados é chamado de entity. A ordem correta de preenchimento dos parênteses, de cima para baixo, é:
+
+Alternativas:
+A. F – V – V.
+B. F – V – F.
+C. F – F – V.
+D. V – F – V.
+E. V – V – F.

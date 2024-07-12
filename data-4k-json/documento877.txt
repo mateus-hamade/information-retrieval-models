@@ -1,0 +1,10 @@
+Banco de Dados DW - Data Warehouse , Big Data
+
+Na era do big data, as empresas precisam utilizar repositórios e tecnologias para armazenamento, tratamento e análise desse grande volume de dados, dentre as quais, encontram-se:
+
+Alternativas:
+A. os sistemas OLAP, que têm foco no nível operacional da organização, proporcionando alta velocidade na consulta, inserção, alteração e exclusão de dados. Os dados, voláteis, são armazenados em SGBDs relacionais e a sua atualização é feita no momento da transação.
+B. os Data Warehouses, que proporcionam alto desempenho para consulta de dados históricos. Os dados são obtidos de diversas fontes, passam por um processo de ETL e geralmente são armazenados em um modelo dimensional como Star e Snowflake.
+C. as ferramentas OLAP, que utilizam a técnica de argumentação ativa, isto é, ao invés de o gestor definir o problema, selecionar os dados e as ferramentas para analisá-los, as ferramentas OLAP pesquisam automaticamente a base de dados à procura de anomalias e possíveis relacionamentos, identificando problemas que não tinham sido detectados pelo gestor.
+D. as análises de BI, que utilizam algoritmos estatísticos e técnicas de machine learning para identificar a probabilidade da ocorrência de resultados futuros a partir de dados históricos armazenados em data lakes.
+E. as ferramentas de Data Mining, que combinam os melhores elementos de Data Lakes e de Data Warehouses, formando um sistema aberto e padronizado, capaz de estruturar os dados e os recursos de gerenciamento de dados, de forma a proporcionar ao gestor uma exploração detalhada dos dados em busca de informações para a tomada de decisão.

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Grafos
+
+   Considerando o grafo precedente, assinale a opção correta.  
+
+Alternativas:
+A. Os nós 1 e 4 são adjacentes.
+B. O nó 5 é adjacente a si mesmo.
+C. Os arcos a1 e a2 são arcos irmãos.
+D. Os nós 2 e 3 têm grau 3.
+E. O grafo não pode ser classificado como conexo.

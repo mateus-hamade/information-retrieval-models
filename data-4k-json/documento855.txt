@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados Multidimensionais
+
+Em um banco de dados, geralmente há muitas maneiras de tratamento de usuários, cada um dos quais pode exigir uma perspectiva ou visão diferente do banco de dados. Uma visão pode ser um subconjunto do banco de dados ou pode conter dados virtuais derivados dos seus arquivos, mas não explicitamente armazenados, assim alguns usuários não precisam saber se os dados a que se referem são armazenados ou derivados. Dessa forma, um SGBD multiusuários cujos usuários possuem uma variedade de aplicações distintas deve fornecer essas facilidades. Essas afirmações se referem a qual conceito?
+
+Alternativas:
+A. Múltiplas Visualizações dos Dados.
+B. Acesso monousuário.
+C. Isolamento entre programas e dados.
+D. Abstração de dados.
+E. Natureza autodescritiva.

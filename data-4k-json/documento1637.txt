@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Algoritmos de Ordenação ( assuntos)
+
+Considere o pseudocódigo do método de ordenação Insertion Sort, o qual ordena em ordem crescente os números naturais armazenados em um vetor (array) v de tamanho t indexado a partir de zero (ou seja, índices do vetor variam de 0 a t-1). Assinale a alternativa que completa corretamente o espaço pontilhado entre chaves do pseudocódigo abaixo.  função Ordena(v, t) {      i ← 1      enquanto i < t faça      {            j ← i           enquanto j > 0 e v[j-1] > v[j] faça           {                .....................           }           i ← i + 1      } }
+
+Alternativas:
+A. x ← v[j] v[j] ← v[j - 1] v[j – 1] ← x j ← j + 1
+B. x ← v[j] v[j] ← v[j - 1] v[j – 1] ← x j ← j - 1
+C. x ← v[j] v[j] ← v[j + 1] v[j + 1] ← x j ← j - 1
+D. x ← v[j] v[j] ← v[j + 1] v[j + 1] ← x j ← j + 1
+E. x ← v[j] v[j] ← v[j - 1] v[j – 1] ← x j ← j – 2

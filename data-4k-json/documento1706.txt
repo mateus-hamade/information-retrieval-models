@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Listas
+
+Analise as afirmações, a seguir, a respeito de Listas: I - Uma lista é uma coleção de elementos que podem ser de tipos mistos. II - Listas são estruturas muito flexíveis, porque podem crescer ou diminuir de tamanho, durante a execução de um programa. III - Toda lista deve seguir determinada organização, que é padrão para qualquer lista. Estão corretas as afirmações:
+
+Alternativas:
+A. I e II.
+B. II, apenas.
+C. III, apenas.
+D. II e III.

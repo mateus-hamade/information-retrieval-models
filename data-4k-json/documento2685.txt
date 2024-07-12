@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+O código de Huffman, comumente utilizado em procedimentos para compressão de dados, baseia-se na utilização de códigos de tamanho:
+
+Alternativas:
+A. fixo, que dependem da probabilidade de ocorrência de cada possível símbolo de entrada;
+B. variável, que dependem da probabilidade de ocorrência de cada possível símbolo de entrada;
+C. fixo, que estabelecem uma espécie de índice, que é associado a cada possível símbolo de entrada;
+D. variável, que dependem da ordenação lógica de todos os possíveis símbolos de entrada;
+E. fixo, que são importados de uma biblioteca padrão previamente estabelecida para cada tipo de símbolo.

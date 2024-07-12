@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+A linguagem SQL pode ser dividida em DDL (Data Definition Language) e DML (Data Manipulation Language), e alguns autores também usam DQL (Data Query Language) como uma categoria especial da DML. Dentro da DML estão todos os comandos iniciados com a cláusula SELECT. Assinale a alternativa que apresenta comandos válidos em uma consulta (comandos DML).
+
+Alternativas:
+A. UPDATE, ORDER BY e DELETE
+B. UNION, WHERE e CONSTRAINT_X
+C. CREATE DATABASE e DROP DATABASE
+D. UNION e CREATE TABLE
+E. GROUP BY, HAVING e ORDER BY

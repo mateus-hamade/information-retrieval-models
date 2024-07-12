@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos
+
+Analise o algoritmo abaixo, escrito no software VisuAlg 3.0:                       O que será impresso a partir da execução do algoritmo?  
+
+Alternativas:
+A. IDDIDD
+B. IDIDID
+C. IIIDDD
+D. DIDIDI
+E. DDIDDI

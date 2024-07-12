@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Observe o gráfico a seguir.     Disponível em: <http://cursos.leg.ufpr.br/ML4all/apoio/reamostragem.html>. Acesso em: mar. 2024.  O gráfico representa as regiões de overfitting e underfitting, permitindo uma avaliação do relacionamento da complexidade do modelo de aprendizagem de máquina com o erro de predição. A partir do exposto no gráfico, o erro de generalização do modelo ocorre na região: 
+
+Alternativas:
+A. entre as duas curvas, na região à esquerda do ponto A.
+B. sobre o ponto A.
+C. entre as duas curvas, na região indicada pela letra B.
+D. acima do ponto A.

@@ -1,0 +1,10 @@
+Sistemas Operacionais Gerência de Memória
+
+Assinale a única alternativa que preenche corretamente a lacuna em branco. ________________ consiste no processo em que os endereços lógicos são transformados em endereços físicos, recalculados a partir da diferença entre as origens do programa em disco e na memória, no instante do carregamento do programa.
+
+Alternativas:
+A. Relocação Estática
+B. Relocação Dinâmica
+C. Cache
+D. Clock-FINUFO
+E. Nível de multiprocessamento

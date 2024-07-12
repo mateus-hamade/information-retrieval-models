@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Testes lógicos são amplamente utilizados em lógicas de programação durante a construção de um algoritmo. Nesse contexto, assinale a alternativa que apresenta o nome de uma estrutura que tem por objetivo tomar uma decisão de acordo com o resultado de apenas uma condição de um teste lógico, sendo que esta deve ser verdadeira para que o comando possa ser executado, já que, caso não seja verdadeiro o teste lógico, o comando não será executado.
+
+Alternativas:
+A. Desvio Condicional Composto.
+B. Desvio Encadeado.
+C. Desvio Condicional Complexo.
+D. Desvio Condicional Simples.
+E. Desvio com Condição Múltipla.

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+A ordenação de elementos em um vetor pode ser executada a partir de diversos algoritmos conhecidos e que são adequados para situações específicas. Sobre algoritmos de ordenação, dadas as seguintes afirmativas,  I. O algoritmo Bubble Sort é eficiente para ordenar poucos elementos, mas é lento para ordenar muitos itens.  II. O algoritmo Selection Sort para ordenação crescente consiste em mover o menor valor do vetor para a primeira posição, depois o segundo menor para a segunda posição e assim sucessivamente até os dois últimos valores.   III. O algoritmo Quick Sort ordena os valores de um vetor através de sucessivas seleções do elemento correto a ser posicionado em um segmento ordenado.  verifica-se que está(ão) correta(s)   
+
+Alternativas:
+A. I, apenas.
+B. II, apenas.
+C. I e II, apenas.
+D. I e III, apenas.
+E. I , II e III.

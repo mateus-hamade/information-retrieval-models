@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Grafos , Hashing ( assuntos)
+
+Leia a frase abaixo referente aos conceitos básicos sobre Estruturas de Dados. "Existem diversas Estruturas de Dados utilizadas na programação, quatro exemplos principais são: ______"  Assinale a alternativa que preencha corretamente a lacuna.
+
+Alternativas:
+A. Framework, Tipado, Full-Stack e Shell
+B. Listas, Árvores, Grafos e Tabelas Hash
+C. Plugin, BootStrap, Grafos e Tabelas Hash
+D. Framework, Árvores, Grafos e Tipado
+E. Listas, Árvores, Full-Stack e Shell

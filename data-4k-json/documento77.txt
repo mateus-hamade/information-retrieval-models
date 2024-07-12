@@ -1,0 +1,9 @@
+Banco de Dados DW - Data Warehouse
+
+À medida que as organizações começaram a utilizar múltiplos repositórios ou bancos de dados para armazenar diferentes tipos de informações de negócios, a necessidade de integrar os dados cresceu rapidamente e ETL tornou-se o método padrão utilizado na construção de Data Warehouse (DW). As ferramentas ETL em um Data Warehouse (DW) possuem a função de:
+
+Alternativas:
+A. definir as regras de negócio para que os filtros sejam aplicados sobre dados heterogêneos.
+B. fazer a extração, limpeza e reformatação dos dados, para que estes possam ser carregados no DW.
+C. estabelecer regras de filtragem multidimensional dos dados, gerando visões específicas de acordo com as regras de negócio.
+D. gerar metadados que poderão alimentar ferramentas de data minning, OLAP e Big Data.

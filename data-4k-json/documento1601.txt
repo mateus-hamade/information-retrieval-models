@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Texto associado Considere o trecho de código abaixo presente no código apresentado anteriormente. se i=1 entao m<-v[i] fimse  Se o fragmento de código acima fosse substituído, no programa original, pelos trechos apresentados nas alternativas abaixo, qual alternativa não alteraria o comportamento original do programa? 
+
+Alternativas:
+A. se i=1 entao m<-v[2] fimse
+B. m<-v[0]
+C. m<-0
+D. m<-i
+E. m<-10

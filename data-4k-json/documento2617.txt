@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Filas
+
+Considerando uma estrutura de dados do tipo fila, e a seguinte sequência de comandos sobre essa fila (sendo que o comando Push representa uma inserção de elemento e o comando Pop representa uma exclusão de elemento) e considerando também que a fila estava inicialmente vazia:  Push 3, Push 5, Pop 3, Push 7, Pop 5, Push 9, Push 8  Após a execução dessa sequência de comandos, o conjunto de elementos que resulta na fila é:  
+
+Alternativas:
+A. 3 − 5 − 7 − 9 − 8.
+B. 7 − 9 − 8 − 3 − 5.
+C. 3 − 3 − 5 − 5 − 7 − 9 − 8.
+D. 7 − 9 − 8.
+E. 3 − 5 − 3 − 7 − 5 − 9 − 8.

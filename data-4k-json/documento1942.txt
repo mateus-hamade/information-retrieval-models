@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+ Considerando que os símbolos w, ~, ÷, ø e v representem as operações lógicas “ou”, “não”, “condicional”, “bicondicional” e “e”, respectivamente, julgue os itens a seguir, acerca da proposição composta P: (pw~q)ø(~pvr), em que p, q e r são proposições distintas. O número de linhas da tabela-verdade de P é igual a 16.  
+
+Alternativas:
+A. Certo
+B. Errado

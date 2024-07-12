@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados Relacionais
+
+Em um banco de dados relacional, o índice 
+
+Alternativas:
+A. garante a consistência dos dados, evitando conflitos e duplicidades.
+B. permite a criação de relacionamentos entre tabelas, garantindo a integridade referencial.
+C. é responsável por controlar o acesso e a autenticação dos usuários, garantindo a segurança dos dados.
+D. permite a organização física dos registros, melhorando o desempenho das consultas.
+E. facilita a modelagem conceitual, definindo os atributos e as entidades do sistema.

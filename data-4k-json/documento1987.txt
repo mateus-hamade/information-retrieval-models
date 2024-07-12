@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+Método de Ordenação que utiliza-se do método da divisão e conquista para ordenação do vetor. Sua complexidade é dada por O(n lg(n)). Em sua técnica, escolhe um elemento denominado de pivô (um dos elementos a serem ordenados) e separa os elementos em 2 partes, de modo que os elementos menores que o pivô ficam à esquerda e os elementos maiores que o pivô ficam à direita. Esse processo é repetido recursivamente até que todos os elementos estejam ordenados. Como se denomina Método de Ordenação?
+
+Alternativas:
+A. Bubble Sort.
+B. Quick Sort.
+C. Merge Sort.
+D. Bucket Sort.
+E. Selection Sort.

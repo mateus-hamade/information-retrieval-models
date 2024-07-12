@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
+
+No contexto de estruturas de dados, considere uma lista encadeada L, não ordenada, contendo N elementos. A complexidade do algoritmo de inserção nessa lista é: 
+
+Alternativas:
+A. log N;
+B. N;
+C. N log N;
+D. N2;
+E. 1.

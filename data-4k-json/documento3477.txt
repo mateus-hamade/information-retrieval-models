@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados , Filas
+
+Considere uma estrutura do tipo FILA, sobre a qual podemos executar 3 tipos de funções criadas por um programador: Coloq( ) = insere um elemento na FILA, sendo que este elemento será especificado entre parênteses. Retirar( ) = retira um ou mais elementos da FILA, o número de elementos a ser retirado será especificado entre parenteses. INI = inicializa uma FILA inserindo nela um ou mais elementos. Após a execução de INI, ou de qualquer outra daquelas funções,cada elemento inserido será manipulado individualmente, ou seja, a execução dos comandos coloq(5),coloq(5), coloq(5), é equivalente a coloq(555) OBs: Considere o final da fila a esquerda e o início a direita. Por exemplo: Após a execução de INI (100000005) 5 será o primeiro elemento e 1 o último.  Com base nestas informações responda: Qual será o conteúdo de uma FILA após a execução da seguinte série de operações:  INI( 235916770) / coloq(333)/ coloq(0055) / Retirar(3) /coloq(10) / retirar(6)/ coloq(6770)/ coloq(23591). 
+
+Alternativas:
+A. 677010005533
+B. 23591100055333
+C. 333550001077619532
+D. 235916077100055333
+E. 235916770100055333

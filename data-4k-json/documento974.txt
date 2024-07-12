@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados
+
+O objetivo principal do uso de técnicas de Agrupamento (Clustering) em Análise de Dados é dividir um grande conjunto de dados em subconjuntos, agrupando elementos similares em categorias distintas. Assinale a opção que indica o tipo de algoritmo que não se enquadra nessa descrição. 
+
+Alternativas:
+A. K-Means.
+B. Gaussian Mixture Models (GMM).
+C. DBSCAN.
+D. K-Medoids.
+E. Regressão Linear.

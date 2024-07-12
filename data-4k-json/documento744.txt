@@ -1,0 +1,10 @@
+Banco de Dados DW - Data Warehouse
+
+Observe o modelo multidimensional de dados de um Data Warehouse a seguir.        O tipo de modelagem multidimensional empregada é:  
+
+Alternativas:
+A. Star Schema;
+B. Snowflake Schema;
+C. Fact Constellation;
+D. Data Lake;
+E. Data Mart.

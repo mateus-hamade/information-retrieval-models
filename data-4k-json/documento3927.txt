@@ -1,0 +1,10 @@
+Programação Linguagens de programação , C
+
+Um programador precisa desenvolver um sistema embarcado para controle de hardware em dispositivos IoT (Internet das Coisas). Qual linguagem abaixo seria a mais indicada por permitir um controle fino sobre os recursos do sistema e eficiência na execução?
+
+Alternativas:
+A. PHP;
+B. Swift;
+C. JavaScript;
+D. Python;
+E. C.

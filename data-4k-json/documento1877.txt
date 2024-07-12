@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+Sobre a estrutura de dados fila dupla, também conhecida como deque, analisar os itens abaixo: I. É permitido o acesso a qualquer uma das duas extremidades da lista. II. O acesso ocorre somente às extremidades da lista. III. Inserções, alterações, remoções e consultas podem ser realizadas tanto no início quanto no final da fila dupla. Estão CORRETOS:
+
+Alternativas:
+A. Somente os itens I e II.
+B. Somente os itens I e III.
+C. Somente os itens II e III.
+D. Todos os itens.

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+Sobre o Método de Ordenação Merge Sort, é CORRETO afirmar que:
+
+Alternativas:
+A. o Merge Sort, ou Ordenação por Mistura, é um algoritmo de ordenação por inserção.
+B. o Merge Sort, ou Ordenação por Mistura, é um algoritmo de ordenação por seleção.
+C. o Merge Sort, ou Ordenação por Mistura, é mais eficiente que o Método da Bolha (Bubble Sort) apenas nos casos em que há poucos dados a serem ordenados.
+D. o Merge Sort é mais eficiente que o Método da Bolha (Bubble Sort) em todos os casos.
+E. o Merge Sort, ou Ordenação por Mistura, é um algoritmo de ordenação que usa a estratégia dividir-para-conquistar.

@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação , Complexidade de Algoritmos
+
+Sobre a análise de algoritmos, é CORRETO afirmar que
+
+Alternativas:
+A. o algoritmo MERGE-SORT é um algoritmo que recebe como entrada duas listas ordenadas e retorna a junção ordenada delas.
+B. o BUBBLE-SORT e o algoritmo de ordenação por inserção fazem, em média, o mesmo número de comparações.
+C. o algoritmo BUBBLE-SORT é um exemplo de algoritmo de ordenação que utiliza a técnica dividir para conquistar.
+D. tanto o algoritmo QUICKSORT quanto o de ordenação por inserção tem complexidade O(n × log n).
+E. o desempenho na execução do algoritmo QUICK-SORT independe da escolha do pivô.

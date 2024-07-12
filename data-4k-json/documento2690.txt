@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+O resultado final das variáveis k, y e x do trecho do algoritmo em pseudocódigo abaixo é, respectivamente,                            k=10                           y=0                           enquanto y < 10                                          k = k - 2                                          y = y + 3                                          x = 1 - y * k                                          fim_enquanto  
+
+Alternativas:
+A. 2, 12 e -22.
+B. 2, 12 e -23.
+C. 4, 9 e -23.
+D. 4, 9 e -35.
+E. 10, 0 e 0.

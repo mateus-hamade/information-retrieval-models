@@ -1,0 +1,9 @@
+Segurança da Informação Backup em Segurança da Informação
+
+Ao realizar um backup, se o sistema copiar somente os arquivos que foram modificados a partir da última cópia de segurança realizada, a estratégia implementada, nesse caso, corresponde ao(à):
+
+Alternativas:
+A. checkpoint periódico
+B. dumping periódico
+C. cópia incremental
+D. cópia física

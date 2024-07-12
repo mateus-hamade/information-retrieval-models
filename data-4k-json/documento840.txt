@@ -1,0 +1,10 @@
+Banco de Dados SGBD - Sistema de Gerenciamento de Banco de Dados
+
+Analise os sistemas gerenciadores de bancos de dados (SGDBs) abaixo: • MariaDB. • MySQL. • Oracle DB. • PostgreSQL. • SQL Server. Quantos são do tipo relacional? 
+
+Alternativas:
+A. 1.
+B. 2.
+C. 3.
+D. 4.
+E. 5.

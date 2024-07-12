@@ -1,0 +1,9 @@
+Banco de Dados Banco de Dados Orientados a Objetos , SQL
+
+Considerando as propriedades dos bancos de dados NoSQL do tipo orientados a documentos, analise as afirmativas a seguir.  I. No primeiro nível, os documentos possuem estrutura interna própria, porém o termo documento é totalmente apropriado uma vez que, explicitamente, não podem ser arquivos multimídia ou outros tipos não estruturados. No segundo nível, documentos são armazenados em uma espécie de chave-valor. Para cada chave (ID do documento), um registro pode ser armazenado como valor, sendo que esses registros são chamados de documentos. II. Os documentos armazenados são completamente livres de esquemas, ou seja, não há necessidade de definir um esquema antes de inserir estruturas de dados. A responsabilidade é, portanto, transferida ao usuário ou ao aplicativo de processamento. III. Os documentos contêm estruturas de dados na forma de pares atributo-valor recursivamente aninhados sem integridade referencial; essas estruturas de dados são livres de esquema, ou seja, atributos arbitrários podem ser usados em cada documento sem definir primeiro um esquema.  Está correto o que se afirma em 
+
+Alternativas:
+A. I apenas.
+B. III apenas.
+C. I e II, apenas.
+D. II e III, apenas.

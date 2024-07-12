@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Hashing
+
+Assinale a opção correspondente a estrutura de dados que utiliza uma função de dispersão que gera um índice a partir de determinada chave e que, para resolver os problemas de colisões, é combinada com outros tipos de estrutura de dados.
+
+Alternativas:
+A. listas encadeadas
+B. quicksort
+C. árvore binária
+D. vetores
+E. tabela hash

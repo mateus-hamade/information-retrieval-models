@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+Em relação às estruturas de dados, é correto afirmar: 
+
+Alternativas:
+A. LIFO refere-se à estrutura de dados do tipo pilha, que nada mais é do que uma lista linear, sem disciplina de acesso, onde o primeiro elemento a entrar é o último a sair.
+B. Guardar endereço de memória em "nós", normalmente identificados por previous ou next, é uma característica presente nas listas duplamente encadeadas.
+C. Nos sistemas operacionais, a execução dos processos concorrentes ocorre segundo os princípios da estrutura FILO.
+D. Um grafo com um único vértice e sem arestas é conhecido como dígrafo.
+E. Em árvores binárias, uma das operações importantes consiste em percorrer cada elemento da árvore uma única vez, consistindo unicamente na pré-ordem, onde o nó é processado antes de seus "nós" filhos.

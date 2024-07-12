@@ -1,0 +1,10 @@
+Banco de Dados DW - Data Warehouse
+
+O TJSE está construindo um ambiente analítico de dados por meio do desenvolvimento de um Data Warehouse. Para isso, solicitou ao analista de infraestrutura Juca a disponibilização de um banco de dados, acessível apenas pelos desenvolvedores, para armazenar temporariamente os dados que estão sendo extraídos das fontes e transformados para serem carregados no ambiente de consultas analíticas.  Para isso, Juca deverá disponibilizar um(a):
+
+Alternativas:
+A. ETL;
+B. OLAP;
+C. Stage Area;
+D. Cubo de Dados;
+E. Repositório de Metadados.

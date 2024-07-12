@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+A Figura a seguir exibe uma árvore binária.                    Suponha que uma função percorra essa árvore em ordem simétrica e exiba os valores de seus nós no console.  Um dos possíveis somatórios do 2º , do 3º e do 4º valores exibidos por essa função é  
+
+Alternativas:
+A. 90
+B. 120
+C. 130
+D. 150
+E. 200

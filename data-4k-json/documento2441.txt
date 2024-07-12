@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+Considere a estrutura de dados abaixo.        Esta estrutura representa cinco localidades indicadas por 0, 1, 2, 3, 4 com as rotas e as respectivas distâncias entre elas. Por exemplo, da localidade 0 há rota para a localidade 1 (distância 10) e para a localidade 2 (distância 5). Um Especialista em Tecnologia da Informação da ARTESP afirma, corretamente, que  
+
+Alternativas:
+A. partindo de qualquer uma das localidades é possível ir para todas as outras e voltar para a localidade de origem.
+B. a distância da rota direta partindo de uma localidade x para uma localidade y não é a mesma da rota de retorno de y para x.
+C. a rota direta mais longa entre duas localidades é 9.
+D. a rota mais curta partindo da localidade 3 e chegando na localidade 2 é 9.
+E. é possível ir e voltar de todas as localidades adjacentes.

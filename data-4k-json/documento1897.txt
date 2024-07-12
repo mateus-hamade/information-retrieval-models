@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
+
+Assinale a alternativa que apresenta o tempo de execução do pior caso e do melhor caso para o algoritmo quicksort ou ordenação rápida. 
+
+Alternativas:
+A. Pior caso: O(n2); melhor caso: O(n).
+B. Pior caso: O(n lg n); melhor caso: O(n).
+C. Pior caso: O(n); melhor caso: O(n + m).
+D. Pior caso: O(n lg n); melhor caso: O(n + m).
+E. Pior caso: O(n2); melhor caso: O(n lg n).

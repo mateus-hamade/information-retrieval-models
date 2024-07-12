@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+Uma função SQL é um comando que manipula itens de dados e retorna um único valor. Analise as assertivas abaixo em relação às funções SQL:   I.   Aggregate_function são funções agregadas, retornam uma única linha de resultado com base em grupos de linhas ao invés de linhas únicas. II. As funções SQL são integradas ao Oracle Database e estão disponíveis em diversas instruções SQL apropriadas. III. Ao chamar uma função SQL com argumento de um tipo de dados diferente do tipo esperado pela função, o Oracle tentará converter o argumento no tipo de dados esperado antes de executar a função.   Quais estão corretas?
+
+Alternativas:
+A. Apenas I.
+B. Apenas III.
+C. Apenas I e II.
+D. Apenas II e III.
+E. I, II e III.

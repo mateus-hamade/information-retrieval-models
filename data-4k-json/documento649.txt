@@ -1,0 +1,10 @@
+Banco de Dados DW - Data Warehouse , OLAP (On-line Analytical Processing) , Data Mining ( assuntos)
+
+Conhecido também como mineração de dados, sua função principal é a varredura de grande quantidade de dados à procura de padrões e detecção de relacionamentos entre informações, gerando novos subgrupos de dados. Usado comumente em grandes bancos de dados, pode-se considerar que é como um agregador e organizador de dados. Trata-se do conceito de:
+
+Alternativas:
+A. Data Warehouse.
+B. OLAP.
+C. Data Mart.
+D. Business Intelligence.
+E. Data Mining.

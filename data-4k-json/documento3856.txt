@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Questão anulada  Sejam duas expressões chamadas de A e B. De acordo com a tabela verdade mostrada abaixo, marque a alternativa para a condição de verdade uma expressão com A e B    
+
+Alternativas:
+A. A expressão será verdadeira, se e somente se, A e B forem iguais.
+B. A expressão será verdadeira, se e somente se, A e B são verdadeiros.
+C. A expressão será verdadeira, se e somente B for verdadeiro.
+D. A expressão será verdadeira, se e somente A for verdadeiro.
+E. A expressão será verdadeira, A e B forem falsos.

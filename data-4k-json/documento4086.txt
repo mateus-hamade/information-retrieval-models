@@ -1,0 +1,10 @@
+Segurança da Informação Criptografia
+
+Para criptografar uma informa o podem ser utilizados dois métodos baseado em códigos e baseado em cifras E PEREIRA; CHIARAMONTE, 2005). A respeito do método baseado em códigos é CORRETO afirmar:
+
+Alternativas:
+A. o método de códigos utiliza-se de duas técnicas para encriptar a informação sendo essas a transposição e/ou substituição do conteúdo original da mensagem por meio de algoritmos.
+B. o método de códigos mais utilizados s o as de transposição, que consistem em embaralhar os caracteres da informação contida no texto original.
+C. o método de códigos transforma parte da informação em códigos predefinidos, geralmente seguindo algum padrão de códigos, como por exemplo, o código morse.
+D. o método de códigos utiliza códigos de substituição a partir de tabelas de substituição predefinidas, que trocam ou substituem um ou mais caracteres da informação original.
+E. o método de códigos realizado por meio da mistura e ou substituição das letras da mensagem original. Transformação de caractere por caractere (ou de bit por bit). Não considera a estrutura linguística da mensagem.

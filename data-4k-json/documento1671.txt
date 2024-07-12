@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Recursividade
+
+Julgue o item subsequente, a respeito de algoritmos para ordenação e pesquisa e de programação recursiva.      Uma função é dita recursiva quando, dentro dela, é feita uma ou mais chamada a ela mesma.   
+
+Alternativas:
+A. Certo
+B. Errado

@@ -1,0 +1,10 @@
+Banco de Dados MySQL
+
+Assinale a opção em que é apresentada a instrução utilizada para alterar alguma propriedade de campo de uma tabela em um banco de dados. 
+
+Alternativas:
+A. INSERT
+B. UPDATE
+C. ALTER
+D. DROP
+E. TRUNCATE

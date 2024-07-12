@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Tício, técnico educacional, resolveu se especializar em programação e aprendeu a criar algoritmo, que é uma:
+
+Alternativas:
+A. sequência de instruções ou comandos realizados de maneira sistemática com o objetivo de resolver um problema ou executar uma tarefa
+B. simulação de programa de computador utilizado pelos gamers, capaz de prever jogadas do adversário
+C. coletânea de informações sobre determinado programa, englobando segurança, layout e design
+D. antologia de instruções sobre o funcionamento de um hardware

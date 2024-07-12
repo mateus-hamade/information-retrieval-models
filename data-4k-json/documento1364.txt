@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Listas
+
+Uma lista ligada é uma estrutura de dados na qual os objetos estão organizados em ordem linear. Entretanto, diferentemente de um arranjo, no qual a ordem linear é determinada pelos índices do arranjo, a ordem em uma lista ligada é determinada por um ponteiro em cada objeto. Em relação à tabela de espalhamento, segundo Cormen (2012), analise os itens a seguir:  I. Uma lista pode ter uma entre várias formas; ela pode ser simplesmente ligada ou duplamente ligada, pode ser ordenada ou não e pode ser circular ou não. II. Se uma lista é simplesmente ligada, omitimos o ponteiro anterior em cada elemento. III. Se a lista é não ordenada, os elementos podem aparecer em qualquer ordem.  Está CORRETO o que se afirma em:
+
+Alternativas:
+A. Nenhum dos itens é verdadeiro.
+B. I e II, apenas.
+C. II e III, apenas.
+D. I e III, apenas.
+E. I, II e III.

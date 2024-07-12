@@ -1,0 +1,10 @@
+Banco de Dados SQL Server
+
+O sistema gerenciador de bancos de dados Microsoft SQL Server 2012 possui a opção OFFSET que pode ser inserida em um comando SELECT. Tal opção especifica
+
+Alternativas:
+A. o número máximo de linhas que devem ser exibidas como resultado da execução do comando.
+B. o número de linhas a serem excluídas da tabela alvo, antes da exibição das linhas de resultado.
+C. o tempo mínimo para que a resposta solicitada seja exibida.
+D. o número máximo de usuários simultâneos no banco de dados em questão.
+E. quantas linhas devem ser ignoradas antes que o comando inicie a exibição das linhas de resultado.

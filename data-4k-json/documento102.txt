@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+A respeito da linguagem SQL e da manipulação de dados em um banco de dados relacional Oracle, assinale a opção correta. 
+
+Alternativas:
+A. A cláusula MODIFY é usada para atualizar registros em uma consulta.
+B. O operador IN é usado para verificar se um valor está em um subconjunto de valores.
+C. A finalidade do comando CREATE TABLE é criar um banco de dados.
+D. A cláusula REMOVE é usada para excluir registros de uma tabela.
+E. A finalidade do comando ALTER TABLE é criar uma nova tabela.

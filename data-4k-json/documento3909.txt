@@ -1,0 +1,10 @@
+Segurança da Informação Plano de Continuidade de Negócios
+
+Conforme a ABNT NBR ISO 22301:2020, a necessidade de a organização possuir procedimentos documentados para restaurar e retornar as atividades de negócios a partir das medidas temporárias adotadas durante e após uma disrupção está diretamente relacionada 
+
+Alternativas:
+A. à avaliação da capacidade.
+B. a exercícios de eficiência.
+C. à identificação de estratégias.
+D. à recuperação.
+E. à estrutura de resposta.

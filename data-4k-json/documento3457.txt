@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação , Estrutura de Dados ( assuntos)
+
+A ordenação é um problema básico da computação, havendo uma série de algoritmos que já foram bastante analisados e testados pelos praticantes da área, e cujas características devem ser do conhecimento dos programadores que desejam desenvolver programas eficientes e eficazes. Associe os algoritmos de ordenação à respectiva característica, dentre as indicadas a seguir.   Estão corretas as associações: 
+
+Alternativas:
+A. I – P , II – R , III – Q
+B. I – Q , II – P , III – S
+C. I – R , II – S , III – P
+D. I – S , II – R , III – Q
+E. I – Q , II – R , III – S

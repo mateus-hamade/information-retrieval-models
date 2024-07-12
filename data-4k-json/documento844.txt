@@ -1,0 +1,10 @@
+Banco de Dados Catálogo de um banco de dados
+
+Qual é a técnica que pode ser utilizada para sugerir que aqueles clientes que compraram o produto A também compraram o produto B, ou que aqueles clientes que compraram os produtos A, B e C são mais similares que os clientes que compraram o produto A? 
+
+Alternativas:
+A. Regras de Associação.
+B. Agrupamento.
+C. Regressão Linear.
+D. Regressão Logística.
+E. Árvores de Decisão.

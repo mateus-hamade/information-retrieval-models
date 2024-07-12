@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Considere uma árvore B de ordem 2 inicialmente vazia. Os números abaixo são inseridos na seguinte ordem:  10, 15, 8, 3, 4, 12, 20, 9.  Que número(s) compõe(m) o nó raiz?
+
+Alternativas:
+A. 8
+B. 10
+C. 4 e 15
+D. 8 e 12
+E. 9 e 10

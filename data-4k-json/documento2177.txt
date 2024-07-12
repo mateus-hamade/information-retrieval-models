@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Filas
+
+No que se refere a vetores, matrizes, filas e árvores binárias, julgue o item.     Nas queues, comumente chamadas de filas, as operações de inserção e de remoção são realizadas na mesma extremidade. 
+
+Alternativas:
+A. Certo
+B. Errado

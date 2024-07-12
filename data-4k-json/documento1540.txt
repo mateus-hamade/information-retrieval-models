@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Analise as afirmativas abaixo com relação ao assunto Árvore-B.  1. Uma Árvore-B de ordem m é uma árvore m-direcional tal que todas as folhas estão no mesmo nível. 2. Uma Árvore-B de ordem m é uma árvore m-direcional tal que todos os nós internos, com exceção da raiz, estão restritos a terem no máximo 2 filhos não vazios. 3. Uma Árvore-B de ordem m é uma árvore m-direcional tal que a raiz deve ter pelo menos m filhos não vazios.  Assinale a alternativa que indica todas as afirmativas corretas. 
+
+Alternativas:
+A. É correta apenas a afirmativa 1.
+B. É correta apenas a afirmativa 2.
+C. São corretas apenas as afirmativas 1 e 2.
+D. São corretas apenas as afirmativas 1 e 3.
+E. São corretas apenas as afirmativas 2 e 3.

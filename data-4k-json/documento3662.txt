@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
+
+Observe o algorítmo a seguir, onde ocorre a passagem de parâmetro por valor e por referência, respectivamente, de ITALIA para FIAT e de FRANCA para HONDA.    Ao final do processamento, as variáveis ITALIA e FRANCA terão, respectivamente, os seguintes valores: 
+
+Alternativas:
+A. 25 e FALSO
+B. 85 e VERDADEIRO
+C. 85 e FALSO
+D. 97 e VERDADEIRO
+E. 97 e FALSO

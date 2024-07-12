@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
+
+Considerando uma estrutura de dados do tipo lista, se tanto as operações de inserção quanto as operações de remoção são realizadas somente em um de seus extremos, então essa estrutura é conhecida como;
+
+Alternativas:
+A. fila
+B. grafo.
+C. pilha
+D. árvore.
+E. lista ligada.

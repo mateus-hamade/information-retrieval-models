@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
+
+A respeito das estruturas de repetição, assinale a alternativa que apresenta a estrutura que se consiste em um laço de repetição determinado, ou seja, utilizado quando é conhecida antecipadamente — antes de iniciado o laço — a quantidade de vezes em que os comandos devem ser executados.
+
+Alternativas:
+A. DO WHILE
+B. WHILE
+C. FOR
+D. IF
+E. CASE

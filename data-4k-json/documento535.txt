@@ -1,0 +1,10 @@
+Banco de Dados Banco de Dados
+
+A transferência de produtos entre as lojas da empresa será melhor representada em um Modelo E/R por meio de
+
+Alternativas:
+A. uma entidade.
+B. uma propriedade ou atributo.
+C. um relacionamento.
+D. um subtipo.
+E. um supertipo.

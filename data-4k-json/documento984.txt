@@ -1,0 +1,9 @@
+Banco de Dados SQL Server
+
+A linguagem Transact-SQL, uma extensão ao padrão SQL-92, é a linguagem utilizada por desenvolvedores na construção de aplicações que manipulam dados mantidos no SGBD SQL Server. Sobre o uso de funções pertencentes à linguagem Transact-SQL, considere que a instrução a seguir foi executada no SQL Server 2018, evidenciando a tabela 1: Tabela 1    A tabela 2 apresenta as mesmas informações da tabela 1; porém, transformadas do formato horizontal (linhas) para o formato vertical (Colunas). Tabela 2  Qual operador foi utilizado para transformar a tabela 1 em tabela 2 (linhas em colunas)? 
+
+Alternativas:
+A. PIVOT
+B. APPLY
+C. FETCH
+D. GROUP BY

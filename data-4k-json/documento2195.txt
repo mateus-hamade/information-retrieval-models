@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
+
+Avalie as afirmações abaixo:     I. A classe P e a classe NP são disjuntas.  II. A classe P é um subconjunto da classe co-NP.  III. Problemas coNP-completos admitem um certificado tal que uma resposta negativa pode ser verificada em tempo polinomial.  IV. A interseção das classes NP e co-NP é vazia.     Está correto apenas o que se afirma em 
+
+Alternativas:
+A. I e III.
+B. I e IV.
+C. I, II e IV
+D. II, III.
+E. II e IV.

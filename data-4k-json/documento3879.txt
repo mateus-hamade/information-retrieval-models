@@ -1,0 +1,7 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+Questão anulada Texto associado Caso a função percurso1 receba, como argumento, um ponteiro para o nó F da árvore binária apresentada, a sua execução imprimirá a seguinte seqüência: A B C D E F G H I. Esse tipo de percurso é denominado como inorder.
+
+Alternativas:
+A. Certo
+B. Errado

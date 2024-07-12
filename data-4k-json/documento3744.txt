@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Assinale a alternativa incorreta:   
+
+Alternativas:
+A. A altura da árvore representada na questão 32 é igual a 2.
+B. As árvores binárias são estruturas de dados do tipo árvore, onde o grau de cada nó é menor ou igual a dois.
+C. As estruturas do tipo árvore são inadequadas para representar objetos relacionados hierarquicamente entre si.
+D. Nas árvores binárias, as subárvores de um nó se subdividem em subárvores da direita e subárvores da esquerda.
+E. Existem métodos de caminhamento em árvores que permitem percorrê-las de tal forma que cada nó seja visitado apenas uma vez.

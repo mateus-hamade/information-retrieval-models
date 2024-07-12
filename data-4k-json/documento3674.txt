@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Algoritmos de Ordenação
+
+O quicksort é um algoritmo que funciona usando o paradigma de dividir e conquistar, usando uma rotina de particionamento que divide o vetor de estruturas em dois pedaços em torno de um pivô. O pedaço da esquerda só contém elementos com chaves menores ou iguais que o elemento corrente e o pedaço da direita, só elementos com chaves maiores que o elemento corrente. O algoritmo procede, então, para o subproblema de ordenar cada um dos pedaços e seu desempenho total é um dos mais eficientes para ordenação de estruturas de dados. Qual das seguintes descrições representa uma correta característica do algoritmo quicksort? 
+
+Alternativas:
+A. O algoritmo de particionamento é o ponto fraco do quicksort, podendo exigir até n2 operações de trocas em cada iteração, o que faz com que ele precise ser fortemente otimizado.
+B. O algoritmo de particionamento só funciona nos casos em que o número de elementos no vetor é par, pois é necessário, para o correto cálculo do pivô, que o lado esquerdo e o direito tenham exatamente o mesmo tamanho.
+C. Seu tempo de execução, no pior caso, é ,que ocorre no caso especial em que a rotina de particionamento gera subproblemas com n-1 elementos e outro com 0 elemento.
+D. Seu tempo de execução de melhor caso é , que ocorre no caso especial em que o vetor de estruturas já está ordenado.
+E. Seu tempo de execução é de no caso do particionamento ser desbalanceado na proporção de 2 elementos para um lado, para cada elemento do outro lado.

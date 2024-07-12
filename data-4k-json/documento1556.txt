@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
+
+Assinale a alternativa que apresenta a estrutura que é muito útil para a implementação de algoritmos que necessitam de estruturas hierárquicas, sendo caracterizada como uma estrutura de dados bidimensional, não linear, com propriedades especiais. 
+
+Alternativas:
+A. lista
+B. fila
+C. pilha
+D. árvore
+E. lista encadeada

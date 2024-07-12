@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Busca , Estrutura de Dados ( assuntos)
+
+Em relação aos algoritmos de pesquisa em um vetor de N elementos, é correto afirmar que:
+
+Alternativas:
+A. a pesquisa binária não necessita que o vetor esteja previamente ordenado.
+B. a busca por interpolação é mais adequada quando existe uma distribuição não uniforme nas chaves.
+C. a busca sequencial possui tempo médio da ordem de log2N (log N na base 2).
+D. a pesquisa binária possui uma quantidade máxima de buscas da ordem de N/2.
+E. o hashing é considerado tanto um método de busca quanto um método de ordenação.

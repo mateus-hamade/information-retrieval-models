@@ -1,0 +1,10 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Vetores
+
+Considere o trecho de código a baixo. Assuma que o operador [ ] (abre e fecha colchetes) é usado para acessar elementos de vetores (arrays) e que o primeiro elemento do vetor é armazenado no índice 0.     para i de 0 até 4 faça {  v[ i ] = i;  }  para i de 0 até 3 faça {  v[i+1] = v[i+1] + 2*v[i];  }     Qual o valor de v[4] após a execução do trecho de código acima?  
+
+Alternativas:
+A. 0
+B. 6
+C. 10
+D. 11
+E. 26

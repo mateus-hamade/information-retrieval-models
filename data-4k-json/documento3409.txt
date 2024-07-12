@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação , Complexidade de Algoritmos
+
+São algoritmos de ordenação, cuja complexidade é O(n log n), EXCETO:  
+
+Alternativas:
+A. Shellsort.
+B. Quicksort.
+C. Heapsort.
+D. Radixsort.

@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados , Filas ( assuntos)
+
+Estruturas de dados são elementos essenciais no desenvolvimento de soluções, pois permitem dispor e manipular conjuntos de dados de modo específico, permitindo o processamento de dados adequado. Dentre as diversas estruturas de dados existentes, uma delas caracteriza-se por representar um conjunto de objetos e as relações existentes entre eles de modo abstrato, sendo definido por um conjunto de nós ou vértices, e pelas ligações ou arestas, que ligam pares de nós. Assinale a alternativa que apresenta o nome desta estrutura de dados. 
+
+Alternativas:
+A. Fila.
+B. Lista.
+C. Pilha.
+D. Grafo.

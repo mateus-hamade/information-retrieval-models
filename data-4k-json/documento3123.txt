@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
+
+Uma expressão contendo vários operandos deve ser calculada considerando a precedência dos operadores. Sabendo-se que o valor de A=3, B=2 e C=5, o valor atribuído à variável RESULTADO será:  RESULTADO = (A * 2) * 4 + (C + B * 2 - 6)
+
+Alternativas:
+A. 32
+B. 21
+C. 27
+D. 18

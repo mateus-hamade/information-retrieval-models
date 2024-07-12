@@ -1,0 +1,10 @@
+Banco de Dados SQL
+
+Analise o comando SQL que João produziu. select Tipo, sum(Quantidade) Total from Venda where Quantidade is not null group by Tipo ... Na linha pontilhada, João testou cinco opções para a cláusula order by, como segue. (1) order by 2 (2) order by avg(Quantidade) (3) order by Quantidade (4) order by sum(Quantidade) (5) order by Total  Nesse caso são possíveis as opções
+
+Alternativas:
+A. 1, 2, 3, 4, 5.
+B. 1, 2, 3, 4, apenas.
+C. 1, 4, 5, apenas.
+D. 1, 2, 4, 5, apenas.
+E. 4, 5, apenas.

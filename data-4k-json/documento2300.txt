@@ -1,0 +1,9 @@
+Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
+
+O método de ordenação Bolha foi usado para ordenar uma tabela em ordem crescente contendo os números [10, 8, 7, 0], serão feitas:
+
+Alternativas:
+A. 6 comparações e 4 trocas.
+B. 8 comparações e 6 trocas.
+C. 6 comparações e 6 trocas.
+D. 8 comparações e 8 trocas.
