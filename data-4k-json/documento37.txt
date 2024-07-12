@@ -1,9 +1,0 @@
-Banco de Dados DW - Data Warehouse
-
-O principal objetivo de um data warehousing é permitir a análise de dados para auxiliar na tomada de decisões estratégicas e operacionais nas organizações. Considere as características de data warehousing, marque V para as afirmativas verdadeiras e F para as falsas.  ( ) Metadata: usado para documentar e descrever os dados e processos, incluindo a origem dos dados e transformações aplicadas. ( ) Cubos OLAP: são conjuntos de dados organizados em um formato multidimensional que dificultam a análise e geração de relatórios. ( ) Data Marts:são subconjuntos e são projetados para atender às necessidades específicas de uma área funcional ou departamento da organização.  A sequência está correta em 
-
-Alternativas:
-A. F, F, F.
-B. F, V, F.
-C. V, F, V.
-D. V, V, V.

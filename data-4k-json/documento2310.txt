@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
-
-Observe o código seguinte:      A complexidade média no pior caso do procedimento p, escrito em pseudocódigo, corresponde a 
-
-Alternativas:
-A. O(log n).
-B. O(n).
-C. O(n.log n).
-D. O(n2).

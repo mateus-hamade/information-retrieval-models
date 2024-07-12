@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-Texto associado Considerando a algoritmo apresentado acima, julgue os itens seguintes acerca de lógica de linguagens de programação.  Para qualquer salario que for maior que 1000, o valor final de salario será acrescido em 50% de seu valor anterior.
-
-Alternativas:
-A. Certo
-B. Errado

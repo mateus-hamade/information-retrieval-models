@@ -1,9 +1,0 @@
-Banco de Dados Gatilhos (Triggers)
-
-Cláusulas FOR EACH ROW e FOR EACH STATEMENT de triggers são utilizadas para determinar se a execução de um gatilho será aplicada antes ou depois da operação de evento. Considerando as cláusulas de triggers, relacione adequadamente as colunas a seguir. 1. AFTER STATEMENT. 2. AFTER ROW. 3. BEFORE STATEMENT. 4. BEFORE ROW. ( ) Antes da conclusão da operação de evento sobre um único registro da tabela haverá um disparo do gatilho para cada registro afetado pelo comando. ( ) Após a conclusão da operação de evento sobre um ou mais registros, ou seja, um conjunto de tuplas, de acordo com o comando. ( ) Antes da conclusão da operação de evento, o gatilho será disparado e a operação do evento poderá afetar um ou mais registros, ou seja, um conjunto de tuplas, de acordo com o comando. ( ) Após a conclusão da operação de evento sobre somente um registro da tabela haverá um disparo do gatilho para cada registro afetado pelo comando. A sequência está correta em
-
-Alternativas:
-A. 1, 2, 4, 3.
-B. 2, 3, 1, 4.
-C. 3, 4, 2, 1.
-D. 4, 1, 3, 2.

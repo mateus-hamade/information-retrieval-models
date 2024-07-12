@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Vetores
-
-Acerca de classificação de dados, julgue os itens subsecutivos.  Ao se utilizar um vetor para a ordenação de dados numéricos em ordem crescente, se a ordenação dos dados for realizada pelo algoritmo de ordenação por seleção, um laço de comparações será executado do primeiro ao penúltimo elemento do vetor.
-
-Alternativas:
-A. Certo
-B. Errado

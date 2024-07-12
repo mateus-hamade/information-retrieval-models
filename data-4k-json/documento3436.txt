@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
-
-Texto associado Considerando a figura acima, que ilustra um diagrama representando a hierarquia para a resolução de um problema em módulos, julgue os itens a seguir.  As variáveis V1 e V2, que foram declaradas no algoritmo principal, podem ser utilizadas por todos os algoritmos representados no diagrama apresentado.
-
-Alternativas:
-A. Certo
-B. Errado

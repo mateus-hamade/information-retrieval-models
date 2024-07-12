@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Fluxogramas
-
-  Com base no fluxograma apresentado, julgue o item abaixo.  Para evitar que “resultado” apresente um erro de divisão por zero e que o valor de C seja maior que 0, basta alterar o fluxograma conforme apresentado abaixo.    
-
-Alternativas:
-A. Certo
-B. Errado

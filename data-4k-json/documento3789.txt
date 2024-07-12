@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
-
-Texto associado Na situação em que o número de acessos randômicos predomina sobre as inclusões e exclusões de elementos, a implementação de uma estrutura de dados lista utilizando-se array é mais eficiente que uma implementação encadeada.
-
-Alternativas:
-A. Certo
-B. Errado

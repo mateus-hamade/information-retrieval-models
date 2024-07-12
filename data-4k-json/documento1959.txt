@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
-
-Quanto a estruturas de dados e algoritmos básicos, julgue o item seguinte. Uma pilha usando uma lista encadeada simples é equivalente, em termos de desempenho, a essa mesma pilha usando uma lista de encadeamento duplo. 
-
-Alternativas:
-A. Certo
-B. Errado

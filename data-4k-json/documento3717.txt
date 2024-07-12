@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
-
-Texto associado O escopo em que uma variável é declarada define, obrigatoriamente, a que função do tipo pública essa variável se associa.
-
-Alternativas:
-A. Certo
-B. Errado

@@ -1,9 +1,0 @@
-Banco de Dados SQL
-
-No SQL, assinale, dentre as alternativas abaixo, o comando para excluir tabelas do banco de dados e o comando para alterar um ou mais registros dependendo do filtro incluído na cláusula WHERE, respectivamente. 
-
-Alternativas:
-A. DELETE e ROLLBACK.
-B. ERASE e DROP TABLE.
-C. INSERT e ALTER TABLE.
-D. DROP TABLE e UPDATE.

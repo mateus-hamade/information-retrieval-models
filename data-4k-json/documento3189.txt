@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
-
-Com referência a tipos básicos de estrutura de dados, julgue os itens subsequentes.   Se fosse implementado um algoritmo que simulasse o movimento em uma rua sem saída, onde passa um carro de cada vez, a fila seria a estrutura de dados que melhor armazenaria as informações dos carros.
-
-Alternativas:
-A. Certo
-B. Errado

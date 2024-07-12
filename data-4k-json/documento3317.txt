@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Fluxogramas
-
-Texto associado Quando um break é encontrado dentro de um laço for, a execução do código é interrompida e o programa é finalizado.  
-
-Alternativas:
-A. Certo
-B. Errado

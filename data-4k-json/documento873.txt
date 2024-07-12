@@ -1,9 +1,0 @@
-Banco de Dados Dicionário de Dados , Banco de Dados
-
-Os dicionários são como relógios; o pior é melhor do que nenhum, e não se pode esperar que o melhor seja totalmente fiel. (Mrs. Piozzi, Anecdotes of Samuel Johnson, 1786.) NÃO corresponde a uma informação sobre os dicionários de dados:
-
-Alternativas:
-A. É responsável por definir o depósito de dados.
-B. É fundamental para o modelo de requisitos do usuário.
-C. Trata-se de uma listagem organizada de todos os elementos de dados que são pertinentes ao sistema, com definições precisas e rigorosas.
-D. Também chamado de dicionário de requisitos foi proposto como uma gramática quase que formal para descrever o conteúdo de objetos definidos durante a análise estruturada.

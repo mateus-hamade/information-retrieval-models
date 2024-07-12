@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados , Filas ( assuntos)
-
-Duas estruturas de dados básicas são a pilha e a fila. Os dois comandos clássicos utilizados na estrutura de dados do tipo pilha são:
-
-Alternativas:
-A. push - dequeue
-B. enqueue - dequeue
-C. enqueue - pop
-D. push - pop

@@ -1,9 +1,0 @@
-Banco de Dados SQL Server , SQL
-
-Como seria o comando para se criar uma trigger no SQL Server para que, ao se inserir um novo registro na tabela USERS, uma mensagem seja enviada ao usuário?
-
-Alternativas:
-A. CREATE TRIGGER T1 ON USERS FOR INSERT AS PRINT "Novo registro"
-B. CREATE T1 ON TRIGGER FOR INSERT IN USERS AS PRINT "Novo registro"
-C. CREATE T1 ON USERS AS NEW TRIGGER AS PRINT "Novo registro"
-D. CREATE TRIGGER T1 FOR INSERT IN USERS AS PRINT "Novo registro"

@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-Texto associado Na execução do algoritmo apresentado no texto 10A1AAA, se o valor de K for 0, então, na linha 10, VCOD[I]
-
-Alternativas:
-A. receberá o valor de COD.
-B. receberá o valor 0.
-C. não será atualizado, porque um erro causará a interrupção do algoritmo.
-D. receberá o valor 1.

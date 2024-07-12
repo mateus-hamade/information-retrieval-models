@@ -1,9 +1,0 @@
-Banco de Dados Modelagem de dados , DER - Diagrama de Entidade e Relacionamento , Modelo relacional
-
-Leia o texto a seguir. A Análise e Projeto de software são etapas críticas no desenvolvimento de sistemas de software bem-sucedidos. Eles fornecem a base para a implementação eficaz de soluções que atendam às necessidades dos usuários finais, minimizem riscos, reduzam custos e melhorem a qualidade do produto final. Disponível em: https://www.computer.org/. Acesso em: 20 fev. 2024.  Na Análise e Projeto de Software, é uma técnica de modelagem de dados relacional o:  
-
-Alternativas:
-A. Diagrama Entidade-Relacionamento.
-B. Diagrama de Classes e Objetos.
-C. Diagrama de Sequência.
-D. Diagrama de Fluxo de Dados.

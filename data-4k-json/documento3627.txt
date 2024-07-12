@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
-
-Texto associado Estruturas de repetição são usadas para que determinado bloco de comandos seja executado diversas vezes. A garantia de parada da repetição ocorre por meio de uma condição que é verificada a cada nova iteração. Dependendo do tipo de estrutura de repetição utilizado, o bloco de comandos é executado pelo menos uma vez.
-
-Alternativas:
-A. Certo
-B. Errado

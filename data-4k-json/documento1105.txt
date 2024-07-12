@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-Máquinas de vetores de suporte (do inglês, Support Vector Machine - SVM) são algoritmos de aprendizado de máquina que possibilitam a implementação de classificadores. Os modelos implementados a partir desses algoritmos utilizam funções kernel, conferindo como vantagem:
-
-Alternativas:
-A. ausência da necessidade de pré-processamento.
-B. minimização da margem entre as classes.
-C. aumento do grau de especialização no aprendizado.
-D. capacidade de lidar com dados não lineares.

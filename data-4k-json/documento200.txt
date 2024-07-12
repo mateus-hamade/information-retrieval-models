@@ -1,9 +1,0 @@
-Banco de Dados SQL Server
-
-Ficou definida uma solução com o conceito de CQRS (Command and Query Responsibility Segregation) para atender a uma necessidade da empresa e, para isso, foram utilizadas duas bases de dados de SQL Server (Escrita e Leitura). A camada de dados de persistência será a base do legado a ser utilizada, porém, ainda não existe uma base de leitura a ser configurada e, com isso, precisa-se criar a sincronização entre as bases e garantir que a aplicação tenha uma alta performance. Assim, assinale a alternativa que apresenta a arquitetura utilizada para garantir sincronização dos dados.
-
-Alternativas:
-A. ETL.
-B. Database Mirroring.
-C. Backup & Restore.
-D. Pubs e Sub.

@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Recursividade
-
-Texto associado A recursão pode ser relacionada a algoritmos, caso em que está diretamente relacionada ao método de dividir- para- conquistar, e relacionada a tipos de dados, que consiste em uma técnica para representar dados de tamanho indefinido.
-
-Alternativas:
-A. Certo
-B. Errado

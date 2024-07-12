@@ -1,9 +1,0 @@
-Banco de Dados SQL Server
-
-Texto associado Considere as seguintes tabelas que pertencem a parte de um determinado banco de dados: /*Tabela de Clínicas*/ Clinica(CodClinica, NomeClinica, LocalClinica) /* tabela de médicos */ Medico(CRM, NomeMedico, Telefone)   /* tabela que relaciona médicos a clínicas */ ClinicaMedico(CodClinica, CRM) CodClinica referencia Clinica, CRM referencia Medico  Utilizando o SQL Server 2019, assinale o comando que lista códigos e nomes dos médicos que não atuam em nenhuma clínica.  
-
-Alternativas:
-A. SELECT Medico.CRM, nomeMedico FROM Medico LEFT JOIN ClinicaMedico ON ClinicaMedico.codClinica IS NULL
-B. SELECT Medico.CRM, nomeMedico FROM Medico RIGHT JOIN ClinicaMedico ON ClinicaMedico.codClinica ISNULL
-C. SELECT CRM, nomeMedico FROM Medico WHERE NOT EXISTS (SELECT * FROM ClinicaMedico WHERE CRM = Medico.CRM)
-D. SELECT CRM, nomeMedico FROM Medico WHERE CRM NOT IN (SELECT * FROM ClinicaMedico WHERE CRM = Medico.CRM)

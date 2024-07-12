@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Vetores
-
-No que concerne aos aspectos de linguagens de programação, algoritmos, estrutura de dados e case, julgue o item subsequente.  Dado o vetor [ ] com n > 3 elementos numéricos e inteiros, o algoritmo apresentado por seleção resultará no mesmo vetor com os elementos ordenados na ordem decrescente.                   
-
-Alternativas:
-A. Certo
-B. Errado

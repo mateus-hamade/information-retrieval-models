@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
-
-A ordenação é uma operação comum em muitas aplicações. Muitos algoritmos foram desenvolvidos para executá-la. Sobre alguns desses algoritmos, é correto afirmar:
-
-Alternativas:
-A. o insertion sort troca dois elementos adjacentes se estiverem fora de ordem, repetindo esse procedimento até que os itens estejam ordenados.
-B. o selection sort divide os itens em dois segmentos, ordena-os individualmente e depois mescla-os.
-C. o quick sort particiona os itens em dois segmentos separados por um elemento pivô e ordena-os recursivamente.
-D. o bubble sort busca um elemento fora de ordem em elementos sucessivos, depois insere o item no local apropriado.

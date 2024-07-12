@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-Texto associado Na construção de um algoritmo, é sempre possível substituir uma estrutura do tipo enquanto por uma estrutura do tipo para.
-
-Alternativas:
-A. Certo
-B. Errado

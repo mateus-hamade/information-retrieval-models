@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-Texto associado Em face do algoritmo, é correto afirmar que a troca de  por  não alterará o resultado do algoritmo.
-
-Alternativas:
-A. Certo
-B. Errado

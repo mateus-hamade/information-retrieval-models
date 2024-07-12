@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação , Estrutura de Dados ( assuntos)
-
-Texto associado A estabilidade de um método de ordenação é importante quando o conjunto de dados já está parcialmente ordenado. 
-
-Alternativas:
-A. Certo
-B. Errado

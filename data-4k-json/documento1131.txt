@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
-
-Analise o algoritmo a seguir.    •    Passo 1. Encontre o menor item do vetor   •    Passo 2. Troque-o de lugar com o item da primeira posição do vetor.   •   Passo 3. Repita essas duas operações com os n − 1 itens restantes, depois com os n − 2 itens, até que reste apenas um elemento.  Qual é o método de ordenação descrito pelo algoritmo? 
-
-Alternativas:
-A. Inserção.
-B. Sheelsort.
-C. Seleção.
-D. Quiksort.

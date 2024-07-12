@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
-
-Medir a complexidade dos métodos de ordenação é fundamental para entender o desempenho desses algoritmos e poder fazer escolhas adequadas dependendo do contexto do problema. Qual método de ordenação o pior caso tem a mesma complexidade do método Quick Sort no pior caso?
-
-Alternativas:
-A. Heap Sort.
-B. Buble Sort.
-C. Merge Sort.
-D. Radix Sort.

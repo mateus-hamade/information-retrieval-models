@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
-
-Texto associado A estrutura de decisão CASO SELECIONE, ou SELECT CASE, é utilizada para testar, na condição, uma expressão ou o valor de uma determinada variável. Compara-se, então, o resultado obtido nesse teste com os valores fornecidos em cada cláusula CASO.  
-
-Alternativas:
-A. Certo
-B. Errado

@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
-
-A complexidade de algoritmos refere-se à análise e à avaliação de desempenho de um algoritmo no que se diz respeito aos recursos computacionais necessários para se resolver determinado problema. O tempo de execução do algoritmo Heapsort é
-
-Alternativas:
-A. O(n2).
-B. O(log n).
-C. O(n3).
-D. O(n log n).

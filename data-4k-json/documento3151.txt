@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-Texto associado Com relação ao algoritmo acima, julgue os próximos itens.  Se as variáveis N e A fossem de 8 bits, sem sinal, não ocorreria overflow da variável A ao longo da execução do programa.
-
-Alternativas:
-A. Certo
-B. Errado

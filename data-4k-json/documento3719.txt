@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação , Estrutura de Dados ( assuntos)
-
-Texto associado A ordenação de um vetor contendo n elementos, utilizando-se algoritmo de bolha, realiza, no pior caso, mais que n/2 comparações.
-
-Alternativas:
-A. Certo
-B. Errado

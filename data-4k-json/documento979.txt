@@ -1,9 +1,0 @@
-Banco de Dados Segurança
-
-Sobre a segurança de dados, assinale a afirmativa correta.
-
-Alternativas:
-A. Segurança de dados e integridade de dados são conceitos semelhantes.
-B. Criar visões no banco de dados pode ser usado para ocultar dados confidenciais de usuários não autorizados.
-C. A concessão de privilégios de um usuário para outro usuário poderá ser retirada utilizando a cláusula RESTRICT.
-D. Um usuário que recebe alguma forma de autorização não tem permissão para passar adiante essa autorização a outros usuários em nenhuma forma de concessão de privilégios.

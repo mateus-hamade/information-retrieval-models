@@ -1,9 +1,0 @@
-Arquitetura de Computadores Memória
-
-Computadores utilizam diversos tipos de dispositivos de memória. Considerando que um sistema de memória semicondutora está sujeito a erros, as falhas nesses sistemas podem ser do tipo
-
-Alternativas:
-A. locais e remotas.
-B. voláteis e não voláteis.
-C. inteiras e ponto flutuante.
-D. permanentes e não permanentes.

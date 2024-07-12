@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Complexidade de Algoritmos
-
-No desenvolvimento de uma aplicação, uma etapa fundamental e primordial durante todo o processo é a construção de algoritmos. O algoritmo é uma sequência de raciocínios, instruções e operações que trabalham conjuntamente para alcançar um objetivo. Um sistema é constituído de diversos algoritmos que recebem múltiplas entradas de dados, manipulando-as através de processamento, para que sejam geradas saídas com informações úteis e relevantes para os usuários. Sobre essas estruturas, marque V para as afirmativas verdadeiras e F para as falsas.  ( ) A propriedade finitude afirma que um algoritmo deve ter um número finito de instruções, garantindo que ele termine sua execução em algum momento. ( ) A propriedade do determinismo afirma que um algoritmo deve produzir o mesmo resultado sempre que for executado com determinados dados de entrada, produzindo sempre um resultado correto. ( ) Um algoritmo de ordenação pode ser utilizado para organizar uma lista de elementos em ordem crescente ou decrescente. ( ) Um algoritmo guloso pode ser utilizado para resolver um problema dividindo-o em problemas menores para resolvê-los recursivamente.  A sequência está correta em 
-
-Alternativas:
-A. V, V, F, F.
-B. V, F, V, F.
-C. F, V, F, V.
-D. F, F, V, V.

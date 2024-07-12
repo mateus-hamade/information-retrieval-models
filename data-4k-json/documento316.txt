@@ -1,9 +1,0 @@
-Banco de Dados Formas normais
-
-Observe o seguinte esquema textual de uma tabela, não necessariamente normalizada, referente a uma base de dados de livros: Livro (ISBN,Titulo, AnoPublicacao, IdAutor, NomeAutor, PaísOrigem, IdEditora, NomeEditora) Em que forma normal se encontra esta tabela?
-
-Alternativas:
-A. Primeira Forma Normal (1NF).
-B. Segunda Forma Normal (2NF).
-C. Terceira Forma Normal (3NF).
-D. Forma Normal de Boyce-Codd (BCNF).

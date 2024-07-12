@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
-
-Sobre os comandos utilizados na elaboração de programas, considere as afirmativas a seguir. I. Um comando de seleção permite a escolha de um grupo de comandos a ser executado quando determinada condição é satisfeita ou não. II. O comando de seleção deve ter uma expressão de condição na qual, em algum momento da execução do programa, ela deve se tornar falso, evitando o loop infinito. III. Um comando de repetição é utilizado quando é necessário executar um bloco de comandos várias vezes. Conforme a cartilha de segurança da internet, estão CORRETAS as afirmativas:
-
-Alternativas:
-A. I e II, apenas.
-B. I e III, apenas.
-C. II e III, apenas.
-D. I, II e III.

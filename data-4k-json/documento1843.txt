@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
-
-Considerando os fundamentos de lógica de programação e de tipos de dados, considere as afirmativas abaixo: I - Toda expressão que possui um operador relacional, necessariamente, tem como resultado um valor do tipo “lógico”. II - O operador “mod” (ou “%”) retorna o resto da divisão entre dois números. III - É adequado o uso de variáveis cujo tipo de dados seja “inteiro” para armazenar nomes de pessoas. Assinale a alternativa CORRETA.
-
-Alternativas:
-A. Apenas a afirmativa I é verdadeira.
-B. Apenas as afirmativas I e II são verdadeiras.
-C. Apenas a afirmativa II é verdadeira.
-D. As afirmativas I, II e III são verdadeiras.

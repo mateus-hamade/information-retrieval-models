@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
-
-Considere o código representado na figura abaixo.        O algoritmo apresenta complexidade no pior caso de  
-
-Alternativas:
-A. O(n)
-B. O(n²)
-C. O(n log n)
-D. O(n4 )

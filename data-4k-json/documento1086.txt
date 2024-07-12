@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Filas , Pilhas
-
-Estruturas de dados com operações associadas que definem um certo comportamento são recursos úteis na programação orientada a objetos pois proporcionam simplificação do código e reuso. Considere os trechos de código em Python a seguir, que definem dois tipos abstratos de dados.   As classes EstruturaDados1 e EstruturaDados2 representam, respectivamente: 
-
-Alternativas:
-A. Pilha e Fila.
-B. Fila e Pilha.
-C. Pilha e Lista.
-D. Fila e Lista.

@@ -1,9 +1,0 @@
-Banco de Dados Álgebra relacional
-
-Qual é a forma geral da operação projeção em álgebra relacional?
-
-Alternativas:
-A. π <lista de atributos> (R)
-B. σ <lista de atributos> (R)
-C. £ <lista de atributos> (R)
-D. Ω <lista de atributos> (R)

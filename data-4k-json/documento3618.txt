@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Busca
-
-Texto associado Na pesquisa binária, realiza-se a varredura de uma estrutura de dados desde o seu início até o final dessa estrutura, ou até que uma informação desejada seja encontratada.
-
-Alternativas:
-A. Certo
-B. Errado

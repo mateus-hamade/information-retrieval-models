@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Filas , Pilhas
-
-As estruturas de dados pilha e fila são essenciais em muitos aspectos dos sistemas computacionais. Sobre estas duas estruturas de dados, analise as seguintes afirmativas. I. A pilha é ocasionalmente chamada de FIFO (First-in, First-out – o primeiro a entrar é o primeiro a sair). II. A fila é uma lista LIFO (Last-in, First-out – o último a entrar é o primeiro a sair). III. O resultado de uma tentativa inválida de remover um elemento de uma fila vazia é chamado de underflow. IV. O resultado de uma tentativa inválida de desempilhar ou acessar um item de uma pilha vazia é chamado de undeflow. Assinale a alternativa CORRETA.
-
-Alternativas:
-A. Apenas as afirmativas I e II estão corretas.
-B. Apenas as afirmativas III e IV estão corretas.
-C. Apenas as afirmativas I e III estão corretas.
-D. Apenas as afirmativas II e IV estão corretas.

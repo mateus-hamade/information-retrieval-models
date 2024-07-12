@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-A respeito de algoritmos, estruturas de dados e objetos, julgue o  item  que se segue.  O algoritmo mostrado a seguir resume corretamente a inserção com um leque de, no máximo, sete elementos.                                      Type leque = record                                                   topo: integer;                                                   memo: array [1..7] of char;                                                   end;                                      var L:leque;                                      p.topo: = 0                                      procedure push (var L:leque; x:char);                                      begin                                      if  not L.topo>7 then                                          begin                                                L.topo :=L.topo+1;                                                L.memo [L.topo]:= x;                                           end;                                      end;  
-
-Alternativas:
-A. Certo
-B. Errado

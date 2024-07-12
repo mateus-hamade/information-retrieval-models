@@ -1,9 +1,0 @@
-Sistemas Operacionais Linux
-
-Um usuário de um computador com sistema operacional Linux deseja listar arquivos do diretório corrente, usando linha de comandos, de modo a mostrar a data da última atualização do status (permissões, dono, grupo, etc.) de todos os arquivos do diretório. O comando é:
-
-Alternativas:
-A. ls -lc
-B. ls -lu
-C. ls -FR
-D. ls -FS

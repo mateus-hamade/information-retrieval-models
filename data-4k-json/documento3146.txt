@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-Texto associado Em um programa que consiste de vários blocos de comando, variáveis declaradas com nomes iguais em diferentes blocos podem gerar erros de execução, visto que não será possível resolver a variável e sua declaração.
-
-Alternativas:
-A. Certo
-B. Errado

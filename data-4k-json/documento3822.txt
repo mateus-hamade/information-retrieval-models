@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Busca
-
-Texto associado Um procedimento correto para determinar o sucessor de um nodo N em uma árvore de busca binária é o seguinte: primeiro, localiza-se o nodo N; em seguida, com o ponteiro direito de N, obtém-se o nodo ND e, a partir de ND, faz-se o percurso de todos os possíveis ponteiros esquerdos até que seja alcançado o fim da ramificação, cujo nodo final é o sucessor de N.
-
-Alternativas:
-A. Certo
-B. Errado

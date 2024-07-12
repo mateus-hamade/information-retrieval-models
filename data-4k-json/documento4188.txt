@@ -1,9 +1,0 @@
-Engenharia de Software Métricas de Software , Análise de Pontos de Função
-
-Ao considerar as transações de dados no processo de medição para a análise de pontos de função, o desafio é:
-
-Alternativas:
-A. Avaliar a complexidade e a influência das transações de dados nas funções do sistema.
-B. Prescindir das transações de dados, uma vez que sua análise é considerada secundária para a estimativa de pontos de função.
-C. Contabilizar apenas as entradas e saídas sem levar em conta consultas e arquivos, simplificando assim o processo de medição.
-D. Basear-se na complexidade técnica do código-fonte, sem considerar as interações do sistema com os dados.

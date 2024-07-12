@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
-
-Acerca de aspectos de linguagens de programação, algoritmos e estruturas de dados e objetos, programação orientada a objetos e arquitetura MVC, julgue o item subsequente.  Uma árvore binária é aquela cujos nós sejam compostos por, no mínimo, duas outras árvores, e assim sucessivamente, de modo hierárquico, até atingir o grau máximo da árvore.  
-
-Alternativas:
-A. Certo
-B. Errado

@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos
-
-Julgue o item a seguir que tratam de extração e representação de conhecimento.      Se um algoritmo induzir hipóteses que apresentam baixa taxa de acerto mesmo no conjunto de treino, então as hipóteses estão superajustadas aos dados.   
-
-Alternativas:
-A. Certo
-B. Errado

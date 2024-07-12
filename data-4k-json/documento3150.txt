@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-Texto associado Com relação ao algoritmo acima, julgue os próximos itens.  Para que o programa passe a imprimir, no passo 7, a soma de todos os números pares menores que 10, é suficiente que, no passo 4, se some o número 2 em vez do número 1, e que, no passo 3, o valor da variável N não seja elevada ao quadrado.
-
-Alternativas:
-A. Certo
-B. Errado

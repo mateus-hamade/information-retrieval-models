@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados , Pilhas
-
-Texto associado Em uma implementação encadeada da estrutura de dados pilha, as suas operações básicas de empilhar e desempilhar elementos podem ter tempo de execução constante, independentemente da quantidade de elementos que estejam armazenados na estrutura no momento da sua execução.
-
-Alternativas:
-A. Certo
-B. Errado

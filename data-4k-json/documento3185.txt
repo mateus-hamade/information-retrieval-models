@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
-
-Acerca de definições de classificação de dados e tipos abstratos de dados, julgue os itens que se seguem.   O algoritmo de ordenação heapsort refere-se ao processo de divisão, ao meio, do grupo de elementos, repetindo-se a divisão para cada um dos subgrupos, até que esses tenham apenas um elemento. Nesse ponto, faz-se o reagrupamento dos subgrupos, comparando os elementos e trocando-os, se necessário, para que fiquem ordenados. Repete-se esse procedimento até restar um só grupo de elementos.
-
-Alternativas:
-A. Certo
-B. Errado

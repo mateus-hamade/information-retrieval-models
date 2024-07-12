@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
-
-Marque C,se a proposição é verdadeira; E,se a proposição é falsa.  Considerando a árvore mostrada, em que o nodo A é a raiz da árvore, a visita aos nodos feita em  pré-ordem resultará na seguinte sequência: ABDEFCG.   
-
-Alternativas:
-A. Certo
-B. Errado

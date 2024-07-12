@@ -1,9 +1,0 @@
-Banco de Dados Arquitetura de Banco de Dados , Conceitos Básicos em Banco de Dados , Banco de Dados
-
-A arquitetura ANSI/SPARC para bancos de dados é composta por três níveis independentes, cada um deles descrevendo o banco de dados em um nível diferente de abstração. Esse tipo de arquitetura permite três tipos de independência, caracterizadas a seguir.     I. Alterações no nível interno não repercutem no nível conceituai.  II. Alterações no esquema conceituai não têm, necessariamente, de alterar o esquema externo.  III. Alterações que envolvam a estrutura dos dados ou a sua implementação física não obrigam a alterações no nível da aplicação.     Os tipos de independência em I, II e IlI são denominados, respectivamente: 
-
-Alternativas:
-A. física, lógica e de dados
-B. lógica, física e de dados
-C. física, de dados e lógica
-D. lógica, de dados e física

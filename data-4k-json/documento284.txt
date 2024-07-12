@@ -1,9 +1,0 @@
-Banco de Dados Banco de Dados , SGBD - Sistema de Gerenciamento de Banco de Dados
-
-Uma transação em um banco de dados ou sistema de armazenamento de dados é qualquer operação tratada como uma unidade de trabalho. As transações são totalmente executadas ou não executadas, mantendo o sistema de armazenamento em um estado consistente. Quando essas transações possuem características especiais que garantem sua consistência, elas são denominadas transações ACID. As quatro principais características que definem uma transação ACID são:
-
-Alternativas:
-A. Atividade, Carga, Informação e Dados.
-B. Atomicidade, Consistência, Isolamento e Durabilidade.
-C. Artificialidade, Corretude, Identificação e Desenvolvimento.
-D. Aleatoriedade, Computabilidade, Identidade e Desacoplamento.

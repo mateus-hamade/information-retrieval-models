@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Vetores
-
-Questão anulada  Analise o trecho de código abaixo, considerando a estrutura de dados.        De acordo com esse código, uma suposta entrada de dados correta no cadastro seria por meio de comandos escritos de diferentes maneiras. Analise os comandos apresentados.        Estão corretos os comandos listados em  
-
-Alternativas:
-A. I, II, III e IV.
-B. II, III e IV, apenas.
-C. I e IV, apenas.
-D. II e III, apenas.

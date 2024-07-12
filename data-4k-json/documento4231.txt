@@ -1,9 +1,0 @@
-Segurança da Informação Políticas de Segurança de Informação , Criptografia
-
-Protocolos criptográficos são conjuntos de regras e procedimentos que permitem comunicação segura e protegida entre sistemas de computador por meio do uso de técnicas de criptografia. Tendo em vista os conceitos fundamentais desses protocolos, marque V para as afirmativas verdadeiras e F para as falsas.   ( ) O protocolo IPsec é utilizado para estabelecer conexões VPN (Virtual Private Network) para comunicações seguras pela internet. ( ) O protocolo SSH é usado exclusivamente para criptografia de e-mails. ( ) O protocolo PGP é utilizado para criptografia de e-mails e arquivos, assinatura digital e autenticação de identidade.   A sequência está correta em 
-
-Alternativas:
-A. F, F, F.
-B. F, V, F.
-C. V, F, V.
-D. V, V, V.

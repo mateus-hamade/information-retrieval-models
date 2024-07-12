@@ -1,9 +1,0 @@
-Engenharia de Software Desenvolvimento de Software
-
-Na cultura DevOps, qual afirmativa apresenta o conceito de 'You Build It, You Run It'?
-
-Alternativas:
-A. Os processos de desenvolvimento e operações devem permanecer estritamente separados, com equipes especializadas dedicadas a cada área.
-B. A automação deve ser evitada para garantir que as operações sejam realizadas manualmente, proporcionando maior controle sobre o ambiente de produção.
-C. Os desenvolvedores são responsáveis tanto pela construção (desenvolvimento) quanto pela operação (manutenção e monitoramento) do software que criaram.
-D. A responsabilidade pela execução e operação do software deve ser transferida para uma equipe dedicada de operações após o desenvolvimento ser concluído.

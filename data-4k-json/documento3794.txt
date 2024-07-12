@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-Texto associado Na passagem de parâmetro por valor, o parâmetro formal tem seu valor inicializado pelo valor do parâmetro real. Por esse motivo, o parâmetro real nunca é alterado. O seu valor se mantém inalterado depois que o subprograma termina a execução.
-
-Alternativas:
-A. Certo
-B. Errado

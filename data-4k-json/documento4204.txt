@@ -1,9 +1,0 @@
-Sistemas Operacionais Linux
-
-Em ambientes operacionais Linux uma técnica muito útil para as equipes de infraestrutura é a programação utilizando Shell Script. Esse recurso permite a criação de scripts que são interpretadas pelo interpretador Shell do Sistema Operacional. Em uma situação hipotética, considere que uma equipe de infraestrutura escreveu o seguinte script:         Sobre o script, analise as afirmativas a seguir.  I. A linha 1 indica ao sistema qual interpretador deverá ser utilizado para executar o script. II. Na linha 2, a opção “-p” é utilizada para armazenar o conteúdo digitado pelo usuário dentro da variável dir. III. Na linha 4, o trecho “${file%.txt}” remove a extensão .txt do nome do arquivo deixando apenas o nome base do arquivo.  Está correto o que se afirma apenas em 
-
-Alternativas:
-A. I, II e III.
-B. I e II, apenas.
-C. I e III, apenas.
-D. II e III, apenas.

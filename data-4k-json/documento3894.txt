@@ -1,9 +1,0 @@
-Engenharia de Software Gestão de Projetos em Engenharia de Software
-
-O profissional de Tecnologia da Informação precisa ser mais flexível e aberto para entender as necessidades reais da empresa como um todo. Entender bem sobre Gerenciamento de Projetos torna a entrega dos resultados mais eficiente. O gerente de demanda é responsável por
-
-Alternativas:
-A. prover a resolução e restauração de um incidente.
-B. realizar a demanda partindo do gerente do projeto.
-C. realizar acordos de nível de serviço.
-D. reduzir o excesso de capacidade e satisfazer requisitos de negócio e cliente.

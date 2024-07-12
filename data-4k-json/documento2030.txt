@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
-
-A seguir são apresentados alguns resultados do cálculo da complexidade média de alguns algoritmos conhecidos para ordenação de vetores.  Qual entre eles apresenta um bom fator de complexidade em sua execução e deve ser utilizado? 
-
-Alternativas:
-A. O(n)
-B. O(n2 )
-C. O(2n )
-D. O(n3 )

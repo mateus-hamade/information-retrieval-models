@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Filas
-
-Assinale a opção correta relativa às operações básicas suportadas por filas.
-
-Alternativas:
-A. isFull: verifica se a fila está vazia.
-B. isEmpty: verifica se a fila está cheia.
-C. Enqueue: coloca o elemento no início da fila.
-D. Dequeue: toma o primeiro elemento da fila.

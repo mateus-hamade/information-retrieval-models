@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Grafos
-
-Texto associado Um grafo em que todos os nós possuem o mesmo grau é denominado acíclico.
-
-Alternativas:
-A. Certo
-B. Errado

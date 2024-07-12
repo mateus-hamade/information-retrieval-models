@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
-
-Uma rede neural foi implementada a partir da arquitetura Multilayer Perceptron (MLP) e o conjunto de dados foi dividido em holdout com 50% para conjunto de treinamento, 30% para conjunto de validação e 20% para conjunto de teste. Se, durante o treinamento e a validação da referida rede ocorreu underfitting, dois fatores que podem ter condicionado tal fenômeno são: 
-
-Alternativas:
-A. insuficiência de parâmetros e excesso de camadas.
-B. excesso de parâmetros e excesso de iterações.
-C. iterações insuficientes e amostragem dos dados.
-D. excesso de iterações e entrada não normalizada.

@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-Analise o algoritmo abaixo, que mostra o uso de uma função:  Ao final da execução, serão mostrados para as variáveis M e N, respectivamente, os seguintes conteúdos: 
-
-Alternativas:
-A. 1 e 10.
-B. 1 e 33.
-C. 4 e 33.
-D. 4 e 10.

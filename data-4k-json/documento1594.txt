@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Lógicas de Programação
-
-O algoritmo abaixo utiliza os conceitos de passagem de parâmetros, sendo de SD para X por referência; de NR para Y e de VL para W por valor.        Nessas condições, ao final da execução, os valores para SD, NR e VL serão, respectivamente:   
-
-Alternativas:
-A. GUAPORÉ, 2023 e VERDADEIRO
-B. BURITI, 2022 e VERDADEIRO
-C. GUAPORÉ, 2022 e FALSO
-D. BURITI, 2023 e FALSO

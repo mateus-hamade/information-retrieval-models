@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Matrizes em Estrutura de Dados
-
-No que se refere a vetores, matrizes, filas e árvores binárias, julgue o item.     A estrutura de uma matriz não permite que o armazenamento de valores possa ser referenciado e associado a outros em duas ou mais dimensões. 
-
-Alternativas:
-A. Certo
-B. Errado

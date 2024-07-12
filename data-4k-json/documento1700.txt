@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-Observe o algoritmo a seguir:  Ao final da execução, será impressa a seguinte série de números:  
-
-Alternativas:
-A. 18 18 19 19 20 20 21 21 22 22.
-B. 18 22 19 21 20 20 21 19 22 18.
-C. 22 18 21 19 20 20 19 21 18 22.
-D. 22 22 21 21 20 20 19 19 18 18.

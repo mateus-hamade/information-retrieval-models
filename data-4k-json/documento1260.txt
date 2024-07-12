@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição , Fluxogramas
-
-A empresa responsável por um empreendimento imobiliário implantou um sistema de apoio à decisão baseado em decisões não estruturadas. Esse sistema deve tratar de problemas não recorrentes ou que acontecem com pouca frequência. 
-
-Alternativas:
-A. Certo
-B. Errado

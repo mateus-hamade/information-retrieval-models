@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Tipos de Dados
-
-Texto associado Um ponteiro é uma função explícita que aponta para um endereço de memória, o qual específica arquivos no sistema de arquivos. O controle sobre um ponteiro é de responsabilidade do sistema operacional.
-
-Alternativas:
-A. Certo
-B. Errado

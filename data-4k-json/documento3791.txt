@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
-
-Texto associado Se o nó raiz de uma árvore binária completa tiver nível 0 e essa árvore tiver profundidade 3, então ela terá 8 nós folha.
-
-Alternativas:
-A. Certo
-B. Errado

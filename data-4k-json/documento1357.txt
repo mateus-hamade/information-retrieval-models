@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
-
-Em lógica de programação, a função da estrutura de repetição "for", em um programa, é executar um 
-
-Alternativas:
-A. bloco de código enquanto uma condição é verdadeira.
-B. bloco de código enquanto uma condição é falsa.
-C. bloco de código pré-determinados e em uma quantidade de vezes determinados.
-D. bloco de código uma vez e, em seguida, verificar uma condição para determinar se deve ser executado novamente

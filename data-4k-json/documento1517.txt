@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-Julgue o item a seguir, relacionados aos conceitos de variáveis e constantes.     Em um algoritmo, uma constante é um número que, durante a execução do algoritmo, não é alterado.   
-
-Alternativas:
-A. Certo
-B. Errado

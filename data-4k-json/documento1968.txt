@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
-
-O algoritmo de ordenação mais eficiente para um conjunto grande de elementos randomicamente inseridos é:
-
-Alternativas:
-A. Seleção (Selection sort).
-B. Bolha (Bubble sort).
-C. Inserção (Insert sort).
-D. Quicksort.

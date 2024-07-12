@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-Julgue os próximos itens, relativos à pesquisa de dados e operações básicas sobre estrutura de dados.   Na implementação de recursividade, uma das soluções para que se evite o fenômeno de terminação do programa - que possibilita a ocorrência de um looping infinito - é definir uma função ou condição de terminação das repetições.
-
-Alternativas:
-A. Certo
-B. Errado

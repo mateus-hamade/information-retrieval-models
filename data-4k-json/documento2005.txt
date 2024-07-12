@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
-
-A Estrutura de Controle de Fluxo, apresentada logo abaixo, é considerada tecnicamente como sendo: Enquanto (condição) Faça (bloco de código) Fim Enquanto
-
-Alternativas:
-A. Estrutura sequencial
-B. Estrutura multíplice
-C. Estrutura de repetição
-D. Estrutura condicional

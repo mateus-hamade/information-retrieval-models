@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
-
-Analise a imagem a seguir.       Com base na classe acima e no modificador de acesso “Protected”, em uma classe externa ao pacote “br.ufg.institutoverbena” que herda a classe “Pessoa”, é possível acessar  
-
-Alternativas:
-A. apenas o atributo “idade”.
-B. apenas o atributo “nome”.
-C. tanto o atributo “nome” quanto o atributo “idade”.
-D. tanto o atributo “endereço” quanto o atributo “idade”.

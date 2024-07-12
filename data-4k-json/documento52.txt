@@ -1,9 +1,0 @@
-Banco de Dados SQL
-
-SQL (do inglês, Structured Query Language) é a linguagem utilizada para modelagem de bancos de dados relacionais, cujos comandos são divididos em cinco grupos funcionais: DDL (Data Definition Language), DCL (Data Control Language), DML (Data Manipulation Language), DQL (Data Query Language) e DTL (Data Transaction Language). Os comandos TRUNCATE e INSERT pertencem, respectivamente, aos grupos:
-
-Alternativas:
-A. DDL e DML.
-B. DML e DCL.
-C. DCL e DDL.
-D. DML e DDL.

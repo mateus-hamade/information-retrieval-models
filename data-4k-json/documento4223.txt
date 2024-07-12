@@ -1,9 +1,0 @@
-Segurança da Informação Políticas de Segurança de Informação , Criptografia , Controles de segurança
-
-Analise as afirmativas a seguir.  I. As métricas de segurança são estabelecidas a partir de análises qualitativas realizadas sobre os dados relacionados à segurança da informação coletados em diversos departamentos da organização. II. Métricas de segurança são utilizadas para justificar os investimentos em segurança da informação; podem contribuir para reduzir os riscos ou aprimorar a postura de segurança de uma organização. III. O processo de cálculo e análise de métricas de segurança deve ser executado de maneira contínua. IV. Porcentagem de pontos de acesso IEEE 802.11 que utilizam o protocolo WPA2 e porcentagem do tempo em que o servidor está disponível são exemplos de métricas que podem ser utilizadas para avaliar a infraestrutura e serviços.  Está correto o que se afirma apenas em 
-
-Alternativas:
-A. I e II.
-B. III e IV.
-C. I, II e III.
-D. II, III e IV.

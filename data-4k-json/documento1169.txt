@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos
-
-O algoritmo ordena 13 números em ordem crescente, com o auxílio de uma variável auxiliar AUX.        procedimento ORDENAR     Inicio     repita     troca<- VERDADEIRO     para K de 1 ate 12 faca     se TAB[K) > TAB[K+ 1] entao     AUX <- TAB[K)     TAB[K] <-TAB[K+1]     TAB[K+1] <- AUX     TROCA<- FALSO     fimse     fimpara     ate TROCA= VERDADEIRO     fimrepita     fimprocedimento        Uma solução com o mesmo resultado, mas sem o uso dessa variável auxiliar AUX, é possível por meio da substituição das linhas de código da figura     AOX <- TAB[K]     TAB[K] <- TAB[K+1]     TAB[K<+1] <- AUX     por: 
-
-Alternativas:
-A. TAB[K] <- TAB[K] + TAB[K+l) TAB[K] <- TAB[K] - TAB[K+1] TAB[K+l] <- TAB[K] - TAB[K+l]
-B. TAB[K+1] <- TAB[K] + TAB[K+1] TAB[K] <- TAB[K] - TAB[K+1] TAB[K+1]
-C. TAB[K] <- TAB[K+1] TAB[K+1] <- TAB[K] - TAB[K+1] TAB[K]
-D. TAB[K+1] <- TAB[K] + TAB[K+1] TAB[K] <- TAB[K] - TAB[K+1] TAB[K+1]

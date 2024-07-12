@@ -1,9 +1,0 @@
-Banco de Dados Banco de Dados
-
-Em 2019, foi descoberta uma vulnerabilidade de segurança no jogo on-line Fortnite. Alterando os parâmetros de endereço de uma antiga página Web da Epic Games, era possível submeter instruções SQL para obter informações do banco de dados acessado pela página.  A esse ataque dá-se o nome de
-
-Alternativas:
-A. abuso de privilégio.
-B. injeção de SQL.
-C. escalada de privilégio não autorizada.
-D. abuso de SQL.

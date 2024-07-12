@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
-
-Texto associado Uma fila é uma estrutura de dados sujeita à seguinte regra de operação: sempre que houver uma remoção, o elemento removido será o que estiver na estrutura há mais tempo. 
-
-Alternativas:
-A. Certo
-B. Errado

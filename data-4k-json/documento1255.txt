@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
-
-Observe a imagem a seguir.   A saída esperada para o código apresentado é: 
-
-Alternativas:
-A. [2, 4, 6, 8, 10]
-B. [2, 4]
-C. [1, 2, 3, 4, 5]
-D. [4, 8]

@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
-
-Texto associado O resultado da expressão NOT A <= B é verdadeiro.  
-
-Alternativas:
-A. Certo
-B. Errado

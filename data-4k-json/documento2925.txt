@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Vetores
-
-Como resposta a uma questão da prova, a definição de estrutura de dados elementar denominada vetor foi apresentada por 4 alunos de formas diferentes. Identifique nas alternativas abaixo a resposta correta: 
-
-Alternativas:
-A. o vetor é a representação gráfica de uma reta orientada possuindo mesma intensidade, direção e sentido.
-B. vetores é o conjunto de todos os segmentos orientados equipolentes a um segmento dado.
-C. o vetor permite o acesso a uma grande quantidade de dados em memória usando-se apenas um nome de variável.
-D. os vetores são utilizados em computação gráfica representando os minúsculos pontos diferenciados pela sua cor.

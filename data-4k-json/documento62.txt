@@ -1,9 +1,0 @@
-Banco de Dados Banco de Dados Orientados a Objetos
-
-Qual é o princípio fundamental da orientação a objetos que estabelece uma estrutura com um conjunto de métodos abstratos e/ou constantes, definindo quais métodos uma classe deve implementar e estabelecendo um tipo de contrato entre diferentes partes do código? 
-
-Alternativas:
-A. Interface.
-B. Herança.
-C. Classe Abstrata.
-D. Polimorfismo.

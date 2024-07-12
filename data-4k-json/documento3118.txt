@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
-
-Dada uma estrutura de dados do tipo árvore binária representada pelo diagrama abaixo:    Ao se atravessar a árvore binária acima definida empregando-se o algoritmo INORDER percorreremos os nós:
-
-Alternativas:
-A. DGABHEICF
-B. ABDGCEHIF
-C. GDBHIEFCA
-D. ABCDEFGHI

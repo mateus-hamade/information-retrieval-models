@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
-
-Analise as expressões lógicas. O símbolo % representa resto de divisão inteira: I. falso ou ( 10 % 5 * 2 <> 5 * 2 + 1 ) II. não falso e ( 3 * 3 / 3 < 15 − 5 % 7) III. p e (q ou r) quando p é verdade, q é falso e r é falso IV. ((34 < 9) e (5 + u = 34)) ou ((5 = 15/3) e (8 > 12)), onde u = 29 Assinale a alternativa que apresenta CORRETAMENTE os resultados de tais expressões lógicas: 
-
-Alternativas:
-A. falso, verdadeiro, falso, falso.
-B. verdadeiro, verdadeiro, falso, falso.
-C. verdadeiro, falso, falso, verdadeiro.
-D. falso, falso, verdadeiro, verdadeiro.

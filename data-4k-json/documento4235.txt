@@ -1,9 +1,0 @@
-Segurança da Informação Ataques e ameaças
-
-O tempo médio para remediar um incidente é uma métrica importante na segurança da informação, sendo utilizada para avaliar a eficácia da resposta a incidentes de uma organização e sua capacidade de mitigar os danos causados por ameaças cibernéticas. Sobre a métrica do tempo médio para remediar um incidente, analise as alternativas, e assinale a afirmativa INCORRETA. 
-
-Alternativas:
-A. É o tempo necessário para identificar uma ameaça.
-B. É o tempo médio para atualizar o sistema operacional.
-C. É o tempo necessário para corrigir uma vulnerabilidade
-D. É o tempo médio entre a detecção e correção de um incidente de segurança.

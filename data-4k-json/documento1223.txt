@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos
-
-Julgue o item a seguir, a respeito de algoritmos e técnicas supervisionadas e não supervisionadas de aprendizado de máquina e aprendizagem profunda.      No algoritmo K-means, a similaridade intragrupo é avaliada considerando-se o valor médio dos objetos em um grupo, que pode ser visto como o seu centro de gravidade ou o centroide.   
-
-Alternativas:
-A. Certo
-B. Errado

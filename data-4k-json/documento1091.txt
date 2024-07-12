@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
-
-Relativamente à programação estruturada e a métodos de ordenação, julgue o item subsequente.     Na execução do algoritmo de ordenação por inserção (insertion sort), o número máximo de movimentações em função das comparações entre os itens acontecerá quando, no vetor original, nenhum elemento for maior que seu sucessor.  
-
-Alternativas:
-A. Certo
-B. Errado

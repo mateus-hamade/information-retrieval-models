@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-Texto associado Nova função obtida pela substituição da linha 6 por retorne M[A] + func(M,A-1,B) tem comportamento equivalente ao da função func acima.
-
-Alternativas:
-A. Certo
-B. Errado

@@ -1,8 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Vetores
-
-Dois vetores, v1 e v2, armazenam N inteiros cada um, estão ordenados de forma crescente e têm a propriedade de que o último elemento de v1 (v1[N-1]) é menor que o primeiro elemento de v2 (v2[0]). É retirado um elemento de cada vez de cada um desses vetores alternadamente, e cada elemento retirado é colocado em uma fila. Posteriormente, os elementos são retirados da fila e inseridos em uma árvore binária de busca. A árvore é percorrida em ordem simétrica, e os elementos são inseridos, assim que retirados, em uma pilha. Depois, cada elemento é retirado da pilha e inserido alternadamente em um dos vetores, começando por v1.  Diante do exposto, conclui-se que 
-
-Alternativas:
-A. v1[N-1] > v2[0]
-B. as listas não estão mais ordenadas.
-C. todos os elementos de v1 estão armazenados em v2 e vice-versa.

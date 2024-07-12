@@ -1,9 +1,0 @@
-Banco de Dados SQL
-
-Ao desenvolvermos sistemas, a persistência de dados é realizada em um banco de dados, que normalmente opera sob a linguagem SQL, desta foram, o que é o conceito de chave primeira em banco de dados. 
-
-Alternativas:
-A. Uma coluna que armazena valores inteiros e que podem se repetir
-B. Uma coluna que armazena valores exclusivos para cada registro na tabela
-C. Uma coluna que armazena valores em forma de texto, para serem recuperados
-D. Uma coluna que armazena valores com diversos tipos de dados

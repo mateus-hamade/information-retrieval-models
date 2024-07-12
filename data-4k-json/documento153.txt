@@ -1,9 +1,0 @@
-Banco de Dados Banco de Dados , Formas normais
-
-Assinale a definição mais adequada para “Normalização”. 
-
-Alternativas:
-A. É uma regra que deve ser seguida para que um dado seja bem avaliado.
-B. É o processo de análise sobre esquemas relacionais para conseguir características desejáveis, como, por exemplo, a minimização de redundância e, consequentemente, a redução de anomalias de inserção, atualização e exclusão.
-C. Sujeita o esquema de relação a uma cadeia de avaliação para garantir que ele satisfaça a forma normal.
-D. Resolve o problema do atributo multivalorado, criando uma tabela multivalorada que se relaciona com outras tabela.

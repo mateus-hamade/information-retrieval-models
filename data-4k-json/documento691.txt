@@ -1,9 +1,0 @@
-Banco de Dados Backup em Banco de Dados , SQL Server
-
-Indique a seguir a sintaxe de comando no SQLServer que deveria ser utilizado para validar uma cópia de backup uma vez que os backups são de extrema importância para a continuidade das operações em uma instituição.
-
-Alternativas:
-A. RESTORE VERIFYONLY FROM <dispositivo de backup>
-B. VERIFYONLY FROM <dispositivo de backup>
-C. VALID BACKUP FROM <dispositivo de backup>
-D. VARIFYONLY BACKUP FROM <dispositivo de backup>

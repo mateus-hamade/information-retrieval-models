@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-Em ciência da computação, um algoritmo é uma sequência de ações executáveis com objetivo de obter solução para uma situação problema. Nesse sentido, analise as afirmativas abaixo e dê valores Verdadeiro (V) ou Falso (F).     ( ) Um algoritmo não representa necessariamente um programa de computador, e sim os passos para realizar determinada tarefa.  ( ) Determina o valor necessário para elaborar uma tarefa.  ( ) A implementação pode ser feita por um computador, por outro tipo de autômato ou mesmo por um ser humano.  ( ) Diferentes algoritmos podem realizar a mesma tarefa usando um conjunto diferenciado de instruções.     Assinale a alternativa que apresenta a sequência correta de cima para baixo. 
-
-Alternativas:
-A. F, V, F, F
-B. V, F, F, V
-C. V, F, V, V
-D. F, V, V, F

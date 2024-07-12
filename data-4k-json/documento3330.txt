@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Hashing
-
-As colisões ocorrem na utilização de tabela hash porque várias chaves podem resultar na mesma posição.  
-
-Alternativas:
-A. Certo
-B. Errado

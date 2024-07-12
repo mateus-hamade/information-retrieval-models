@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-Texto associado Considere que, na execução do algoritmo apresentado no texto 10A1AAA, o valor do código lido na linha 6 seja 12345678901. Nesse caso, o valor da variável SOMA1, imediatamente após a linha 16, será igual a
-
-Alternativas:
-A. 138.
-B. 60.
-C. 78.
-D. 46.

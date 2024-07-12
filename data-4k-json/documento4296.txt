@@ -1,9 +1,0 @@
-Engenharia de Software Metodologia de desenvolvimento de software
-
-Test Driven Development (TDD) é uma prática muito utilizada no processo de desenvolvimento de sistemas computacionais, que aumenta a produtividade do processo a partir de testes já consolidados. A figura a seguir representa o ciclo do TDD.   As atividades previstas nos balões RED-GREENREFACTOR podem ser, respectivamente:
-
-Alternativas:
-A. criar um teste que falhe – fazer o código funcionar – eliminar redundâncias.
-B. escrever um trecho de código – validar o código – encapsular o código.
-C. identificar erros no código – validar o código – testar com várias iterações.
-D. realizar testes no código – avaliar o código – implementar melhorias no código.

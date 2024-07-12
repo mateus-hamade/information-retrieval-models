@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Grafos
-
-Texto associado Considere que um grafo G seja constituído por um conjunto (N) e por uma relação binária (A), tal que G = (N, A), em que os elementos de N são denominados nós (ou vértices) e os elementos de A são denominados arcos (ou arestas). Em face dessas informações e do grafo abaixo, é correto afirmar que esses conjuntos são N= {1,2,3,4} e A={(1,2),(2,1),(2,4),(2,3)}.   
-
-Alternativas:
-A. Certo
-B. Errado

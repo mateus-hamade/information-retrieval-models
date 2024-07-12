@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-Julgue o item a seguir.      Um pseudocódigo é uma representação textual de um algoritmo, utilizada para planejar e estruturar soluções algorítmicas antes de sua implementação em uma linguagem de programação específica. Sua elaboração inclui a compreensão do problema, divisão em etapas, identificação de variáveis, definição da lógica usando estruturas de controle, e adição de comentários explicativos para melhor clareza.   
-
-Alternativas:
-A. Certo
-B. Errado

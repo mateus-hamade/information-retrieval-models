@@ -1,9 +1,0 @@
-Banco de Dados SQL , MySQL
-
-Qual é a instrução SQL( suponha o MySQL) que irá permitir criar uma nova tabela com base nos resultados de uma consulta em uma tabela existente?
-
-Alternativas:
-A. CREATE TABLE AS SELECT
-B. COPY TABLE FROM
-C. INSERT SELECT (TABLE) INTO
-D. CLONE TABLE WITH SELECT

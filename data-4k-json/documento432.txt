@@ -1,9 +1,0 @@
-Banco de Dados Modelagem de dados , DER - Diagrama de Entidade e Relacionamento
-
-No que diz respeito à modelagem de bancos de dados, enquanto o MER é um modelo conceitual, o DER é a representação gráfica e principal ferramenta utilizada na Engenharia de Software para descrever os objetos (entidades) envolvidos em um domínio de negócios, com suas características (atributos) e como elas se relacionam entre si (relacionamentos). Em sua notação original, proposta por Peter Chen, as entidades, os atributos e os relacionamentos, ligados às entidades por linhas, contendo também sua cardinalidade (1..1, 1..n ou n..n), devem ser representados, respectivamente, por 
-
-Alternativas:
-A. losangos, círculos e retângulos.
-B. retângulos, elipses e losangos.
-C. círculos, retângulos e elipses.
-D. elipses, losangos e círculos

@@ -1,8 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
-
-O número médio de comparações do método de ordenação Quicksort é:  
-
-Alternativas:
-A. n log n
-B. Iog n
-C. &radic;log n

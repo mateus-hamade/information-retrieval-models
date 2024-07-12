@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Tipos de Dados
-
-“Segundo Ziviani (2011), pode ser visto como um modelo matemático, acompanhado das operações definidas sobre o modelo. Como exemplo cita‐se o conjunto dos inteiros acompanhado das operações de adição, subtração e multiplicação.” Trata‐se de: 
-
-Alternativas:
-A. Programas.
-B. Tipo de dados.
-C. Estrutura de dados.
-D. Tipo abstrato de dados.

@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Fluxogramas
-
-Texto associado No fluxograma abaixo, se A = 4, B = 4 e C = 8, o resultado que será computado para Área é igual a 32.   
-
-Alternativas:
-A. Certo
-B. Errado

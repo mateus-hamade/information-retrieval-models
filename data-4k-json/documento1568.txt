@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
-
-Com relação a dado, informação e conhecimento, julgue o item subsecutivo.   Os termos CÉU e AZUL, quando utilizados separadamente, representam dados, enquanto a expressão CÉU É AZUL representa uma informação.   
-
-Alternativas:
-A. Certo
-B. Errado

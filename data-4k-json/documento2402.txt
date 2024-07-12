@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
-
-Considerando o algoritmo abaixo, assinale a alternativa correta.       
-
-Alternativas:
-A. Não é possível calcular a complexidade ciclomática neste caso.
-B. O algoritmo possui, no máximo, 4 caminhos básicos (independentes).
-C. A complexidade ciclomática é 3.
-D. A complexidade ciclomática depende do valor de y.

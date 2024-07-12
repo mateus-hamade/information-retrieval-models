@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
-
-Julgue o item subsecutivo, a respeito de lógica e de estrutura de programação.        O resultado do pseudocódigo precedente será 120.  
-
-Alternativas:
-A. Certo
-B. Errado

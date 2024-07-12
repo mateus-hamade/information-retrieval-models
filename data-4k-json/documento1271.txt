@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos
-
-Considere o seguinte algoritmo, confeccionado por meio do VisuAlg 2.0:     Algoritmo “questao”  Var   x, x1: inteiro   y, y1 : inteiro   z, z1 : inteiro  Inicio   x1 <- 40   Y1 <- 10 -3   z1 <- 34-10  enquanto (x1 > 30) faca   x <- x1 - y1   y <- y1 + z1   z <- z1 + x1   x1 <- x   y1 <- y   z1 <- z  fimenquanto   escreva (x1, y1, z1)  Fimalgoritmo     O valor final de y1, após a execução deste algoritmo, será:  
-
-Alternativas:
-A. 60
-B. 95
-C. 107
-D. 124

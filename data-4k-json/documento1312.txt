@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Lógicas de Programação
-
-O raciocínio lógico leva a uma resposta que pode ser verdadeira ou falsa. Na construção de algoritmos para a solução de problemas computacionais, trabalha-se com esse tipo de raciocínio. A respeito desse assunto, julgue o item. Considere a seguinte situação hipotética. Uma estrada liga, em linha reta, três cidades A, B e C. Na cidade A, uma placa indica: B a 7 km e C a 10 km. Em B, há uma placa que indica: A a 5 km e C a 7 km. Na cidade C, uma placa indica: A a 10 km e B a 2 km. Sabe-se que, em uma das cidades, todas as indicações estão erradas e, em outra, há uma indicação errada e outra correta (não obrigatoriamente nesta ordem). Nessa situação, é correto afirmar que a distância entre as cidades A e B é de 7 km e que a distância entre B e C é de 3 km.  
-
-Alternativas:
-A. Certo
-B. Errado

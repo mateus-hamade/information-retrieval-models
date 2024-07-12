@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
-
-Julgue o item, relativos aos conceitos de programação e às estruturas de dados.       Em uma árvore, o conjunto de um ou mais nós é finito e hierarquicamente subordinado a outro.   
-
-Alternativas:
-A. Certo
-B. Errado

@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos
-
-Julgue o item a seguir, a respeito de algoritmos e técnicas supervisionadas e não supervisionadas de aprendizado de máquina e aprendizagem profunda.      O algoritmo Apriori emprega busca em profundidade e gera conjuntos de itens candidatos (padrões) de k elementos a partir de conjuntos de itens de k − 1 elementos, sendo os padrões não frequentes eliminados.   
-
-Alternativas:
-A. Certo
-B. Errado

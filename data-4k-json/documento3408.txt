@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Busca
-
-Em relação aos algoritmos de pesquisa, correlacione as colunas a seguir:  Está CORRETA a seguinte sequência de respostas, na ordem de cima para baixo:  
-
-Alternativas:
-A. II, IV, III, I.
-B. II, I, IV, III.
-C. III, I, IV, II.
-D. III, II, IV, I.

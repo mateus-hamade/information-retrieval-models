@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-Texto associado Na maioria das linguagens de programação, são utilizadas prioridades de operadores, tais como multiplicação e(ou) divisão e adição e(ou) subtração, sendo essas duas prioridades precedentes das operações embutidas em parênteses encadeados mais internamente.  
-
-Alternativas:
-A. Certo
-B. Errado

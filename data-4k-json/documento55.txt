@@ -1,9 +1,0 @@
-Banco de Dados OLAP (On-line Analytical Processing)
-
-Business Intelligence é um conceito que envolve o uso de ferramentas tecnológicas para coletar, armazenar, analisar, compartilhar informações no âmbito da gestão de negócios e tomada de decisão. As ferramentas OLAP (do inglês, Online Analytical Processing) permitem
-
-Alternativas:
-A. explorar dados agregados em múltiplas dimensões.
-B. armazenar dados das operações de processamento.
-C. revelar relacionamentos entre os dados armazenados.
-D. indexar dados para atualização eficiente.

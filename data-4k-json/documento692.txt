@@ -1,9 +1,0 @@
-Banco de Dados SQL Server
-
-Qual a finalidade dos endpoints no servidor SQLServer.
-
-Alternativas:
-A. Controlar a capacidade de conexão nas instâncias do SQLServer
-B. Controlar os pontos de encerramento de processamento em stored procedures
-C. Controlar os acessos simultâneos a registros no banco de dados
-D. Controlar a execução das views existentes no banco de dados

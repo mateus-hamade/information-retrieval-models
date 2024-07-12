@@ -1,9 +1,0 @@
-Banco de Dados SQL Server
-
-A partir de qual comando no SQLServer poderíamos executar a seguinte stored procedure?     CREATE PROCEDURE STO @PAR INT  AS  BEGIN        SELECT @PAR*@PAR AS QUAD  END 
-
-Alternativas:
-A. EXECUTE STO 10
-B. EXECUTE @PAR 10
-C. RUN STO 20
-D. RUN @PAR 20

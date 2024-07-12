@@ -1,9 +1,0 @@
-Banco de Dados MySQL
-
-No contexto de administração de banco de dados MySQL, ao planejar o armazenamento de tabelas e índices, considerando otimizar a alocação de espaço e melhorar o desempenho do sistema, é recomendado utilizar: 
-
-Alternativas:
-A. páginas menores para todas as tabelas e índices para reduzir a fragmentação.
-B. partições para separação de dados históricos e dados recentes, em tabelas com alta taxa de inserção.
-C. tabelas compactadas para economizar espaço em disco, independentemente do tipo de dado.
-D. mecanismo de armazenamento MyISAM para todas as tabelas, pois ele oferece melhor desempenho em leitura e é compatível com a propriedade ACID.

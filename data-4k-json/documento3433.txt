@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
-
-Acerca das estruturas de dados estáticas e homogêneas (vetores e matrizes) e das estruturas de dados dinâmicas (listas, pilhas, filas), utilizadas para armazenar conjuntos de valores, julgue os itens a seguir.  As pilhas, também conhecidas como listas LIFO ou PEPS, são listas lineares em que todas as operações de inserção e remoção de elementos são feitas por um único extremo da lista, denominado topo.
-
-Alternativas:
-A. Certo
-B. Errado

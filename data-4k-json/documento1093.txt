@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Vetores
-
-No programa a seguir, escrito em pseudocódigo, foi criada uma estrutura de dados do tipo vetor de nome vec com 50 posições, tal que cada posição desse vetor contém um número inteiro. Nesse programa, também foram utilizadas as variáveis inteiras j, idade e limite.   Com base nessas informações, julgue o próximo item.   Ao fim da execução do programa, o valor armazenado na primeira posição de vec será a idade de maior valor entre as 50 existentes. 
-
-Alternativas:
-A. Certo
-B. Errado

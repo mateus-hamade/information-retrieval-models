@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Listas
-
-A ferramenta de projeto utilizada para apoiar a implementação incremental de modelos dimensionais de áreas de negócio distintos compartilhando dimensões padronizadas em um Data Warehouse Corporativo é:
-
-Alternativas:
-A. Data Lake.
-B. Pipeline de dados.
-C. Regras de Associação.
-D. Matriz de Barramento.

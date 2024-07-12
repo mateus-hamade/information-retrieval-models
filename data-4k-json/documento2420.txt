@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
-
-Considere o grafo abaixo de uma instância da estrutura de dados do tipo árvore binária:        Aplicando o algoritmo de busca em profundidade nessa árvore e considerando o cruzamento de árvore em in-ordem, a alternativa que apresenta CORRETAMENTE a sequência de visitas desse algoritmo é:  
-
-Alternativas:
-A. 4, 8, 5, 2, 6, 7, 3, 1.
-B. 1, 2, 4, 5, 8, 3, 6, 7.
-C. 1, 2, 3, 4, 5, 6, 7, 8.
-D. 4, 2, 8, 5, 1, 6, 3, 7.

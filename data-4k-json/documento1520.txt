@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
-
-Julgue o item a seguir, a respeito dos conceitos de passagem de parâmetros, recursividade, conceitos básicos de programação estruturada e orientada a objetos, métodos de ordenação, pesquisa e hashing. Considere-se o seguinte algoritmo. inteiro função func (inteiro n) inicio se (n == 4) retorne n; senão retorne 2*func( n+1); fim escreva (func(1));  O resultado final do referido algoritmo é 16. 
-
-Alternativas:
-A. Certo
-B. Errado

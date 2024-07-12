@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Filas
-
-Julgue o item a seguir, com relação a estruturas de dados.  As duas operações básicas de uma fila são o empilhamento e o desempilhamento, também denominadas, respectivamente, PUSH e POP.
-
-Alternativas:
-A. Certo
-B. Errado

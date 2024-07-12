@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-Considerando a linguagem utilizada na construção de algoritmos, julgue o item a seguir.  O algoritmo a seguir fornece como resultado 50 números pares.    
-
-Alternativas:
-A. Certo
-B. Errado

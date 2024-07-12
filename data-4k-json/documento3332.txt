@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Busca
-
-A busca binária é realizada em um grupo de dados previamente ordenado.  
-
-Alternativas:
-A. Certo
-B. Errado

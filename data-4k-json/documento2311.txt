@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-Avalie o programa a seguir.         Nesse programa, escrito em pseudocódigo, o valor impresso de x será igual a 
-
-Alternativas:
-A. 15, já que a variável referenciada é a global, de p.
-B. 15, já que a variável referenciada é a local, de p1.
-C. 28,já que a variável referenciada é a global, de p.
-D. 28, já que a variável referenciada é a local, de p1.

@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-Se expressarmos em um pseudocódigo, como o português estruturado, a estrutura de repetição básica será equivalente a:
-
-Alternativas:
-A. Enquanto (condição) Se (bloco de código) Fim Se
-B. Enquanto (condição) Faça Fim Enquanto
-C. Se (condição) Então
-D. Escolha X Caso X: (bloco de código) Fim Escolha

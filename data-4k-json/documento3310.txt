@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
-
-Ao se especificar um gatilho, a cláusula opcional WHEN é utilizada para indicar as condições que necessitam ser verificadas antes de a ação ser executada.  
-
-Alternativas:
-A. Certo
-B. Errado

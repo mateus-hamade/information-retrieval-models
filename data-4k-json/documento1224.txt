@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos
-
-Julgue o item a seguir, a respeito de algoritmos e técnicas supervisionadas e não supervisionadas de aprendizado de máquina e aprendizagem profunda.  A tarefa do agrupamento consiste em segmentar uma base de dados não rotulada em grupos que tenham algum significado ou utilidade prática.    
-
-Alternativas:
-A. Certo
-B. Errado

@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação , Tipos de Dados
-
-Acerca de lógica de programação, programação estruturada e programação orientada a objetos, julgue o item a seguir. Tipos de dados estruturados são definidos por meio de operadores de tipos, também conhecidos como construtores, utilizados para formar expressões de tipos.
-
-Alternativas:
-A. Certo
-B. Errado

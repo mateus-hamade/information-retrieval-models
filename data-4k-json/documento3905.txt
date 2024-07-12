@@ -1,9 +1,0 @@
-Programação PHP , Linguagens de programação
-
-Considere as assertivas abaixo sobre a linguagem de programação PHP:  I. A variável superglobal $_GET receberá os dados por meio de uma solicitação http. II. Diferente do $_GET, a variável superglobal $_POST receberá os dados pela interface de transporte do navegador. III. Para se criar uma constante em PHP, utiliza-se a função define( ).  Conforme as assertivas, responda a alternativa correta:
-
-Alternativas:
-A. Somente I está correta
-B. Somente II está correta
-C. Somente I e II estão corretas
-D. Somente I e III estão corretas

@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
-
-Com relação às estruturas de controle em programas de computador, julgue o item subsecutivo.  Para cada corrotina, é necessária uma pilha de registros de ativação que cresça e diminua durante a sua execução, independentemente das pilhas das outras corrotinas.  
-
-Alternativas:
-A. Certo
-B. Errado

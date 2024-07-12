@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Listas
-
-No que concerne aos aspectos de linguagens de programação, algoritmos, estrutura de dados e case, julgue o item subsequente.  O tipo abstrato de dados deque armazena os elementos em posições como as de uma lista. Cada uma dessas posições em um deque é definida em relação à posição de seus vizinhos e constitui um nodo que satisfaz a relação pai-filho. 
-
-Alternativas:
-A. Certo
-B. Errado

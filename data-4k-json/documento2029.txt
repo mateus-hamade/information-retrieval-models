@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Filas
-
-Qual é a forma de armazenar dados em uma estrutura em que a inserção é de um lado e a remoção deve ser feita pelo outro lado da estrutura?
-
-Alternativas:
-A. Pilha.
-B. Lista.
-C. Árvore.
-D. Fila.

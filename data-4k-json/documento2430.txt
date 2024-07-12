@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
-
-   Na definição precedente, tipest, delimitado por <estrutura> e <fim_estrutura>, é do tipo 
-
-Alternativas:
-A. variável composta homogênea.
-B. matriz.
-C. vetor.
-D. registro.

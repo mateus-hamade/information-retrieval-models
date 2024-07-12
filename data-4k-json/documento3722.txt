@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
-
-Texto associado As operações de inserir e retirar sempre afetam a base de uma pilha.
-
-Alternativas:
-A. Certo
-B. Errado

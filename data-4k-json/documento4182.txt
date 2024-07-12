@@ -1,9 +1,0 @@
-Programação Linguagens de programação , Python
-
-Considere a lista de tuplas a seguir, em que cada tupla representa informações sobre um produto. resultado = [('Produto A', 120, 25.50), ('Produto B', 85, 19.99), ('Produto C', 200, 32.75)]   Qual seria o código em Python que transformaria esse resultado em um dicionário, em que a chave é o nome do produto e o valor é um dicionário contendo as quantidades em estoque e os preços unitários? 
-
-Alternativas:
-A. dados_formatados dados = {c: {'Quantidade': b, 'Preco Unitario': a} for (a, b, c) in resultado}
-B. dados_formatados = {} for c, b, a in resultado: dados_formatados[a] = {'Quantidade': b, 'Preco Unitario': c}
-C. dados_formatados = {item[0]: {'Quantidade': item[1], 'Preco Unitario': item[2]} for item in resultado}
-D. dados_formatados = {} for item in resultado: dados_formatados[item[2]] = {'Quantidade': item[1], 'Preco Unitario': item[0]}

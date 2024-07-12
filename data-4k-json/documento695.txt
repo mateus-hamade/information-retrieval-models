@@ -1,9 +1,0 @@
-Banco de Dados DW - Data Warehouse
-
-Indique como é conhecida a funcionalidade de um sistema de data warehouse em que o usuário que navega pelos dados pode aumentar o nível de detalhe dos dados sendo exibidos.
-
-Alternativas:
-A. Dice
-B. Drill-down
-C. Roll-up
-D. Slice

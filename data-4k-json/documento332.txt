@@ -1,9 +1,0 @@
-Banco de Dados DW - Data Warehouse , OLAP (On-line Analytical Processing)
-
-Assinale a opção que indica a operação OLAP que permite analisar os dados de um Data Warehouse em níveis de agregação progressivamente mais detalhados, ou de menor granularidade.
-
-Alternativas:
-A. Slide.
-B. Pivot.
-C. Roll-up.
-D. Drill-down.

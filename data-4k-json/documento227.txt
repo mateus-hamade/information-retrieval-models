@@ -1,9 +1,0 @@
-Banco de Dados SQL
-
-Observe a imagem a seguir.     O comando SQL responsável por retornar todos os registros da tabela da esquerda e os registros correspondentes da tabela direita é 
-
-Alternativas:
-A. LEFT TABLE.
-B. RIGHT TABLE.
-C. LEFT JOIN.
-D. RIGHT JOIN.

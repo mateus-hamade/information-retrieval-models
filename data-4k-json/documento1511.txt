@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-A respeito dos conceitos de função e avaliação de expressões, julgue o item subsequente.      Considere o algoritmo a seguir.  a = 5  b = 55  c = 555  maior = a  se maior > b então      maior = b  senão     se maior > c então         maior = c          menor = c    se menor < a então        menor = a     senão    se menor < b então         menor = b  outro = a + b + c - maior - menor  escreva(maior)  escreva(menor)  escreva(outro)     O resultado correto da execução do algoritmo precedente será o seguinte.  555  5  55.  
-
-Alternativas:
-A. Certo
-B. Errado

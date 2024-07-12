@@ -1,9 +1,0 @@
-Banco de Dados Modelagem de dados
-
-Considerando os conceitos de modelagem de dados no contexto do modelo relacional, avaliar se as afirmativas são certas (C) ou erradas (E) e assinalar a sequência correspondente.  ( ) No relacionamento do tipo um-para-muitos, várias instâncias de uma entidade estão associadas a múltiplas instâncias de outra entidade. Isso é geralmente implementado por meio de uma terceira tabela, denominada tabela de associação ou tabela de junção. ( ) Entidades são características ou propriedades que descrevem um atributo. Por exemplo, um Livro pode ter entidades como Título, Autor, ISBN, Ano de Publicação, etc. ( ) Pode-se afirmar que uma entidade estará na Primeira Forma Normal (1NF) somente se todos os seus atributos não chave dependerem diretamente apenas da chave primária, sem apresentar dependências transitivas. 
-
-Alternativas:
-A. E - E - E.
-B. E - E - C.
-C. E - C - C.
-D. C - E - E.

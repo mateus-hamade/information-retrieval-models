@@ -1,9 +1,0 @@
-Banco de Dados Banco de Dados
-
-Texto associado O diagrama acima mostra um caso policial, e que todos os elementos estão interligados e compõem o modelo de entidade de relacionamento. Sobre agregação, é correto afirmar que
-
-Alternativas:
-A. um fato independe da natureza de ligação entre seus relacionamentos e atributos.
-B. existe uma relação de dependência entre relacionamentos e seus atributos.
-C. o relacionamento é constituído por mais de uma entidade.
-D. se refere a todo atributo ou conjuntos de atributos que permite identificar, de modo único, cada entidade.

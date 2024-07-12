@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-Texto associado No trecho de pseudocódigo a seguir, o teste condicional na estrutura seqüencial enquanto ocorre no final. Isso significa que a possibilidade de a repetição não ser executada é nula, visto que, mesmo quando a condição assume falso na primeira verificação, o comando é executado, enquanto (condição) comando;  
-
-Alternativas:
-A. Certo
-B. Errado

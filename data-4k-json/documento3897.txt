@@ -1,9 +1,0 @@
-Engenharia de Software Desenvolvimento de Software
-
-Um analista de sistemas está planejando a implementação de uma infraestrutura baseada em contêineres para facilitar o desenvolvimento, o teste e a implantação de aplicações. Para isso, ele deve selecionar um arquivo de configuração usado para definir as características, as dependências e as configurações de um container denominado de 
-
-Alternativas:
-A. Dockerfile.
-B. Docker Container.
-C. Docker Compose
-D. Imagem Docker.

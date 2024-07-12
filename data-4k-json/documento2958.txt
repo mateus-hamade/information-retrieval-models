@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Fluxogramas
-
-No que se refere às linguagens de programação, julgue os itens subsecutivos.  O diagrama de blocos apresentado abaixo se refere à instrução faça < conjunto de instruções > enquanto < condição >.  
-
-Alternativas:
-A. Certo
-B. Errado

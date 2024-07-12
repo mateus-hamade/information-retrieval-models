@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
-
-O método de classificação Quicksort é estável e executado em tempo linearmente dependente da quantidade de dados que estão sendo classificados.  
-
-Alternativas:
-A. Certo
-B. Errado

@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
-
-Estruturas de dados é um assunto largamente estudado e aplicado no desenvolvimento de software, isto por que, é através destas estruturas que se darão a organização dos dados dentro do software, bem como o próprio desempenho ao lidar com a recuperação de dados nestas estruturas de dados. Estas estruturas possuem basicamente duas grandes categorias, ou seja, estruturas de dados homogêneas e heterógênas. Com relação a estruturas de dados homogêneas, assinale a alternativa correta. 
-
-Alternativas:
-A. Estruturas de dados homogêneas podem armazenar diferentes tipos de dados em uma única coleção
-B. Estruturas de dados homogêneas podem armazenar elementos do mesmo tipo de dados em uma única coleção
-C. Estruturas de dados homogêneas são mais adequadas para utilização de dados numéricos
-D. Estruturas de dados homogêneas possuem alta eficiência no acesso ao banco de dados

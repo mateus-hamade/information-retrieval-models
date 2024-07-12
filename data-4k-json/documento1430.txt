@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-Observe-se o seguinte algoritmo, que utiliza as regras sintáticas da linguagem VisuAlg e foi implementado em pseudocódigo.   Ao final da execução do algoritmo, serão escritos os seguintes valores referentes à variável v1:  
-
-Alternativas:
-A. 2, 3, 5, 7
-B. 2, 4, 6, 8
-C. 2, 3, 4, 5, 6, 7
-D. 8, 7, 6, 5, 4, 3

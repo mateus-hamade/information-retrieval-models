@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-Texto associado Caso se faça a chamada Escreva AlgoritmoPampa (1128, 338), o resultado obtido será 12.  
-
-Alternativas:
-A. Certo
-B. Errado

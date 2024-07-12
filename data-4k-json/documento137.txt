@@ -1,9 +1,0 @@
-Banco de Dados Modelagem de dados , DER - Diagrama de Entidade e Relacionamento
-
-A modelagem da informação trata da concepção da estrutura da informação em determinado universo de discurso, sendo uma etapa fundamental no projeto de bancos de dados. IDEF1X é uma linguagem para modelagem da informação, baseada no modelo entidaderelacionamento que tem como construções sintáticas básicas a entidade, o relacionamento e o atributo. A entidade dependente é representada, na notação IDEF1X, por: 
-
-Alternativas:
-A. um retângulo com os cantos em 90 graus.
-B. uma elipse rotulada com um verbo ou uma frase verbal.
-C. uma elipse com linha pontilhada.
-D. um retângulo com os cantos arredondados.

@@ -1,9 +1,0 @@
-Segurança da Informação ISO 27002
-
-Um órgão de um Ministério do governo do país recebeu informações cujas características envolvem ter a integridade de dados como item vital, ter um risco de comprometimento das operações do órgão, caso o dado seja acessado por alguém não autorizado e serem as informações, no máximo possível, protegidas de acessos externos. Dentro do conceito de classificação e controle de ativos de informação, essas informações devem ser classificadas como:
-
-Alternativas:
-A. públicas
-B. pessoais
-C. confidenciais
-D. supersecretas

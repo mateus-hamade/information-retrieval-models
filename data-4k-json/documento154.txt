@@ -1,9 +1,0 @@
-Banco de Dados SQL
-
-Analise as afirmativas abaixo:     I- O PL/SQL permite usar todas as instruções de manipulação de dados SQL, controle de cursor e controle de transações e todas as funções, operadores e pseudocolunas do SQL.  II- Não há necessidade de converter entre tipos de dados PL/SQL e SQL.  III- O PL/SQL não permite executar uma consulta SQL.  IV- Não há a possibilidade de declarar nem definir as funções PL/SQL nas WITH cláusulas das SELECT instruções SQL.     Está(ão) CORRETO(S): 
-
-Alternativas:
-A. Apenas o item II.
-B. Apenas o item III.
-C. Apenas os itens I e II.
-D. Apenas os itens III e IV.

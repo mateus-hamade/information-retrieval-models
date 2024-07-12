@@ -1,9 +1,0 @@
-Banco de Dados Backup em Banco de Dados , MySQL
-
-No MySQL, o backup lógico guarda as informações representadas como estrutura lógica de banco de dados (CREATE) e conteúdo (INSERT ou arquivos de texto delimitado) em um arquivo. Nesse sentido, o comando que realiza o backup lógico completo de cada banco de dados é:
-
-Alternativas:
-A. mysqldump -u root -p --backup-all-databases > backup.sql
-B. mybackup -u root -p --all-databases > backup.sql
-C. mysqldump -u root -p --all-databases > backup.sql
-D. mybackup -u root -p --full-backup > backup.sql

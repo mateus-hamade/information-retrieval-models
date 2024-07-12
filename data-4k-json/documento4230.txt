@@ -1,9 +1,0 @@
-Segurança da Informação Criptografia , SSL
-
-Protocolos criptográficos desempenham papel fundamental na segurança da informação, garantindo confidencialidade, integridade e autenticidade dos dados transmitidos pela internet. Sobre os protocolos SSL/TLS, qual opção é considerada o protocolo de segurança da internet mais seguro? 
-
-Alternativas:
-A. SSL 2.0.
-B. SSL 3.0.
-C. TLS 1.0.
-D. TLS 1.3.

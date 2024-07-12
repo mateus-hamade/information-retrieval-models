@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
-
-Texto associado  Quanto à lógica de programação e à estrutura de dados, julgue o item.        A estrutura condicional switch‑case é utilizada para comparar o valor de uma expressão com diferentes casos, tornando‑a mais flexível quando se trata de avaliar múltiplas possibilidades.  
-
-Alternativas:
-A. Certo
-B. Errado

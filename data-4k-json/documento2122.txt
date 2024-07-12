@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
-
-Para armazenar os dados a serem utilizados por um sistema, o desenvolvedor pode fazer uso de uma, entre várias estruturas de dados existentes, em que cada uma é adequada a determinados contextos. Sobre as estruturas de dados, marque a alternativa CORRETA. 
-
-Alternativas:
-A. A estrutura denominada fila circular é utilizada quando se deseja estabelecer prioridade para os elementos que estão a mais tempo na fila.
-B. Em uma fila, utiliza-se o termo denominado LIFO (Last in First Out) quando o elemento mais novo na estrutura é o primeiro a ser retirado.
-C. Para percorrer os elementos inseridos em uma lista duplamente encadeada, existe apenas um fluxo, pois os elementos possuem o ponteiro somente para o próximo elemento da lista.
-D. Dado um conjunto de elementos inseridos em uma pilha, ao se remover sequencialmente esses elementos e imprimir os seus valores, obtém-se os elementos na ordem inversa da inicial.

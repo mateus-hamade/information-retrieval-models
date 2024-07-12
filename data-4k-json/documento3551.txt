@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Recursividade
-
-Texto associado Se o parâmetro de entrada for o valor  o resultado retornado pelo algoritmo recursivo será igual a 5.
-
-Alternativas:
-A. Certo
-B. Errado

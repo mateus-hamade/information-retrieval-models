@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
-
-Uma das operações mais realizadas em sistemas é a operação de busca. Árvores binárias de busca são uma implementação que visa otimizar tal operação pela disposição dos dados no armazenamento. A complexidade da busca em uma árvore é representada por O(n). Podemos afirmar que a complexidade de uma árvore é igual à(ao): 
-
-Alternativas:
-A. Sua altura.
-B. Valor do elemento alocado em sua raiz.
-C. Número de elementos armazenados nela.
-D. Metade do número de elementos armazenados nela.

@@ -1,9 +1,0 @@
-Banco de Dados SQL
-
-No SQL, o comando que é utilizado para inclusão no banco de dados é denominado
-
-Alternativas:
-A. Insert.
-B. Update.
-C. Delete.
-D. Select.

@@ -1,9 +1,0 @@
-Banco de Dados DW - Data Warehouse
-
-Sobre data warehouse, é CORRETO afirmar que:  
-
-Alternativas:
-A. o volume de dados em um data warehouse é pequeno se comparado ao volume de dados de um banco de dados operacional.
-B. um data warehouse é um componente de um data mart.
-C. o usuário de um data warehouse é capaz de realizar as seguintes operações: consulta a dados, atualização de dados e modificação do esquema dos dados.
-D. um data warehouse realiza processamento analítico (OLAP), enquanto um banco de dados realiza processamento transacional (OLTP).

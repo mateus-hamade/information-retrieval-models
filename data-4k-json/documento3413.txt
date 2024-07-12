@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Grafos
-
-Texto associado A árvore geradora mínima de um grafo conexo não direcionado construída com o algoritmo de Kruskal é única. Nessa árvore geradora mínima, a substituição de arestas de mesmo peso não afetará o custo total da árvore. 
-
-Alternativas:
-A. Certo
-B. Errado

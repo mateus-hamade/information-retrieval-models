@@ -1,9 +1,0 @@
-Banco de Dados SQL
-
-Texto associado  Qual o comando SQL ANSI deverá ser utilizado para obter a seguinte consulta?    
-
-Alternativas:
-A. Select departamento.NomeDepto, sum(empregado.CodDepto) from empregado join departamento on (empregado.CodDepto = departamento.CodDepto) group by empreago.codDepto
-B. Select departamento.NomeDepto, Quantidade from empregado join departamento on (empregado.CodDepto = departamento.CodDepto) group by codDepto.empregado order by nomeDepto
-C. Select departamento.NomeDepto, sum(empregado.CodDepto) as Quantidade from empregado join departamento on (empregado.CodDepto = departamento.CodDepto) group by empregado.codDepto order by 1
-D. Select departamento.NomeDepto, count(empregado.CodDepto) as Quantidade from empregado join departamento on (empregado.CodDepto = departamento.CodDepto) group by departamento.NomeDepto order by 1

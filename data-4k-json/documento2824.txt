@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Recursividade
-
-. Observe o algoritmo abaixo, que mostra uma função recursiva.    Após a execução, a função retornará um valor igual a:
-
-Alternativas:
-A. 1
-B. 4
-C. 2
-D. 3

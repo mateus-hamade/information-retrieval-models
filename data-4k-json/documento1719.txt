@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-Sobre algoritmos, analise as afirmativas abaixo e dê valores Verdadeiro (V) ou Falso (F). ( ) São procedimentos precisos, não ambíguos, eficientes e corretos. ( ) Um algoritmo representa os passos necessários para realização de uma tarefa. ( ) São representados somente por fluxogramas. Assinale a alternativa que apresenta a sequência correta de cima para baixo. 
-
-Alternativas:
-A. F, V, V
-B. V, V, F
-C. F, F, V
-D. V, F, F

@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
-
-Julgue o item seguinte, quanto aos conceitos da programação estruturada e da programação orientada a objetos e aos métodos de ordenação, pesquisa e hashing.     O método de ordenação conhecido como quick sort utiliza o maior elemento, o qual é sempre colocado ao final do vetor, para garantir que a ordenação seja realizada em ordem decrescente.  
-
-Alternativas:
-A. Certo
-B. Errado

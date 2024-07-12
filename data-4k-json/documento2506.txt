@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-Assinale a alternativa que apresenta corretamente a sequência de passos computacionais que transforma a entrada na saída, ou seja, procedimentos necessários para resolver um determinado problema.
-
-Alternativas:
-A. Algoritimos
-B. Arquivos
-C. Cases
-D. Polinômio

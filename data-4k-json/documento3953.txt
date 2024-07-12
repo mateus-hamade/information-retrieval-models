@@ -1,9 +1,0 @@
-Sistemas Operacionais Gerência de Memória , Virtualização
-
-Em um sistema de memória virtual, quando é necessário descartar uma página da memória, escolhe-se aquela que não está em uso há mais tempo. Esse algoritmo é conhecido como:
-
-Alternativas:
-A. LRU
-B. FIFO
-C. Ótimo
-D. WSClock

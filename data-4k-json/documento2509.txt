@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
-
-Qual é o método de ordenação mais eficiente entre os listados a seguir?
-
-Alternativas:
-A. O(n * n2 )
-B. O(n2 )
-C. O(2n )
-D. O(nn )

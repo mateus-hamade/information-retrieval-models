@@ -1,9 +1,0 @@
-Banco de Dados PostgreSQL
-
-João está encarregado de criar uma tabela em PostgreSQL para gerenciar informações sobre funcionários e seus supervisores, com base na seguinte representação lógica da entidade “Funcionario”:     Para tanto, João deverá criar o “autorrelacionamento” entre funcionários e seus supervisores, considerando que nem todo funcionário possui supervisor. Para isso, João deverá utilizar o seguinte script SQL: 
-
-Alternativas:
-A. CREATE TABLE Funcionario (idFuncionario SERIAL PRIMARY KEY, nome VARCHAR (100) NOT NULL, cargo VARCHAR (100), idSupervisor INT, FOREIGN KEY (idSupervisor) REFERENCES Funcionario (idFuncionario));
-B. FOREIGN KEY (idFuncionario) REFERENCES Funcionario (idSupervisor));
-C. idSupervisor SERIAL,
-D. idSupervisor INT NOT NULL,

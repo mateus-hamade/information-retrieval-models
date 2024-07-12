@@ -1,9 +1,0 @@
-Sistemas Operacionais Virtualização
-
-O VMware vSphere 6.5 é uma plataforma de virtualização líder de mercado que oferece recursos avançados para a criação, o gerenciamento e a otimização de ambientes virtualizados. Ao utilizar o vSphere 6.5, um administrador deseja otimizar o desempenho do seu ambiente virtual. O vSphere High Availability (HA) garante 
-
-Alternativas:
-A. a continuidade operacional, reiniciando, automaticamente, máquinas virtuais em caso de falha de hardware em um host ESXi.
-B. a simplificação do processo de manutenção, ajudando a garantir que os hosts e as VMs estejam atualizados com os últimos patches de segurança e correções de bugs.
-C. recursos avançados, como thin provisioning, snapshots e suporte para máquinas virtuais de grande porte, otimizando o armazenamento e o gerenciamento de dados das VMs.
-D. configurações centralizadas e avançadas para redes virtuais, simplificando a administração e melhorando a eficiência na alocação de recursos de rede para máquinas virtuais.

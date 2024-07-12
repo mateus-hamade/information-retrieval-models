@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
-
-Heap é um tipo de dados que se baseia em árvores binárias em que o balanceamento ocorre de maneira estática.  
-
-Alternativas:
-A. Certo
-B. Errado

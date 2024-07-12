@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
-
-Julgue os próximos itens, relativos à pesquisa de dados e operações básicas sobre estrutura de dados.   A pesquisa binária, em relação à pesquisa sequencial, possui a vantagem de executar menos comparações, em média, para encontrar a chave procurada em uma lista ordenada.
-
-Alternativas:
-A. Certo
-B. Errado

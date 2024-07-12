@@ -1,9 +1,0 @@
-Segurança da Informação Criptografia , Autenticação , Auditoria de Sistemas ( assuntos)
-
-Trata-se de uma medida fundamental para fortalecer a segurança na implementação dos dispositivos de tokens e smartcards utilizados em sistemas criptográficos para autenticação e proteção de informações sensíveis, considerando a complexidade das ameaças digitais contemporâneas:
-
-Alternativas:
-A. Compartilhamento público das chaves privadas.
-B. Implementação de autenticação de dois fatores.
-C. Utilização de algoritmos de criptografia desatualizados.
-D. Armazenamento das chaves criptográficas em servidores externos.

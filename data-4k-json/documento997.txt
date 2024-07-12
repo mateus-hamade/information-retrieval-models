@@ -1,9 +1,0 @@
-Banco de Dados SGBD - Sistema de Gerenciamento de Banco de Dados
-
-Analise as afirmativas correlatas e a relação proposta ente elas. I. “Em um SGBD, o acesso ao disco é controlado pelo motor de base.” PORQUE II. “Muitos SGBDs possuem seu próprio módulo de gerenciador de buffer para planejar a leitura/escrita em disco.” Assinale a alternativa correta.
-
-Alternativas:
-A. Ambas as afirmativas são falsas.
-B. A primeira afirmativa é falsa, e a segunda é verdadeira.
-C. A primeira afirmativa é verdadeira, e a segunda é falsa.
-D. Ambas as afirmativas são verdadeiras, e a primeira justifica a segunda.

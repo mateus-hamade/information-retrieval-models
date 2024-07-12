@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
-
-Observe o pseudocódigo a seguir.     Uma pilha é uma estrutura de dados que segue o princípio Last In, First Out, em que o último elemento inserido é o primeiro a ser removido. Considere uma pilha inicialmente vazia que recebe como entrada uma sequência de caracteres. Nesse caso, o pseudocódigo observado identifica  
-
-Alternativas:
-A. os números em ordem crescente.
-B. as sequências em ordem alfabética.
-C. os números em ordem decrescente.
-D. as sequências do tipo palíndromos.

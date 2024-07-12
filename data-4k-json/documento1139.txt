@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
-
-Árvores binárias em estruturas de dados é utilizada para armazenar e organizar dados de maneira eficiente.    Para a árvore binária da figura, qual a ordem correta de visitação dos nós em um percurso em em-ordem?
-
-Alternativas:
-A. 40, 90, 26, 13, 75, 43, 80, 1, 17, 5, 55, 34.
-B. 34, 80, 40, 43, 13, 26, 90, 75, 55, 5, 1, 17.
-C. 40, 80, 26, 90, 13, 43, 75, 34, 55, 1, 5, 17.
-D. 90, 26, 13, 75, 43, 40, 80, 17, 5, 1, 55, 34.

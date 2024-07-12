@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
-
-Sobre o algoritmo de pilha utilizando listas encadeadas, é incorreto afirmar que:
-
-Alternativas:
-A. a remoção é sempre no final da lista.
-B. a complexidade para inserir no final é O(1).
-C. percorrer a lista tem complexidade O(n).
-D. a inserção é sempre no início.

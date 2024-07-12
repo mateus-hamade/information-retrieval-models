@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
-
-No que se refere à lógica de programação, observe o pseudocódigo abaixo, referente a um algoritmo que contém uma função recursiva.    Após a execução, a sequência de números de saída é: 
-
-Alternativas:
-A. 0 1 1 2 3
-B. 1 1 2 3 5
-C. 0 1 1 2 3 5
-D. 1 1 2 3 5 8

@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos
-
-Você faz parte de uma equipe de desenvolvimento, onde existem pessoas que trabalham em várias partes do sistema. À você foi atribuída a tarefa de preparar uma função de descoberta de uma substring no portal onde o sistema será acessado. Para tanto você foi pesquisar alguns algoritmos que poderiam ser usados, e encontrou o algoritmo de:
-
-Alternativas:
-A. Knuth-Morris-Pratt
-B. Rivest-Shamir-Adleman
-C. Dijkstra-Mennon
-D. Lennin-Sherpmann

@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos
-
-Julgue o item a seguir, a respeito de algoritmos e técnicas supervisionadas e não supervisionadas de aprendizado de máquina e aprendizagem profunda.      O objetivo das regras de associação é encontrar todos os conjuntos de itens que possuem confiança mínima com máximo de dados observados.   
-
-Alternativas:
-A. Certo
-B. Errado

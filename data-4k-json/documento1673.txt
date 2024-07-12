@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
-
-Com relação a tipos abstratos de dados, julgue o próximo item.     Uma pilha oferece as operações pop para inserir um elemento da pilha e push para remover o elemento no seu início.  
-
-Alternativas:
-A. Certo
-B. Errado

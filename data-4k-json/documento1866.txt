@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-A respeito de lógica, estrutura e linguagem de programação, julgue o item seguinte.     No intuito de padronizar o código, uma boa prática adotada pelos programadores é usar nos identificadores as palavras reservadas, que pertencem à linguagem de programação.  
-
-Alternativas:
-A. Certo
-B. Errado

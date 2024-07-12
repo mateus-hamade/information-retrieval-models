@@ -1,9 +1,0 @@
-Banco de Dados PostgreSQL
-
-No sistema gerenciador de bancos de dados PostgreSQL, versão 15, exportar o conteúdo de uma tabela para um arquivo é possível por meio do comando
-
-Alternativas:
-A. COPY.
-B. EXPORT.
-C. FREEZE.
-D. SAVE.

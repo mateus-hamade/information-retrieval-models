@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
-
-Texto associado Um algoritmo de complexidade nlogn é mais complexo que um algoritmo de complexidade n2 .
-
-Alternativas:
-A. Certo
-B. Errado

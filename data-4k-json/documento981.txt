@@ -1,9 +1,0 @@
-Banco de Dados SQL Server
-
-O comando utilizado no SQL Server que permite remover todas as linhas da tabela sem a opção de limitar o número de linhas excluídas é:
-
-Alternativas:
-A. DROP
-B. DELETE
-C. EXCLUDE
-D. TRUNCATE

@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Grafos
-
-Um grafo completo contém pelo menos um subgrafo ponderado.  
-
-Alternativas:
-A. Certo
-B. Errado

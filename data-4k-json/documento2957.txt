@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Grafos
-
-Acerca dos conceitos e características de estrutura de dados e autômatos, julgue os itens a seguir.  Autômatos finitos são usualmente apresentados na forma de um grafo dirigido. A figura abaixo representa uma transição que pode ocorrer se o autômato estiver em um estado Si e se o símbolo da string de entrada for a. Caso a entrada para o autômato seja a string prova, é correto afirmar que ocorrerá a transição de Si para Sf .  
-
-Alternativas:
-A. Certo
-B. Errado

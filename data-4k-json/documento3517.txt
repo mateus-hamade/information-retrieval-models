@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
-
-Considere um arquivo não ordenado, organizado sequencialmente e contendo N registros.O número médio de acessos que precisa ser feito para localizar um registro nesse arquivo, numacesso sequencial é: 
-
-Alternativas:
-A. N!
-B. N/2
-C. (N-1)/2
-D. N + (N-1)

@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
-
-Assinale a alternativa que apresenta uma característica da estrutura de dados Pilha INCORRETA.
-
-Alternativas:
-A. As inserções e retiradas de itens ocorrem em apenas um extremo da lista.
-B. O último elemento incluído é o primeiro que pode ser retirado.
-C. Ocorre em estruturas de natureza recursiva.
-D. Ordem linear FIFO.

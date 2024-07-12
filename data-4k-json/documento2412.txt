@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados , Filas
-
-Acerca de estrutura de dados, julgue o próximo item.  A fila é uma lista de elementos em que os itens são sempre inseridos em uma das extremidades e excluídos da outra. 
-
-Alternativas:
-A. Certo
-B. Errado

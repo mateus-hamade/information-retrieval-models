@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Filas
-
-Texto associado Em uma fila circular, o último elemento da fila é ligado de volta ao primeiro, de forma que a fila possa ser percorrida de maneira circular.
-
-Alternativas:
-A. Certo
-B. Errado

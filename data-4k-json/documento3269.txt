@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
-
-Pilhas são também conhecidas como listas:  
-
-Alternativas:
-A. LIFO (last in first out).
-B. FIFO (first in first out).
-C. Ordenadas.
-D. Esparsas.

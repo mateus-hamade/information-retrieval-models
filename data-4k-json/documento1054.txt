@@ -1,9 +1,0 @@
-Banco de Dados Administração de banco de dados
-
-ElasticSearch, Kibana e Logstash são softwares Open Source que compõem a pilha ELK. Com esse conjunto de ferramentas, é possível centralizar e armazenar bilhões de registros; efetuar buscas instantâneas; importar dados de diferentes formatos; coletar métricas de desempenho; gerar relatórios combinando vários filtros; e, criar dashboards dinâmicos, que transformam dados em informação com apenas alguns cliques. Em relação aos softwares Elasticsearch e Kibana, assinale a afirmativa correta.
-
-Alternativas:
-A. ElasticSearch: permite junção entre diferentes índices.
-B. Kibana: é uma interface web para analisar dados mantidos pelo ElasticSearch.
-C. Kibana: é internacionalizável, ou seja, os filtros aplicados estão sempre visíveis e as operações de interjeição são aplicadas a todos os tipos de visualizações.
-D. ElasticSearch: é um servidor de pesquisa que armazena os dados em forma de documentos e os disponibiliza no formato PDF. Uma de suas desvantagens é que ele não permite ainda disponibilizar tais documentos no formato JSON.

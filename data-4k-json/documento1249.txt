@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
-
-Texto associado Quanto à lógica de programação e à estrutura de dados, julgue o item.  A estrutura condicional if‑else é utilizada, exclusivamente, na linguagem de programação Java. 
-
-Alternativas:
-A. Certo
-B. Errado

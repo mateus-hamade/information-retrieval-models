@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
-
-Evento(s), condição e ação são componentes que constituem um gatilho típico.  
-
-Alternativas:
-A. Certo
-B. Errado

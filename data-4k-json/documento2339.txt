@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
-
-São instruções tipicamente encontradas em linguagens de programação para codificar estruturas de repetição:
-
-Alternativas:
-A. for, while, repeat
-B. repeat, case, for
-C. while, if, until
-D. for, until, case

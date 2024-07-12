@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Filas , Pilhas
-
-Assinale a alternativa que complete correta e respectivamente as lacunas da frase a seguir:     “A estrutura de dados do tipo ________ utiliza a organização de dados na lógica caracterizada pela sigla __________, e em suas operações básicas utiliza os termos em inglês: _________ e ________ “  
-
-Alternativas:
-A. fila - FIFO - push - pop
-B. pilha - LIFO - push - pop
-C. fila - LIFO - push - enqueue
-D. pilha - FIFO - enqueue - pop

@@ -1,9 +1,0 @@
-Banco de Dados Big Data
-
-As características inerentes ao Big Data implicam a necessidade de um sistema de armazenamento, gerenciamento e análise que seja flexível, de forma a se adaptar facilmente aos dados sem comprometer o desempenho. Dentre as soluções, o Data Warehouse (DW) tem como características: 
-
-Alternativas:
-A. garantia da redundância de dados, assegurando cópias de segurança e recuperação em tempo real.
-B. armazenamento e análise de dados oriundos de múltiplas fontes e sob diferentes aspectos ou perspectivas.
-C. priorização de transações de alta velocidade e operações de atualização, sem suporte a consultas complexas.
-D. otimização do espaço de armazenamento, por meio da remoção de dados históricos e priorização de dados operacionais de curto prazo.

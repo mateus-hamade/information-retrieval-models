@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
-
-Considere a tabela verdade abaixo com as entradas A, B, C e D e saída Z. A saída Z = x significa “don’t care”.        A expressão que simplifica a tabela é  
-
-Alternativas:
-A. Z = AD + CD
-B. Z = BD
-C. Z = B
-D. Z = CD + AC

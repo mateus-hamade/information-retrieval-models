@@ -1,9 +1,0 @@
-Banco de Dados SQL Server
-
-Indique abaixo o comando correto que renomeia uma coluna em um banco de dados SQL SERVER.
-
-Alternativas:
-A. EXEC ALTER TABLE customers ADD title VARCHAR(50) NULL
-B. EXEC sp_rename 'customers.[contact title]', 'title', 'COLUMN'
-C. EXEC ALTER COLUMN customers.[contact title] WITH title VARCHAR(50) NULL
-D. EXEC sp_columnrename 'customers.[contact title]', 'title', 'COLUMN'

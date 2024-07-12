@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Filas , Listas ( assuntos)
-
-Questão anulada Estruturas de dados básicas como listas, filas e árvore são componentes fundamentais em muitos programas de computador. Sobre essas estruturas de dados, é correto afirmar:
-
-Alternativas:
-A. a operação de inserção em uma lista ordenada tem complexidade da ordem do número de elementos da lista.
-B. árvores binárias são estruturas de dados compostas de elementos com valores binários.
-C. filas têm a característica de serem sempre ordenadas e, por isso, possuem uma das operações de inserção mais eficientes.
-D. listas encadeadas não requerem conhecimento do seu tamanho máximo durante a inicialização.

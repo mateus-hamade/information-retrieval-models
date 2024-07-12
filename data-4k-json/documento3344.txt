@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Grafos
-
-Um algoritmo que visita todos os vértices de um grafo, cada um somente uma vez, está percorrendo o grafo. Esse algoritmo pode percorrer o grafo em largura ou em profundidade.  
-
-Alternativas:
-A. Certo
-B. Errado

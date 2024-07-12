@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos
-
-O pré-processamento é um conjunto de atividades que envolvem preparação, organização e estruturação de dados, sendo fundamental no desempenho do modelo de aprendizagem de máquina. Tais atividades contemplam métodos e técnicas de limpeza, transformação, integração e redução de dimensionalidade. Os métodos que podem ser utilizados para o tratamento de dados faltantes são:
-
-Alternativas:
-A. interpolação de vizinhos mais próximos, valor médio do atributo, valor modal.
-B. validação estratificada, k-fold, divisão do conjunto de dados.
-C. validação cruzada, leave-one-out (deixando um de fora), valor mediano do atributo.
-D. divisão do conjunto de dados, gradiente descendente, valor médio do atributo.

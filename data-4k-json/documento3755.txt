@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-Considere o trecho de código a seguir.  Ao final da execução do trecho de código acima, os valores de X e J são iguais, respectivamente, a
-
-Alternativas:
-A. 7 e 11.
-B. 6 e 12.
-C. 8 e 11.
-D. 9 e 12.

@@ -1,9 +1,0 @@
-Banco de Dados Banco de Dados Relacionais
-
-Projetos de software de modo geral fazem uso da persistência de dados, seja esta persistência em arquivos texto, arquivos estruturados como XML, JSON e ou até mesmo a persistência em bancos de dados. Sobre bancos de dados relacionais, assinale a alternativa correta.
-
-Alternativas:
-A. Um banco de dados que armazena apenas dados não estruturados
-B. Um banco de dados que armazena apenas números inteiros em suas tabelas
-C. Um banco de dados é utilizado para armazenar exclusivamente imagens e vídeos
-D. Um banco de dados que armazena informações em tabelas relacionadas por chaves

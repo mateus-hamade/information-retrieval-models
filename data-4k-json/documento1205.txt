@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Busca
-
-Acerca de estrutura de dados e algoritmos, julgue o item a seguir.     Os algoritmos de Dijkstra e de Bellman-Ford resolvem o problema de caminhos mais curtos de única origem. Enquanto este aceita arestas de pesos negativos, aquele aceita somente arestas não negativas.  
-
-Alternativas:
-A. Certo
-B. Errado

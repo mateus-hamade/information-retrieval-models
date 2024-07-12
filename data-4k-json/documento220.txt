@@ -1,9 +1,0 @@
-Banco de Dados Arquitetura de Banco de Dados , DW - Data Warehouse
-
-A arquitetura medalhão é um exemplo de data lakes. Ela é multicamadas, sendo considerada uma ótima opção para data warehouses, data marts e outros sistemas analíticos. Sobre o tema, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.  ( ) Este padrão arquitetônico é composto por três camadas, Ouro, Platina e Diamante. A camada Ouro é onde estão armazenados os dados brutos, previamente ingeridos dos sistemas externos de origem. Os dados desta camada são normalmente são recebidos “no estado em que se encontram”, mas podem ser enriquecidos com metadados adicionais, como por exemplo, data de carregamento. ( ) Na camada Platina, os dados da camada anterior são filtrados, limpos, normalizados e mesclados com outros dados. Nesta camada há visão empresarial dos dados nas diferentes áreas temáticas e principais entidades de negócios, conceitos e transações. ( ) Os dados na camada Diamante são dados “prontos para consumo”. Esses dados enriquecidos e curados podem estar no formato de um esquema em estrela clássico, contendo dimensões e tabelas de fatos, ou podem estar em qualquer modelo de dados adequado ao caso de uso de consumo.  As afirmativas são, respectivamente,
-
-Alternativas:
-A. F – F – F.
-B. V – F – F.
-C. F – V – V.
-D. V – V – V.

@@ -1,9 +1,0 @@
-Banco de Dados Álgebra relacional , Administração de banco de dados
-
-Considerando a otimização de consultas (tuning) em banco de dados, assinale a afirmativa INCORRETA.
-
-Alternativas:
-A. As views podem ser empregadas para agilizar o processamento de consulta.
-B. A otimização de consulta consiste em localizar uma boa estratégia para processar uma consulta.
-C. A otimização baseada em custo gera uma série de planos de avaliação de consulta a partir de determinada consulta, usando as regras de equivalência.
-D. Um dos passos para a otimização da consulta é encontrar uma expressão da álgebra relacional que seja colidente à expressão indicada e cuja execução deverá custar menos.

@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
-
-Texto associado Para satisfazer o critério de teste estrutural todos-os-arcos, as seguintes sequências de comandos são suficientes:
-
-Alternativas:
-A. C1-C2-C3-C5-C6-C8 e C1-C2-C4-C5-C7-C8.
-B. C1-C2-C3-C5-C6-C8 e C1-C2-C3-C5-C7-C8.
-C. C1-C2-C3-C5-C6-C8 e C1-C2-C4-C5-C6-C8.
-D. C1-C2-C3-C5-C7-C8 e C1-C2-C4-C5-C7-C8.

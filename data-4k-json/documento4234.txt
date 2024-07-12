@@ -1,9 +1,0 @@
-Segurança da Informação Ataques e ameaças , Noções de Segurança , Controles de segurança
-
-Métricas e indicadores desempenham papel crucial na avaliação e gestão da segurança da informação em organizações. Métricas são medidas quantitativas que ajudam a monitorar o desempenho e a eficácia das estratégias de segurança, enquanto os indicadores são dados específicos que fornecem direcionamentos sobre o estado da segurança da informação. Em relação às características da métrica de tempo médio para detectar ameaças no contexto de segurança, assinale a afirmativa INCORRETA. 
-
-Alternativas:
-A. Mede a rapidez com que uma ameaça é identificada.
-B. Avalia a eficácia das políticas de segurança da informação.
-C. Avalia a satisfação dos funcionários em relação à segurança da informação.
-D. Determina o número de ameaças detectadas em determinado período de tempo.

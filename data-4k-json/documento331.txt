@@ -1,9 +1,0 @@
-Banco de Dados Oracle
-
-No contexto do gerenciamento de tablespaces no Oracle 19, considere as seguintes afirmativas.  I. Tablespaces podem operar no modo read-only. II. Não é possível renomear uma tablespace. III. É possível colocar uma tablespace off-line, tornando-a temporariamente indisponível, mantendo a operação do banco de dados normal.  Está correto o que se afirma em
-
-Alternativas:
-A. I, apenas.
-B. II, apenas.
-C. III, apenas.
-D. I e III, apenas.

@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
-
-Com referência à organização de arquivos, julgue o próximo item.  Em cada passo do método de ordenação conhecido como quick sort, cada elemento do vetor é comparado com o seu sucessor. Nessa comparação, os dois elementos comparados serão trocados de posição caso estejam fora de ordem
-
-Alternativas:
-A. Certo
-B. Errado

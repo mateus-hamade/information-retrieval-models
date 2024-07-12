@@ -1,9 +1,0 @@
-Banco de Dados SQL Server
-
-O Microsoft SQL Server, além dos operadores relacionais SQL, aceita os operadores relacionais pivot, unpivot e apply. Diante do exposto, analise as afirmativas a seguir. I. Pivot: é um operador que converte a forma de seu conjunto resultado de entrada de duas colunas que representam pares nome-valor para múltiplas colunas, uma para cada nome de entrada. A coluna de nome da entrada é a coluna pivô e o usuário precisa indicar que nomes transportar da entrada para colunas individuais na saída. II. Unpivot: é uma operação inversa ao pivot. III. Apply: é um operador binário que toma duas entradas com valor de tabela, das quais a entrada da direita normalmente é uma chamada de função com valor de tabela que toma como argumentos uma ou mais colunas da entrada da esquerda. IV. Apply: possui duas variações semelhantes a inner join e outer join, que são a inner apply e outer apply. Está correto o que se afirma em
-
-Alternativas:
-A. I, II, III e IV.
-B. I e III, apenas.
-C. II e IV, apenas.
-D. I, II e III, apenas.

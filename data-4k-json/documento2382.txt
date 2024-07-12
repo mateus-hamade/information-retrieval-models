@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
-
-Julgue o item subsequente, relativo à lógica de programação.     Pilha é uma estrutura de dados em que o último elemento a ser inserido será o primeiro a ser retirado.  
-
-Alternativas:
-A. Certo
-B. Errado

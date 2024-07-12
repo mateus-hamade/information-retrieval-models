@@ -1,9 +1,0 @@
-Banco de Dados SQL
-
-Com base na plataforma de desenvolvimento que usa o SQL, analise as afirmativas abaixo e de valores Verdadeiro (V) ou Falso (F). ( ) O uso de uma cláusula ORDER BY deverá ser a última numa instrução SQL. ( ) O uso do Trigger numa instrução SQL pode usar as cláusulas INSERT, UPDATE e DELETE. ( ) Numa aplicação com uso do SQL, as cláusulas de uma consulta são: start / from / to. Assinale a alternativa que apresenta a sequência correta de cima para baixo. 
-
-Alternativas:
-A. V - V - V
-B. V - F - V
-C. V - V - F
-D. F - V - F

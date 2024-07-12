@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
-
-Os comandos de repetição são utilizados em algoritmos para realizar, principalmente, repetição de instruções. Assinale a alternativa que NÃO apresenta comando de repetição.
-
-Alternativas:
-A. for
-B. while
-C. switch-case
-D. do-while

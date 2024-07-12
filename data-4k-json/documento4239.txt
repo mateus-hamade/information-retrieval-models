@@ -1,9 +1,0 @@
-Segurança da Informação Criptografia
-
-Algoritmos de criptografia são fundamentais para proteger informações confidenciais durante armazenamento e transmissão, garantindo a segurança e a privacidade dos dados. Sobre as características dos algoritmos de criptografia existentes, assinale a alternativa que corresponde ao algoritmo de criptografia mais seguro e resistente a uma ampla variedade de ataques. 
-
-Alternativas:
-A. DES.
-B. AES.
-C. RSA.
-D. MD5.

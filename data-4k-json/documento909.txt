@@ -1,9 +1,0 @@
-Banco de Dados SGBD - Sistema de Gerenciamento de Banco de Dados , SQL
-
-Os Sistemas de Gerenciamento de Bancos de Dados (SGBD) utilizam a linguagem SQL (Structured Query Language) para inserir, excluir, alterar, bem como recuperar dados. As instruções de consulta buscam e apresentam para o usuário linhas armazenadas em um banco de dados. Trata-se de uma instrução de consulta SQL:
-
-Alternativas:
-A. SHOW.
-B. SELECT.
-C. SEARCH.
-D. UPDATE.

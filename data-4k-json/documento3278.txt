@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
-
-Com referência a abstração e modelo de dados, julgue o  item  subsequente.   No modelo de rede, os dados são representados como um conjunto de registros e as relações entre esses registros podem ser abstraídas para a estrutura de dados em árvore. 
-
-Alternativas:
-A. Certo
-B. Errado

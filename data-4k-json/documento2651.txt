@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
-
-A respeito de algoritmos e estruturas de dados, julgue o próximo item.  Árvore vermelho-preto é uma árvore de pesquisa binária que possui um bite extra de armazenamento por nó e garante que o comprimento de qualquer caminho da raiz até uma folha seja inferior ao dobro do comprimento dos demais caminhos. 
-
-Alternativas:
-A. Certo
-B. Errado

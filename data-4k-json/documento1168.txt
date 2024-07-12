@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Filas
-
-Em um sistema operacional, um processo que sofreu preempção quando estava em execução em função do término de sua fatia de tempo no processador, mas ainda havia tarefas para executar, irá para a fila de processos: 
-
-Alternativas:
-A. prontos.
-B. bloqueados.
-C. em execução.
-D. finalizados.

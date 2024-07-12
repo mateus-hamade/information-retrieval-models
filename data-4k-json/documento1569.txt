@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
-
-Texto associado Com base nessas informações, julgue o item a seguir, acerca da previsão de testes a serem realizados no trecho de código apresentado.  Submetendo-se apenas os seguintes casos de teste, a cobertura de decisão alcançada seria de 25%. Caso 1 --> limite (enquanto) = 10; faltas = 0; menção = 0 Caso 2 --> limite (enquanto) = 1; faltas = 25; menção = 0  
-
-Alternativas:
-A. Certo
-B. Errado

@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-No que se refere à estrutura de programação e lógica, julgue os próximos itens.  Considerando-se o algoritmo abaixo, que apresenta uma estrutura de decisão composta, caso o valor de x seja 37, a mensagem mostrada será é menor que 37.  
-
-Alternativas:
-A. Certo
-B. Errado

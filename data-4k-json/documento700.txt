@@ -1,9 +1,0 @@
-Banco de Dados SQL
-
-Indique em qual classe de linguagem Transact SQL estaria contido o comando DELETE que fosse utilizado para apagar uma série de registros armazenados em uma determinada tabela criada pelo usuário. 
-
-Alternativas:
-A. DDL
-B. DML
-C. SQL
-D. VDL

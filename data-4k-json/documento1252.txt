@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Grafos
-
-Julgue o item a seguir, a respeito de elasticsearch e grafos.         Em um grafo, um componente conectado é um conjunto de vértices que estão conectados entre si.  
-
-Alternativas:
-A. Certo
-B. Errado

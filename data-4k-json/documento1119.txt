@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
-
-A árvore de decisão ilustrada a seguir foi modelada com base nos dados de registros de ocorrência da dengue no estado do Acre nos últimos cinco (5) anos e será utilizada para tomada de decisão acerca da priorização na disponibilização de vacinas.     Qual é a evidência de que esse modelo foi construído usando o algoritmo C4.5 ou suas variantes, e não usando o ID3? 
-
-Alternativas:
-A. o tipo dos atributos “idade” e “IMC”.
-B. a diferença entre a profundidade mínima e a máxima da árvore.
-C. a árvore não é binária.
-D. a quantidade de atributos.

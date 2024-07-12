@@ -1,9 +1,0 @@
-Banco de Dados Modelagem de dados
-
-Analise o diagrama conceitual proposto a seguir.     Com base nessa análise, assinale a alternativa INCORRETA.   
-
-Alternativas:
-A. Entre as entidades PROJETO e DEPARTAMENTO, temos uma participação total de PROJETO em DEPARTAMENTO.
-B. Na entidade EMPREGADO, temos um autorrelacionamento.
-C. Pela notação acima, temos apenas uma entidade fraca e nesta não temos chave primária especificada no modelo.
-D. Um empregado poderá gerenciar apenas um departamento.

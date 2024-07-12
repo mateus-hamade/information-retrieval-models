@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Estrutura de Dados ( assuntos)
-
-Texto associado A substituição do trecho entre as linhas 3 a 8 pelas linhas, a seguir mantém inalterado o resultado desse algoritmo, desde que os argumentos passados sejam sempre valores válidos. 
-
-Alternativas:
-A. Certo
-B. Errado

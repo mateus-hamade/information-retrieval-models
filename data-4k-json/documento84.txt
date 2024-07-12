@@ -1,9 +1,0 @@
-Banco de Dados DataMart
-
-Para analisar as vendas dos vários livros correspondentes a vários autores em uma rede de livrarias, construiu-se um DataMart com uma nova tabela "FATO" que armazenará os preços dos livros, chamada #VendaLivro (LivroID, AutorID, PrecoVenda).  Assinale a opção que descreve a ação correta para incluir esta nova tabela no banco de dados, considerando que já há dados nas tabelas #Livro e #Autor.
-
-Alternativas:
-A. CREATE TABLE #VendaLivro (LivroID INT, AutorID INT, PrecoVenda DECIMAL(10, 2),FOREIGN KEY (AutorID) REFERENCES #Autor(AutorID) );
-B. QuantidadeVendida INT, FOREIGN KEY (LivroID) REFERENCES #Autor(LivroID) );
-C. FOREIGN KEY (LivroID) REFERENCES #Livro(LivroID)),
-D. FOREIGN KEY (AutorID) REFERENCES #Autor(LivroID));

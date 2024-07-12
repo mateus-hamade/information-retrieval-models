@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Filas
-
-Uma estrutura de dados é uma coleção tanto de valores quanto de operações. Assinale a alternativa que apresenta a estrutura de dados que é tipicamente do tipo FIFO (First-In First-Out).
-
-Alternativas:
-A. pilha
-B. array
-C. fila
-D. árvore

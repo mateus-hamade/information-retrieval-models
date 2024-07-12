@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
-
-Julgue o próximo item, a respeito de lógica de programação.        Os laços usados em estruturas de repetição e teste podem ser feitos por meio de comandos como enquanto e repita.   
-
-Alternativas:
-A. Certo
-B. Errado

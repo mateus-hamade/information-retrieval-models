@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
-
-Texto associado Em Natural, local data area (LDA) é um objeto usado para definir variáveis que, no modo report, é de uso opcional.  
-
-Alternativas:
-A. Certo
-B. Errado

@@ -1,9 +1,0 @@
-Banco de Dados MySQL
-
-MySQL é um Sistema de Gerenciamento de Banco de Dados (SGBD) utilizado para armazenamento e recuperação de dados. Sobre as características do MySQL, corresponde ao mecanismo de armazenamento padrão desse SGBD: 
-
-Alternativas:
-A. SQLite.
-B. InnoDB
-C. MyISAM.
-D. MongoDB.

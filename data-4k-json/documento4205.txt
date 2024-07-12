@@ -1,9 +1,0 @@
-Sistemas Operacionais Sistemas de arquivos
-
-Um sistema de arquivos é um conjunto de regras estruturadas utilizadas para organizar, gerenciar e armazenar informações em dispositivos de armazenamento, determinando como os dados serão gravados no dispositivo de armazenamento. Esse sistema é essencial para o funcionamento de qualquer Sistema Operacional, permitindo, assim, que os usuários armazenem e acessem seus dados de forma eficiente e organizada. Sobre sistemas de arquivos, analise as afirmativas a seguir.   I. EXT3: possui suporte ao journaling e armazenamento eficiente de arquivos com até 16 GB de tamanho. II. XFS: é um sistema de arquivo de 64 bits, escalável e robusto que suporta agendamento de metadados facilitando a recuperação de travamento rápida. III. FAT32: pode trabalhar com limite de até 65.536 clusters com 32 KB de tamanho cada.  Está correto o que se afirma em
-
-Alternativas:
-A. I, II e III.
-B. I e III, apenas.
-C. II e III, apenas.
-D. I e II, apenas.

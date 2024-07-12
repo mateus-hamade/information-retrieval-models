@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Grafos
-
-Julgue os itens seguintes, relativos a grafos.   A implementação de um grafo do tipo ponderado e direcionado na forma de uma matriz de adjacência utiliza menor quantidade de memória que a implementação desse mesmo grafo na forma de uma lista encadeada.  
-
-Alternativas:
-A. Certo
-B. Errado

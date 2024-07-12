@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
-
-A ordenação de registros de arquivos é um recurso utilizado para agilizar o acesso aos dados. Arquivos de registros fisicamente ordenados com mais de 100.000 registros
-
-Alternativas:
-A. possuem custo de atualização similar a arquivos de registros não ordenados, quando uma mesma operação modifica 10.000 valores do campo de ordenação.
-B. possuem custo de atualização inferior a arquivos de registros não ordenados, quando uma mesma operação modifica 10.000 valores do campo de ordenação.
-C. podem ter vários índices primários.
-D. podem ter vários índices secundários.

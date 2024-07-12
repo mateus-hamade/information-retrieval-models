@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Vetores
-
-   Considerando a execução completa do trecho de algoritmo precedente, assinale a opção que apresenta o valor armazenado em VET[12].  
-
-Alternativas:
-A. 233
-B. 192
-C. 144
-D. 89

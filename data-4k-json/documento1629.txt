@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Vetores
-
-Quanto aos tipos de dados e de estruturas de controle de fluxo usados nas linguagens de programação, julgue o item.     Em um vetor (array), cada posição contém vários valores de tipos diferentes, os quais podem ser manipulados individualmente.  
-
-Alternativas:
-A. Certo
-B. Errado

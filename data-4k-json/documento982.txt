@@ -1,9 +1,0 @@
-Banco de Dados Banco de Dados Relacionais
-
-Texto associado Considerando as tabelas apresentadas, é possível afirmar que:
-
-Alternativas:
-A. O campo CodDepto deve ser not null independente das tabelas que eles estejam.
-B. Na tabela Empregado, o campo CodDepto é chave estrangeira da tabela Departamento; chefeDepto é chave estrangeira da própria tabela.
-C. Na tabela Empregado, o campo CodDepto é chave estrangeira da tabela Empregado; chefeDepto é chave estrangeira da própria tabela.
-D. Na tabela Empregado, o campo CodDepto é chave estrangeira da tabela Departamento; chefeDepto é um campo obrigatório na tabela Empregado.

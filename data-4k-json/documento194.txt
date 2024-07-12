@@ -1,9 +1,0 @@
-Banco de Dados SQL Server
-
-Texto associado O texto acima refere-se a duas ações para o recurso de memória. Assinale a alternativa que as apresenta.
-
-Alternativas:
-A. Evitar que o pool de buffers fique grande para que o sistema inteiro fique com pouca memória e minimizar a E/S física aos arquivos de banco de dados maximizando o tamanho do pool do buffers.
-B. Evitar travamento em leitura de alocamento do heap da memória e ter um ganho em leitura de disco.
-C. Evitar que uma consulta não tenha performance e o monitoramento pelo SQL Provider não seja afetado.
-D. Evitar que o espaço em disco fique cheio e o pool do buffers fique liberado para reutilização pelo E/S.

@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Conceitos Básicos e Algoritmos
-
-Considerando algoritmos que podem ser usados para percorrer grafos, afirma-se que
-
-Alternativas:
-A. no algoritmo DFS, ao armazenar os vértices em uma pilha, os vértices serão explorados ao longo de um caminho, visitando um novo vértice adjacente se houver um disponível.
-B. no algoritmo BFS, ao armazenar os vértices em uma pilha, os vértices serão explorados ao longo de um caminho, visitando um novo vértice adjacente se houver um disponível.
-C. no algoritmo DFS, ao armazenar os vértices em uma fila, os vértices serão explorados ao longo de um caminho, visitando um novo vértice adjacente se houver um disponível.
-D. no algoritmo BFS, ao armazenar os vértices em um grafo, os vértices serão explorados ao longo de um caminho, visitando um novo vértice adjacente se houver um disponível.

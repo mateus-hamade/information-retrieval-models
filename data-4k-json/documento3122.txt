@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
-
-Texto associado O método de ordenação apresentado é:
-
-Alternativas:
-A. Ordenação por inserção
-B. Ordenação por seleção
-C. Quicksort
-D. Shellsort

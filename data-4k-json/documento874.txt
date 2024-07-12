@@ -1,9 +1,0 @@
-Banco de Dados Conceitos Básicos em Banco de Dados , Modelagem de dados
-
-O Modelo Entidade Relacionamento (MER) é um modelo de dados amplamente utilizado na modelagem de sistemas de informação e no projeto de bancos de dados. Trata-se da definição correta para este modelo:
-
-Alternativas:
-A. Modelo físico de dados que representa as tabelas e os campos de um banco de dados.
-B. Modelo conceitual de dados que representa as entidades envolvidas em um sistema e suas relações.
-C. Modelo de programação de banco de dados que utiliza a linguagem SQL para criar e gerenciar as tabelas e os dados.
-D. Modelo lógico de dados que representa as operações de inserção, atualização e exclusão de dados em um banco de dados.

@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
-
-A estrutura de dados de árvore binária é amplamente utilizada na computação, podendo muitas de suas propriedades serem deduzidas na medida de sua necessidade. Ao deduzir a fórmula matemática para a profundidade de uma árvore binária completa de n folhas, constata-se que a alternativa expressando corretamente essa fórmula é
-
-Alternativas:
-A. log2n
-B. log2(n-1)
-C. √n
-D. n

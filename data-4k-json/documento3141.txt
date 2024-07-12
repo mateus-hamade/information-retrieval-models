@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-Texto associado Caso os valores de x e y sejam, respectivamente, 3 e 6, a execução do algoritmo fornecerá o seguinte resultado:  A soma é: 9  A subtração é: 3  A multiplicação é: 18  A divisão é: 0,5  
-
-Alternativas:
-A. Certo
-B. Errado

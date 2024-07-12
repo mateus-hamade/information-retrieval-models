@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
-
-Texto associado Considerando-se uma árvore binária completa até o nível 5, então a quantidade de folhas nesse nível será 24.
-
-Alternativas:
-A. Certo
-B. Errado

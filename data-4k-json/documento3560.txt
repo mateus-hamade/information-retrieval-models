@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Hashing
-
-Texto associado No uso de estruturas de transformação de chave (hashing), a solução de colisões usando encadeamento tem como principal característica o fato de nunca transbordar. Adicionalmente, o tempo de busca na lista ligada pode ser reduzido se uma lista duplamente encadeada for utilizada.
-
-Alternativas:
-A. Certo
-B. Errado

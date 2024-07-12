@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
-
-Assinale, das alternativas abaixo, a única que identifica corretamente o comando do pseudocódigo de ordenação Bubble Sort abaixo, que foi extraído na linha pontilhada:       
-
-Alternativas:
-A. trocar( A[ i ], A[ i + 1 ] )
-B. trocar( A[ i + 1 ], A[ i ] )
-C. trocar( A[ i + 1 ], A[ i + 2 ] )
-D. trocar( A[ i ], A[ i + 2 ] )

@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
-
-Segundo a análise do trecho de algoritmo a seguir, conclui-se que se trata de um algoritmo de ordenação do tipo:       
-
-Alternativas:
-A. Quick sort.
-B. Bubble sort.
-C. Insertion sort.
-D. Selection sort.

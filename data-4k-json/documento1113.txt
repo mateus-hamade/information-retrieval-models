@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos
-
-Para implementar inovações no processo de decisão de sentenças judiciais, um analista do TJ-AC decidiu pelo uso da Tradução Automática Neural (do inglês, Neural Machine Translation - NMT) após comparar diferentes técnicas de Processamento de Linguagem Natural (PLN). As vantagens dessa técnica em relação à Tradução Automática Estatística (do inglês, Statistic Machine Translation - SMT) são:
-
-Alternativas:
-A. os modelos NMT são mais efetivamente modularizáveis que os SMT e possuem menos parâmetros totais.
-B. os parâmetros do modelo NMT são ajustados independentemente, e o processo pode ser escalonado com o aumento da memória disponível.
-C. os parâmetros do modelo NMT são ajustados conjuntamente e o processo pode ser paralelizado.
-D. os modelos NMT são mais interpretáveis que os modelos SMT e o processo pode ser escalonado com o aumento da memória disponível.

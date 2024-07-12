@@ -1,8 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Grafos
-
-Questão anulada  Analise o grafo a seguir.              Com base nesse grafo, assinale a alternativa correta.  
-
-Alternativas:
-A. Existe um número par de vértices de grau zero.
-B. Existe um total ímpar de arestas.
-C. A soma dos graus do grafo é 9.

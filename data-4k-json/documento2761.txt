@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Busca
-
-Julgue o item subsequente a respeito de métodos de acesso.  A busca binária é mais eficiente do que a busca sequencial, uma vez que naquela o vetor que contém o valor a ser pesquisado está sempre ordenado pela chave de busca. 
-
-Alternativas:
-A. Certo
-B. Errado

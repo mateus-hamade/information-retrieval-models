@@ -1,9 +1,0 @@
-Banco de Dados Banco de Dados Paralelos e Distribuídos
-
-A visão clássica de um sistema de banco de dados distribuído é que o sistema deve tornar o impacto da distribuição de dados transparente. Considerando que “Transparente” significa que a aplicação opera de um ponto de vista lógico como se os dados fossem todos gerenciados por um único SGBD, analise as afirmativas a seguir. I. Arquitetura cliente-servidor tem um ou mais processos clientes e um ou mais processos servidores; um processo cliente pode enviar uma consulta para qualquer processo servidor. II. A arquitetura cliente-servidor permite que uma única consulta abranja vários servidores. III. A arquitetura middleware é a camada de software que coordena a execução de consultas e transações em um ou mais servidores de banco de dados independentes. IV. O acesso a uma relação armazenada em um site remoto acarreta custos de passagem de mensagem e, para reduzir essa sobrecarga, uma única relação pode ser replicada ou fragmentada. V. A fragmentação e a replicação não podem ser combinadas; uma relação pode ser particionada em diversos fragmentos, mas não pode haver réplicas desses fragmentos. Está correto o que se afirma apenas em
-
-Alternativas:
-A. I, II e III.
-B. I, III e IV.
-C. II, IV e V.
-D. III, IV e V.

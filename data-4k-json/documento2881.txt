@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Listas
-
-Com referência à organização de arquivos, julgue o próximo item.  Uma inversão em um arquivo invertido é um conjunto de listas invertidas associadas a uma chave de acesso.
-
-Alternativas:
-A. Certo
-B. Errado

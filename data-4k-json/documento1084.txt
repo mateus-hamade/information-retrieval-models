@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Estrutura de Dados ( assuntos)
-
-O MD5 – Message Digest Algorithm 5, é um algoritmo de função hash utilizado na criptografia de dados capaz de gerar um valor hash único e fixo para um conjunto de dados, independentemente do tamanho original dos dados. Sobre as características do MD5, assinale a alternativa que corresponde ao tamanho, em bits, do hash gerado pelo algoritmo MD5.
-
-Alternativas:
-A. 64 bits.
-B. 128 bits.
-C. 256 bits.
-D. 512 bits.

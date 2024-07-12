@@ -1,9 +1,0 @@
-Banco de Dados DW - Data Warehouse
-
-É um repositório central de informações, normalmente no ambiente de uma corporação, que podem ser analisadas para tomar decisões mais adequadas e cujos dados provêm de sistemas transacionais, bancos de dados relacionais e de outras fontes com uma cadência regular. À definição dada a sentença anterior caracteriza um: 
-
-Alternativas:
-A. sistema de Business Intelligence.
-B. Big Data.
-C. Data Warehouse.
-D. banco de dados transacional.

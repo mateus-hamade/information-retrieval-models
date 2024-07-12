@@ -1,9 +1,0 @@
-Banco de Dados Oracle , SQL
-
-Uma junção é uma consulta SQL que combina linhas de duas ou mais tabelas, visões ou visões materializadas. Com relação aos tipos de junção suportadas pelo Oracle, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.  ( ) Uma semi-junção é uma junção de uma tabela a si mesma. Esta tabela aparece duas vezes na FROM cláusula e é seguida por aliases de tabela que qualificam os nomes das colunas na condição de junção. Para realizar uma semi-junção, o Oracle Database combina e retorna linhas da tabela que satisfazem a condição de junção. ( ) Uma junção interna estende o resultado de uma junção simples. Essa junção retorna todas as linhas que satisfazem a condição de junção e retorna algumas ou todas as linhas de uma tabela para as quais nenhuma linha da outra satisfaz a condição de junção. ( ) Uma anti-junção retorna linhas do lado esquerdo do predicado para as quais não há linhas correspondentes no lado direito do predicado. Ou seja, ele retorna linhas que não correspondem (NOT IN) à subconsulta do lado direito.  As afirmativas são, respectivamente,
-
-Alternativas:
-A. V – V – F.
-B. V – F – F.
-C. F – F – V.
-D. F – V – F.

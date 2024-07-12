@@ -1,9 +1,0 @@
-Banco de Dados Gerência de Transações
-
-No funcionamento de bancos de dados, é de suma importância preservar a integridade dos dados e de todos os pontos intermediários em transações. Nesse contexto, há duas operações envolvidas com o gerenciador de transações.  I. Operação que indica o término bem-sucedido de uma transação. Se a transação for concluída com êxito, o banco de dados é alterado permanentemente. II. Operação que assinala o término malsucedido de uma transação. Quando ocorrer falha em qualquer uma das operações que fazem parte da transação, o banco de dados retorna ao estado anterior do início da transação.  Essas operações são conhecidas, respectivamente, por: 
-
-Alternativas:
-A. COMMIT e ABORT
-B. COMMIT e ROLLBAC
-C. CHECKPOINT e ABORT
-D. CHECKPOINT e ROLLBACK

@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas , Vetores
-
-Texto associado Nessa situação, o uso de um vetor  ,com elementos do mesmo tipo da lista encadeada L, permite a implementação de uma pilha, sendo necessário armazenar, em uma variável auxiliar, que elemento está no topo da pilha.
-
-Alternativas:
-A. Certo
-B. Errado

@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
-
-Texto associado Com referência a tipos básicos de estrutura de dados, julgue os itens subsequentes.   A árvore representada na figura acima tem profundidade igual a 4.
-
-Alternativas:
-A. Certo
-B. Errado

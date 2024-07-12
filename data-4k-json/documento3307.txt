@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
-
-A estrutura de dados é dividida em linhas e colunas, armazena diversos valores e, para a identificação de um valor, necessita da informação do número da linha e da coluna na qual o valor está armazenado. Essa informação se refere à:  
-
-Alternativas:
-A. matriz.
-B. árvore.
-C. pilha.
-D. fita.

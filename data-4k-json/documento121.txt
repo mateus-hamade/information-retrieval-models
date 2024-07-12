@@ -1,9 +1,0 @@
-Banco de Dados SQL
-
-Analise a consulta SQL a seguir.  Linha 1: SELECT cidade, estado, COUNT(*) Linha 2: FROM clientes Linha 3: GROUP BY cidade, estado Linha 4: UNION ALL Linha 5: SELECT cidade, estado, COUNT(*) Linha 6: FROM empregados Linha 7: GROUP BY cidade, estado  Para ordenar os resultados retornados pela consulta SQL acima, a cláusula ORDER BY deve ser inserida: 
-
-Alternativas:
-A. entre as linhas 1 e 2, e entre as linhas 5 e 6.
-B. entre as linhas 3 e 4, e depois da linha 7.
-C. após a linha 7.
-D. após o UNION ALL.

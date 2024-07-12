@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Hashing
-
-No que se refere a vulnerabilidades e ataques a sistemas computacionais e criptografia, julgue o próximo item.       Projetado para velocidade, simplicidade e segurança, o algoritmo MD (message digest) produz um valor de hash de 128 bites para um tamanho arbitrário da mensagem inserida.    
-
-Alternativas:
-A. Certo
-B. Errado

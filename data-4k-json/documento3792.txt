@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-Texto associado Uma função é dita recursiva quando faz uma chamada a si própria em seu corpo. Por essa característica, é importante a definição dos parâmetros formais e dos parâmetros reais utilizados na chamada recursiva. Caso os valores passados como parâmetro na chamada recursiva sejam os mesmos dos parâmetros recebidos pela função, sua execução será infinita.
-
-Alternativas:
-A. Certo
-B. Errado

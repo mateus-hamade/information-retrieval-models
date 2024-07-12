@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados , Filas ( assuntos)
-
-Questão anulada Acerca de Estrutura de dados, marque a alternativa correta: 
-
-Alternativas:
-A. Na lista ligada, em cada nó possui um ou mais campos de informação e um apontador para o próximo nó da lista.
-B. Filas são estruturas de dados em que inserções são feitas no início e remoções são feitas no final das filas.
-C. Na lista circular o último elemento aponta para o primeiro.
-D. Uma árvore enraizada T, ou simplesmente uma árvore, é um conjunto finito de elementos denominados nós ou vértices tais que T = 0 é a árvore dita vazia ou existe um nó especial r, chamado raiz de T; os restantes constituem um único conjunto vazio ou são divididos em m (deve ser maior ou igual a 1) conjuntos distintos não vazios que são as subárvores de r, cada subárvore a qual é, por sua vez, uma árvore.

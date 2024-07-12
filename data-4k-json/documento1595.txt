@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Fluxogramas
-
-   De acordo com fluxo do processo descrito na figura precedente, assinale a opção correta.  
-
-Alternativas:
-A. Caso a tarefa “preparar viagem” esteja sendo executada e seja interrompida, será realizada uma pausa aguardando a “data de início da viagem”, para daí continuar para a tarefa “realizar viagem”.
-B. Quando “preparar viagem” for encerrada, será realizada uma pausa aguardando a “data de início da viagem”, para daí continuar para a tarefa “realizar viagem”.
-C. Caso a tarefa “preparar viagem” esteja sendo executada e seja interrompida, o fluxo seguirá até que “data de início da viagem” seja finalizada.
-D. Enquanto a tarefa “preparar viagem” estiver sendo executada, será analisado concomitantemente o gateway “data de início da viagem”, para daí continuar para a tarefa “realizar viagem”.

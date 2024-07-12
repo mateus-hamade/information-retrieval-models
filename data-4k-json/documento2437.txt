@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
-
-   A estrutura lógica presente no diagrama apresentado é do tipo  
-
-Alternativas:
-A. SE ENTÃO.
-B. CASO SELECIONE.
-C. CASO REPITA
-D. SE ENTÃO SENÃO.

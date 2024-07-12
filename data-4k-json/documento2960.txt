@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
-
-No que diz respeito às estruturas de informação, julgue o item subsecutivo.  Considere a figura a seguir, que mostra os valores iniciais das pilhas p1 e p2, nas quais foram realizadas operações de empilhar (push) e desempilhar (pop), além de ter sido atribuído um valor para a variável x (x ← valor). Nesse caso, realizando-se as operações indicadas, na ordem listada, obtêm-se os valores finais das pilhas e da variável x mostrados.                              
-
-Alternativas:
-A. Certo
-B. Errado

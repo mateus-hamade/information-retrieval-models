@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Dados
-
-Acerca dos conceitos de banco de dados e de modelagem, julgue o item a seguir.     As estruturas de dados Arrays (unidimensionais e multidimensionais), Listas vinculadas, Grafos e Hash tables serão sempre eficientes independentemente do tipo de operação.   
-
-Alternativas:
-A. Certo
-B. Errado

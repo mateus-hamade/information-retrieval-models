@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos
-
-No que concerne a conceitos de algoritmos e blocos de comandos, julgue o item seguinte.      Algoritmo é uma lista de instruções que conduzem ações especificadas, passo a passo, em rotinas embasadas em hardware ou software.      
-
-Alternativas:
-A. Certo
-B. Errado

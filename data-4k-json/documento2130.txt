@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
-
-Considere o trecho de código abaixo para multiplicação de matrizes quadradas n x n,        Qual a complexidade de pior caso deste algoritmo?  
-
-Alternativas:
-A. O(n2 )
-B. O(n3 )
-C. O(n)
-D. O(logn)

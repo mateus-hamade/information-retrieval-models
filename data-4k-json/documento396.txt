@@ -1,9 +1,0 @@
-Banco de Dados SQL
-
-É comum em banco de dados a realização de recuperação de dados, desta forma, assinale a query SQL que recupera exatamente os 10 primeiros registros de uma tabela. 
-
-Alternativas:
-A. SELECT * FROM usuarios ORDER BY codigo ASC LIMIT 10
-B. SELECT * FROM usuarios ORDER BY codigo DESC LIMIT 10
-C. SELECT * FROM usuarios LIMIT 0,9
-D. SELECT * FROM usuarios WHERE codigo = 10

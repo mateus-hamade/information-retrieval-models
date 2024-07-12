@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
-
-Quanto aos códigos de detecção de erros. Sendo A=100100 e B=100111. A distância Hamming entre as palavras A e B é de:  
-
-Alternativas:
-A. 1
-B. 2
-C. 3
-D. 4

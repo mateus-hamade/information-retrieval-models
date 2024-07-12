@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
-
-Texto associado O uso de comandos de impressão para rastrear os valores das variáveis durante a execução do programa é um exemplo de técnica de depuração.  
-
-Alternativas:
-A. Certo
-B. Errado

@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Grafos
-
-Julgue os itens a seguir, relativos aos tipos básicos de estruturas.   Define-se um grafo como fortemente conexo se todos os nós puderem ser atingidos a partir de qualquer outro nó.  
-
-Alternativas:
-A. Certo
-B. Errado

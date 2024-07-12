@@ -1,9 +1,0 @@
-Banco de Dados Data Mining
-
-A mineração de dados consiste em métodos, ferramentas e técnicas automatizadas para extrair informações de um conjunto de dados. Qual é o método de mineração de dados que tem como objetivo classificar as instâncias em categorias previamente definidas com base em suas características ou atributos?
-
-Alternativas:
-A. Árvores de decisão.
-B. Clusterização.
-C. Associação.
-D. Regressão.

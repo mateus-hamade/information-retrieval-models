@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
-
-Texto associado As árvores, cujas relações de hierarquia e composição entre os dados são de subordinação, podem ser alocadas na memória por adjacência ou encadeamento, ao contrário do que ocorre com as listas lineares.
-
-Alternativas:
-A. Certo
-B. Errado

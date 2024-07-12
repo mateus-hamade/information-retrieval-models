@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
-
-No que se refere à lógica e à programação, julgue os itens que se seguem.  Na sequência de números 2 4 6 7 2 8, o número 7 não pertence à sequência lógica aplicada.
-
-Alternativas:
-A. Certo
-B. Errado

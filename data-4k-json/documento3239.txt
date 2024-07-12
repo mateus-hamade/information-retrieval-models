@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-Texto associado O algoritmo abaixo executa o cálculo do volume de uma esfera de raio R.  Início Real VOLUME, PI, R; Constante PI = 3,1416; R=0; Enquanto R<= 6 Faça VOLUME=4/3*PI*(R**3); Imprima (R,VOLUME); R=R+2; Fim Enquanto; Fim.  
-
-Alternativas:
-A. Certo
-B. Errado

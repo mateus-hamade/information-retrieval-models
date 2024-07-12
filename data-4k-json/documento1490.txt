@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Listas
-
-Julgue o próximo item, a respeito de tipos de dados elementares e estruturados.     Em uma estrutura de dados tipo lista, o elemento eliminado do conjunto é o mais recentemente inserido. A lista implementa uma política em que o último a entrar é o primeiro a sair.  
-
-Alternativas:
-A. Certo
-B. Errado

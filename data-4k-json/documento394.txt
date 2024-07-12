@@ -1,9 +1,0 @@
-Banco de Dados DER - Diagrama de Entidade e Relacionamento , Modelo relacional
-
-Em banco de dados, um dos conceitos estudados é o MER – Modelo entidade relacionamento, neste contexto, assinale a alternativa que apresenta o que é uma entidade.
-
-Alternativas:
-A. Um campo que contém dados específicos
-B. Uma restrição que garante a integridade dos dados
-C. Uma tabela que armazena dados em um banco de dados
-D. Um conjunto de bancos de dados

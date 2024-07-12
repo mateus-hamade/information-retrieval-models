@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-Texto associado  Considerando o algoritmo apresentado, julgue o item seguinte, a respeito de conceitos básicos de estrutura de dados.  Por meio das instruções nas linhas de 4 a 6, é procurado o elemento com o menor valor do restante do vetor de entrada.  
-
-Alternativas:
-A. Certo
-B. Errado

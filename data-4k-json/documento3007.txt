@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
-
-Julgue os itens subsequentes, acerca dos tipos de estruturas árvores, pilhas e grafos.  Em uma árvore binária, cujo grau máximo é igual a dois, todos os nós de uma subárvore esquerda são maiores que o nó raiz.
-
-Alternativas:
-A. Certo
-B. Errado

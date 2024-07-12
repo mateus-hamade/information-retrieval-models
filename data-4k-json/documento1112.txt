@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Listas
-
-Redes neurais recorrentes (RNNs) são modelos de aprendizado profundo treinados para reconhecer padrões em dados sequenciais (texto, imagens, genomas, caligrafia, palavra falada ou dados de séries numéricas), em que componentes se inter-relacionam com base em regras complexas de semântica e sintaxe. São características das redes neurais recorrentes:
-
-Alternativas:
-A. ausência de camadas ocultas, o que permite que seu funcionamento seja mais interpretável que as demais topologias.
-B. dependência temporal com os dados, uma vez que processam suas próprias saídas como entradas momento após momento.
-C. dependência espacial com os dados, uma vez que as entradas são de tamanho fixo.
-D. similaridade com a arquitetura feedforward, pelo loop de feedback conectado às suas decisões anteriores, duplicando assim a quantidade de camadas.

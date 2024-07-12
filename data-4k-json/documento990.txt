@@ -1,9 +1,0 @@
-Banco de Dados Modelagem de dados
-
-Sobre modelagem de dados, marque V para as afirmativas verdadeiras e F para as falsas. ( ) O grau de um tipo de relacionamento é o número de entidades fracas participantes. Relacionamentos de grau dois são chamados de binários; os de grau três são conhecidos como terciários. ( ) Os tipos de entidade que não possuem atributos-chave próprios são denominados tipos de entidade fraca. ( ) A agregação é utilizada para representar um relacionamento entre um objeto inteiro e suas partes componentes, possuindo uma notação diagramática distinta. ( ) Um relacionamento recursivo é chamado de associação retroativa em UML. A sequência está correta em
-
-Alternativas:
-A. V, V, F, F.
-B. V, F, F, V.
-C. F, V, V, F.
-D. F, F, V, V.

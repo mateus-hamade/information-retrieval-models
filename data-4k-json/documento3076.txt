@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-Considere o algoritmo em pseudocódigo a seguir:  01. Algoritmo REPETICAO 02. Var 03.             parcial, num, resultado : real 04.             cont : inteiro 05. Início 06.             parcial  0; 07.             cont  0; 08.             Enquanto cont < 10 faça 09.             Início 10.                         Ler(num) 11.             parcial  parcial + num 12.                          cont  cont + 1 13.             Fim 14.             resultado  parcial / cont 15.             Mostrar(“Resultado = ”,resultado) 16. Fim.  Analise as seguintes afirmativas sobre o algoritmo:  I. O algoritmo usa uma estrutura de repetição com teste no início. II. O algoritmo irá calcular a média dos números de 0 a 9. III. O comando “Mostrar” irá exibir o valor da variável “resultado” no dispositivo padrão de saída.  Estão CORRETAS as afirmativas:
-
-Alternativas:
-A. I e II, apenas.
-B. I e III, apenas.
-C. II e III, apenas.
-D. I, II e III.

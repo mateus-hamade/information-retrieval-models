@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Dados
-
-Acerca da conversão de bases, da aritmética computacional, da memória principal e da memória cache, julgue o item.     O número 548(10) é representado pelo número binário 1000100100(2).  
-
-Alternativas:
-A. Certo
-B. Errado

@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
-
-Texto associado O trecho entre as linhas de 6 a 9 no algoritmo apresentado abaixo representa um desvio condicional composto.  1 início A, C, D, X : numérico  2 leia “Digite A:” , A  3 leia “Digite C:”, C  4 D ← 2  5 X ← 0  6 se (A >= 2) ou (C <=1) entao  7 X ← (A + D)/2  8 senao X ← D * C  9 fimse  10 escreva X  11 fim 
-
-Alternativas:
-A. Certo
-B. Errado

@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-A CPU de um computador multiprogramado sempre será submetida a competição e escolha para qual processo executar por vez. Para esse processo de escolha, usam-se os algoritmos de escalonamento. Esses algoritmos são quantificados através da razão entre seus Turn-around Time (TT) e tamanho em milissegundos. Considere os algoritmos de escalonamento, os conceitos abaixo e os respectivos processos.    Processo Pronto (ou tempo de chegada): momento em que o processo está disponível para execução Tamanho (TAM): tempo total de processamento necessário para findar a execução do processo Turn-around Time (TT): intervalo de tempo entre a entrada do processo e sua finalização (inclusive as esperas) Desempenho de cada Processo: tempo de desempenho do processo considerando a razão do TT pelo Tamanho Desempenho Médio: média do desempenho de todos processos            Qual das alternativas apresenta o algoritmo com melhor desempenho médio total?    
-
-Alternativas:
-A. FIFO
-B. SJF não-preemptivo
-C. SJF preemptivo
-D. Todos possuem o mesmo desempenho.

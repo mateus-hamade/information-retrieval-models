@@ -1,9 +1,0 @@
-Banco de Dados SQL
-
-Assinale a alternativa que apresenta a estrutura da linguagem SQL (Structure query Language), o argumento que retorna as informações de duas ou mais tabelas que estão relacionadas, e, que tem correspondência de chave entre elas.
-
-Alternativas:
-A. Full join
-B. Left join
-C. Outer join
-D. Inner join

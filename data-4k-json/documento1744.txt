@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Vetores
-
-Texto associado Na linha if ( vetor[i] > vetor [j]) {, a substituição de > por < implicaria que o código em questão, após ser executado, apresentasse em ordem decrescente os números digitados.
-
-Alternativas:
-A. Certo
-B. Errado

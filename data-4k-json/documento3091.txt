@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-No que diz respeito a operadores e expressões, julgue o item seguinte.  A ordem de prioridade de execução, em relação aos tipos de operadores, é estabelecida conforme a tabela a seguir.    
-
-Alternativas:
-A. Certo
-B. Errado

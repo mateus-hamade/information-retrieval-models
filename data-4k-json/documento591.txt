@@ -1,9 +1,0 @@
-Banco de Dados Banco de Dados
-
-Acerca da representação e do armazenamento de informações, assinale a opção correta.
-
-Alternativas:
-A. Uma função hash h(K) pode ser usada para localizar registros em um sistema de arquivos. A função transforma uma chave K em um endereço e diferentes chaves podem resultar em um mesmo endereço.
-B. Em um disco, pode-se combater a fragmentação interna unindo-se áreas livres adjacentes e pode-se reduzir esse tipo de fragmentação via uma estratégia para alocação das áreas livres como a first-fit.
-C. Na busca binária, os registros em um arquivo sendo pesquisado não precisam ser ordenados em função da chave usada para a pesquisa. A busca binária tem baixo custo se registros são freqüentemente acrescentados.
-D. O uso de índices facilita a localização dos registros em arquivos. Para que índices sejam usados nessa localização, é necessário manter os registros ordenados nos arquivos em função das chaves dos índices.

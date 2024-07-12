@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
-
-Texto associado  Considerando o algoritmo apresentado, julgue o item seguinte, a respeito de conceitos básicos de estrutura de dados.  Considerando-se um vetor com os valores [15, 8, 12, 7, 10], após a terceira invocação do procedimento de troca de posições, infere-se que pos1 = 2 e min = 4.  
-
-Alternativas:
-A. Certo
-B. Errado

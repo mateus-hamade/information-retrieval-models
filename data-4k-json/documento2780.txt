@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
-
-A respeito de análise de algoritmos, programação estruturada e orientada a objetos e estruturas de dados, julgue o item a seguir.   O método de ordenação conhecido como Bubble Sort apresenta pouca adaptabilidade, visto que nele a quantidade de operações permanece praticamente constante mesmo após o ordenamento das chaves. 
-
-Alternativas:
-A. Certo
-B. Errado

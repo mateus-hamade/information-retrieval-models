@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
-
-A notação O é amplamente utilizada como ferramenta de análise para calcular a complexidade computacional de um algoritmo caracterizando seu tempo de execução e limites espaciais em função de um parâmetro n.     Considere o código de um método em Java contendo o algoritmo a seguir:        Se cada um dos arranjos a e b do algoritmo tem tamanho n, então, o pior caso para o tempo de execução desse método é:  
-
-Alternativas:
-A. O(2n )
-B. O(n)
-C. O(n2 )
-D. O(log n)

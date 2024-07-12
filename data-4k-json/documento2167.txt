@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Busca
-
-Considere um vetor de números inteiros, em que se deseja buscar um dos elementos que está presente neste vetor. O algoritmo de busca binária requer que
-
-Alternativas:
-A. o vetor tenha elementos repetidos.
-B. os elementos do vetor sejam números primos.
-C. os elementos do vetor estejam ordenados.
-D. o vetor tenha 2n elementos, tal que n é um número inteiro maior do que zero.

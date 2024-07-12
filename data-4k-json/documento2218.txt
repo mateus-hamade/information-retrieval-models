@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
-
-Julgue o item subsequente, relativo a estrutura de dados.   Situação hipotética: Para ordenar os números do vetor (0, 4, 2, 1, 3, 5, 7, 8, 9, 6), foram realizados os passos mostrados na figura a seguir, com seus respectivos resultados a cada passagem, tendo sido o número 5 do vetor utilizado inicialmente como pivô.   Assertiva: Nessa situação, foi utilizado o método de ordenação do tipo quicksort. 
-
-Alternativas:
-A. Certo
-B. Errado

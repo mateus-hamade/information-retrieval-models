@@ -1,9 +1,0 @@
-Banco de Dados SGBD - Sistema de Gerenciamento de Banco de Dados
-
-A regra de SGBD distribuído que define que a probabilidade de o sistema funcionar sem queda em qualquer momento dado, porque, por ser distribuído, pode continuar a funcionar, mesmo diante da falha de algum componente individual, tal como um site isolado, é designada:
-
-Alternativas:
-A. confiabilidade.
-B. independência de localização.
-C. dependência de replicação.
-D. durabilidade.

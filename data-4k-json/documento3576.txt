@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
-
-Texto associado Denomina-se árvore binária a que possui apenas dois nós. 
-
-Alternativas:
-A. Certo
-B. Errado

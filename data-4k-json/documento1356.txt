@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
-
-Considere duas estruturas de dados do tipo pilha, denominadas A e B, com as sequências de valores (11, 33, 22) e (44, 22, 11) respectivamente, em que o elemento mais à direita de cada sequência refere-se ao topo da pilha. Sejam as operações: (i) desempilha(P), que remove um elemento da pilha P e retorna esse elemento; (ii) empilha(P, E), que insere o elemento E na pilha P; e (iii) topo(P), que retorna o elemento que está no topo da pilha P. Após executar a expressão “empilha(B, desempilha(A) + desempilha(A) - desempilha(B) + topo(B))”, a sequência de elementos de B será:
-
-Alternativas:
-A. (44, 22, 33).
-B. (44, 22, 44).
-C. (44, 22, 55).
-D. (44, 22, 66).

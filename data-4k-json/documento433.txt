@@ -1,9 +1,0 @@
-Banco de Dados Modelagem de dados
-
-Um Banco de Dados (BD) é uma coleção organizada de dados organizados, cujo objetivo é modelar aspectos do mundo real, para que seja possível efetuar processamento que gere informações relevantes para os usuários. Nesse contexto, observe a figura abaixo:    Os projetos P1, P2 e P3 representam, respectivamente, os modelos
-
-Alternativas:
-A. Conceitual, Físico e Lógico.
-B. Conceitual, Lógico e Físico.
-C. Lógico, Conceitual E Físico.
-D. Lógico, Físico e Conceitual.

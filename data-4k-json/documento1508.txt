@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Listas
-
-Em programação, os dados são organizados, gerenciados e armazenados em diferentes formas, concebendo diferentes estruturas de dados. Com base em estruturas de dados convencionais, assinale a afirmativa correta.
-
-Alternativas:
-A. Qualquer árvore binária de busca de nós será balanceada.
-B. Na lista duplamente encadeada de nós, cada nó possui duas ligações: uma para a cabeça da lista e outra para o próximo nó.
-C. Na lista duplamente encadeada de nós, cada nó possui duas ligações: uma para o nó anterior e outra para o próximo nó.
-D. Qualquer árvore binária de nós será uma árvore binária de busca.

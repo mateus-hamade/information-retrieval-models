@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
-
-O tipo de dados árvore representa organizações hierárquicas entre dados.  
-
-Alternativas:
-A. Certo
-B. Errado

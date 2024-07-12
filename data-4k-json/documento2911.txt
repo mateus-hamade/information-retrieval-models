@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-No que se refere à construção de algoritmos, julgue o item abaixo.  Os valores sim, não, falso e verdadeiro são considerados constantes lógicas.
-
-Alternativas:
-A. Certo
-B. Errado

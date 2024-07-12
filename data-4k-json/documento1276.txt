@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Busca
-
-Para a busca de um determinado valor em um vetor de elementos numéricos, como funciona o algoritmo de busca binária?
-
-Alternativas:
-A. O algoritmo converte os elementos do vetor para a representação binária, realiza uma comparação bit a bit para determinar se o padrão binário correspondente ao valor buscado existe ou não no vetor e, em caso positivo, realiza uma varredura para determinar a posição ocupada no vetor pelo elemento com o valor buscado.
-B. O algoritmo opera tanto em vetores ordenados quanto em não ordenados, por meio da comparação do valor buscado com o elemento central do vetor, para determinar se a busca prosseguirá na metade da esquerda ou na metade da direita do vetor, até que todas as ocorrências do valor buscado sejam encontradas.
-C. O algoritmo realiza uma varredura do vetor, comparando cada um de seus elementos com o valor buscado e anotando, em um mapa de bits auxiliar, todas as posições do vetor em que o valor buscado foi encontrado; o mapa de bits é retornado como resultado da execução do algoritmo.
-D. O algoritmo opera em vetores ordenados e funciona por meio da comparação do valor buscado com o valor do elemento central do vetor para determinar se a busca prosseguirá, recursivamente, na metade da esquerda ou na metade da direita do vetor, até que o valor buscado seja encontrado ou até que se descubra que o valor buscado não existe no vetor.

@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Hashing
-
-A respeito de algoritmos de hash, julgue o item que se segue.     Os algoritmos de hash MD5 e SHA-1 apresentam, respectivamente, mensagem de resumo de 160 bits e de 128 bits.   
-
-Alternativas:
-A. Certo
-B. Errado

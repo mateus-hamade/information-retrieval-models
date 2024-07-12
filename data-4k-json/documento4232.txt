@@ -1,9 +1,0 @@
-Segurança da Informação Controles de segurança
-
-O controle de acesso em sistemas de informação é um componente essencial da segurança da informação, projetado para proteger os dados e recursos contra acesso não autorizado. Sobre o controle de acesso baseado em função (RBAC), assinale a afirmativa correta. 
-
-Alternativas:
-A. Concede acesso com base na experiência técnica do usuário.
-B. Concede acesso com base na localização geográfica do usuário.
-C. Concede acesso com base em funções ou cargos dentro da organização.
-D. Concede acesso com base na posição hierárquica do usuário na organização.

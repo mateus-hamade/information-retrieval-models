@@ -1,9 +1,0 @@
-Banco de Dados Gatilhos (Triggers) , SQL
-
-SQL é uma linguagem de consulta estruturada, um padrão de gerenciamento de dados que interage com os principais bancos de dados baseados no modelo relacional. Em bancos de dados Cliente/Servidor, o recurso trigger permite executar tarefas relacionadas com validações, consistência de dados, restrições de acesso e rotinas de segurança, e que utiliza um bloco de códigos SQL.     Nesse caso, os comandos que disparam um trigger podem ser: 
-
-Alternativas:
-A. DROP, ALTER e REVOKE
-B. UPDATE, DROP e ALTER
-C. DELETE , INSERT e UPDATE
-D. REVOKE, DELETE e INSERT

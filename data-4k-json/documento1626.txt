@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
-
-Quanto aos tipos de dados e de estruturas de controle de fluxo usados nas linguagens de programação, julgue o item.     Na estrutura de repetição para (for), nem sempre a variável de controle atinge o valor final estabelecido.  
-
-Alternativas:
-A. Certo
-B. Errado

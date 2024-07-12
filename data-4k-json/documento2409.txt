@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-Segundo a análise do algoritmo a seguir, quantas vezes o número 0 e o número –1 serão escritos, respectivamente?       
-
-Alternativas:
-A. 5, 10.
-B. 10, 5.
-C. 20, 25.
-D. 25, 20.

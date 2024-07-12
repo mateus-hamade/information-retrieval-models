@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Listas
-
-Texto associado A inserção de um elemento na posição x(i) de uma lista causa o deslocamento para a direita dos elementos de x(i) até o último. Essa é uma característica de um array de ponteiros binários.
-
-Alternativas:
-A. Certo
-B. Errado

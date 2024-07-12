@@ -1,9 +1,0 @@
-Segurança da Informação Conceitos Básicos em Segurança da Informação , Autenticação , Infra estrutura de Chaves Publicas (PKI) ( assuntos)
-
-Suponha a notação KB+ e KB– para representar as chaves pública e privada do usuário B, KB+ (m) e KB– (m) para representar a mensagem m, cifrada com cada uma das duas chaves. Considere também que, em um sistema criptográfico assimétrico, a usuária A pretenda enviar uma mensagem sigilosa para B, e que KA+ e KA– representam as chaves pública e privada de A. A criptografia com a qual o usuário B consegue confirmar que a mensagem foi enviada pela usuária A é:
-
-Alternativas:
-A. KB+ (KA+ (m))
-B. KB+ (KA- (m))
-C. KB- (KA- (m))
-D. KB- (KA+ (m))

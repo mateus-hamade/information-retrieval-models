@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-Um algoritmo é uma forma de organizar a sua lógica, a solução para o problema que está sendo solucionado. Normalmente, um algoritmo é uma sequência de passos, em ordem e sem ambiguidade, que deve ser seguida para resolver um problema. Considerando o tema, tipos de algoritmos e conceitos de softwares, analise as alternativas e assinale a que apresenta o tipo de algoritmo que mais se aproxima da definição: “É uma forma genérica de escrever um algoritmo, utilizando uma linguagem simples (nativa a quem o escreve, de forma a ser entendido por qualquer pessoa) sem necessidade de conhecer a sintaxe de nenhuma linguagem de programação e também é conhecido como portugol”.
-
-Alternativas:
-A. Fluxograma.
-B. Descrição narrativa.
-C. Pseudocódigo.
-D. lgoritmo tabelado.

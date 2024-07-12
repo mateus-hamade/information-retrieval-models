@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
-
-No que concerne aos aspectos de linguagens de programação, algoritmos, estrutura de dados e case, julgue o item subsequente.  Pilha é uma coleção de objetos que são inseridos e retirados de acordo com o princípio LIFO (last in first out). O armazenamento das últimas páginas visitadas pelos navegadores web e os mecanismos de reversão (undo) dos editores de texto são exemplos desse tipo abstrato de dados. 
-
-Alternativas:
-A. Certo
-B. Errado

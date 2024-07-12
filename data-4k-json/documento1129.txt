@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Estrutura de Dados ( assuntos)
-
-O aprendizado de máquina (do inglês, machine learning) é um conjunto de técnicas da ciência de dados que permite que os computadores usem os dados existentes para prever comportamentos, resultados e tendências. Uma das formas de classificar o aprendizado é em razão da natureza do sinal de entrada ou feedback do processo. As árvores de decisão, agrupamento e regras de associação são, respectivamente, técnicas de aprendizado de máquina:
-
-Alternativas:
-A. não supervisionado, não supervisionado, supervisionado.
-B. supervisionado, não supervisionado, não supervisionado.
-C. não supervisionado, não supervisionado, não supervisionado.
-D. supervisionado, não supervisionado, supervisionado.

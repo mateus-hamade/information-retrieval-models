@@ -1,9 +1,0 @@
-Banco de Dados Gatilhos (Triggers)
-
-Tendo em vista que Triggers (gatilho) são mecanismos utilizados na administração de dados em um banco de dados, marque V para as afirmativas verdadeiras e F para as falsas. ( ) Compostos de três componentes: o evento; a condição; e, a ação. ( ) Acionados com a intervenção do usuário, ou seja, o usuário vê o gatilho sendo disparado. ( ) Executados ou acionados apenas se ocorrer um evento, ou seja, uma operação de manipulação de dados. A sequência está correta em
-
-Alternativas:
-A. V, V, V.
-B. F, V, F.
-C. V, F, V.
-D. F, F, F.

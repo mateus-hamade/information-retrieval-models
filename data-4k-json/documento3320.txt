@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
-
-Caso os dados estejam fora de ordem, o uso do método de classificação por inserção é pouco eficiente, mas quanto mais ordenados os dados estiverem inicialmente, mais eficiente em termos de tempo de execução ele se torna.  
-
-Alternativas:
-A. Certo
-B. Errado

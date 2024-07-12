@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-Texto associado Considerando a algoritmo apresentado acima, julgue os itens seguintes acerca de lógica de linguagens de programação.  Caso a linha 5 fosse salarionovo = salario * * 2, o valor da variável salario seria multiplicado por 2 duas vezes, tal que, se o valor da variável salario fosse 1000, então o valor de salarionovo seria 4000.
-
-Alternativas:
-A. Certo
-B. Errado

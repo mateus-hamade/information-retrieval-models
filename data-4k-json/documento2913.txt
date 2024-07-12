@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação , Estrutura de Dados ( assuntos)
-
-Julgue o item a seguir, com relação a estruturas de dados.  O método quicksort é semelhante ao bubble sort, pois opera comparando cada elemento de um vetor com seu sucessor e, caso este esteja fora de ordem, o quicksort auxilia a troca da posição. Dessa forma, em ambos os métodos, é grande o número de comparações e trocas para execução de vetores extensos.
-
-Alternativas:
-A. Certo
-B. Errado

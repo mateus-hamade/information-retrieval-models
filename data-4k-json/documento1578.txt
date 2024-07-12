@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Hashing
-
-A respeito de algoritmos de hash, julgue o item que se segue.     É possível utilizar uma função de resumo para verificar a integridade de um arquivo ou mesmo para gerar assinaturas digitais.   
-
-Alternativas:
-A. Certo
-B. Errado

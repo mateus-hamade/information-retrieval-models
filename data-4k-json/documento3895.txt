@@ -1,9 +1,0 @@
-Segurança da Informação Backup em Segurança da Informação
-
-Ao planejar uma estratégia de backup, um administrador de redes precisa considerar diferentes tipos de backups. Lucas é um administrador de redes e precisa realizar um restore do sistema da empresa que foi perdido no dia 02/01/2024. Sendo assim, considerando que o processo de restore foi iniciado no dia 05/01/2023, Lucas, para restaurar o sistema mais rapidamente, deve utilizar o 
-
-Alternativas:
-A. Log.
-B. Full.
-C. Diferencial.
-D. Incremental.

@@ -1,9 +1,0 @@
-Banco de Dados Formas normais
-
-Considere a relação abaixo, na qual o negrito identifica o nome da relação, os parênteses inscrevem um grupo de repetição e os atributos grifados são identificadores (chave) de um grupo de repetição. Localização-Continental-Nacionalidade-Servidor refere-se ao continente correspondente à nacionalidade do servidor.     Após a normalização até a Terceira Forma Normal (3FN), Quantidade-PecaProcessual-Processo será atributo com dependência funcional de: 
-
-Alternativas:
-A. Cod-PecaProcessual.
-B. Num-Processo.
-C. Cod-PecaProcessual + Num-Processo.
-D. Num-Processo + Id-Servidor.

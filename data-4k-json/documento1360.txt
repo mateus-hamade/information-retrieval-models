@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
-
-Texto associado “Técnica usada para mapear os dados do objeto para algum valor inteiro representativo. Armazena os dados em formas de pares de chaves e valores. A chave, que é usada para identificar os dados, é dada como uma entrada para a função. Uma chave é o conjunto dos dados identificadores para um registro de dados em particular. Quando se interage com um registro de funcionários, o nome ou o número do funcionário geralmente serve como chave para acessar todas as outras informações que existem sobre o funcionário. Ressalta-se que não tem sentido ordenar todas as informações dos funcionários quando somente se precisa das chaves ordenadas.” Tal técnica é conhecida como: 
-
-Alternativas:
-A. Sort.
-B. B-tree.
-C. Hashing.
-D. Heap binário

@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Filas , Pilhas
-
-Quanto a programação e estrutura dos dados, relacione as duas colunas quanto ao modo específico como uma lista pode ser estruturada e manipulada:  (1) Pilha. (2) Fila.  (A) FIFO (First In - First Out). (B) LIFO (Last In - First Out).  Assinale a alternativa correta: 
-
-Alternativas:
-A. 1A-2B
-B. 1A-2A
-C. 1B-2A
-D. 1B-2B

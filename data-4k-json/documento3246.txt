@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Tipos de Dados
-
-A respeito de tipo abstrato de dados (TAD) e de operações sobre estruturas, julgue os itens seguintes.   O TAD encapsula a representação dos dados, bem como as operações que podem ser realizadas sobre eles, não devendo o usuário ter acesso à implementação do TAD, mas somente à sua interface.  
-
-Alternativas:
-A. Certo
-B. Errado

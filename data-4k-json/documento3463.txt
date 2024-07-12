@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Estrutura de Controle e Repetição
-
-Texto associado Será sempre executado um ciclo n vezes, de 0 até n > 0, o que indica que o pior caso de execução do programa é quando os dados dentro do vetor estiverem em ordem aleatória. 
-
-Alternativas:
-A. Certo
-B. Errado

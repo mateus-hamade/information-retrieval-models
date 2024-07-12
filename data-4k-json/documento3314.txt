@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Grafos
-
-Texto associado Para modelar a rede que conecta todos os computadores em uma sala de escritório com a menor metragem possível de cabos, é adequado utilizar um grafo G cujos vértices representem os possíveis pares (u, v) de computadores e cujas arestas representem o comprimento dos cabos necessários para ligar os computadores u e v, determinando-se o caminho mínimo, que contenha todos os vértices de G, a partir de um dado vértice v.  
-
-Alternativas:
-A. Certo
-B. Errado

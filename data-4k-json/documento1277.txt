@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos
-
-Uma forma comum para representar algoritmos é a chamada “Descrição Narrativa”. Sobre o tema, assinale a alternativa CORRETA.
-
-Alternativas:
-A. Os algoritmos de descrição narrativa são expressos em pseudocódigos, o que é uma vantagem por ser uma linguagem semelhante a de um computador.
-B. Os algoritmos de descrição narrativa são expressos em linguagem natural, por exemplo, o português, e sua desvantagem está no fato da linguagem natural estar bem distante da linguagem utilizada pelos computadores.
-C. Os algoritmos de descrição narrativa são expressos em fluxogramas, o que é uma vantagem por ser uma linguagem semelhante a de um computador.
-D. Os algoritmos de descrição narrativa são expressos em fluxogramas e sua desvantagem está no fato da linguagem natural estar bem distante da linguagem utilizada pelos computadores.

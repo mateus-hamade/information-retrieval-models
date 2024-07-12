@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
-
-Texto associado Uma estrutura do tipo árvore binária é caracterizada por não ter elemento algum (árvore vazia) ou ter um elemento denominado raiz, com dois ponteiros para duas estruturas diferentes.
-
-Alternativas:
-A. Certo
-B. Errado

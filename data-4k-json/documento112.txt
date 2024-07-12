@@ -1,9 +1,0 @@
-Banco de Dados MySQL
-
-Imagine um sistema de banco de dados MySQL que mantém registros de Processos, Juízes e Audiências. A tabela Processos inclui ProcessoID, JuizID, TipoProcesso e DataInicio. A tabela Juízes contém JuizID, NomeJuiz e Vara. A tabela Audiências possui AudienciaID, ProcessoID, DataAudiencia, e Resultado, em que Resultado pode ser 'Condenação', 'Absolvição' ou 'Adiado'. Você foi designado para desenvolver uma consulta SQL que forneça um relatório detalhado dos juízes, incluindo NomeJuiz, Vara, a quantidade de processos que cada um possui por TipoProcesso, e a quantidade de audiências resultando em 'Condenação'. Os juízes devem ser listados mesmo que não tenham processos ou audiências associados.  Qual instrução SQL completa o final da seguinte consulta para atender a esse requisito?   SELECTJuízes.NomeJuiz, Juízes.Vara, Processos.TipoProcesso, COUNT(DISTINCT Processos.ProcessoID) AS QuantidadeProcessos, COUNT(Audiencias.AudienciaID) AS Condenações FROM Juízes LEFT JOIN Processos ON Juízes.JuizID = Processos.JuizID LEFT JOIN Audiencias ON Processos.ProcessoID = Audiencias.ProcessoID AND Audiencias.Resultado = 'Condenação'  GROUP BY Juízes.NomeJuiz, Juízes.Vara, Processos.TipoProcesso _____________________; 
-
-Alternativas:
-A. HAVING QuantidadeProcessos > 0
-B. HAVING Condenações > 0
-C. HAVING Audiencias.DataAudiencia >= '2020-01-01'
-D. HAVING Juízes.Vara = 'Criminal'

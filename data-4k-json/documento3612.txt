@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Tipos de Dados
-
-Texto associado A descrição dos parâmetros das operações e os efeitos da ativação das operações representam, respectivamente, os níveis sintático e semântico em que ocorre a especificação dos TDAs.
-
-Alternativas:
-A. Certo
-B. Errado

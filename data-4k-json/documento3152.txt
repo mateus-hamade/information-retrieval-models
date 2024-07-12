@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-Texto associado Com relação ao algoritmo acima, julgue os próximos itens.  Ao final do programa, o valor armazenado na variável A é maior que 55
-
-Alternativas:
-A. Certo
-B. Errado

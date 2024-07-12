@@ -1,9 +1,0 @@
-Banco de Dados SQL
-
-Texto associado Escolha a sentença SQL, considerando o padrão ANSI, que MELHOR responda à consulta " Listar o nome do tipo de reunião, o assunto da reunião e a quantidade de pautas cadastradas para a reunião (todos os tipos de reunião e todas as reuniões devem ser exibidas mesmo sem pautas cadastradas)":
-
-Alternativas:
-A. SELECT t.nometipo, r.assunto, COUNT(p.numeropauta) FROM TIPO_REUNIAO AS t LEFT JOIN REUNIAO AS r ON t.codigo=r.tiporeuniao LEFT JOIN PAUTAS AS p ON r.codigo=p.reuniao GROUP BY t.nometipo, r.assunto;
-B. SELECT t.nometipo, r.assunto, COUNT(p.numeropauta) FROM TIPO_REUNIAO AS t LEFT JOIN REUNIAO AS r ON t.codigo=r.codigo LEFT JOIN PAUTAS AS p ON r.codigo=p.reuniao GROUP BY t.nometipo, r.assunto;
-C. SELECT t.nometipo, r.assunto, COUNT(p.numeropauta) FROM TIPO_REUNIAO AS t INNER JOIN REUNIAO AS r ON t.codigo=r.tiporeuniao INNER JOIN PAUTAS AS p ON r.codigo=p.reuniao GROUP BY t.nometipo, r.assunto;
-D. SELECT t.nometipo, r.assunto, SUM(p.numeropauta) FROM TIPO_REUNIAO AS t RIGHT JOIN REUNIAO AS r ON t.codigo=r.codigo RIGHT JOIN PAUTAS AS p ON r.codigo=p.reuniao

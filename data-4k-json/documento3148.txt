@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-Texto associado Algoritmos podem ser entendidos como uma sequência de procedimentos que transformam valores de entrada em valores de saída. O denominado problema do caixeiro viajante é considerado um algoritmo eficiente.
-
-Alternativas:
-A. Certo
-B. Errado

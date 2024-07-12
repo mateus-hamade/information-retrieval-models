@@ -1,9 +1,0 @@
-Banco de Dados SGBD - Sistema de Gerenciamento de Banco de Dados
-
-O modelo de recuperação de falhas em um banco de dados é de extrema importância para garantir a confiabilidade, a consistência e a integridade dos dados, mesmo em situações de falhas inesperadas. Qual é a desvantagem do modelo de recuperação de falhas com atualização imediata em um sistema de gerenciamento de banco de dados?
-
-Alternativas:
-A. Dificuldade em lidar com grande volume de transações simultâneas.
-B. Probabilidade maior de perda de dados em caso de falha do sistema.
-C. Atraso na confirmação de alterações, prejudicando a eficiência operacional.
-D. Necessidade constante de reinicialização do sistema para aplicar atualizações.

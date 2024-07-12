@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
-
-Observe a seguir um código simples para execução de um loop.  for (int i = 0; i < 3; i++);  p=p+1;  Após analisar esse código, pode-se afirmar que o comando p=p+1 será executado:  
-
-Alternativas:
-A. 1 vez.
-B. 2 vezes.
-C. 3 vezes.
-D. 4 vezes.

@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Filas
-
-Analise as afirmações a seguir a respeito de Filas: I - A fila é uma estrutura para armazenar um conjunto de elementos de mesmo tipo. II - Novos elementos sempre entram, no fim da fila. III - A fila obedece ao critério FIFO (first in, first out), isto é, o primeiro a entrar é o primeiro a sair. Estão corretas as afirmações: 
-
-Alternativas:
-A. I e II.
-B. II e III.
-C. I e III.
-D. I, II e III.

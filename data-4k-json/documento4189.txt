@@ -1,9 +1,0 @@
-Engenharia de Software Teste de Software
-
-Na verificação de software, marque a afirmativa que define o propósito da técnica de revisão de código estática. 
-
-Alternativas:
-A. Executar testes automatizados para verificar a integridade funcional do software.
-B. Avaliar o desempenho do sistema em condições de carga elevada, antes da execução em produção.
-C. Identificar defeitos no código-fonte por meio da análise visual e manual, antes da execução dos testes.
-D. Analisar a conformidade do software com os requisitos de usuário, antes da entrega do produto.

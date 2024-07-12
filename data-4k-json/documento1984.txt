@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Fluxogramas
-
-A figura a seguir representa dois símbolos utilizados em fluxogramas. Para os respectivos significados dos símbolos abaixo, assinale a alternativa correta.       
-
-Alternativas:
-A. Decisão / Início ou Fim
-B. Conector / Início ou Fim
-C. Decisão / Processo
-D. Conector / Documento

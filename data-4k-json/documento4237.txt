@@ -1,9 +1,0 @@
-Segurança da Informação Certificação Digital em Segurança da Informação
-
-Certificado digital é um documento eletrônico que contém informações sobre a identidade de uma entidade, como uma pessoa, organização ou dispositivo, juntamente com sua chave pública. Considere os conceitos fundamentais de certificado digital e assinale a afirmativa correta em relação ao que acontece quando um certificado digital expira.  
-
-Alternativas:
-A. É automaticamente renovado por mais um ano.
-B. Torna-se inválido e não pode mais ser usado para autenticação.
-C. É marcado como suspenso e pode ser reativado mediante solicitação.
-D. Ele é excluído permanentemente do repositório da autoridade certificadora

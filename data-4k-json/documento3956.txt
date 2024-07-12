@@ -1,9 +1,0 @@
-Sistemas Operacionais Virtualização
-
-Em 1999, foi lançado o produto VMWare Workstation para Linux, destinado ao uso na área de virtualização. Esse produto trata-se de um hipervisor do tipo:
-
-Alternativas:
-A. I
-B. II
-C. III
-D. IV

@@ -1,9 +1,0 @@
-Banco de Dados SQL
-
-Durante o desenvolvimento de um sistema e objetivando a construção de um relatório, um profissional montou o seguinte comando SQL.  SELECT nome_cliente FROM Cliente WHERE nascimento_cliente >= 01/01/1980 AND nascimento_cliente <= 31/12/1990 ORDER BY codigo_cliente ASC;     Considerando os fundamentos na construção de consultas na linguagem SQL e que todos os dados, campos e tabelas citados na instrução existem e estão escritos corretamente, assinale a alternativa que descreve corretamente o retorno da consulta. 
-
-Alternativas:
-A. Todos os dados contidos na tabela dos clientes que nasceram entre 1980 e 1990 e ordenados pelo código de forma decrescente.
-B. Todos os dados dos clientes que nasceram entre 1980 e 1990 e ordenados pelo código de forma crescente.
-C. Os nomes de todos os clientes que nasceram entre 1980 e 1990 e ordenados pelo nome de forma decrescente.
-D. Os nomes de todos os clientes que nasceram entre 1980 e 1990 e ordenados pelo código de forma crescente.

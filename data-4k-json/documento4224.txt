@@ -1,9 +1,0 @@
-Programação Web
-
-Em aplicações, WEB é uma prática comum a utilização de sessões para realizar o armazenamento do estado de uma aplicação; porém, geralmente, esse recurso realiza o procedimento no servidor web da aplicação e não no próprio navegador do usuário, como ocorre quando se utilizam os cookies. Um exemplo prático da utilização desse recurso em uma aplicação dessa natureza pode ser o armazenamento de dados sensíveis como usuário e e-mail em uma rotina de autenticação. Apesar das sessões utilizarem o servidor para a sua operacionalização, existem vulnerabilidades no mecanismo que podem ser exploradas pelos hackers para promover a quebra do gerenciamento da sessão de uma aplicação. Analise as afirmativas a seguir sobre práticas seguras para o gerenciamento de sessões.  I. Gerar um novo identificador de sessão quando houver uma nova autenticação. II. Configurar o atributo “secure” para cookies transmitidos através de uma conexão TLS. III. Configurar os cookies com o atributo “HttpOnly”, a menos que seja explicitamente necessário ler ou definir os valores dos mesmos através de scripts do lado cliente da aplicação.   Está correto o que se afirma em
-
-Alternativas:
-A. I, II e III.
-B. I e II, apenas.
-C. I e III, apenas.
-D. II e III, apenas.

@@ -1,9 +1,0 @@
-Engenharia de Software Processos de Software - Desenvolvimento Ágil , Scrum
-
-Sobre o framework Scrum, é correto afirmar:
-
-Alternativas:
-A. Durante a Sprint, o Backlog do Produto não pode ser refinado.
-B. O Daily Scrum é o único momento em que os desenvolvedores podem ajustar seus planos.
-C. O Sprint Backlog é um plano feito pelo Product Owner e deve refletir o real trabalho que os Desenvolvedores planejam realizar durante a Sprint.
-D. Se o Product Owner ou o Scrum Master estão trabalhando ativamente em itens do Backlog do Produto, eles devem participar como Desenvolvedores durante o Daily Scrum.

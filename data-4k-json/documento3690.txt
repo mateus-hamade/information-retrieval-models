@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-Texto associado Caso a função percurso2 receba, como argumento, um ponteiro para o nó F da árvore binária apresentada, a sua execução imprimirá a seguinte seqüência: F B A D C E H G I. Esse tipo de percurso é conhecido como postorder.
-
-Alternativas:
-A. Certo
-B. Errado

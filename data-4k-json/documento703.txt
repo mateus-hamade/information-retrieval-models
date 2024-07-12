@@ -1,9 +1,0 @@
-Banco de Dados BI (Business Intelligence)
-
-Indique o tipo de processamento que deve ser realizado para uma efetiva extração e posterior análise de dados para a tomada de decisões ao se utilizarem sistemas de apoio à decisão.
-
-Alternativas:
-A. DER
-B. GIS
-C. OLAP
-D. OLTP

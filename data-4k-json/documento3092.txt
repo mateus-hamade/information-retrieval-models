@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Tipos de Dados
-
-Texto associado Um dado do tipo ponto-flutuante, cujo valor é definido em termos de precisão e faixa de valores, pode pertencer ao conjunto dos números reais, racionais ou irracionais. 
-
-Alternativas:
-A. Certo
-B. Errado

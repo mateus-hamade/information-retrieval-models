@@ -1,9 +1,0 @@
-Sistemas Operacionais Cloud Computing
-
-Existem diferentes serviços de computação em nuvem. Cada um desses modelos representa uma categoria diferente de serviços na nuvem, oferecendo diferentes níveis de abstração e funcionalidades para atender às necessidades específicas dos usuários e desenvolvedores. Sabendo disso, assinalar a alternativa que apresenta o serviço cuja característica principal é oferecer um ambiente de desenvolvimento e implantação completo na nuvem.
-
-Alternativas:
-A. DRaaS (Disaster Recovery as a Service).
-B. DaaS (Desktop as a Service).
-C. PaaS (Platform as a Service).
-D. NaaS (Network as a Service).

@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Filas , Pilhas
-
-Considere que os números 10, 11, 12, 13, 14 foram inseridos, nessa ordem, em uma fila. Esses mesmos números foram inseridos na mesma ordem em uma pilha. Nesse caso,
-
-Alternativas:
-A. o topo da pilha é o número 10.
-B. o primeiro elemento a ser removido da pilha é o número 10.
-C. o número 14 é o primeiro elemento a ser removido da fila.
-D. o último elemento a ser removido da fila é o número 14.

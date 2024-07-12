@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Filas , Listas ( assuntos)
-
-Considerando as definições para listas (pilhas e filas), assinale a alternativa correta.
-
-Alternativas:
-A. Uma lista é um tipo de fila que se caracteriza por considerar que o primeiro elemento a entrar é o primeiro a sair.
-B. Lista é um conjunto de filas e pilhas e se compõe por elementos que podem ser ligados ou não.
-C. Uma lista pode ter uma configuração que possa ser uma arvore balanceada ou não.
-D. Lista é uma sequência finita de elementos ligados entre si. Podem ser organizada de tal forma que implemente uma fila ou uma pilha.

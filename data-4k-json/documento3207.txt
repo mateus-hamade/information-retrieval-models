@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
-
-Texto associado Uma estrutura de seleção encadeada heterogênea ocorre quando não é possível identificar um padrão lógico de construção em uma estrutura de seleção encadeada. 
-
-Alternativas:
-A. Certo
-B. Errado

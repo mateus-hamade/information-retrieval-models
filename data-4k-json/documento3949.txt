@@ -1,9 +1,0 @@
-Segurança da Informação Conceitos Básicos em Segurança da Informação , Criptografia , Controles de segurança
-
-Considere que existe um segredo s, previamente compartilhado entre os usuários A e B, e que ambos podem apenas usar uma função de espalhamento (Hash) criptográfica H(m). Para que a usuária A receba uma mensagem m do usuário B, garantindo que essa mensagem não foi manipulada, é necessário que B:
-
-Alternativas:
-A. calcule o H(m); envie uma mensagem estendida (m, H(m)) para A, que pode calcular localmente H(m) para confirmar a integridade da mensagem m
-B. calcule o H(m) e H(s); envie uma mensagem estendida (m, H(m), H(s)) para A, que pode calcular localmente H(m) e H(s) para confirmar a integridade da mensagem m
-C. concatene s com m para criar m + s; calcule o H(m); envie uma mensagem estendida (m, H(m), s) para A, que pode calcular localmente H(m) e H(s) para confirmar a integridade da mensagem m
-D. concatene s com m para criar m + s; calcule o H(m+s); envie uma mensagem estendida (m, H(m+s)) para A, que pode calcular localmente H(m+s) para confirmar a integridade da mensagem m

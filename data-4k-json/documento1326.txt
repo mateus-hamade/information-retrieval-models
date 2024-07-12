@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Dados
-
-Julgue o próximo item, relacionados a métodos de ordenação e pesquisa.     Para que a pesquisa binária possa ser utilizada para localizar uma entrada, é requisito que os dados estejam em vetor cujo tamanho seja múltiplo de dois.     
-
-Alternativas:
-A. Certo
-B. Errado

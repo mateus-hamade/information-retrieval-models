@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
-
-Julgue o item seguinte a respeito dos conceitos de algoritmo de ordenação.     O algoritmo merge sort ordena os elementos de um vetor percorrendo este diversas vezes e, a cada passagem, deslocando até o topo o maior elemento da sequência.  
-
-Alternativas:
-A. Certo
-B. Errado

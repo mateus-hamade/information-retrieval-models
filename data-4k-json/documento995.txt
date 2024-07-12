@@ -1,9 +1,0 @@
-Banco de Dados SGBD - Sistema de Gerenciamento de Banco de Dados
-
-Sobre arquiteturas para sistemas gerenciadores de Banco de Dados, analise as afirmativas a seguir. I. A arquitetura centralizada era muito utilizada em computadores do tipo mainframe, que oferecia o processamento principal para todas as funções do sistema, como programas de aplicação, interfaces com o usuário e também todas as funcionalidades do SGBD. II. Em uma arquitetura cliente/servidor, o servidor é denominado provedor de dados, pois tem o papel de fornecer dados organizados em páginas de disco ao cliente, que podem ser estruturados pelos programas-clientes através de um software cliente do SGBD em pacotes de dados. III. Em uma arquitetura de três camadas, a camada intermediária auxilia na segurança do banco, processa solicitações de cliente, envia comandos ao provedor do banco de dados; porém, não possui a capacidade de transferir dados processando do provedor aos clientes. Está correto o que se afirma em
-
-Alternativas:
-A. I, II e III.
-B. I, apenas.
-C. I e II, apenas.
-D. II e III, apenas.

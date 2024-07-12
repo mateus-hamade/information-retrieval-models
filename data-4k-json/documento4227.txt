@@ -1,9 +1,0 @@
-Engenharia de Software Desenvolvimento de Software
-
-A tecnologia da informação é composta de múltiplas áreas que atuam em conjunto para a construção e manutenção de ferramentas e soluções tecnológicas para diversos grupos de usuários distintos. Uma área relevante nesse contexto é a ciência da computação, que trata da análise de complexidade de algoritmos e outras diversas atribuições. Essa análise consiste em estudar o desempenho de algoritmos em termos de tempo e espaço, determinando o crescimento da quantidade de recursos computacionais necessários para executar um algoritmo à medida que o tamanho da entrada de dados escala, colaborando ativamente para o desenvolvimento de softwares eficientes e cada vez mais adequados para as tarefas que foram projetados. Sobre esse conceito, analise as afirmativas a seguir.   I. O tempo de execução de um algoritmo é a quantidade de tempo necessária para executar o algoritmo completamente. II. Uma complexidade O(n2 ) indica que o tempo de execução do algoritmo cresce quadraticamente ao tamanho da entrada. III. Uma complexidade O(1) indica que o tempo de execução do algoritmo cresce proporcionalmente ao tamanho da entrada.   Está correto o que se afirma em
-
-Alternativas:
-A. I, II e III.
-B. I e II, apenas.
-C. I e III, apenas.
-D. II e III, apenas.

@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-Julgue o próximo item, concernente ao conceito relacionado a algoritmos e linguagens de programação.     O comando 29 = A atribui à variável A o valor 29.  
-
-Alternativas:
-A. Certo
-B. Errado

@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Busca
-
-Texto associado Na pesquisa por meio de interpolação, é possível realizar o cálculo da posição aproximada em que se encontra determinada chave em uma estrutura para que a distância entre a menor chave e a chave desejada seja proporcional à distância entre a menor e a maior chave do intervalo.
-
-Alternativas:
-A. Certo
-B. Errado

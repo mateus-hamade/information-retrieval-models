@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
-
-Analise o método de ordenação representado pelo algoritmo a seguir.     •   Dividir recursivamente o vetor a ser ordenado em dois, até obter n vetores de 1 único elemento.    •   Aplicar a intercalação tendo como entrada 2 vetores de um elemento, formando um vetor ordenado de dois elementos.    •   Repetir esse processo formando vetores ordenados cada vez maiores, até que todo o vetor esteja ordenado.  Qual é o método de ordenação representado pelo algoritmo? 
-
-Alternativas:
-A. Mergesort.
-B. Sheelsort.
-C. Bubblesort.
-D. Quicksort.

@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Recursividade
-
-Um programa pode ser estruturado em módulos denominados funções ou procedimentos. Considerando esse assunto, julgue o próximo item, acerca dos tipos de módulos.  Uma função recursiva pela cauda sempre possui um equivalente iterativo direto.   
-
-Alternativas:
-A. Certo
-B. Errado

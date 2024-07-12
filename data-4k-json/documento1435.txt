@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Filas , Pilhas
-
-Pilhas e filas são implementações de estruturas de dados que possuem algumas diferenças entre si. Dentre tais diferenças está o número de ponteiros empregados para indicar os elementos-chave da estrutura. Assinale, a seguir, o número correto de ponteiros presentes em uma pilha e em uma fila. 
-
-Alternativas:
-A. Pilha: 0 ponteiro; Fila: 1 ponteiro
-B. Pilha: 1 ponteiro; Fila: 0 ponteiro
-C. Pilha: 1 ponteiro; Fila: 2 ponteiros
-D. Pilha: 2 ponteiros; Fila: 0 ponteiro

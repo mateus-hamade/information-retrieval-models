@@ -1,9 +1,0 @@
-Banco de Dados SGBD - Sistema de Gerenciamento de Banco de Dados
-
-Um Sistema Gerenciador de Banco de Dados (SGBD) é um software projetado para gerenciar e facilitar o armazenamento, a organização, a recuperação, a atualização e a segurança de dados em um banco de dados. Qual das seguintes afirmações define corretamente o conceito de schema em um SGBD? 
-
-Alternativas:
-A. Conjunto de dados não estruturados armazenados em um sistema distribuído.
-B. Protocolo de comunicação utilizado para transferir dados entre servidores de banco de dados.
-C. Método de compressão de dados para reduzir o espaço de armazenamento.
-D. Modelo lógico que especifica a estrutura e organização dos dados em um banco de dados.

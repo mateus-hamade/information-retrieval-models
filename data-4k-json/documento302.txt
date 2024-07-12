@@ -1,9 +1,0 @@
-Banco de Dados SQL
-
-Sejam as tabelas, "Estudantes" e "Projetos", com as seguintes informações:               A instrução SQL que permite selecionar o nome de todos os estudantes e o nome de seus respectivos projetos, incluindo estudantes que não têm um projeto atribuído, é   
-
-Alternativas:
-A. SELECT Estudantes.Nome, Projetos.Nome FROM Estudantes JOIN Projetos ON Estudantes.ProjetoID = Projetos.ProjetoID;
-B. SELECT Estudantes.Nome, Projetos.Nome FROM Estudantes LEFT JOIN Projetos ON Estudantes.ProjetoID = Projetos.ProjetoID;
-C. SELECT Estudantes.Nome, Projetos.Nome FROM Estudantes RIGHT JOIN Projetos ON Estudantes.ProjetoID = Projetos.ProjetoID;
-D. SELECT Estudantes.Nome, Projetos.Nome FROM Estudantes INNER JOIN Projetos ON Estudantes. ProjetoID = Projetos.ProjetosID;

@@ -1,9 +1,0 @@
-Banco de Dados SQL
-
-As cláusulas de triggers em SQL são eventos que disparam a execução de um trigger, bem como as condições sob as quais o trigger será executado. Considerando as características das cláusulas de triggers, assinale a afirmativa INCORRETA.
-
-Alternativas:
-A. AFTER STATEMENT: após a conclusão da operação de evento sobre um ou mais registros, o gatilho será disparado de acordo com o comando.
-B. AFTER ROW: após a conclusão da operação de evento sobre um ou mais registros da tabela, haverá um disparo do gatilho para cada registro afetado pelo comando.
-C. BEFORE ROW: antes da conclusão da operação de evento sobre um único registro da tabela, haverá um disparo do gatilho para cada registro afetado pelo comando.
-D. BEFORE STATEMENT: antes da conclusão da operação de evento, o gatilho será disparado e a operação do evento poderá afetar um ou mais registros de acordo com o comando.

@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
-
-Em uma estrutura de FILA, o último item armazenado deve ser o primeiro a ser removido.  
-
-Alternativas:
-A. Certo
-B. Errado

@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
-
-Acerca dos aspectos das linguagens de programação e das estruturas de dados e da programação orientada a objetos (POO), julgue o item.  Em uma árvore binária, todos os nós de uma subárvore direita são maiores que o nó raiz.  
-
-Alternativas:
-A. Certo
-B. Errado

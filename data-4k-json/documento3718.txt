@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Busca , Estrutura de Dados ( assuntos)
-
-Texto associado A busca binária pode ser realizada em vetor não ordenado. Caso o vetor contenha n elementos, o tempo de execução da busca necessita de 5n comparações.
-
-Alternativas:
-A. Certo
-B. Errado

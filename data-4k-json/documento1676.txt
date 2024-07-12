@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados
-
-Quanto às estruturas de dados básicas e à linguagem de programação C++, julgue o item seguinte.  A estrutura de dados do tipo fila utiliza o conceito de FIFO, ou seja, os elementos são atendidos, sequencialmente, na ordem em que são armazenados.  
-
-Alternativas:
-A. Certo
-B. Errado

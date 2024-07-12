@@ -1,9 +1,0 @@
-Sistemas Operacionais Windows
-
-Um administrador de um computador, com sistema operacional MS Windows, precisa acessar a ferramenta gráfica que permite ver e monitorar o registro do sistema operacional Windows e editá-lo. Nesse caso, ele deve acessar, de forma direta, a ferramenta:
-
-Alternativas:
-A. calc
-B. ntpad
-C. regedit
-D. powershell

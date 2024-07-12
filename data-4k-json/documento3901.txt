@@ -1,9 +1,0 @@
-Engenharia de Software Desenvolvimento de Software , Gestão de Projetos em Engenharia de Software
-
-Padrões de projeto são soluções reutilizáveis para problemas comuns de design de software, fornecendo abordagens testadas e comprovadas para estruturar e organizar o código. Os princípios SOLID 
-
-Alternativas:
-A. mostram como o desenvolvedor deve organizar as funções e as estruturas de dados em classes e como essas classes devem ser interconectadas.
-B. são técnicas de design de software que envolvem a passagem das dependências de um componente a partir de uma fonte externa, em vez de criá-las internamente dentro do objeto.
-C. são utilizados para implementar a comunicação entre componentes de forma desacoplada, permitindo que partes do sistema reajam a mudanças em outras partes, sem dependências diretas.
-D. ornecem uma interface unificada para acessar dados armazenados em diferentes fontes, como bancos de dados, serviços web ou sistemas de arquivos, permitindo que a lógica de negócios seja separada da lógica de persistência de dados.

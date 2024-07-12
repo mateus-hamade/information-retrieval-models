@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados
-
-A respeito de dados, informação, conhecimento e inteligência, julgue o próximo item.     Embora com características particulares, dados não estruturados podem ser classificados em sua totalidade, assim como os dados estruturados.  
-
-Alternativas:
-A. Certo
-B. Errado

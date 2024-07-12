@@ -1,9 +1,0 @@
-Banco de Dados SGBD - Sistema de Gerenciamento de Banco de Dados , SQL
-
-O Elasticsearch foi criado por Shay Banon em 2010 e é mantido atualmente pela Elastic N.V., uma empresa de tecnologia conhecida por sua suíte de produtos de código aberto, incluindo o Elasticsearch, o Logstash, o Kibana e o Beats, que juntos formam o que é conhecido como a Stack ELK (ou Elastic Stack). O Elasticsearch tem como objetivo fornecer: 
-
-Alternativas:
-A. armazenamento de dados em formato relacional e NoSQL.
-B. execução de consultas SQL complexas em bancos relacionais.
-C. capacidade de indexação, busca e análise de textos completos.
-D. integração com diversos SGBDs e bancos de dados NoSQL.

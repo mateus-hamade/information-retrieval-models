@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Estrutura de Controle e Repetição
-
-Texto associado  Tendo como referência o algoritmo precedente, julgue o próximo item.     Na linha 6 do algoritmo em pauta, são realizadas cinco unidades de tempo, as quais são executadas n vezes, o que totaliza 5n unidades de tempo.  
-
-Alternativas:
-A. Certo
-B. Errado

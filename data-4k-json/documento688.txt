@@ -1,9 +1,0 @@
-Banco de Dados SGBD - Sistema de Gerenciamento de Banco de Dados , MySQL
-
-Identifique a seguir a sintaxe do comando que deveria ser utilizado no MYSQL para extrair estrutura e dados de todos os banco de dados do SGBD armazenando o resultado da operação no arquivo bk_banco.sql
-
-Alternativas:
-A. mysqldump –u<usuario> –p<senha> --all-databases > bk_banco.sql
-B. mysqldump –u<usuario> –p<senha> --all-data > bk_banco.sql
-C. mysqldump save –u<usuario> –p<senha> -all-data > bk_banco.sql
-D. mysqldump save –u –p -databases- > bk_banco.sql

@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
-
-O caminhamento em árvores binárias envolve percorrer a árvore de forma a visitar cada nó somente uma vez. No caminhamento pré-fixado à esquerda, a sequência considerada é:
-
-Alternativas:
-A. visitar a raiz, percorrer a subárvore esquerda, percorrer a subárvore direita.
-B. percorrer a subárvore esquerda, visitar a raiz, percorrer a subárvore direita.
-C. visitar a raiz, percorrer a subárvore direita, percorrer a subárvore esquerda.
-D. percorrer a subárvore direita, visitar a raiz, percorrer a subárvore esquerda.

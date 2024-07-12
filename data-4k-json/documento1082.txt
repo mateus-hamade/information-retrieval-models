@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Recursividade
-
-A sequência de Fibonacci tem aplicação, dentre outras, em algoritmos de busca, classificação e criptografia. Trata-se de uma lista infinita de números, em que cada um de seus valores é o resultado da soma dos dois anteriores. Matematicamente, esta relação de recorrência é representada por:    Considere que foram elaboradas duas implementações algorítmicas definidas em linguagem Python (CODIGO-01 e CODIGO-02). CODIGO-01    CODIGO-02    Quanto às implementações, assinale a afirmativa correta.  
-
-Alternativas:
-A. Somente o primeiro algoritmo emprega função recursiva.
-B. Os dois algoritmos empregam função recursiva.
-C. Somente o primeiro algoritmo emprega função iterativa.
-D. Os dois algoritmos empregam função iterativa.

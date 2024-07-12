@@ -1,9 +1,0 @@
-Banco de Dados Banco de Dados Relacionais
-
-Em banco de dados relacional, TUPLA é o termo utilizado para
-
-Alternativas:
-A. representar um conjunto de valores passíveis de serem assumidos por um atributo.
-B. representar cada linha de uma relação.
-C. representar cada coluna de uma relação.
-D. representar a normalização do banco de dados.

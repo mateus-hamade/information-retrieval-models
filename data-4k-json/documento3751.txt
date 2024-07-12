@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Grafos
-
-Texto associado Os polígonos A e B, na figura em questão, são ditos fechados; o polígono C é dito aberto.
-
-Alternativas:
-A. Certo
-B. Errado

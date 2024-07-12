@@ -1,9 +1,0 @@
-Banco de Dados SQL Server
-
-Como são conhecidos no SQLServer os clusters de artigos que definem o conjunto de replicação sendo o nível mais granular dentro de uma estrutura de replicação? 
-
-Alternativas:
-A. Artigos
-B. Publicações
-C. Filtros
-D. Roles

@@ -1,9 +1,0 @@
-Programação Linguagens de programação , Python
-
-Em determinada organização de grande porte foi montado um time de infraestrutura para implantar e manter os diversos dispositivos do extenso ambiente de rede. Os profissionais alocados para essa função possuem vasta experiência no mercado, trabalhando com tecnologias modernas e escaláveis. Por se tratar de um ambiente amplo, com um parque de dispositivos muito diversificado, os profissionais optaram por implementar automações que aceleram ou reduzem o trabalho mecânico de manutenção; para aplicar esse conceito, foi escolhida a linguagem de programação Python, que possui um razoável histórico de aplicações dessa natureza, além de um bom suporte técnico de uma comunidade muito ativa. Sobre a linguagem em questão, analise as afirmativas a seguir.  I. É possível realizar a portabilidade do Python em diferentes sistemas operacionais de computação, como Windows, macOS, Linux e Unix. II. A biblioteca NumPy é utilizada para criar e gerenciar facilmente arrays, manipular formas lógicas e realizar operações de álgebra linear. III. O Flask é um framework web Python de pilha completa utilizado para o desenvolvimento de aplicações web em larga escala.  Está correto o que ser afirma em 
-
-Alternativas:
-A. I, II e III.
-B. I e II, apenas.
-C. I e III, apenas.
-D. II e III, apenas.

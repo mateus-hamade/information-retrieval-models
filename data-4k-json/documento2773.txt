@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
-
-Em estruturas de dados é encontrada a estrutura Pilha. Avalie as assertivas abaixo identificando a alternativa correta.  I. Em Java uma Pilha pode ser representado pelo objeto Stack e possui o médoto put(Object o) para inserir objetos.  II. Uma das possíveis utilizações de uma Pilha é a implementação da sequência de desfazer (Ctrl + Z) de um editor de texto.  III. Na estrutura Pilha, o último elemento a entrar também é o último elemento a sair.  IV. Na Pilha as operações de exclusão e inclusão são realizadas na mesma extremidade chamada topo.  Quantas afirmativas estão corretas?   
-
-Alternativas:
-A. 3
-B. 2
-C. 4
-D. 1

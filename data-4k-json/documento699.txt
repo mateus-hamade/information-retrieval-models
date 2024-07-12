@@ -1,9 +1,0 @@
-Banco de Dados SQL
-
-Observe a seguinte tabela de banco de dados com os campos DNOME e DTELEFONE e com os dados armazenados abaixo para o funcionário Jair de Souza.  Com base nesses dados, assinale a opção que apresenta uma possível solução para o problema de atributo que só deve ter valores atômicos.  
-
-Alternativas:
-A. Colocar a tabela na primeira forma normal 1FN
-B. O campo DTELEFONE deverá se tornar um índice na tabela
-C. Resolver o problema de dependência funcional (2FN)
-D. Resolver o problema da dependência transitiva (3FN)

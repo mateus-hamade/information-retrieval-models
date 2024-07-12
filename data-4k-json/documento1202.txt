@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
-
-Acerca de estrutura de dados e algoritmos, julgue o item a seguir.     Uma árvore binária é classificada como balanceada (AVL) quando as alturas das subárvores da maioria dos nós dessa árvore diferem entre si em apenas uma unidade.  
-
-Alternativas:
-A. Certo
-B. Errado

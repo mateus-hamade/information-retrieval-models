@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Matrizes em Estrutura de Dados
-
-Acerca das estruturas homogêneas de dados e dos conceitos da programação orientada a objetos, julgue o item. A matriz é uma estrutura que possui todos os valores do mesmo tipo, ou seja, uma estrutura homogênea e que pode ainda ter mais de uma dimensão.
-
-Alternativas:
-A. Certo
-B. Errado

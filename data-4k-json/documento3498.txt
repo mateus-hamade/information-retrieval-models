@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Filas
-
-Existe um tipo particular de estrutura de dados no qual tanto a inserção quanto a retirada de dados podem ocorrer no início ou no ?nal da estrutura. Com relação a esse assunto, assinale a opção que apresenta a referida estrutura. 
-
-Alternativas:
-A. Árvores Ternárias
-B. Árvores Binárias
-C. Lista Duplamente Encadeada
-D. Double Ended Queues

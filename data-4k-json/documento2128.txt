@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
-
-O famoso algoritmo de Dijkstra soluciona um problema de grafos direcionados e não direcionados com uma certa complexidade. Qual é esse problema e qual é essa complexidade?
-
-Alternativas:
-A. Problema do caminho mínimo com complexidade O (m + n log n) em que m é o número de arestas e n é o número de vértices.
-B. Problema do caminho mínimo com complexidade O (n!) em que n é o número de vértices.
-C. Problema da mochila com complexidade O (m * n) em que m é o número de arestas e n é o número de vértices.
-D. Problema da mochila com complexidade O (m!) em que m é o número de arestas.

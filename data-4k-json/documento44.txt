@@ -1,9 +1,0 @@
-Banco de Dados SQL Server , SQL
-
-As organizações realizam diversas transações eletrônicas durante a execução das suas atividades operacionais, com aplicações de uso interno e externo, desenvolvidas em diferentes linguagens de programação, que persistem os dados coletados em um Sistema de Gerenciamento de Banco de Dados. O armazenamento desses dados deve ser revestido de uma boa camada de segurança, bem como as aplicações que consomem e alimentam esse banco, pois as consultas dinâmicas desenvolvidas nessas aplicações, se não protegidas adequadamente, produzem vulnerabilidades que podem causar danos de magnitude catastrófica em uma base de dados, permitindo acessos indevidos através de ataques conhecidos como SQL Injection. Sobre esse tipo de ataque, analise as afirmativas a seguir.   I. Consiste basicamente em digitar comandos SQL, exclusivamente do tipo DML, nos inputs de formulários da aplicação. II. Um teste de SQL Injection pode ser em uma tela de login de um sistema WEB qualquer, digitar o comando ' or 1=1 or 'a' = 'a no campo de login, preencher o campo senha com qualquer valor e clicar no botão que efetua o login para verificar se o sistema realizará a autenticação. III. Uma forma de proteger a aplicação do SQL Injection é realizar a validação/tratamento das informações manualmente ou utilizar frameworks de persistência/ORM que possuam mecanismos para evitar esse tipo de ataque.   Está correto o que se afirma apenas em 
-
-Alternativas:
-A. I.
-B. II.
-C. III.
-D. II e III.

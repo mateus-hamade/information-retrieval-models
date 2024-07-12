@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-Texto associado Considerando a algoritmo apresentado acima, julgue os itens seguintes acerca de lógica de linguagens de programação.  O comando na linha 7 faz aumentar o valor da variável salario em 75%. Esse comando, contudo, não poderá ser implementado da forma apresentada, uma vez que não é possível atribuir valor à variável salario, pois ela já está sendo utilizada no cálculo.
-
-Alternativas:
-A. Certo
-B. Errado

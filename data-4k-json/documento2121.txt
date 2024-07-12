@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Listas
-
-Considere a representação de uma lista duplamente encadeada que armazena os times de futebol participantes de um torneio.       
-
-Alternativas:
-A. Palmeiras, Flamengo, São Paulo, Cruzeiro, Atlético-MG.
-B. São Paulo, Flamengo, Palmeiras, Cruzeiro, Atlético-MG.
-C. Cruzeiro, Atlético-MG, Palmeiras, Flamengo, São Paulo.
-D. São Paulo, Palmeiras, Flamengo, Cruzeiro, Atlético-MG.

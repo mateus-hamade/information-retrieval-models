@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-Julgue o próximo item, concernente ao conceito relacionado a algoritmos e linguagens de programação.     Em um algoritmo, uma constante é um espaço físico na memória, e é identificada por um nome que não sofre alteração durante a execução do programa.  
-
-Alternativas:
-A. Certo
-B. Errado

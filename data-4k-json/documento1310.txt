@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Lógicas de Programação
-
-O raciocínio lógico leva a uma resposta que pode ser verdadeira ou falsa. Na construção de algoritmos para a solução de problemas computacionais, trabalha-se com esse tipo de raciocínio. A respeito desse assunto, julgue o item. A classe Concurso apresentada a seguir, escrita na linguagem Java, implementa uma estrutura e operações de uma pilha.  
-
-Alternativas:
-A. Certo
-B. Errado

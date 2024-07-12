@@ -1,9 +1,0 @@
-Programação Java , Linguagens de programação , Plataforma Java ( assuntos)
-
-Em certa equipe de desenvolvimento, uma linguagem de programação a se considerar na construção de projetos é o JAVA. Essa linguagem é considerada uma das mais populares e utilizadas do mundo, contando com uma grande comunidade de apoio e suporte. Ela é considerada de alto nível, orientada a objetos e multiplataforma, o que permite a execução dos projetos em diversas plataformas que possuam uma máquina virtual JVM instalada. Sobre a linguagem em questão, assinale a afirmativa INCORRETA.
-
-Alternativas:
-A. O javac.exe é um programa que funciona junto com o browser Internet Explorer com um plug-in Java.
-B. O Java Archive é um formato de arquivo usado para empacotar diversos arquivos em um único arquivo.
-C. O manifesto é um arquivo especial que pode conter informações sobre arquivos incluídos em um arquivo JAR.
-D. Um applet é um componente de software que é transferido por download pelo browser para fornecer funcionalidade em uma página web.

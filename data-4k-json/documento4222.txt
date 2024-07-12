@@ -1,9 +1,0 @@
-Segurança da Informação Conceitos Básicos em Segurança da Informação , Ataques e ameaças , Controles de segurança
-
-Qual das seguintes afirmações descreve corretamente a classificação de informações em segurança da informação? 
-
-Alternativas:
-A. Engloba apenas a proteção de dados contra ameaças externas.
-B. É uma prática opcional e não é necessária para a proteção dos ativos de informação.
-C. Refere-se apenas à categorização de dados em diferentes níveis de confidencialidade.
-D. Abrange a identificação, rotulagem e proteção de dados sensíveis ou críticos em conformidade com as políticas de segurança da organização.

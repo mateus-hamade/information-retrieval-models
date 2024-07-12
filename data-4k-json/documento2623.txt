@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Filas
-
-No que se refere a algoritmos e estruturas de dados, julgue o item a seguir.  É possível eliminar dados em uma fila somente no início da estrutura.  
-
-Alternativas:
-A. Certo
-B. Errado

@@ -1,9 +1,0 @@
-Banco de Dados SQL
-
-O Comando Create View (Transact-SQL) tem o objetivo de criar uma tabela virtual e devolver colunas e linhas por uma consulta. Quando uma View é criada, as colunas, expressões e a própria View são armazenadas no schemas
-
-Alternativas:
-A. sys.views e sys.columns.
-B. sys.columns e sys.sql_expression_dependencies.
-C. sys.views e sys.sql_expression_dependencies.
-D. sys.sql_expression_dependencies, sys.columns e sys.views.

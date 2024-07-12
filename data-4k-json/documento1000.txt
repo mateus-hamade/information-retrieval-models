@@ -1,9 +1,0 @@
-Banco de Dados Banco de Dados
-
-O Banco de Dados é considerado um componente essencial na sociedade moderna e no cotidiano das organizações. Em modelos de negócio dinâmicos é praticamente impossível imaginar a operacionalização cotidiana de uma organização sem a utilização dessa estrutura. É correto afirmar, de forma genérica, que um Banco de Dados se trata de uma: 
-
-Alternativas:
-A. Coleção de dados relacionados.
-B. Coleção de informações relacionadas.
-C. Estrutura relacional de dados complexos associados.
-D. Estrutura relacional de informações complexas associadas.

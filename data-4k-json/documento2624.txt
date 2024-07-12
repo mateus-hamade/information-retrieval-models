@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
-
-No que se refere a algoritmos e estruturas de dados, julgue o item a seguir.  Embora o QuickSort e o MergeSort sejam algoritmos de ordenação do tipo divisão e conquista, somente o MergeSort utiliza intervalos de comparação denominados gap.  
-
-Alternativas:
-A. Certo
-B. Errado

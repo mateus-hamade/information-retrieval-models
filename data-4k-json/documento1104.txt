@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos
-
-Ao construir um classificador usando aprendizado de máquina, um analista deve verificar o quão efetivo ele é para a predição, ou seja, estimar sua precisão preditiva, uma vez que o erro é inerente ao processo – deseja-se aprender sobre uma população, mas se tem acesso a uma amostra dela. No caso da classificação, o conjunto de treinamento é utilizado para aprender e um conjunto de testes é utilizado para estimar o erro. Para estimar a precisão preditiva de um classificador a partir de uma amostra de dados não utilizada anteriormente ou não conhecida, podem ser empregadas as seguintes estratégias:
-
-Alternativas:
-A. leave-p-out, validação cruzada k-fold.
-B. matriz de probabilidades, subamostragem aleatória.
-C. troca de valores mais frequentes, divisão do conjunto de teste.
-D. retirada de dados ausente, tabela de variância.

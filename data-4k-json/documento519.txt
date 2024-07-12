@@ -1,9 +1,0 @@
-Banco de Dados Banco de Dados Relacionais
-
-Sobre a função dos índices, triggers e transações em um banco de dados relacional, pode-se afirmar, respectivamente, que os índices
-
-Alternativas:
-A. melhoram a velocidade das operações de busca e seleção, os triggers executam ações automáticas em resposta a eventos síncronos, e as transações garantem a integridade das operações no banco de dados.
-B. organizam a estrutura das tabelas, os triggers estabelecem os relacionamentos entre registros e as transações recuperam dados excluídos ou modificados por engano.
-C. armazenam metadados das tabelas, os triggers são acionados por alterações na estrutura do banco de dados e as transações controlam a segurança do banco de dados.
-D. aceleram as buscas em tabelas, os triggers disparam ações automáticas em eventos específicos e as transações asseguram a atomicidade, consistência, isolamento e durabilidade das operações no banco de dados.

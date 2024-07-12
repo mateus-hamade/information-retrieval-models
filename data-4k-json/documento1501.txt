@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
-
-Julgue o item a seguir acerca dos conceitos de estrutura de dados.       Uma árvore binária deve ter, no mínimo, 3 nós.   
-
-Alternativas:
-A. Certo
-B. Errado

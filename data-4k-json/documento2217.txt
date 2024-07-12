@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Listas
-
-Julgue o item subsequente, relativo a estrutura de dados.     Uma lista encadeada é basicamente uma estrutura de dados em lista em que cada nó possui três campos: um para os dados, um para o endereço do nó anterior, e outro para o endereço do nó posterior.  
-
-Alternativas:
-A. Certo
-B. Errado

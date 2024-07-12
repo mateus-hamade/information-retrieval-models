@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Estrutura de Dados ( assuntos)
-
-Texto associado Um array é um agregado, possivelmente heterogêneo, de elementos de dados. Nele, um elemento individual é identificado por sua posição em relação ao primeiro.
-
-Alternativas:
-A. Certo
-B. Errado

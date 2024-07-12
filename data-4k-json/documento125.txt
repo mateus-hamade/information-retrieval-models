@@ -1,9 +1,0 @@
-Banco de Dados Modelo relacional
-
-A capacidade de alterar o esquema conceitual sem que seja necessário alterar os esquemas externos ou os programas de aplicação, é denominada independência:
-
-Alternativas:
-A. física de dados.
-B. de transparência de dados.
-C. lógica de dados.
-D. de fragmentação de dados.

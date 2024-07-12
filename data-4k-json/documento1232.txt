@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-Julgue o item a seguir, relativo a algoritmos de linguagem de programação.     Na instrução A(i) = FUNC(i), a saída da função FUNC( ) é passada corretamente como parâmetro de entrada (i) para a função A.   
-
-Alternativas:
-A. Certo
-B. Errado

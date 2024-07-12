@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Hashing
-
-Um dos maiores problemas quando se estuda a alocação de estruturas de dados é o tempo de resposta da pesquisa de uma chave em um conjunto de elementos. Como forma de contornar este problema, o Hashing faz uso de funções aritméticas que permitem que o tempo de pesquisa seja independente do número de registros da tabela.  Assinale a opção que NÃO apresenta um exemplo de Hashing. 
-
-Alternativas:
-A. Hashing com Tentativas Lineares
-B. Hashing Ternário Virtual
-C. Hashing Quadrático
-D. Hashing Interligado

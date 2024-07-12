@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
-
-A respeito de análise de algoritmos, programação estruturada e orientada a objetos e estruturas de dados, julgue o item a seguir.     Árvores são estruturas de dados lineares adequadas para representarem hierarquias.  
-
-Alternativas:
-A. Certo
-B. Errado

@@ -1,9 +1,0 @@
-Sistemas Operacionais Linux
-
-Um administrador de um servidor Linux de uma rede precisa verificar o uso da memória desse servidor. Para isso, usando linha de comando, aplicou o comando:
-
-Alternativas:
-A. df
-B. top
-C. talk
-D. write

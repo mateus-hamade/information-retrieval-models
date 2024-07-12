@@ -1,9 +1,0 @@
-Banco de Dados Formas normais
-
-Considere a tabela chamada “MeioDePagamento”.   Como aplicar a Terceira Forma Normal a essa tabela? 
-
-Alternativas:
-A. Separar a tabela em duas, uma para clientes e outra para meios de pagamento.
-B. Criar uma tabela adicional para armazenar as taxas de juros.
-C. Adicionar uma coluna de chave estrangeira para referenciar a tabela de clientes.
-D. Manter a tabela como está, pois já está na terceira forma normal.

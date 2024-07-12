@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
-
-Texto associado Em uma árvore binária de busca, como em toda árvore binária, todos os nós têm grau máximo igual a 2. Entretanto, nem toda árvore binária pode ser considerada uma árvore binária de busca.
-
-Alternativas:
-A. Certo
-B. Errado

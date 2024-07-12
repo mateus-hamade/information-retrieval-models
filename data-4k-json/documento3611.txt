@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-Texto associado Em um algoritmo, uma expressão geralmente é considerada válida quando as suas variáveis e constantes respeitam o número e os tipos de argumentos das operações envolvidas.
-
-Alternativas:
-A. Certo
-B. Errado

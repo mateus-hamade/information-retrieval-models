@@ -1,9 +1,0 @@
-Banco de Dados SQL
-
-Os grupos de comandos da linguagem SQL, utilizada para modelagem de banco de dados relacionais, implementam funções específicas. Seja a tabela DepServidor, a seguir, que contém informações sobre os filhos de servidores da Prefeitura de Rio Branco.    Seja o comando SQL: SELECT f2.filho FROM DepServidor f1 INNER JOIN DepServidor f2      ON f1.filho= f2.servidor      WHERE f1.servidor = 'Carlos Augusto';  A execução do comando acima tem como resultado os nomes dos 
-
-Alternativas:
-A. filhos do servidor Carlos Augusto.
-B. servidores que tem Carlos Augusto como filho.
-C. netos do servidor Carlos Augusto.
-D. servidores que não tem Carlos Augusto como filho.

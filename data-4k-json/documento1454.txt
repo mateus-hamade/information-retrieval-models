@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
-
-Em relação à estrutura de dados do tipo árvore, analise a afirmativa a seguir.  I. Todos os nós de uma árvore possuem um nó pai e zero ou mais nós filhos.  II. Um nó que não possui um filho é denominado folha.  III. Uma subárvore de um nó consiste nesse nó e todos os seus nós descendentes.  Está correto o que se afirma em 
-
-Alternativas:
-A. I, II e III.
-B. I, apenas.
-C. I e II, apenas.
-D. II e III, apenas.

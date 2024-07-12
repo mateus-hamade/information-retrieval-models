@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos
-
-Random Forest são algoritmos de aprendizado de máquina utilizados para classificação ou regressão, sendo vantajoso em relação às árvores de decisão no caso de
-
-Alternativas:
-A. custo computacional reduzido.
-B. conjunto de dados com propensão a overfitting.
-C. conjunto de dados reduzido.
-D. número elevado de classes.

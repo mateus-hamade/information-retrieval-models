@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
-
-Julgue o item que se segue acerca das estruturas homogêneas de dados, do conceito de pilhas e da programação orientada a objetos.  De acordo com a estrutura e o funcionamento de uma pilha, as inserções são feitas no início e as remoções são feitas no final.  
-
-Alternativas:
-A. Certo
-B. Errado

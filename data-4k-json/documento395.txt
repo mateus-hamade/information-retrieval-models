@@ -1,9 +1,0 @@
-Banco de Dados SQL
-
-Atualizações de dados, são realizadas constantemente em bancos de dados, desta forma, qual a finalidade da cláusula UPDATE em linguagem SQL.
-
-Alternativas:
-A. a) Atualizar o nome da tabela
-B. Atualizar o nome das views criadas para a tabela
-C. Atualizar o tipo da coluna dos registros
-D. Atualizar registros existentes de uma tabela

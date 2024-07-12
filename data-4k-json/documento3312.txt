@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Grafos
-
-Texto associado É misto o grafo com arestas não dirigidas que representam ruas de dois sentidos e com arestas dirigidas que correspondem a trechos de um único sentido, modelado para representar o mapa de uma cidade cujos vértices sejam os cruzamentos ou finais de ruas e cujas arestas sejam os trechos de ruas sem cruzamentos.  
-
-Alternativas:
-A. Certo
-B. Errado

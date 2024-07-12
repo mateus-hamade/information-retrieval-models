@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Fluxogramas
-
-A forma de visualização de dados apresentada a seguir trata de um tipo de:           Assinale a alternativa correta.  
-
-Alternativas:
-A. Gantt responsive
-B. Linha do tempo
-C. Gráfico de segmentos
-D. Histograma

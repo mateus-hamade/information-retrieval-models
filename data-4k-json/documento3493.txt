@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
-
-Uma expressão lógica é aquela cujos operadores são lógicos ou relacionais e cujos operandos são relações ou variáveis ou constantes do tipo lógico. Com relação a esse assunto, assinale a opção que apresenta apenas operadores lógicos. 
-
-Alternativas:
-A. ou, e, não
-B. ou, e, <, >
-C. +, -, *, /
-D. +, -, *, /, ou, e, não

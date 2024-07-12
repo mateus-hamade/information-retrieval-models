@@ -1,9 +1,0 @@
-Banco de Dados Backup em Banco de Dados
-
-Assinale a alternativa que não apresenta os tipos de backups que as empresas contratam juntos aos provedores em nuvem.
-
-Alternativas:
-A. Completo
-B. Segmentado
-C. Diferencial
-D. Incremental

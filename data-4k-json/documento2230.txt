@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-Algoritmo é uma sequência finita e bem definida de passos que, quando executados, realizam uma tarefa específica ou resolvem um problema. NÃO é uma das propriedades do algoritmo:
-
-Alternativas:
-A. Composto por ações complexas e por vezes indefinidas.
-B. Composto por ações simples e bem definidas (não pode haver ambiguidade, ou seja, cada instrução representa uma ação que deve ser entendida e realizada).
-C. Sequência ordenada de ações.
-D. Conjunto finito de passos.

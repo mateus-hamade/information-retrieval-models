@@ -1,9 +1,0 @@
-Banco de Dados Formas normais
-
-Sobre normalização de dados, marque V para as afirmativas verdadeiras e F para as falsas. ( ) Em um esquema de relação com múltiplas chaves; cada uma é denominada chave candidata onde uma é arbitrariamente designada para ser a chave primária e as demais são denominadas chaves estrangeiras. ( ) A 1FN reprova relações dentro de relações ou relações como valores de atributo dentro de tuplas; portanto, permitem apenas valores heterogêneos. ( ) Um esquema de relação R está na 3FN se ele satisfizer a 2FN e nenhum atributo não principal de R for transitivamente dependente da chave primária. ( ) A maioria dos esquemas de relação que estão na 3FN também estão na FNBC. Somente se X ➝A se mantiver em um esquema de relação R com X não sendo uma superchave e A sendo um atributo principal é que R estará na 3FN, mas não na FNBC. A sequência está correta em
-
-Alternativas:
-A. V, V, F, F.
-B. V, F, F, V.
-C. F, V, V, F.
-D. F, F, V, V.

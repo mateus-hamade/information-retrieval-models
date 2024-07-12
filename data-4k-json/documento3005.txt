@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
-
-Acerca da pesquisa e da classificação de dados, julgue os próximos itens.  O método da bolha é um exemplo de classificação por seleção efetivada pela seleção contínua do menor valor de uma chave contido em determinado vetor.
-
-Alternativas:
-A. Certo
-B. Errado

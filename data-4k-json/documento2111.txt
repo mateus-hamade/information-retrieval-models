@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Listas , Pilhas
-
-Acerca das estruturas homogêneas de dados vetor e matriz e dos conceitos de pilhas, filas e árvores binárias, julgue o item.     Nas pilhas, conhecidas também como listas LIFO, a operação de inserção é chamada de empilhamento, enquanto a de exclusão é chamada de desempilhamento.  
-
-Alternativas:
-A. Certo
-B. Errado

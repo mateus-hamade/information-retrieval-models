@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Listas
-
-No que se refere a algoritmos e estruturas de dados, julgue o item a seguir.  Em uma lista circular, o ponteiro anterior ao início da lista aponta para o fim, e o ponteiro próximo à célula do fim da lista aponta para o início.  
-
-Alternativas:
-A. Certo
-B. Errado

@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Recursividade
-
-A respeito de algoritmos, estruturas de dados e objetos, julgue o  item  que se segue.  A função mostrada abaixo é um exemplo de algoritmo recursivo.                   Function fat (x:integer) : integer;                  begin                         if  x=0 then cfat := 1                      else                     fat := x * cfat (n-1);                  end; 
-
-Alternativas:
-A. Certo
-B. Errado

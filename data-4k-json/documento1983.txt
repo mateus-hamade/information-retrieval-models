@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Filas , Pilhas
-
-Sobre Estrutura de Dados, considere o excerto abaixo.     Uma _____ é uma estrutura do tipo _____, onde elementos novos são inseridos no fim da estrutura e a retirada ocorre no começo da estrutura.     Assinale a alternativa que preencha correta e respectivamente as lacunas. 
-
-Alternativas:
-A. pilha / LIFO
-B. fila / LIFO
-C. pilha / FIFO
-D. fila / FIFO

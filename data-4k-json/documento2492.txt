@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Hashing
-
-Sobre os algoritmos de hash MD5 e SHA, analise as afirmativas a seguir.  I. O MD5 e o SHA são invulneráveis ao ataque de aniversário.  II. O SHA-1 possui tamanho de hash de 20 bytes.  III. Ambos são algoritmos de hash, tendo como entrada dados de tamanho variável e saída de tamanho também variável.  IV. O MD5 gera um valor de hash de 128 bits.  Estão corretas as afirmativas 
-
-Alternativas:
-A. II e IV.
-B. I e III.
-C. II e III.
-D. I e IV.

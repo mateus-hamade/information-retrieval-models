@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Estrutura de Dados ( assuntos)
-
-Um programa define uma constante TAM_VET como assumindo o valor 10 , um vetor vet da seguinte forma. inteiro vet [TAM_VET ] = {0,1,2,3,4,5,6,7,8,9}; onde os números entre chaves representam os valores assumidos a partir da posição 0 do vetor até TAM_ VET-1 . Declaram-se também as variáveis inteiras temp e i. O valor inicial da variável i foi definido como sendo igual a 1. Assinale a alternativa que indica o valor de vet[3], após a execução deste código.  
-
-Alternativas:
-A. 3.
-B. 4.
-C. 6.
-D. 7.

@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-Texto associado Para representar a idade e o registro geral de identificação de uma pessoa, bem como se ela é ou não maior de idade, utiliza-se constante numérica. 
-
-Alternativas:
-A. Certo
-B. Errado

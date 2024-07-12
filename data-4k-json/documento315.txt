@@ -1,9 +1,0 @@
-Banco de Dados Gerência de Transações
-
-Uma transação é uma unidade de execução do programa que acessa e, possivelmente, atualiza vários itens de dados. Normalmente, uma transação é iniciada por um programa do usuário escrito em linguagem de manipulação de dados (normalmente SQL) ou linguagem de programação (por exemplo: C++ ou Java), com acessos embutidos ao banco de dados em JDBC ou ODBC. Em um contexto de transações em bancos de dados, sobre a propriedade de “isolamento”, assinale a afirmativa correta.
-
-Alternativas:
-A. Define a ordem adequada de execução das transações.
-B. Certifica-se de que as transações mantêm a consistência dos dados.
-C. Garante que as transações sejam realizadas de forma independente e não afetem umas as outras.
-D. Assegura a execução bem-sucedida de todas as transações, ao mesmo tempo em que separa os dados de acordo com as instruções do usuário.

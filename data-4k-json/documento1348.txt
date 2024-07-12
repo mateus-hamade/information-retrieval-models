@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Vetores
-
-Assinale a alternativa que apresenta o valor correto armazenado na posição 4 do vetor V, após a execução do trecho do algoritmo seguinte: V[1] ← 1 PARA J = 2 ATÉ 4  V[J] ←V[J -1] + 2J FIM-PARA
-
-Alternativas:
-A. 15
-B. 17
-C. 18
-D. 19

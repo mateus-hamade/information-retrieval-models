@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos
-
-O Processamento de Linguagem Natural (PLN) é a área da inteligência artificial que analisa, reconhece e/ou gera textos em linguagens humanas (ou natural). Para processar dados textuais, é necessário primeiramente transformá-los em valores numéricos, sendo utilizados algoritmos do tipo word embeddings, tais como glove, tf-idf, word2vector e bag of words (BOW). São características do algoritmo word2vector:
-
-Alternativas:
-A. representação das palavras em um espaço vetorial de frequência de ocorrência, sem considerar a ordem que aparecem no texto.
-B. criação de um espaço de contagem baseado na relevância dos termos, considerando o contexto.
-C. atribuição de valor semântico às palavras de acordo com a posição que elas possuem no corpus textual, representando-as num espaço vetorial.
-D. criação de um espaço de contagem a partir da distribuição de frequência de ocorrência das palavras, considerando a ordem de ocorrência no texto.

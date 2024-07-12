@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos
-
-O gráfico a seguir apresenta o comportamento de uma rede neural artificial:     Considerando que o modelo foi validado como insatisfatório, as duas técnicas que podem contornar o problema apresentado são:
-
-Alternativas:
-A. parada precoce, minimização de entropia cruzada.
-B. validação cruzada, dropout.
-C. sobreamostragem, gradiente descendente estocástico.
-D. dropout, parada em convergência.

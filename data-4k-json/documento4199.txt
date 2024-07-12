@@ -1,9 +1,0 @@
-Segurança da Informação Ataques e ameaças
-
-Sobre ameaças cibernéticas relacionadas a aplicativos maliciosos, marque V para as afirmativas verdadeiras e F para as falsas.  ( ) Um vírus de computador é capaz de se replicar e infectar outros arquivos ou programas sem a intervenção do usuário. Uma vez que um vírus é executado em um sistema, ele pode se espalhar para outros arquivos ou programas automaticamente sem a necessidade de interação do usuário. ( ) Spoofing é uma técnica na qual um atacante mascara a identidade ou origem de um pacote de dados, fazendo com que pareça originar-se de uma fonte confiável, com o objetivo de enganar o receptor e obter acesso não autorizado a sistemas ou informações. ( ) O cavalo de Troia é um tipo de malware que se disfarça como um programa aparentemente inofensivo ou útil, mas que, na verdade, esconde código malicioso. Quando ativado pelo usuário, ele executa ações não autorizadas, como roubo de informações ou danos ao sistema. ( ) O objetivo principal de um ataque de negação de serviço (DoS) é enviar mais dados do que um receptor espera para forçá-lo a armazenar os valores em variáveis fora do buffer.  A sequência está correta em 
-
-Alternativas:
-A. V, V, V, F.
-B. V, F, V, V.
-C. F, V, V, F.
-D. F, F, V, V.

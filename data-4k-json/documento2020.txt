@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
-
-Texto associado Para um nó raiz de uma árvore binária qualquer, sempre há dois nós filhos: esquerdo e direito.
-
-Alternativas:
-A. Certo
-B. Errado

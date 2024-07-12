@@ -1,9 +1,0 @@
-Segurança da Informação Criptografia
-
-Um desenvolvedor de sistema de segurança para computadores está confeccionando um sistema de criptografia, no qual vai se utilizar a mesma chave na criptografia e descriptografia, sendo necessário o compartilhamento dessa chave entre as partes envolvidas. Para isso, ele está utilizando um modelo de algoritmo de criptografia que já realiza essa metodologia, que é o:
-
-Alternativas:
-A. AES
-B. DAS
-C. DFH
-D. RSA

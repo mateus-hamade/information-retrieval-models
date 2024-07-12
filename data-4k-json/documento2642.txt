@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Recursividade
-
-Com relação às estruturas de controle em programas de computador, julgue o item subsecutivo.  A chamada de uma função para execução é feita citando-se o seu identificador no meio de uma expressão. Uma função é dita recursiva quando chama ela própria.  
-
-Alternativas:
-A. Certo
-B. Errado

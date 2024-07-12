@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Busca
-
-A pesquisa sequencial e o método da bolha são métodos pouco eficientes de busca de dados.  
-
-Alternativas:
-A. Certo
-B. Errado

@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição , Lógicas de Programação
-
- Observe o algoritmo da figura.           Após a execução desse algorimo, a saída será a seguinte sequência de números:  
-
-Alternativas:
-A. 13 15 17 17 15 13
-B. 13 17 15 15 17 13
-C. 17 13 15 15 13 17
-D. 17 15 13 13 15 17

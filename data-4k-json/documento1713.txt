@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Tipos de Dados
-
-Analise as afirmações, a seguir, a respeito dos TAD (Tipos abstratos de dados): I - Um TAD especifica o tipo de dado (domínio e operações) sem referência a detalhes da implementação. II - Dando mais liberdade para mudar implementação com menor impacto nos programas. III - Oferece muitas vantagens, apesar de não minimizar custos. IV - Os programas que usam o TAD não "conhecem" as implementações dos TADs. Estão corretas as afirmações:
-
-Alternativas:
-A. I e III.
-B. II, III e IV.
-C. I, II e III.
-D. I, II e IV.

@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Busca
-
-Considere que um algoritmo de pesquisa, em um arquivo previamente ordenado, é caracterizado por realizar comparação de chaves e sucessivas divisões no espaço de busca até encontrar o termo pesquisado ou até haver um único registro. Trata-se de um algoritmo de
-
-Alternativas:
-A. pesquisa por interpolação.
-B. pesquisa binária.
-C. pesquisa sequencial.
-D. árvore de busca binária.

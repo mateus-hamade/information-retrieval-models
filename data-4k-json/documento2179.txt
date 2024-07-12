@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Vetores
-
-No que se refere a vetores, matrizes, filas e árvores binárias, julgue o item.     A atribuição de valores a um vetor já criado é procedida de elemento em elemento, alterando‐se o valor do índice do vetor. 
-
-Alternativas:
-A. Certo
-B. Errado

@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
-
-Texto associado A estrutura a while é um tipo de loop em que o código nela contido será executado até que a condição especificada de parada seja satisfeita.  
-
-Alternativas:
-A. Certo
-B. Errado

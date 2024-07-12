@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
-
-Uma profissional de TI precisa carregar uma grande quantidade de registros de pessoas. O uso mais constante desta estrutura será relacionado ao filtro das entradas pelo prefixo do nome das pessoas. Sabendo deste caso de uso, qual é a melhor escolha de estrutura de dados para facilitar essa filtragem?
-
-Alternativas:
-A. Fila.
-B. Lista ligada.
-C. Árvore.
-D. Tabela hash.

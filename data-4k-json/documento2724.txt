@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Listas
-
-Uma lista linear é um conjunto de informações de qualquer tipo, organizadas sequencialmente. A organização sequencial estabelece uma relação de ordem, decorrendo daí a possibilidade de identificar qualquer elemento da lista: o primeiro ou último ou qual elemento precede ou sucede qualquer outro. Partindo dessa organização, as operações básicas em listas lineares são:
-
-Alternativas:
-A. Inserção e inclusão.
-B. Busca, inserção e remoção.
-C. Busca e arquivamento.
-D. Inserção, remoção e arquivamento

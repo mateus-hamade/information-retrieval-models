@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
-
-Acerca de estrutura de dados e algoritmos, julgue o item a seguir.     O algoritmo quicksort possui complexidade de tempo de pior caso O(n2), contudo a complexidade de tempo médio desse algoritmo é O(n log n).   
-
-Alternativas:
-A. Certo
-B. Errado

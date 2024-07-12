@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
-
-Acerca de funções, procedimentos e estruturas de controle de fluxo, julgue os próximos itens.  O uso de estrutura de repetição explícita necessita de realimentação do loop.
-
-Alternativas:
-A. Certo
-B. Errado

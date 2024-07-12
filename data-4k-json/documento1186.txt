@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Grafos
-
-Grafo é um conjunto de vértices (ou nós), interconectados dois a dois por arestas. Em uma estrutura de dados de grafo, assinale a alternativa que apresenta o que representa as arestas nesta estrutura.
-
-Alternativas:
-A. Direções
-B. Nós
-C. Valores armazenados
-D. Ligações entre nós

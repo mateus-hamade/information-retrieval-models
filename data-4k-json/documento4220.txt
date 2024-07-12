@@ -1,9 +1,0 @@
-Segurança da Informação Noções de Segurança
-
-A segurança da informação é um aspecto crucial para proteger os sistemas contra ameaças externas e garantir integridade, confidencialidade e disponibilidade dos dados. Diversas medidas e tecnologias são empregadas para fortalecer a segurança dos sistemas e minimizar os riscos de ataques cibernéticos. Como os sistemas de segurança podem aumentar a disponibilidade dos sistemas? 
-
-Alternativas:
-A. Criptografando os dados armazenados.
-B. Restringindo o acesso apenas a usuários autorizados.
-C. Implementando firewalls para bloquear o tráfego malicioso.
-D. Utilizando equipamentos, aplicativos e servidores redundantes.

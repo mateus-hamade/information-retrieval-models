@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Complexidade de Algoritmos
-
-Analise os dois algoritmos a seguir:        Em relação aos algoritmos expostos, é correto afirmar que  
-
-Alternativas:
-A. o algoritimo1 tem complexidade exponencial e o algoritimo2 tem complexidade linear.
-B. o algoritimo1 tem complexidade quadrática e o algoritimo2 tem complexidade exponencial.
-C. são soluções diferentes para problemas diferentes.
-D. são soluções recursivas para o mesmo problema.

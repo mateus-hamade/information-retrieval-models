@@ -1,9 +1,0 @@
-Segurança da Informação Planos de contingência
-
-Qual é o principal objetivo de um plano de contingência em tecnologia da informação? 
-
-Alternativas:
-A. Minimizar os custos operacionais da organização em caso de falhas de hardware.
-B. Garantir que a organização possa se recuperar rapidamente de qualquer incidente de segurança.
-C. Garantir que todos os funcionários sejam treinados para lidar com situações de emergência relacionadas à tecnologia da informação.
-D. Estabelecer procedimentos claros e diretrizes específicas para lidar com interrupções inesperadas nos sistemas de tecnologia da informação, visando minimizar o impacto nos negócios.

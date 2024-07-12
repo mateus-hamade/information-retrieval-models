@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Árvores
-
-Questão anulada Acerca dos conceitos e características de estrutura de dados e autômatos, julgue os itens a seguir.  As árvores apresentadas abaixo são ditas equivalentes.  
-
-Alternativas:
-A. Certo
-B. Errado

@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Estrutura de Dados ( assuntos)
-
-Texto associado Considerando que X seja um vetor de 10 elementos inteiros, a chamada de função func(X,5,4) executará infinitamente.
-
-Alternativas:
-A. Certo
-B. Errado

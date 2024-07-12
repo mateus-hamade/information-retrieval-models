@@ -1,9 +1,0 @@
-Banco de Dados SGBD - Sistema de Gerenciamento de Banco de Dados
-
-Segurança de banco de dados consiste em proteger os dados armazenados em um Sistema de Gerenciamento de Banco de Dados (SGBD) contra acesso não autorizado, alterações não autorizadas e perda de integridade. Considerando os conceitos fundamentais de segurança de banco de dados, marque V para as afirmativas verdadeiras e F para as falsas.   ( ) As senhas de acesso aos bancos de dados devem ser armazenadas em texto simples para facilitar a autenticação. ( ) O backup regular dos bancos de dados é uma prática importante para garantir a recuperação de dados em caso de falhas ou ataques. ( ) Auditorias de banco de dados são úteis apenas para fins de conformidade regulatória e não contribuem para a segurança geral do banco de dados.   A sequência está correta em
-
-Alternativas:
-A. F, F, F.
-B. F, V, F.
-C. V, F, V.
-D. V, V, V.

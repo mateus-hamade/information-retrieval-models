@@ -1,9 +1,0 @@
-Engenharia de Software Engenharia de Requisitos
-
-Durante o processo de Engenharia de Requisitos, qual técnica é comumente utilizada para identificar e documentar requisitos que podem não ser evidentes para os stakeholders? 
-
-Alternativas:
-A. Entrevistas com os desenvolvedores para obter insights técnicos específicos.
-B. Análise de cenários e casos de uso, explorando diferentes situações de uso do sistema.
-C. Rastreamento de requisitos após a implementação para garantir a conformidade dos requisitos.
-D. Revisões de código para identificar requisitos ocultos na lógica de programação.

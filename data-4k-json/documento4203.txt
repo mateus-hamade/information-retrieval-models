@@ -1,9 +1,0 @@
-Sistemas Operacionais Virtualização
-
-Em relação ao desempenho e eficiência, como se distingue o hypervisor Type-1 do Type-2 em ambientes de virtualização avançada?  
-
-Alternativas:
-A. Suporte a aplicações gráficas intensivas, possibilitando ambientes visuais de alta demanda.
-B. Significativa redução do overhead de virtualização, maximizando a eficiência em ambientes críticos.
-C. Facilidade na instalação e configuração, proporcionando uma implementação mais rápida e acessível.
-D. Maior abrangência de compatibilidade com sistemas operacionais, garantindo suporte a uma variedade extensa de ambientes.

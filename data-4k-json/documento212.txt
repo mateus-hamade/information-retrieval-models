@@ -1,9 +1,0 @@
-Banco de Dados SQL
-
-Considere que um desenvolvedor precisa realizar uma consulta em um banco de dados, para extrair a descrição dos produtos vendidos e suas respectivas categorias, a tabela utilizada para armazenar os produtos vendidos corresponde a: pedidos_produtos. Assinale a alternativa com o comando SQL correto.
-
-Alternativas:
-A. SELECT * FROM produtos, pedidos_produtos, categorias WHERE pedidos_produtos = produtos AND produtos = categorias
-B. SELECT produtos.descricao, categoria.nome FROM produtos LEFT JOIN pedidos_produtos ON pedidos_produtos.produto_id = produtos.id ORDER BY categorias.id
-C. SELECT produtos.descricao, categoria.nome FROM categorias LEFT JOIN categorias ON produtos.categoria_id = categorias.id WHERE pedidos_vendidos.produto_id = produtos.id
-D. SELECT produtos.descricao, categoria.nome FROM pedidos_produtos LEFT JOIN produtos ON pedidos_produtos.produto_id = produtos.id LEFT JOIN categorias ON produtos.categoria_id = categorias.id

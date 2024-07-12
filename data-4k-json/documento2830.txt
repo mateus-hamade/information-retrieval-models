@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
-
-Texto associado Para atingir o estado final dessa pilha, deve-se usar a seguinte sequência de operações básicas:
-
-Alternativas:
-A. pop(), pop(), push(9), push(3)
-B. push(2), push(8), pop(), pop().
-C. push(), push(), pop(8), pop(2).
-D. pop(3), pop(9), push(), push().

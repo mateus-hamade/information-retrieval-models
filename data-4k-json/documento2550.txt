@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-Acerca de aspectos de linguagens de programação, algoritmos e estruturas de dados e objetos, programação orientada a objetos e arquitetura MVC, julgue o item subsequente.  É correto afirmar que o uso de algoritmos eficientes está relacionado ao emprego de estruturas de dados adequadas.  
-
-Alternativas:
-A. Certo
-B. Errado

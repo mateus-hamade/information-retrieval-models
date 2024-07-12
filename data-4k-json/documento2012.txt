@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Estrutura de Dados ( assuntos)
-
-Um algoritmo de computador é composto por várias etapas que, em conjunto, executam uma determinada tarefa. Sobre os algoritmos de computadores, julgue o item a seguir.     Especificamente entre os algoritmos utilizados para solucionar problemas de redes de computadores, estão os algoritmos Dijkstra, Bellman-Ford e suas variações.  
-
-Alternativas:
-A. Certo
-B. Errado

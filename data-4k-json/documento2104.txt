@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
-
-Texto associado  Tendo como referência o precedente código estruturado, julgue o item a seguir.     Se as variáveis A e B tivessem sido definidas novamente dentro da sub-rotina TROCA, elas seriam novas variáveis e teriam escopo global para a sub-rotina TROCA.  
-
-Alternativas:
-A. Certo
-B. Errado

@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
-
-Leia as afirmativas a seguir: I. As variáveis do tipo literal cadeia são usadas para armazenar valores lógicos e binários, ou seja, verdadeiro e falso, ou 1 e 2, por exemplo. Assim, se precisarmos de uma variável para armazenar o nome de uma pessoa, esse não seria um tipo apropriado. II. Os bancos de dados podem ser usados exclusivamente em aplicações acessíveis via Internet. Ou seja, apenas os softwares e serviços on-line podem dispor de bancos de dados próprios, acessíveis por múltiplos usuários. Marque a alternativa CORRETA:
-
-Alternativas:
-A. As duas afirmativas são verdadeiras.
-B. A afirmativa I é verdadeira, e a II é falsa.
-C. A afirmativa II é verdadeira, e a I é falsa.
-D. As duas afirmativas são falsas.

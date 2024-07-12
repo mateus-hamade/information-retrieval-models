@@ -1,9 +1,0 @@
-Banco de Dados Big Data
-
-O Big data é estruturado seguindo os conceitos dos 5 V’s; assinale-os.
-
-Alternativas:
-A. Velocidade; Valor; Variedade; Volume; Veracidade.
-B. Validade; Velocidade; Vetor; Variedade; Veracidade.
-C. Volume; Valor; Variabilidade; Veracidade; Viabilidade.
-D. Versatilidade; Valor; Verificação; Visualização; Velocidade.

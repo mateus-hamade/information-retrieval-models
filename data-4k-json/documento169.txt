@@ -1,9 +1,0 @@
-Banco de Dados SQL
-
-Considere um sistema de gerenciamento de banco de dados (SGBD) que utiliza a linguagem SQL como interface. Uma tabela AGTESTE foi criada neste momento e povoada conforme sequência de comandos a seguir:     CREATE TABLE agteste  (  codprod char(8),  modulo float(2),  rua float(2),  numero float(2),  apto float(2)  );  INSERT INTO agteste VALUES ('43','2', '3','0','2');  INSERTINTO agteste VALUES ('45','4','3','0','3');  INSERTINTO agteste VALUES ('57','14','3','0','4');  INSERT INTO agteste VALUES ('64','7','3','0','2');  COMMIT;  Em seguida, o seguinte comando SQL foi executado:     select DISTINCT(apto) from agteste;  Quantos linhas mostrará esta consulta? 
-
-Alternativas:
-A. 1.
-B. 2.
-C. 3.
-D. 4.

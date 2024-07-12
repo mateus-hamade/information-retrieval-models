@@ -1,9 +1,0 @@
-Banco de Dados Formas normais
-
-Existem diversas formas normais que podem ser utilizadas na normalização de esquemas relacionais. A forma normal BoyceCodd (FNBC) foi proposta para ser uma simplificação, mas descobriu-se que ela é mais rigorosa que a forma normal que ela pretendia simplificar.  A forma normal que a FNBC pretendia simplificar é a   
-
-Alternativas:
-A. 1FN.
-B. 2FN.
-C. 3FN.
-D. 4FN.

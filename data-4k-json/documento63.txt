@@ -1,9 +1,0 @@
-Banco de Dados SGBD - Sistema de Gerenciamento de Banco de Dados
-
-São exemplos de um Sistema de Gerenciamento de Banco de Dados (SGBD), EXCETO:
-
-Alternativas:
-A. Oracle
-B. PostgreSQL
-C. DB2
-D. Code::Blocks

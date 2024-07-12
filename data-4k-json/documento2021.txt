@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
-
-Texto associado Em uma pilha, a inserção dos elementos X, K, L, M, J, R, P, Q, na respectiva ordem e a remoção de quatro elementos, resulta no topo da pilha com o dado M.
-
-Alternativas:
-A. Certo
-B. Errado

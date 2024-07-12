@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Listas
-
-Texto associado O uso de listas encadeadas na representação de matrizes justifica-se, entre outros motivos, quando a matriz é esparsamente povoada por dados. Em uma possível implementação para esse caso, os valores dos índices de cada dimensão da matriz são armazenados em listas encadeadas, e cada elemento da matriz com valor diferente de zero é um nó (ou célula) em outra lista encadeada, acessível a partir das listas dos índices da matriz.
-
-Alternativas:
-A. Certo
-B. Errado

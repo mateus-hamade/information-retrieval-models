@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
-
-Texto associado O resultado da expressão B >= (A + C) OR A < C é falso.  
-
-Alternativas:
-A. Certo
-B. Errado

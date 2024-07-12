@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Filas
-
-Com relação a conceitos de estruturas de dados, julgue o item a seguir. Uma fila é um conjunto ordenado de elementos homogêneos, no qual os elementos são eliminados a partir de um dos extremos e adicionados pelo outro extremo.  
-
-Alternativas:
-A. Certo
-B. Errado

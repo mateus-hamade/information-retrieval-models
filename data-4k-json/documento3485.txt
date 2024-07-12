@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados , Filas ( assuntos)
-
-Assinale a estrutura de dados que ocorre associada a estruturas aninhadas.
-
-Alternativas:
-A. Árvores
-B. Árvores binárias
-C. Filas
-D. Pilhas

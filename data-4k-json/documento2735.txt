@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
-
-No que concerne aos aspectos de linguagens de programação, algoritmos, estrutura de dados e case, julgue o item subsequente.  Uma árvore implementada por meio de encadeamento deve apresentar, além do nó pai, um encadeamento entre os nodos por meio de um campo de elo (ponteiro) e uma indicação de final de árvore por meio de um ponteiro nulo. 
-
-Alternativas:
-A. Certo
-B. Errado

@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Filas , Pilhas
-
-A respeito de conceitos de estruturas de dados, julgue o item que segue. As inserções e retiradas ocorrem na mesma extremidade das pilhas, o topo. Por sua vez, as filas exigem acesso às duas extremidades: a retirada é feita no começo, e a inserção é realizada no término.
-
-Alternativas:
-A. Certo
-B. Errado

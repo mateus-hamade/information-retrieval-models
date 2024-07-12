@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-A respeito da construção de algoritmos, julgue o item subseqüente.  O algoritmo mostrado a seguir representa corretamente a criação de uma matriz de 4 filas e 5 colunas que contém números aleatórios de 1 a 100.       
-
-Alternativas:
-A. Certo
-B. Errado

@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Lógicas de Programação
-
-No que se refere às linguagens de programação, julgue os itens subsecutivos.  A execução da função x descrita abaixo para o valor n igual a 8 fornecerá 21 como resultado.  long x(int n) { if (n<0) return -1; if (n==0) return 0; if (n==1) return 1; return x(n-1) + x(n-2);  }
-
-Alternativas:
-A. Certo
-B. Errado

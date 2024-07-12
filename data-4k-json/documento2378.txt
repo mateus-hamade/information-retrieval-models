@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
-
-Julgue o item subsequente, relativo à lógica de programação.     Para a determinação da parte decimal de um número real, pode-se utilizar a função INT(x), como no exemplo a seguir, onde INT(x) retorna a parte inteira de x.     x = 3.1415926;     escreva x-INT(x)   
-
-Alternativas:
-A. Certo
-B. Errado

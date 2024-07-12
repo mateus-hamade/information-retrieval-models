@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
-
-Dento do conceito de complexidade de algoritmo, temos um tipo clássico de complexidade média com distribuição uniforme, que classifica uma lista particionando a, classificando suas partes e depois concatenando as partes classificadas. A esse algoritmo damos o nome de:
-
-Alternativas:
-A. BubbleSort
-B. LifoSort
-C. Quicksort
-D. FiloSort

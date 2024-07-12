@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Fluxogramas
-
-Julgue o item a seguir.      Fluxogramas são ferramentas obsoletas no processo de desenvolvimento de algoritmos, sendo raramente usados na prática atual de programação. Eles são considerados ineficazes para representar algoritmos complexos e não são adotados por profissionais da área de tecnologia da informação, como analistas de sistemas e cientistas da computação.  
-
-Alternativas:
-A. Certo
-B. Errado

@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
-
-No que diz respeito às estruturas de informação, julgue o item subsecutivo.  A inserção dos elementos 47, 35, 40, 32, 42 e 30, nessa ordem, em uma árvore binária balanceada inicialmente vazia apresenta o resultado mostrado na figura abaixo, após a realização de todas as operações necessárias.                                                  
-
-Alternativas:
-A. Certo
-B. Errado

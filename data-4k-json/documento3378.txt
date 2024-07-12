@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-Texto associado A implementação do referido algoritmo tem execução mais rápida que a do algoritmo iterativo equivalente. 
-
-Alternativas:
-A. Certo
-B. Errado

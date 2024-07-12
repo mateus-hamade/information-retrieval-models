@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-Questão anulada Considerar o fragmento de algoritmo a seguir:                    Algoritmo "Fatorial";                  variável:                               RESULTADO,VAR1,VAR2: inteiro;                   inicio                               Escreva("Digite um numero");                                Leia(VAR1);                                RESULTADO ← 1;                                Para VAR2 de 1 ate VAR1 faca                                             RESULTADO ← RESULTADO + VAR2;                                Fimpara;                                Escreva (“O fatorial de “, VAR1, “ e: “, RESULTADO);                 fim.   O objetivo desse algoritmo é calcular o fatorial de um número informado pelo usuário. Embora o algoritmo esteja bem formatado (seguindo as regras de codificação), existe um erro lógico que impede o algoritmo de apresentar o resultado correto, que é:   
-
-Alternativas:
-A. A variável apresentada no resultado está com o nome errado.
-B. A estrutura de repetição nunca terá fim.
-C. O operador matemático para cálculo do fatorial está errado.
-D. A variável RESULTADO terá o valor 1 até o final da execução do algoritmo.

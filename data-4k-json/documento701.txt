@@ -1,9 +1,0 @@
-Banco de Dados Banco de Dados , SGBD - Sistema de Gerenciamento de Banco de Dados
-
-No que diz respeito à independência dos dados entre a aplicação e o SGBD, indique o tipo de independência que permitiria uma alteração no esquema conceitual sem ter que mudar o esquema externo ou os programas que fazem acesso a essas informações. 
-
-Alternativas:
-A. Independência de dados lógica
-B. Independência física
-C. Independência de transações
-D. Independência de esquema

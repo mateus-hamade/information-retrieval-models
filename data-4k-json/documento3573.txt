@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
-
-Texto associado Para transformar árvore em árvore binária, os nós irmãos devem ser ligados entre si e a ligação entre um nó pai e os nós filhos deve ser removida, incluindo-se os nós do primeiro filho. 
-
-Alternativas:
-A. Certo
-B. Errado

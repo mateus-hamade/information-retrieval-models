@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Busca
-
-O seguinte trecho de código, implementado em Java, realiza a busca por uma chave x em um vetor de inteiros A, que encontra-se ordenado crescentemente. Os parâmetros p e r delimitam o subvetor A[p..r].   O trecho de código apresentado implementa uma busca 
-
-Alternativas:
-A. hash recursiva.
-B. binária recursiva.
-C. pré-ordem recursiva.
-D. sequencial recursiva.

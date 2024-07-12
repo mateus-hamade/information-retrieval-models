@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
-
-Conforme conceitos da álgebra de Boole e sabendo que A + B e A • B representam, respectivamente, a adição e o produto de A e B e A' representa o complemento de A, é correto afirmar que, de acordo com a lei     comutativa, A + B = B + A e A • B = B • A. 
-
-Alternativas:
-A. Certo
-B. Errado

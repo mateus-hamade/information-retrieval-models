@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
-
-Considere a árvore binária abaixo.      Executando os percursos em ordem simétrica (em-ordem), pré-ordem e pós-ordem, respectivamente, assinale a alternativa que contém os três percursos corretos.  
-
-Alternativas:
-A. Em-ordem: 1 2 3 4 5 Pré-ordem: 1 2 4 5 3 Pós-ordem: 4 5 2 3 1
-B. Em-ordem: 4 2 5 1 3 Pré-ordem: 1 3 2 5 4 Pós-ordem: 3 5 4 2 1
-C. Pós-ordem: 5 4 3 2 1
-D. Em-ordem: 4 5 2 1 3 Pré-ordem: 1 2 3 4 5

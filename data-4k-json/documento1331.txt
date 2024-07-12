@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos
-
-Com relação a estruturas de controle, seleção, repetição e desvio, julgue o item a seguir.  Se os valores a = 3, b = 4 e c = 8 forem entradas do algoritmo a seguir e o sistema no qual o algoritmo for executado utilizar números decimais com quatro casas de precisão, então a execução do referido algoritmo apresentará em tela o resultado 10.3923. sp = (a + b + c)/2; ar = sp*(sp - a)*(sp - b)*(sp - c); se (ar < 0)        escreva (“Não é possível obter resultado.”); senão        escreva (“Resultado: “);        escreva(raiz_quadrada(ar)); fimse
-
-Alternativas:
-A. Certo
-B. Errado

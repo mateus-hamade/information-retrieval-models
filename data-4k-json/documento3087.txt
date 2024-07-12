@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
-
-Leia o seguinte trecho de código-fonte escrito em Java.    O algoritmo de ordenação implementado nesse trecho de código-fonte é o 
-
-Alternativas:
-A. Heap Sort.
-B. Bubble Sort.
-C. Quick Sort.
-D. Merge Sort.

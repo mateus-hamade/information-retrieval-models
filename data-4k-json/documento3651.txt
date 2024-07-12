@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados , Pilhas
-
-Texto associado Uma pilha pode ser considerada uma lista à qual foram impostas restrições quanto à forma de manipulação dos dados nela armazenados.
-
-Alternativas:
-A. Certo
-B. Errado

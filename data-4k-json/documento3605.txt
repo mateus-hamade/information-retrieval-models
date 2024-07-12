@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Vetores
-
-Texto associado O uso de vetores deve ser evitado em situações em que um conjunto de dados do mesmo tipo precisa ser armazenado em uma mesma estrutura.
-
-Alternativas:
-A. Certo
-B. Errado

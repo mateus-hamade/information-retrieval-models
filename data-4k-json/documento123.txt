@@ -1,9 +1,0 @@
-Banco de Dados Banco de Dados Relacionais
-
-Considere:  CCE = coluna de chave estrangeira CCTP = coluna de chave da tabela pai ICE = instância de chave estrangeira ICTP = instância de chave da tabela pai  A integridade referencial exige que: 
-
-Alternativas:
-A. qualquer ICTP seja associada a qualquer ICE.
-B. qualquer CCE de uma tabela seja igual a qualquer CCTP.
-C. pelo menos uma ICE de uma tabela seja igual a todos os valores de uma CCTP.
-D. cada ICE de uma tabela tenha uma ICTP associada a essa ICE.

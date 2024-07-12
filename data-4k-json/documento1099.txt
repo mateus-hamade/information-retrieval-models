@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Fluxogramas
-
-Analise a imagem e responda.                     O símbolo acima, em um fluxograma, é utilizado para:  
-
-Alternativas:
-A. Decisão
-B. Fim
-C. Instrução
-D. Entrada

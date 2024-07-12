@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Recursividade
-
-Observe a figura abaixo que ilustra um algoritmo que usa uma função recursiva:   Após a execução, os valores para as variáveis XY, RP e NR são respectivamente:  
-
-Alternativas:
-A. 5, 30 e 1
-B. 5, 60 e 0
-C. 12, 30 e 0
-D. 12, 60 e 1

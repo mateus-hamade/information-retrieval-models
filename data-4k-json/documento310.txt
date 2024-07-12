@@ -1,9 +1,0 @@
-Banco de Dados Data Mining
-
-Mineração de dados (Data Mining) pode ser definido como o processo de analisar bases de dados de grande porte, a fim de descobrir informações por meio de consultas. Tendo em vista as fases do processo de KDD (Knowlegde Discovery in Databases, descoberta de conhecimento nos bancos de dados) utilizado em Data Mining, marque V para as afirmativas verdadeiras e F para as falsas. ( ) Mineração de dados: fase responsável pela escolha dos algoritmos a serem aplicados para a descoberta de informações. Essa escolha depende fundamentalmente dos objetivos do processo de KDD. ( ) Preparação dos dados: nessa fase, os dados necessários para a solução de um problema são selecionados na base de dados. Essa etapa inicia-se a partir do agrupamento organizado de uma grande quantidade de dados de uma ou mais bases de dados, selecionando somente aqueles que são relevantes. ( ) Limpeza dos dados: essa fase consome grande parte do esforço necessário para todo o processo devido à dificuldade de integrar bases de dados heterogêneas. ( ) Interpretação: ao final do processo, o sistema de mineração de dados gera um relatório das descobertas, que passa então a ser interpretado por analistas de mineração. Somente após essa interpretação obtém-se o conhecimento. A sequência está correta em
-
-Alternativas:
-A. V, V, V, V.
-B. V, F, V, F.
-C. F, V, F, V.
-D. F, F, F, F.

@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Dados , Hashing
-
-Considere as assertivas abaixo sobre criptografia e funções do tipo hash:  I. O MD5 não é propriamente um modelo criptográfico, existindo limitações até mesmo de segurança. Seu hash é constituído por uma estrutura hexadecimal de 32 caracteres. II. O AES (Advanced Encryption Standard) é um algoritmo de criptografia, porém é unidirecional, não permitindo a descriptografia. III. O RSA (Rivest-Shamir-Adleman) é um algoritmo de criptografia assimétrica bidirecional.  Conforme as assertivas, responda a alternativa verdadeira:
-
-Alternativas:
-A. Somente I está correta
-B. Somente II está correta
-C. Somente I e III estão corretas
-D. Somente I e II estão corretas

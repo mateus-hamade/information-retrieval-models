@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-Julgue o item seguinte, relativo a algoritmos, a estruturas de dados e objetos, à programação orientada a objetos e à arquitetura MVC. Nos algoritmos, as variáveis são, notadamente, utilizadas para representar valores previamente conhecidos. 
-
-Alternativas:
-A. Certo
-B. Errado

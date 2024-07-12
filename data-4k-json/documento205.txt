@@ -1,9 +1,0 @@
-Banco de Dados Banco de Dados
-
-Texto associado Foi solicitado um relatório pelo gerente da área de tecnologia com a seguinte situação: na tabela ContasPagar precisa ser extraído o maior valor do resultado da tabela com a situação de efetuado concluída. Desse modo, após analisar a query:    SELECT MAX(Valor) AS Valor FROM ContasPagar WHERE Efetuado = 1 ORDER BY 1 DESC    Assinale a alternativa que apresenta o valor que será informado.
-
-Alternativas:
-A. 54909,09
-B. 65,00
-C. 3499,99
-D. 4909,90

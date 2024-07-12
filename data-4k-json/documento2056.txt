@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
-
-Dentro dos conceitos básicos de programação, temos especificamente as Estruturas de Iteração ou Repetição. Quanto à estrutura desse tipo, assinale a alternativa incorreta.
-
-Alternativas:
-A. para
-B. goto
-C. repita-até
-D. enquanto

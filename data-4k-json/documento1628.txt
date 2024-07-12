@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
-
-Quanto aos tipos de dados e de estruturas de controle de fluxo usados nas linguagens de programação, julgue o item.     Para representar uma estrutura de seleção de múltipla escolha, conhecida também como estrutura de seleção heterogênea, utilizam-se as instruções if(se) e case (caso).  
-
-Alternativas:
-A. Certo
-B. Errado

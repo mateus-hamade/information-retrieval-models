@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
-
-A respeito dos métodos de acesso a arquivos e das estruturas de dados conhecidas como árvores, julgue o item. Nas árvores, os nós que estão nos níveis mais baixos da hierarquia são chamados de folhas.  
-
-Alternativas:
-A. Certo
-B. Errado

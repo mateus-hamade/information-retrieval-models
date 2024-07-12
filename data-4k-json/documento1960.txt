@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Hashing
-
-Quanto a estruturas de dados e algoritmos básicos, julgue o item seguinte. A ocorrência de colisões de hashing em um sistema de armazenamento de dados por tabelas hashing encadeadas indica a saturação desse sistema de armazenamento.
-
-Alternativas:
-A. Certo
-B. Errado

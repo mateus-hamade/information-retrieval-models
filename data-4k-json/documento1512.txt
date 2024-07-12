@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-A respeito dos conceitos de função e avaliação de expressões, julgue o item subsequente.      Considere-se o algoritmo a seguir.  y = 0;  para i=1 até i<10                 y = y+i  escreva (y)     O algoritmo escreverá, em tela, o número 10.  
-
-Alternativas:
-A. Certo
-B. Errado

@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Vetores
-
-Texto associado Uma posição específica de um vetor pode ser acessada diretamente por meio de seu índice.
-
-Alternativas:
-A. Certo
-B. Errado

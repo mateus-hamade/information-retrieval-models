@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
-
-Indique o percurso dos nós em ordem simétrica da árvore binária abaixo:       
-
-Alternativas:
-A. 49 - 28 - 18 - 11 - 19 - 40 - 32 - 44 - 83 - 72 - 69 - 72 - 97 - 95 - 99
-B. 11 - 19 - 32 - 44 - 69 - 72 - 95 - 99
-C. 11 - 18 - 19 - 28 - 32 - 40 - 44 - 49 - 69 - 71 - 72 - 83 - 95 - 97 - 99
-D. 11 - 19 - 18 - 32 - 44 - 40 - 28 - 69 - 72 - 71 - 95 - 99 - 97 - 83 - 49

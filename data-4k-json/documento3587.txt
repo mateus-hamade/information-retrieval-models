@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
-
-Texto associado A estrutura de dados heap, que é eficiente para a implementação do método de ordenação heapsort, consiste em uma árvore binária completa e sua implementação mais simples ocorre na forma de array. 
-
-Alternativas:
-A. Certo
-B. Errado

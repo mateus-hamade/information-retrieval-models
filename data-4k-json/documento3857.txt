@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Listas
-
-Questão anulada Veja o trecho que segue: Void addFirst(int v) { First = new ListNode(v, first); Size++; } Este trecho de código é utilizado em estrutura de dados com a finalidade de inserir um elemento em
-
-Alternativas:
-A. uma pilha.
-B. um grafo.
-C. uma lista.
-D. uma fila.

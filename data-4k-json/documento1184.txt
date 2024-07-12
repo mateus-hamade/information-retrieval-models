@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
-
-Sobre Estruturas de Repetição, analise as afirmativas abaixo e dê valores Verdadeiro (V) ou Falso (F).  ( ) Em linguagens de programação, não é possível aninhar estruturas de repetição, ou seja, ter uma dentro da outra. ( ) A estrutura de repetição foreach é utilizada somente para iterações em que a ordem dos elementos não é importante. ( ) A utilização excessiva de instruções break e continue em estruturas de repetição é geralmente considerada uma boa prática de programação.  Assinale a alternativa que apresenta a sequência correta de cima para baixo. 
-
-Alternativas:
-A. F - F - F
-B. F - V - F
-C. V - F - V
-D. V - V - V

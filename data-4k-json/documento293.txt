@@ -1,9 +1,0 @@
-Banco de Dados Big Data
-
-Graças ao avanço tecnológico, a capacidade de armazenamento e produção de dados digitais cresceu de forma exponencial, alcançado níveis que superam significativamente as expectativas da sociedade de alguns anos atrás. Esses conjuntos de dados,  que por sua grandeza e complexidade demandam nova técnicas e tecnologias para o seu processamento, são conhecidos como  Big Data.  Sobre as características do Big Data, analise os itens a seguir. I. Veracidade. II. Valor. III. Validade.  Está correto o que se afirma em 
-
-Alternativas:
-A. I, apenas.
-B. I e II, apenas.
-C. II e III, apenas.
-D. I, II e III.

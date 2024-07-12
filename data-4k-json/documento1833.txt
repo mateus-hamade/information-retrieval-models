@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição , Fluxogramas
-
-Acerca de gestão da qualidade e suas ferramentas de análise e melhoria de processos, julgue o item a seguir.      Organograma é o mesmo que fluxograma e pode ser definido como um tipo de diagrama que representa a estrutura funcional de uma organização.   
-
-Alternativas:
-A. Certo
-B. Errado

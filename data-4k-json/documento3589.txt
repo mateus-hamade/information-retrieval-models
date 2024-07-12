@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
-
-Texto associado Em uma pilha implementada na CPU, se a disposição dos bytes seguir a forma little endian, o endereço de memória do topo da pilha apontará para o endereço do byte mais significativo do último valor empilhado. Se a disposição dos bytes seguir a forma big endian, o topo da pilha será o endereço do byte menos significativo do último valor empilhado.  
-
-Alternativas:
-A. Certo
-B. Errado

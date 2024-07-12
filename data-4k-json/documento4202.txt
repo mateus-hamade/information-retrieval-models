@@ -1,9 +1,0 @@
-Segurança da Informação Conceitos Básicos em Segurança da Informação , Criptografia , Controles de segurança
-
-Em relação à segurança da informação, analise as afirmativas a seguir.   I. Utilização de câmeras de vigilância e controle de acesso biométrico são medidas típicas de segurança física. II. Criptografia de dados e implementação de firewalls são medidas típicas de segurança lógica. III. Proteção contra incêndio é uma medida de segurança física. IV. Acesso físico e lógico através de cartões (crachás) e permissão, por meio desse cartão, de ingresso seguro à rede de Windows, bloqueio de PC, acesso remoto seguro (VPN) e e-mail seguro com assinatura digital são consideradas convergência física e lógica.  Está correto o que se afirma em
-
-Alternativas:
-A. I, II, III e IV.
-B. I, II e III, apenas.
-C. I, III e IV, apenas.
-D. II, III e IV, apenas.

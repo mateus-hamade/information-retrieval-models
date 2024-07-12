@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
-
-Método de acesso diz respeito à forma como o conteúdo de um arquivo é acessado. O método de acesso mais simples é o:
-
-Alternativas:
-A. indexado.
-B. sequencial.
-C. linear.
-D. matricial.

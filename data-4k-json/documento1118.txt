@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos
-
-Para reduzir a dimensionalidade de um conjunto de dados bidimensionais, foi executado o algoritmo PCA (do inglês, Principal Component Analysis). Se o PCA produzir como resultado dois autovalores de mesmo valor, significa que
-
-Alternativas:
-A. as dimensões dos dados não são igualmente importantes e o uso do PCA produziu um excelente resultado, pois as dimensões possuem 100% da informação.
-B. as dimensões dos dados são igualmente importantes e o uso do PCA produziu um resultado ruim, pois as dimensões possuem 50% da informação.
-C. as dimensões dos dados são igualmente importantes e o uso do PCA produziu um resultado ruim, pois perdeu-se 100% da informação.
-D. as dimensões dos dados não são igualmente importantes e o uso do PCA produziu um excelente resultado, pois as dimensões possuem 50% da informação.

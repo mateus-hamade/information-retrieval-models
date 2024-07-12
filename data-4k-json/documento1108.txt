@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos
-
-O LDA (do inglês, Latent Dirichlet Allocation) é um modelo de aprendizado não supervisionado e estatístico utilizado no Processamento de Linguagem Natural (PLN). No processo de treinamento, o modelo LDA gera tópicos, sendo que cada tópico incorpora uma quantidade de palavras. Sob a mesma lógica, o resultado da aplicação do LDA sobre um conjunto de documentos textuais pode ser resumido como:
-
-Alternativas:
-A. uma lista de tópicos, sendo cada um composto pelas palavras mais relevantes do conjunto de documentos, em termos de frequência de ocorrência.
-B. um tópico por documento, sendo cada tópico formado pelas palavras mais frequentes do documento.
-C. uma distribuição de probabilidade para cada documento, que indica o pertencimento do mesmo a algum dos tópicos, sendo cada tópico é formado por uma lista de palavras.
-D. uma distribuição de probabilidade para cada documento, que indica a pertinência do mesmo a algum dos tópicos e onde cada tópico é formado por uma distribuição de probabilidade das palavras presentes nos documentos.

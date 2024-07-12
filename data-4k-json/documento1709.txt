@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
-
-No caso de uma lista já ordenada em ordem crescente, qual o único algoritmo de ordenação das opções a seguir que não vai realizar movimentações mas em compensação é o que tem o maior tempo e o maior número de comparações? 
-
-Alternativas:
-A. Bubble Sort.
-B. Merge Sort.
-C. Quick Sort.
-D. Insertion Sort.

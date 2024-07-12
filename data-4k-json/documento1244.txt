@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Hashing
-
-Determinado profissional deseja criar um sistema para armazenar informações de contato com base no número de telefone. A chave seria o número de telefone e o valor o nome da pessoa. Ao tentar encontrar o nome de alguém, existe uma função que mapeia o número de telefone para a posição na tabela onde o nome está armazenado. Podemos afirmar que uma tabela hash (hash table) em estruturas de dados e algoritmos se trata de
-
-Alternativas:
-A. técnica para armazenar valores únicos em uma lista.
-B. estrutura de dados que organiza os dados em uma árvore binária.
-C. tabela que permite a pesquisa de dados usando índices numéricos.
-D. estrutura de dados que armazena pares chave-valor e permite pesquisa eficiente com base na chave, empregando uma função de hash.

@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-No que se refere aos conceitos de avaliação das expressões, julgue o item seguinte.     Considerando-se que a operação x << y desloque os bits da variável x y vezes para a esquerda e que a operação x >> y desloque-os y vezes para a direita bem como assumindo-se que p seja uma variável alocada em um espaço de 2 bytes em memória e, por fim, assumindo-se, ainda,     p = (5<<1) + (4>>2)  escreva(p),     é correto afirmar que o algoritmo escreverá em tela o número 11.  
-
-Alternativas:
-A. Certo
-B. Errado

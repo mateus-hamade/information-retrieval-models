@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-Considere o algoritmo em pseudocódigo a seguir:           Assinale a alternativa que apresenta CORRETAMENTE os valores impressos pelo algoritmo:  
-
-Alternativas:
-A. 95, 276, 8.
-B. 95, 189, 8.
-C. 80, 189, 7.
-D. 110, 276, 6.

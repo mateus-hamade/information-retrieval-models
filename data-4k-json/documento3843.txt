@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação , Estrutura de Dados ( assuntos)
-
-Questão anulada  Considere a figura a seguir representando um vetor e os passos de um método de ordenação interna.           Analise as afirmativas referentes ao método de ordenação interna utilizado para ordenar o vetor:  I – O método apresentado é baseado no princípio da distribuição.  II – O método apresentado requer O(n2) comparações.  III – O método apresentado é um exemplo de ordenação por seleção.     Estão CORRETAS as afirmativas:  
-
-Alternativas:
-A. I e II, apenas.
-B. I e III, apenas.
-C. II e III, apenas.
-D. I, II e III.

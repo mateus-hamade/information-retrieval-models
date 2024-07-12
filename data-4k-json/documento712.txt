@@ -1,9 +1,0 @@
-Banco de Dados SQL
-
-São as principais características dos bancos de dados Not Only SQL (NoSQL): 
-
-Alternativas:
-A. altamente escaláveis e flexíveis.
-B. seguem o modelo relacional rigidamente e estabelecem vinculações entre as informações.
-C. utilizam o modelo de colunas e linhas.
-D. adequados para dados estruturados e não estruturados.

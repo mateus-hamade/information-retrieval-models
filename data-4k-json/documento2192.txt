@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Fluxogramas
-
-A respeito de análise e desenvolvimento de sistemas, julgue o item subsequente.  Em um fluxograma, as caixas de decisão são como “caixas pretas”, uma vez que não se tem clareza da ação que será executada.  
-
-Alternativas:
-A. Certo
-B. Errado

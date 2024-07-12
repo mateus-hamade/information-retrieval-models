@@ -1,9 +1,0 @@
-Banco de Dados Data Mining
-
-Como é conhecido o padrão de data mining em que o sistema irá aprender com alguns exemplos antes de partir para uma efetiva identificação de tipos de dados que sejam desconhecidos a partir dos exemplos apresentados? 
-
-Alternativas:
-A. Treinamento a posteriori
-B. Treinamento dedutivo
-C. Treinamento online
-D. Treinamento supervisionado

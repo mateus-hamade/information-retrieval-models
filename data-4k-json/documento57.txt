@@ -1,9 +1,0 @@
-Banco de Dados SQL
-
-A linguagem SQL permite diversas operações sob um conjunto de dados de uma ou mais tabelas. Além dos comandos, cláusulas poderão ser utilizadas para filtrar, agrupar ou ordenar os dados recuperados. Qual a cláusula SQL responsável para filtrar registros em uma consulta implementada sobre uma tabela? 
-
-Alternativas:
-A. FILTER.
-B. WHERE
-C. GROUP BY.
-D. SELECT.

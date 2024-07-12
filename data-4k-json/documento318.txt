@@ -1,9 +1,0 @@
-Banco de Dados Álgebra relacional
-
-Sobre as principais características da notação pós-fixa (notação polonesa) na avaliação de expressões matemáticas, analise as afirmativas a seguir. I. É direta e não requer o uso de parênteses para indicar a ordem das operações. II. Coloca os operadores após os operandos. III. É uma notação obsoleta que não é mais usada em programação. IV. É usada apenas para expressões lógicas, não para expressões matemáticas. Está correto o que se afirma em
-
-Alternativas:
-A. I, II, III e IV.
-B. I e II, apenas.
-C. II e III, apenas.
-D. III e IV, apenas.

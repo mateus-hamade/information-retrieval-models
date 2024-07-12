@@ -1,9 +1,0 @@
-Engenharia de Software Processos de Software - Desenvolvimento Ágil , Scrum
-
-No desenvolvimento de software por metodologias ágeis têm sido empregadas métricas ágeis para acompanhamento de projetos Scrum. Elas têm sido aplicadas para avaliar se os requisitos de qualidade e as necessidades dos clientes foram atendidos.  Quanto ao emprego de métricas ágeis baseadas em Scrum, assinale a afirmativa correta.  
-
-Alternativas:
-A. As métricas ágeis são baseadas na análise de funcionalidades.
-B. Permitem o acompanhamento individual e em tempo real de equipe, software e projeto.
-C. Elas se concentram no sucesso do projeto e no tamanho funcional do software a partir da visão do gestor.
-D. Medem diretamente a produtividade por meio de linhas de código, mas possuem limitações em mensurar esforços da equipe.

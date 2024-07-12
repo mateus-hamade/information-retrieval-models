@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos
-
-estrutura S  S.topo=0  estrutura-vazia(S){       se (S.topo=0)              retorna Verdadeiro;       fim se  }  EMPURRA (S,x){        S.topo = S.topo+1;        S[S.topo] = x;  }  PUXA (S)         se (Stack-Empty(S))                 escreva_erro(“Underflow”);          senao                 S.topo = S.topo-1;                 retorna S[S.topo+1];           fim se     Considerando a estrutura S precedente, inicialmente vazia e armazenada no arranjo S[1 ... 6], julgue o próximo item, a respeito de construção de algoritmos e estrutura de dados.      O resultado final das operações na sequência EMPURRA(S, 4), EMPURRA (S, 1), EMPURRA (S, 3), PUXA(S), EMPURRA (S, 8) e PUXA (S) é S[4,1,3,8].  
-
-Alternativas:
-A. Certo
-B. Errado

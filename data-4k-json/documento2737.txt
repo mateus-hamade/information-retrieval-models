@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-No que concerne aos aspectos de linguagens de programação, algoritmos, estrutura de dados e case, julgue o item subsequente.  Considerando que o algoritmo seguinte possui um arranjo A que armazena n > 3 elementos, é correto afirmar que a saída (s) será a soma dos elementos das células ímpares de A.  A[0] = 0;  para i = 2 até n-1 em incrementos de 3 faça  s = s + A [i]  retorna s 
-
-Alternativas:
-A. Certo
-B. Errado

@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-Julgue o item subsequente, relativo à lógica de programação.     O pseudocódigo a seguir, após executado, apresentará como resultado 2.370.  inteiro contador = 1;  inteiro exp = 1;  real y = 0;  real aux = 1;  real n = 1;     faça {       y = (1 + (1 / n));            enquanto (exp <= contador) {      aux = y * aux;      exp++;      }      exp = 1;      escreva(aux);           contador++;      aux = 1;      n++;   } enquanto (contador <= 2);  
-
-Alternativas:
-A. Certo
-B. Errado

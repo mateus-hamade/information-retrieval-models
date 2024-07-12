@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Busca
-
-Texto associado A pesquisa sequencial é aplicável em estruturas não ordenadas.
-
-Alternativas:
-A. Certo
-B. Errado

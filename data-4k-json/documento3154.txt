@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
-
-Texto associado Denomina-se caminhamento em árvores o ato de percorrer todos os nós da árvore com o objetivo de consultar ou alterar a informação nele contida. O caminhamento pós-fixado na árvore representada abaixo produz a sequência G, B, C, E, F, D, A.   
-
-Alternativas:
-A. Certo
-B. Errado

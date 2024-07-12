@@ -1,9 +1,0 @@
-Banco de Dados SGBD - Sistema de Gerenciamento de Banco de Dados
-
-O estilo arquitetural que organiza sistemas de software como coleções de serviços interconectados, promovendo a reutilização de funcionalidades e facilitando a integração entre sistemas heterogêneos é o 
-
-Alternativas:
-A. SOA.
-B. REST
-C. RPC.
-D. SOAP.

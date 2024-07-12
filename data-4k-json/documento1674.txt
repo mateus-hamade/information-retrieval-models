@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Tipos de Dados
-
-Com relação a tipos abstratos de dados, julgue o próximo item.     No trecho de código abaixo, o valor final da variável op é 4.  inteiro op=8  op = 5  op = 4  
-
-Alternativas:
-A. Certo
-B. Errado

@@ -1,9 +1,0 @@
-Banco de Dados Gerência de Transações
-
-O controle de transações em banco de dados é fundamental para manter a integridade das informações armazenadas. Qual o tipo de problema pode ocorrer quando duas transações que acessem os mesmos itens em um banco de dados tiverem suas operações intercaladas de forma que tornem os valores dos itens incorretos?
-
-Alternativas:
-A. O problema da atualização perdida
-B. O problema da atualização temporária (Dirty read)
-C. O problema do sumário incorreto
-D. O problema da leitura indevida

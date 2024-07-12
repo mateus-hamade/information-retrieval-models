@@ -1,9 +1,0 @@
-Banco de Dados Domínio de dados , SQL
-
-Dentro da temática Manipulação de dados em SQL, considere o texto a seguir e responda precisamente a qual condição estamos lidando – “…são uma espécie de configuração padrão de atributos que podem ser utilizados diversas vezes na definição de campos das tabelas de dados.” Diante do exposto, assinale a alternativa correta.
-
-Alternativas:
-A. DDLi
-B. DMLi
-C. Domínio
-D. View

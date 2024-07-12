@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Busca
-
-Julgue o item a seguir, a respeito de elasticsearch e grafos.      O elasticsearch utiliza, por padrão, o algoritmo de pontuação BM25.     
-
-Alternativas:
-A. Certo
-B. Errado

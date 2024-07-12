@@ -1,9 +1,0 @@
-Segurança da Informação Segurança de sistemas de informação , Segurança na Internet
-
-Considere o impacto significativo que a Open Web Application Security Project(OWASP) teve no campo da segurança de aplicações WEB. Dentre as seguintes alternativas, qual melhor descreve o papel central da Metodologia OWASP no cenário da segurança de aplicações WEB? 
-
-Alternativas:
-A. Desenvolver aplicações web que são resistentes a ameaças cibernéticas.
-B. Promover e propagar as melhores práticas de segurança para aplicações WEB.
-C. Oferecer serviços avançados de hospedagem, focados em ambientes altamente seguros.
-D. Estabelecer diretrizes específicas para codificação em diversas linguagens de programação.

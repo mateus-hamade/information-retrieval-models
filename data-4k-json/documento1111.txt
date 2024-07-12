@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos
-
-A multicolinearidade ocorre quando duas ou mais variáveis independentes encontram-se altamente correlacionadas, causando instabilidade na estimação dos parâmetros e pode comprometer a interpretação dos modelos de regressão. Uma técnica alternativa para lidar com a multicolinearidade é a
-
-Alternativas:
-A. análise de componentes principais.
-B. regressão logística.
-C. análise multivariada.
-D. função não linear.

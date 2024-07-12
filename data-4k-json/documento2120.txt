@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Filas , Listas ( assuntos)
-
-Considere as seguintes estruturas de dados com as propriedades definidas a seguir:     I - Inserção e remoção de elementos acontecem apenas na “cabeça” da estrutura.  II - Inserção de um nó no meio da estrutura pode ser realizada com custo computacional constante.  III - Respeito à política FIFO: o primeiro elemento que entra é o primeiro a sair.     As descrições acima se referem às seguintes estruturas, respectivamente, 
-
-Alternativas:
-A. pilha, lista, fila.
-B. fila, pilha, lista.
-C. lista, pilha, fila.
-D. pilha, fila, lista.

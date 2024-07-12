@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Filas , Listas ( assuntos)
-
-Sobre tipos de estruturas de dados, assinale a alternativa correta.
-
-Alternativas:
-A. Estruturas Lineares: Pilhas, Filas e Listas
-B. Estruturas Lineares: Grafos, Árvores e Listas
-C. Estruturas Lineares: Pilhas, Filas e Árvores
-D. Estruturas Lineares: Grafos, Filas e Listas

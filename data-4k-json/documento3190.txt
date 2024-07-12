@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Grafos
-
-Texto associado Com referência a tipos básicos de estrutura de dados, julgue os itens subsequentes.   Considere que o grafo não orientado representado na figura acima possua as seguintes características:Nesse caso, é correto afirmar que o grafo G1 possui quatro vértices, nomeados de A, B, C e D, e cinco arcos, que conectam pares de vértices, conforme especificado em A1.
-
-Alternativas:
-A. Certo
-B. Errado

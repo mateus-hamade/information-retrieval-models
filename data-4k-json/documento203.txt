@@ -1,9 +1,0 @@
-Banco de Dados SQL Server
-
-Assinale a alternativa que apresenta o que ocorre quando efetuado um DROP DATABASE.
-
-Alternativas:
-A. Deleta apenas um registro na tabela.
-B. Apaga todo o schema e dados do SQL Server.
-C. Cria um tipo no schema de types do SQL Server.
-D. Efetua um Select.

@@ -1,9 +1,0 @@
-Banco de Dados Banco de Dados Relacionais
-
-Restrições de integridade são utilizadas para garantir a exatidão e a consistência dos dados em um banco de dados relacional, ou seja, garantir que dados representem assertivamente a realidade modelada. No âmbito das restrições de integridade de entidade, a definição válida é:
-
-Alternativas:
-A. atributo dentro de uma tupla deve ser um valor indivisível do domínio dom(Y).
-B. chave primária não pode ser NULL, pois é utilizada para identificar tuplas.
-C. tupla em uma relação que referencia outra deve se referir a uma tupla existente nessa relação.
-D. atributo que possua um tipo e um domínio estabelecidos, mas não seja obrigatório, deve utilizar o NULL.

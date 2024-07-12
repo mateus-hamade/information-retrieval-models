@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
-
-No que se refere à lógica de programação, julgue o item a seguir. O método de pesquisa binária de cálculo de endereço é empregado tanto para a pesquisa quanto para a organização física de tabelas.  
-
-Alternativas:
-A. Certo
-B. Errado

@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
-
-        Um sistema de controle distribui os processos para os juízes de um tribunal utilizando critérios de prioridade associados a cada processo, de modo que novos processos podem ser analisados pelos juízes enquanto outros aguardam análise.  Considerando essas informações, julgue os itens a seguir, acerca dos tipos básicos de estruturas de dados e de operações sobre estruturas de dados.  Caso a implementação da fila de prioridades dos processos em questão seja realizada por meio de min-heap, e a distribuição dos processos seja efetuada selecionando-se e removendo-se o processo que se encontra na raiz, é correto afirmar que o processo selecionado será o de maior prioridade.
-
-Alternativas:
-A. Certo
-B. Errado

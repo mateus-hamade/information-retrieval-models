@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação , Estrutura de Dados ( assuntos)
-
-Qual é o método de ordenação que percorre a lista de elementos, comparando os adjacentes (pares consecutivos) e trocando-os de posição, caso não estejam em ordem?
-
-Alternativas:
-A. Bolha.
-B. Seleção.
-C. Inserção.
-D. Hash.

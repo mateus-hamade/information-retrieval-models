@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Estrutura de Controle e Repetição
-
-Texto associado  Tendo como referência o algoritmo precedente, julgue o próximo item.     As declarações e a instrução na linha 7 do algoritmo em questão não contribuem para a contagem total de unidades de tempo.  
-
-Alternativas:
-A. Certo
-B. Errado

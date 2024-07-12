@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Filas , Pilhas
-
-Assinale a alternativa que apresenta a relação entre as duas estruturas de dados da coluna da esquerda com as respectivas características técnicas da coluna da direita.      (1) PILHA  (2) FILA      (A) O elemento inserido por primeiro é o primeiro elemento a sair da lista.  (B) O elemento inserido por último é o primeiro elemento a sair da lista.  (C) Precisa-se de apenas um ponteiro para acessar a lista.  (D) Precisa-se de dois ponteiros para acessar a lista.     Assinale a alternativa correta.  
-
-Alternativas:
-A. 1BC - 2AD
-B. 1AD - 2BC
-C. 1BD - 2AC
-D. 1AC - 2BD

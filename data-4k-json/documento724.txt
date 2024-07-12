@@ -1,9 +1,0 @@
-Banco de Dados Banco de Dados
-
-Texto associado Considere a tabela a seguir, não necessariamente normalizada, referente à base de dados, que lista para cada pesquisador todos os artigos em periódicos publicados:  Tabela (CodPesq, NomePesq,                (CodArt, TituloArt, PaginaInicial, PaginaFinal, CodPer, TituloPeriodico, Editora))     Considerando o processo de normalização da tabela, marque V para as afirmativas verdadeiras e F para as falsas.   ( ) A normalização irá gerar quatro tabelas até a 3ª Forma Normal. ( ) A normalização da tabela anterior não possui processo de normalização da 3ª Forma Normal, pois não tem dependência funcional parcial; sendo, assim, 3FN = 2FN. ( ) A normalização irá gerar três tabelas até a 3ª Forma Normal. ( ) Uma das tabelas geradas na normalização foi criada pela eliminação da dependência funcional transitiva.  A sequência está correta em   
-
-Alternativas:
-A. V, F, F, V.
-B. F, F, V, V.
-C. V, V, F, F.
-D. F, V, V, F.

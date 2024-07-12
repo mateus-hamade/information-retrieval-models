@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-Ao analisarmos o algoritmo genérico abaixo, em Portugol, chega-se a conclusão que a variável Z, ao final do algoritmo, terá o valor de: algoritmo     declare X, Y, Z numérico   fim algoritmo
-
-Alternativas:
-A. 4
-B. 5
-C. 1
-D. 8

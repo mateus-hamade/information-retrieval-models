@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
-
-Tipo Abstrato de Dado (TAD) é uma especificação de um conjunto de dados e operações que podem ser executadas sobre esses dados. Uma fila de prioridades é um tipo abstrato de dado que permite executar, entre outras, as seguintes operações sobre um conjunto: - inserção: inserir um novo número em um conjunto; - seleção: encontrar um elemento máximo (ou mínimo) de um conjunto; - remoção: extrair um elemento máximo (ou mínimo) de conjunto. Uma maneira eficiente de implementar uma fila de prioridades, obtendo tempo proporcional a O(1) na seleção e O(log2 n) na inserção e remoção é através da TAD 
-
-Alternativas:
-A. HEAP
-B. PILHA
-C. DEQUE
-D. FILA

@@ -1,9 +1,0 @@
-Banco de Dados SQL
-
-Questão 41 SQL é uma linguagem declarativa baseada em álgebra e cálculo relacional, que permite a manipulação de dados com suporte a estrutura de dados, regras e restrições de integridade. Para que o SQL forneça tantos recursos, seus comandos são divididos em grupos. Considerando os grupos dos comandos SQL, relacione adequadamente as colunas a seguir. 1. DDL. 2. DML. 3. DCL. 4. DTL. 5. DQL. ( ) Permite a manipulação dos dados, ou seja, inclusão, alteração e exclusão de dados. ( ) Oferece comandos para trabalhar com transações. ( ) Proporciona consulta de dados. ( ) Permite determinar o esquema do banco de dados, bem como alterá-lo, exclui-lo e trabalhar com os metadados. ( ) Permite controlar a licença e a autorização de acesso dos usuários para com os dados. A sequência está correta em 
-
-Alternativas:
-A. 1, 2, 4, 3, 5.
-B. 2, 4, 5, 1, 3.
-C. 3, 5, 1, 4, 2.
-D. 5, 1, 3, 2, 4.

@@ -1,9 +1,0 @@
-Banco de Dados Backup em Banco de Dados , Segurança
-
-Para promover a disponibilidade dos sistemas, é fundamental manter os dados em segurança, utilizando métodos e técnicas já consolidadas no mercado. Qual tipo de RAID permite o espelhamento dos dados entre diversos dispositivos de armazenamento?  
-
-Alternativas:
-A. RAID 0.
-B. RAID 1.
-C. RAID 2.
-D. RAID 3.

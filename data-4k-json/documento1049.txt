@@ -1,9 +1,0 @@
-Banco de Dados SQL
-
-O operador LIKE é utilizado para buscar por uma determinada string dentro de um campo com valores textuais. Esse operador permite fazer comparações de partes de uma determinada string. Analise a consulta com operador LIKE a seguir e assinale a alternativa que completa a lacuna para selecionar o nome dos professores que terminam com ‘Silva’. SELECT nome_professor FROM professor WHERE nome_professor LIKE '__Silva'; 
-
-Alternativas:
-A. %
-B. &
-C. $
-D. _

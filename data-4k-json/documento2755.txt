@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Hashing
-
-No que se refere à organização de arquivos e métodos de acesso a bancos de dados, julgue o próximo item.  O acesso direto a registros será eficiente ao se usar funções hash, visto que essas funções garantem uma relação unívoca entre o registro e a sua localização física.  
-
-Alternativas:
-A. Certo
-B. Errado

@@ -1,9 +1,0 @@
-Programação Frameworks em Programação
-
-Determinado usuário utilizou o seu computador pessoal com um browser de sua preferência, para realizar login no site de uma instituição financeira que ele utiliza. Após realizar corretamente a autenticação com o seu usuário/senha, ele recebeu um e-mail em nome dessa mesma instituição que possuía um link para acesso à conta; sem desconfiar da procedência da mensagem, o usuário clicou no link e prosseguiu com o preenchimento dos dados para uma transferência bancária. O sistema da instituição financeira em questão não apresentava um mecanismo eficiente de proteção para a utilização de cookies e, com isso, um hacker explorou essa vulnerabilidade capturando o cookie original da autenticação que foi realizada, para promover um ataque conhecido como Cross-Site Request Forgery (CSRF), forjando uma requisição cross-site de um site para o outro. Sobre o ataque sofrido pelo usuário, assinale a afirmativa INCORRETA. 
-
-Alternativas:
-A. Alguns Frameworks como Joomla, Spring, Struts, Ruby on Rails e .NET possuem suporte CSRF integrado.
-B. As transações realizadas em várias etapas e a utilização de HTPS são consideradas medidas de prevenção efetivas.
-C. A construção de URL ou script de exploração aliada às práticas de engenharia social são consideradas estratégias para promover o ataque.
-D. A proteção com tokens CSRF às solicitações de mudança de estado e a validação dessas no backend são consideradas formas de prevenção.

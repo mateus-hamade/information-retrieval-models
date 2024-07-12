@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Vetores
-
-Um array contém os 64 primeiros números primos (2, 3, 5, ..., 307, 311). Assinale a alternativa que indica corretamente quantos itens do array a busca binária teria que examinar antes de concluir que 51 não está contido no array e, portanto, não é primo.
-
-Alternativas:
-A. 7.
-B. 8.
-C. 19.
-D. 64.

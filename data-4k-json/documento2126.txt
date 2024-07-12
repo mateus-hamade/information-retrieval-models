@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
-
-A altura de um nó em uma árvore binária é a distância entre o nó e o seu descendente mais afastado. A altura de uma árvore binária é a altura da raiz da árvore. Se a árvore possui somente o nó raiz, então sua altura é 0 (zero). Dentre as árvores binárias que possuem sete nós, a maior altura de árvore possível é:
-
-Alternativas:
-A. 5
-B. 6
-C. 7
-D. 8

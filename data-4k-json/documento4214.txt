@@ -1,9 +1,0 @@
-Segurança da Informação Ataques e ameaças , Auditoria de Sistemas , Assinatura Digital
-
-Diante das práticas avançadas empregadas em testes de invasão em aplicativos WEB, qual das seguintes opções representa uma estratégia avançada para contornar sistemas de detecção de intrusões durante um ataque? 
-
-Alternativas:
-A. Utilização de payloads genéricos para evitar detecção por meio de assinaturas.
-B. Foco exclusivo em vulnerabilidades amplamente documentadas, negligenciando possíveis ameaças emergentes.
-C. Implementação de ataques de força bruta para explorar possíveis vulnerabilidades nas camadas de autenticação.
-D. Emprego de técnicas de evasão avançadas, como manipulação de tokens de sessão, com o intuito de evitar a detecção eficiente.

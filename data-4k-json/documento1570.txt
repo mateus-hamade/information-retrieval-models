@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
-
-Julgue o próximo item, a respeito de lógica de programação.        Em um algoritmo, todo resultado de uma operação de entrada de dados é armazenado em uma posição na memória.  
-
-Alternativas:
-A. Certo
-B. Errado

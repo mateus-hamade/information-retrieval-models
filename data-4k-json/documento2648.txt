@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
-
-Julgue o item seguinte, relativos a linguagens de programação.  Utilizando-se linguagens fracamente tipadas, é possível alterar o tipo de dado contido em uma variável durante a execução do programa.  
-
-Alternativas:
-A. Certo
-B. Errado

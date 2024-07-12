@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Vetores
-
-Acerca das estruturas de dados estáticas e homogêneas (vetores e matrizes) e das estruturas de dados dinâmicas (listas, pilhas, filas), utilizadas para armazenar conjuntos de valores, julgue os itens a seguir.  Vetores são utilizados quando estruturas indexadas necessitam de mais que um índice para identificar um de seus elementos.
-
-Alternativas:
-A. Certo
-B. Errado

@@ -1,9 +1,0 @@
-Banco de Dados Arquitetura de Banco de Dados
-
-A arquitetura para sistemas de Banco de Dados, em três esquemas, foi proposta para auxiliar no atendimento de três características fundamentais: o uso de um catálogo para armazenar a descrição do esquema do banco; o isolamento de programas/dados; e, o suporte para múltiplas visões do usuário. Sobre tal arquitetura, assinale a afirmativa INCORRETA. 
-
-Alternativas:
-A. O esquema interno utiliza um modelo de dados físicos e descreve os detalhes completos do armazenamento de dados e caminhos de acesso para o Banco de Dados.
-B. O nível físico tem um esquema interno que descreve a estrutura do armazenamento físico do Banco de Dados, concentrando-se no modelo de dados físicos e no detalhamento do armazenamento de dados.
-C. O nível de visão inclui diversos esquemas externos; cada esquema externo descreve a parte do Banco de Dados em que um grupo de usuários em particular está interessado, ocultando o restante do grupo de usuários.
-D. O nível conceitual tem um esquema conceitual que oculta os detalhes das estruturas de armazenamento físico, concentrando-se na descrição das entidades; tipos de dados; relacionamentos; operações do usuário; e, restrições.

@@ -1,9 +1,0 @@
-Banco de Dados Banco de Dados Multidimensionais
-
-O modelo multidimensional é composto por diversos elementos, por exemplo, dimensões, chaves, medidas e tabelas de fatos. As tabelas de fatos podem ser do tipo
-
-Alternativas:
-A. star e snowflake.
-B. mutivalorate dataset e surrogate.
-C. uncommited dataset, snapshot e dynamic dataset.
-D. transaction, periodic snapshot e accumulating snapshot.

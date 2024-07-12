@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
-
-O acréscimo de um elemento em um heap pode mudar o nó raiz, dependendo do seu valor.  
-
-Alternativas:
-A. Certo
-B. Errado

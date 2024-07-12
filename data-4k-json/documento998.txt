@@ -1,9 +1,0 @@
-Banco de Dados SGBD - Sistema de Gerenciamento de Banco de Dados
-
-Sobre linguagens do sistema gerenciador de Banco de Dados, marque V para as afirmativas verdadeiras e F para as falsas. ( ) Nos SGBDs, que mantêm uma separação clara entre os níveis conceitual e interno, a linguagem de definição de dados é usada para especificar apenas o esquema conceitual. ( ) A linguagem de definição de propriedades é utilizada para especificar o esquema interno. ( ) Em SGBDs não relacionais, a SQL é utilizada pela linguagem de definição de camadas para especificar as camadas no modelo conceitual. ( ) Os SGBDs, através da linguagem de manipulação de dados, proporcionam a realização de operações de recuperação, inserção, exclusão e modificação de dados para os usuários. A sequência está correta em 
-
-Alternativas:
-A. V, V, F, F.
-B. V, F, F, V.
-C. F, V, V, F.
-D. F, F, V, V.

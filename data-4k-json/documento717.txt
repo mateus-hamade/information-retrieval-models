@@ -1,9 +1,0 @@
-Banco de Dados Banco de Dados
-
-Sobre o suporte às múltiplas visões dos dados em um banco de dados, analisar os itens abaixo: I. Uma visão pode ser um subconjunto de um banco de dados ou conter uma visão virtual dos dados, derivados dos arquivos do banco de dados, mas não explicitamente armazenados. II. Todos os usuários têm o conhecimento sobre a origem dos dados aos quais eles se referem, se são dados armazenados ou derivados.
-
-Alternativas:
-A. Os itens I e II estão corretos.
-B. Somente o item I está correto.
-C. Somente o item II está correto.
-D. Os itens I e II estão incorretos.

@@ -1,9 +1,0 @@
-Arquitetura de Computadores Sistemas de numeração
-
-Um analista necessita fazer a conversão de um número inteiro não negativo na base decimal para a base binária.  A representação em binário do número 197 é  
-
-Alternativas:
-A. 101011.
-B. 1110101.
-C. 11000101.
-D. 101000111.

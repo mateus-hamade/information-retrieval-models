@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
-
-Ao desenvolvermos algoritmos que utilizam laços de repetição (loops), devemos sempre levar em consideração a preocupação com a otimização destes laços, uma vez que do ponto de vista de complexidade de algoritmos, laços de repetição tendem a ter um grande consumo de tempo e espaço, sobre a otimização de laços (loops). Diante do exposto, assinale a alternativa correta. 
-
-Alternativas:
-A. A otimização de loops é importante para melhorar o desempenho do código e reduzir o consumo de recursos
-B. A otimização de loops é irrelevante, pois os compiladores modernos otimizarão automaticamente todos os loops
-C. A otimização de loops é irrelevante, uma vez que este conceito não é aderente a complexidade de algoritmos
-D. A otimização de loops é uma prática pouco aplicada, uma vez que isto pode levar a erros de lógica

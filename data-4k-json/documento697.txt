@@ -1,9 +1,0 @@
-Banco de Dados SGBD - Sistema de Gerenciamento de Banco de Dados
-
-Indique o tipo de índice que seria utilizado pelo SGBD para ordenar um campo que não é chave na tabela e que, além disso, pode ter dados duplicados de maneira a agilizar o processo de busca neste campo. 
-
-Alternativas:
-A. Índice primário
-B. Índice secundário
-C. Índice clustering
-D. Índice multinível

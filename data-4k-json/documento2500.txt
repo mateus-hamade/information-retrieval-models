@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Vetores
-
-O (a )____ em Estrutura de Dados é também conhecido (a) como array uni-dimensional. Assinale a alternativa que complete a lacuna.
-
-Alternativas:
-A. Pilha.
-B. Grafo.
-C. Vetor.
-D. Fila.

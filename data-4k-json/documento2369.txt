@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Busca
-
-Julgue o item seguinte, quanto aos conceitos da programação estruturada e da programação orientada a objetos e aos métodos de ordenação, pesquisa e hashing.     Na pesquisa do tipo sequencial, há aumento do desempenho se a tabela estiver ordenada pelo valor da chave.  
-
-Alternativas:
-A. Certo
-B. Errado

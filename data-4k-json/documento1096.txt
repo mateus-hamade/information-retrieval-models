@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
-
-Analise e responda.  I- + (mais). II- ou. III- não. IV- < (menor). V- = (igual).  São operadores lógicos: 
-
-Alternativas:
-A. II e III, apenas.
-B. I e II, III, IV e V.
-C. III, IV e V, apenas.
-D. I, II e IV, apenas.

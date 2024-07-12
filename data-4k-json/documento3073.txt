@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Complexidade de Algoritmos , Estrutura de Dados ( assuntos)
-
-Analise as seguintes afirmativas sobre a análise de complexidade das operações possíveis em estruturas de dados do tipo Pilha:  I. A operação de inserção de um elemento na pilha precisa reorganizar a estrutura de dados, podendo gastar um tempo de execução de O(n). II. A operação de retirada de um elemento da pilha é uma operação de tempo constante O(1). III. Na operação de consultar toda a pilha, todos os elementos são percorridos, gastando-se um tempo de execução de O(n).  Estão CORRETAS as afirmativas:
-
-Alternativas:
-A. I e II, apenas.
-B. I e III, apenas.
-C. II e III, apenas.
-D. I, II e III

@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
-
-Acerca dos conceitos e características de estrutura de dados e autômatos, julgue os itens a seguir.  Na árvore binária representada abaixo, o caminhamento pós-fixado produzirá a seguinte sequência de nós visitados: D, B, E, A, C, F.    
-
-Alternativas:
-A. Certo
-B. Errado

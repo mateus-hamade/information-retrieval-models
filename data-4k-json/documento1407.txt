@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
-
-Observe o pseudocódigo a seguir:        Trata-se do seguinte tipo de ordenação de dados:  
-
-Alternativas:
-A. Merge.
-B. Bubble Sort.
-C. Selection Sort.
-D. Insertion Sort.

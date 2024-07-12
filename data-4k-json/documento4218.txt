@@ -1,9 +1,0 @@
-Segurança da Informação Conceitos Básicos em Segurança da Informação , Criptografia
-
-Em um sistema criptográfico simétrico, a principal preocupação em termos de segurança refere-se à segurança 
-
-Alternativas:
-A. na autenticação dos usuários.
-B. durante a transmissão das chaves.
-C. na geração de chaves públicas e privadas.
-D. na proteção da única chave compartilhada.

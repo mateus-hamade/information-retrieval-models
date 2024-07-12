@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Grafos
-
-No que diz respeito às estruturas de informação, julgue o item subsecutivo.  Se um grafo simples que represente os usuários de uma rede social tem a soma dos graus de cada vértice igual a 16, então o número de enlaces de comunicação entre os usuários é 8. 
-
-Alternativas:
-A. Certo
-B. Errado

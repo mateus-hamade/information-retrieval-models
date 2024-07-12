@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
-
-Árvores de pesquisa são estruturas de dados que podem ser usadas para a busca de elementos presentes em seus nós. Um exemplo de árvore binária de pesquisa é a árvore
-
-Alternativas:
-A. AVL
-B. 2-3-4
-C. B
-D. B+

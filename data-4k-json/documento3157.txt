@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
-
-Texto associado Uma árvore consiste em um conjunto finito T com um ou mais nós, de modo que existe um nó raiz e os demais formam M >= 0 conjuntos disjuntos S1, S 2, ..., Sm, em que cada um desses conjuntos é uma árvore.
-
-Alternativas:
-A. Certo
-B. Errado

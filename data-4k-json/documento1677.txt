@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
-
-Acerca dos Algoritmos e Estrutura de Dados, julgue o item seguinte.          Considerando a árvore binária da figura abaixo, o resultado das consultas dos nós dessa árvore a em pré-ordem é: 18, 24, 6, 12, 48, 36.       
-
-Alternativas:
-A. Certo
-B. Errado

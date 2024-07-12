@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
-
-Analise as afirmações a seguir a respeito de pilhas: I - Novos elementos entram, no conjunto, exclusivamente, no topo da pilha. II - O único elemento que pode sair da pilha em um dado momento, é o elemento do topo. III - as Pilhas são conhecidas como LIFO (last in, first out), isto é, o último a entrar é o último a sair. Estão corretas as afirmações:
-
-Alternativas:
-A. I e II.
-B. I e III.
-C. II e III.
-D. I, II e III.

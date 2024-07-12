@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
-
-A imagem a seguir apresenta o código, em Java, de um algoritmo de ordenação.   É correto afirmar que o algoritmo de ordenação apresentado é denominado 
-
-Alternativas:
-A. Quicksort.
-B. Ordenação por seleção.
-C. Ordenação por inserção.
-D. Ordenação por intercalação.

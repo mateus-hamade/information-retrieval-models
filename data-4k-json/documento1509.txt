@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-Julgue o item a seguir a respeito de conceitos de algoritmos de escalonamento.     O algoritmo de escalonamento que proporciona os menores tempos médios de execução e de espera é conhecido como menor tarefa primeiro, ou SJF (shortest job first).
-
-Alternativas:
-A. Certo
-B. Errado

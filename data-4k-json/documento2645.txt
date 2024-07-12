@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-Com relação aos tipos de dados elementares e estruturados, julgue o item subsequente.  O algoritmo a seguir efetuará o cálculo da variável C apenas se o valor da variável X não for maior que 5.    
-
-Alternativas:
-A. Certo
-B. Errado

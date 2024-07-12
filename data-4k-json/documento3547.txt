@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
-
-Texto associado O caminhamento infixado em árvore binária compreende as seguintes etapas: visitação à raiz, depois, à subárvore da esquerda e, por último, à subárvore da direita. 
-
-Alternativas:
-A. Certo
-B. Errado

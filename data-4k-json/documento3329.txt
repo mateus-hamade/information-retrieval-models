@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Busca
-
-Julgue os próximos itens, relativos a tipos básicos de estruturas de dados.   O tempo de busca de um elemento em uma lista duplamente encadeada é igual à metade do tempo da busca de um elemento em uma lista simplesmente encadeada.  
-
-Alternativas:
-A. Certo
-B. Errado

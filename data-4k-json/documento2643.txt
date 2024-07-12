@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-Acerca de funções e procedimentos em subprogramas, julgue o item que se segue.  No algoritmo solução1 apresentado a seguir as variáveis X, A e B são criadas com escopo global; no algoritmo solução2 apresentado após algoritmo solução1, as variáveis A e B são criadas com escopo global e a variável X com escopo local.    
-
-Alternativas:
-A. Certo
-B. Errado

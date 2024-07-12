@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-A respeito de lógica, estrutura e linguagem de programação, julgue o item seguinte.     Uma linguagem de programação é usada para escrever programas que serão executados posteriormente pelo computador, e ela deve ser compreendida tanto pelo programador quanto pelo computador.  
-
-Alternativas:
-A. Certo
-B. Errado

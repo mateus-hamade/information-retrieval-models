@@ -1,9 +1,0 @@
-Banco de Dados PostgreSQL
-
-Qual afirmativa descreve o melhor uso do PL/pgSQL do PostgreSQL?
-
-Alternativas:
-A. Realizar otimizações automáticas de consultas para melhorar o desempenho do banco de dados.
-B. Gerenciar transações distribuídas em ambientes de cluster PostgreSQL.
-C. Facilitar a replicação de dados entre diferentes instâncias do PostgreSQL em um ambiente de alta disponibilidade.
-D. Permitir a criação de procedimentos armazenados e funções em uma linguagem procedural específica para o PostgreSQL.

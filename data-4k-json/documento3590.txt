@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Tipos de Dados
-
-Texto associado Os tipos de dados enumerados podem ser usados, por exemplo, para se referir a valores constantes associados a variáveis relacionadas a configurações do sistema ou a dispositivos de hardware. 
-
-Alternativas:
-A. Certo
-B. Errado

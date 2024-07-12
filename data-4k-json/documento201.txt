@@ -1,9 +1,0 @@
-Banco de Dados SQL
-
-Um cenário que precisa ter performance dentro de uma T-SQL e adota o conceito de paginação apresenta a(s) seguinte(s) função(ões) executada(s) para compor a montagem de um SELECT:
-
-Alternativas:
-A. TOP 10
-B. OFFSET, FETCH NEXT, ROWS ONLY
-C. WHERE 1 = 1
-D. CROSS JOIN

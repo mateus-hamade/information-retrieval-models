@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
-
-Sobre os conceitos de dados na tecnologia da informação, analisar os itens abaixo: I. Os sistemas computacionais trabalham basicamente com dados e sua função é o processamento desses dados. II. Pode-se entender o dado como um elemento da informação (um conjunto de letras ou dígitos) que, tomado isoladamente, não transmite nenhum conhecimento e não contém um significado intrínseco. III. Dados são materiais brutos que precisam ser manipulados e colocados em um contexto compreensivo antes de se tornarem úteis. Está(ão) CORRETO(S):
-
-Alternativas:
-A. Somente o item I.
-B. Somente o item II.
-C. Somente os itens I e III.
-D. Todos os itens.

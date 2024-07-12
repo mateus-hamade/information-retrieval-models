@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Grafos
-
-Qual é a quantidade máxima de arestas que um grafo G com 100 vértices deve ter para que G seja conexo e acíclico? 
-
-Alternativas:
-A. 98.
-B. 99.
-C. 100.
-D. 101.

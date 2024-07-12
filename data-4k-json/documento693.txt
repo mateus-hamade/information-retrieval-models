@@ -1,9 +1,0 @@
-Banco de Dados Modelagem de dados
-
-A partir do esquema apresentado abaixo, qual tipo de especialização está ocorrendo entre a entidade Funcionário e a entidade Secretária?  
-
-Alternativas:
-A. Disjunção total
-B. Disjunção parcial
-C. Sobreposição total
-D. Sobreposição parcial

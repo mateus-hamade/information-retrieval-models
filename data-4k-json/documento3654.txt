@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Recursividade
-
-Texto associado É possível implementar uma função que gere o mesmo resultado, utilizando a mesma lista de parâmetros e substituindo o uso de recursividade por uma estrutura de repetição do tipo para.
-
-Alternativas:
-A. Certo
-B. Errado

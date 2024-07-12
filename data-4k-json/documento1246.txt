@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
-
-Texto associado Quanto à lógica de programação e à estrutura de dados, julgue o item.  As pilhas são mais eficientes que as filas em todos  os cenários. 
-
-Alternativas:
-A. Certo
-B. Errado

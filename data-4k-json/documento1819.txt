@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-INICIO;  DECLARE A COMO INTEIRO;  DECLARE B COMO INTEIRO;  DECLARE C COMO INTEIRO;  DECLARE D COMO INTEIRO;  IMPRIMA “Entre com o valor A:”  RECEBA A;  IMPRIMA “Entre com o valor B:”  RECEBA B;  IMPRIMA “Entre com o valor C:”  RECEBA C;  D RECEBE A+B+C;  IMPRIMA “A SOMA DOS VALORES É:” D;  FIM;     Considerando o código em portugol apresentado acima, assinale a opção incorreta. 
-
-Alternativas:
-A. É correta a substituição das linhas 2, 3, 4 e 5 por DECLARE A,B,C,D COMO INTEIRO.
-B. A linha 12 possui um erro de interpretação: D não pode receber os valores das outras três variáveis.
-C. A linha 13 gera uma saída na tela informando o conteúdo de D ao final da linha.
-D. As linhas 7, 9 e 11 dizem para esperar por uma entrada de um valor para ser associado às variáveis.

@@ -1,9 +1,0 @@
-Banco de Dados DER - Diagrama de Entidade e Relacionamento
-
-Considere a relação entre as entidades “Funcionário”, “Departamento” e “Projeto” em um Modelo Entidade-Relacionamento (MER) para um sistema de informação de determinada prefeitura, que precisa gerenciar informações sobre funcionários, departamentos e projetos.    Analise as afirmativas a seguir. I. A cardinalidade mínima 1 apresentada no diagrama recebe a denominação de “associação obrigatória”, já que ela indica que o relacionamento deve, obrigatoriamente, associar uma ocorrência de entidade a cada ocorrência da entidade em questão. II. A cardinalidade máxima pode ser usada para classificar relacionamentos binários. É possível classificar os relacionamentos binários em n:n, 1:n e 1:1. III. A cardinalidade 0 no diagrama indica que pode não haver associação (ninguém associado) a uma ocorrência da entidade a cada ocorrência da entidade em questão. IV. A cardinalidade máxima indica o número máximo de ocorrências que cada associação deve ter; por exemplo, ao limitar um número máximo de 30 projetos por departamento, troca-se o 0 por 30 na relação projeto-departamento.  Está correto o que se afirma apenas em
-
-Alternativas:
-A. I e IV.
-B. II e III.
-C. I, II e III.
-D. II, III e IV.

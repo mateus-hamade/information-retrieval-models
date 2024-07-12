@@ -1,9 +1,0 @@
-Banco de Dados SQL
-
-SQL é uma linguagem declarativa com seus comandos divididos em grupos, permitindo a manipulação de dados com suporte à estrutura de dados, regras e restrições de integridade. Sobre a divisão dos comandos SQL em grupos, assinale a afirmativa INCORRETA.  
-
-Alternativas:
-A. DCL: Proporciona consulta de dados.
-B. DTL: Oferece comandos para trabalhar com transações.
-C. DML: Permite inclusão, alteração e exclusão de dados.
-D. DDL: Permite determinar o esquema do banco de dados e trabalhar com metadados.

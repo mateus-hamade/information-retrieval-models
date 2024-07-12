@@ -1,9 +1,0 @@
-Banco de Dados Conceitos Básicos em Banco de Dados
-
-Analise as afirmativas a seguir, relativas a um sistema gerenciador de banco de dados (SGBD).  I. O SGBD é um sistema de software de uso geral que facilita o processo de definição, construção, manipulação e compartilhamento de bancos de dados entre diversos usuários e aplicações.  II. Um SGBD multiusuário precisa incluir um software de controle de concorrência, para garantir que, quando vários usuários tentam atualizar o mesmo dado, isso ocorra de uma maneira controlada.  III. Um SGBD oferece aos usuários uma representação conceitual de dados, informalmente conhecida como abstração de dados.  Estão corretas as afirmativas
-
-Alternativas:
-A. I e II, apenas.
-B. I e III, apenas.
-C. II e III, apenas.
-D. I, II e III.

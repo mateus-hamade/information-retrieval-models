@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-Texto associado O pseudocódigo abaixo representa um algoritmo que efetua a multiplicação de dois inteiros quaisquer.  algoritmo "exercício 1c" var n1, n2: inteiro inicio escreva ("Digite o multiplicando e a seguir") escreva (" o multiplicador (ambos inteiros): ") leia (n1, n2) escreva (n1, "*", n2, "=",n1*n2) fimalgoritmo  
-
-Alternativas:
-A. Certo
-B. Errado

@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Recursividade
-
-A respeito de análise de algoritmos, programação estruturada e orientada a objetos e estruturas de dados, julgue o item a seguir.   Em um algoritmo que utilize o processo de recursão, é necessária a existência de uma condição de parada a fim de se evitar que o algoritmo entre em um loop. 
-
-Alternativas:
-A. Certo
-B. Errado

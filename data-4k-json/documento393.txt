@@ -1,9 +1,0 @@
-Banco de Dados DW - Data Warehouse
-
-Segundo Inmon (2005), assinale a alternativa correta com as principais características de um Data Warehouse (DW). 
-
-Alternativas:
-A. Orientado por assunto, integrado, variável no tempo, não volátil.
-B. Orientado por tópico, centralizado, variável no tempo, volátil.
-C. Orientado por assunto, integrado, variável no tempo, volátil.
-D. Orientado por tema, centralizado, variável no tempo, não volátil.

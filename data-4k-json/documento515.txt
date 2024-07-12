@@ -1,9 +1,0 @@
-Banco de Dados SGBD - Sistema de Gerenciamento de Banco de Dados , Oracle
-
-Sobre o SGBD Oracle, é INCORRETO afirmar que:
-
-Alternativas:
-A. um programa em PL/SQL apresenta três partes: (i) declaração de variáveis e objetos; (ii) comandos de execução e; (iii) tratamento de exceções.
-B. a cache do buffer de um banco de dados Oracle é mantida em uma área de memória chamada SGA (System Global Area).
-C. um banco de dados Oracle contém um ou mais arquivos de dados e um único arquivo de log.
-D. o Oracle oferece produtos para o tratamento de dados espaciais e dados no formato XML.

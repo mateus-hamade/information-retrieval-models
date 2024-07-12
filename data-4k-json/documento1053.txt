@@ -1,9 +1,0 @@
-Banco de Dados SQL
-
-O comando SELECT da linguagem SQL é usado para consultar o banco de dados e retornar dados recuperados que satisfazem determinada condição expressa no comando. Considerando a sintaxe do comando SELECT, assinale a afirmativa INCORRETA.
-
-Alternativas:
-A. select id_aluno from aluno;
-B. select * from aluno where id_aluno = 1000;
-C. select id_aluno from aluno where id_aluno = 1004;
-D. select id_aluno where id_aluno = 1008 and sobrenome = 'Silva';

@@ -1,9 +1,0 @@
-Segurança da Informação Políticas de Segurança de Informação , Ataques e ameaças
-
-Diante da crescente sofisticação dos ataques cibernéticos, especialmente no contexto de ataques de dicionário e força bruta em aplicações WEB, assinale a alternativa que melhor exemplifica uma estratégia avançada para enfrentar com eficácia ataques de dicionário e força bruta em aplicações WEB:
-
-Alternativas:
-A. Adoção de senhas complexas e alteração frequente de políticas.
-B. Utilização de autenticação multifatorial com fatores biométricos.
-C. Utilização de honeypots para atrair e detectar potenciais invasores.
-D. Implementação de bloqueio de IP após um número fixo de tentativas de login.

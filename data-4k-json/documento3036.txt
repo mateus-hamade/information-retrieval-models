@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
-
-Qual a estrutura de repetição mais eficiente a ser utilizada no caso em que é necessário repetir 20 vezes um determinado comando?
-
-Alternativas:
-A. do ... while
-B. for
-C. while ... do
-D. 20X { }

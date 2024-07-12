@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
-
-Referente à UML (unified modeling language), analise as seguintes afirmativas e assinale com V as verdadeiras e com F as falsas. ( ) O fator de ramificação de uma árvore pode variar entre pequeno e grande. B-árvores são árvores de busca balanceadas projetadas para funcionar em discos ou outros dispositivos de armazenamento secundário. ( ) Muitos sistemas de banco de dados usam B-árvores ou variantes para armazenar informações. B-árvores generalizam árvores de busca binária de modo natural. ( ) Executar uma busca em uma B-árvore é muito semelhante a executar uma busca em uma árvore de busca binária, exceto que, em vez de tomar uma decisão de ramificação binária ou de “duas vias” em cada nó, toma-se uma decisão de ramificação de várias vias, de acordo com o número de filhos do nó. ( ) Para simplificar, pode ser considerado que, nas árvores de busca binária, qualquer informação-satélite associada a uma chave reside em nós diferentes da chave. Pode-se armazenar com cada chave vários ponteiros para uma outra página de disco que contenha as informações satélites da chave. Assinale a sequência CORRETA . 
-
-Alternativas:
-A. V F V V
-B. V V F V
-C. V V V F
-D. F V V V

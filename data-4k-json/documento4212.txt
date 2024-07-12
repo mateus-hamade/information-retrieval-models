@@ -1,9 +1,0 @@
-Segurança da Informação Políticas de Segurança de Informação
-
-Considerando a complexidade da segurança em aplicações WEB, qual das afirmativas a seguir oferece a justificativa mais precisa para a vitalidade da gestão de patches e atualizações no contexto da segurança de aplicações WEB?
-
-Alternativas:
-A. Orquestração eficiente da infraestrutura para otimizar a resiliência operacional e a capacidade de resposta.
-B. Implementação proativa de contramedidas contra ameaças persistentes avançadas, como ataques DDoS distribuídos.
-C. Sincronização meticulosa de sistemas com arquiteturas legadas para preservar a interoperabilidade e minimizar descontinuidades.
-D. Correção diligente de vulnerabilidades previamente identificadas, promovendo uma postura defensiva e aprimoramento constante da segurança em conformidade com as melhores práticas.

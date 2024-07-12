@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Hashing
-
-Uma tabela de dispersão (também conhecida por tabela de espalhamento ou tabela hash) é uma estrutura de dados especial, que associa chaves de pesquisa a valores. Seu objetivo é, a partir de uma chave simples, fazer uma busca rápida e obter o valor desejado. É algumas vezes traduzida como tabela de escrutínio.  Relativo à tabela de dispersão, dentre as alternativas abaixo, marque a alternativa INCORRETA.  
-
-Alternativas:
-A. É tipicamente utilizada para implementar vetores associativos, conjuntos e caches.
-B. É tipicamente usada para indexação de grandes volumes de informação (como base de dados).
-C. A função de espalhamento ou função de dispersão é a responsável por gerar um índice a partir de determinada chave.
-D. A função de dispersão pode calcular o mesmo índice apenas para duas chaves iguais.

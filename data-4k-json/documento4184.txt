@@ -1,9 +1,0 @@
-Sistemas Operacionais Virtualização
-
-O arquivo Dockerfile é utilizado para
-
-Alternativas:
-A. gerenciar a execução de contêineres Docker em um ambiente de produção, monitorando o desempenho e escalando automaticamente conforme necessário.
-B. especificar as instruções para a construção de uma imagem do Docker, incluindo a definição de dependências, comandos de execução e configurações do ambiente.
-C. automatizar a instalação de dependências e bibliotecas no sistema operacional hospedeiro, garantindo a compatibilidade com os contêineres Docker.
-D. controlar o ciclo de vida dos contêineres, desde a criação até a destruição, fornecendo um ambiente isolado para a execução de processos.

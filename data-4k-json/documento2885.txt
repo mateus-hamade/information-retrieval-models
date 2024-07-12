@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados , Listas
-
-A respeito de estruturas de dados, julgue o item seguinte.  A implementação de lista por meio de apontadores permite utilizar posições não contíguas de memória, de modo a se poder inserir e retirar elementos sem que haja necessidade de deslocar os itens seguintes da lista.
-
-Alternativas:
-A. Certo
-B. Errado

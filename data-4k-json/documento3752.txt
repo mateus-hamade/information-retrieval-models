@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Grafos
-
-Texto associado Na figura mostrada, existem dois nós.
-
-Alternativas:
-A. Certo
-B. Errado

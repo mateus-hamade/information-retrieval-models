@@ -1,9 +1,0 @@
-Banco de Dados Oracle , SQL
-
-Bancos de dados muito grandes (VLDB) apresentam desafios de administração, porque exigem que os DBA adotem múltiplas estratégias para mantê-los. O particionamento é componente chave dessas estratégias. Com relação às vantagens do particionamento no banco de dados Oracle v23c, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.  ( ) Permite que operações de gerenciamento de dados, como, por exemplo, carregamento de dados, criação e reconstrução de índices e operações de backup e restore, apenas no nível de tabela inteira. Isso resulta em tempos significativamente reduzidos para executar essas operações. ( ) Melhora o desempenho das consultas SQL. Muitas vezes, os resultados de uma consulta podem ser obtidos acessando um subconjunto de partições, em vez de acessar a tabela inteira. Para algumas consultas, técnica chamada de remoção de partição pode fornecer ganhos de ordem de magnitude no desempenho. ( ) Aumenta a disponibilidade de bancos de dados de missão crítica se tabelas e índices críticos forem divididos em partições para reduzir as janelas de manutenção. A execução paralela de consultas SQL oferece vantagens específicas para otimizar e minimizar os tempos de execução. A execução paralela é suportada exclusivamente para consultas SQL do tipo DDL.  As afirmativas são, respectivamente,
-
-Alternativas:
-A. V – F – F.
-B. V – V – F.
-C. F – F – V.
-D. F – V – F.

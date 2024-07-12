@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
-
-Julgue o item, relativos aos conceitos de programação e às estruturas de dados.       Na definição de árvore, não há relação entre o número de subárvores de um nó e o grau de um nó, uma vez que são conceitos distintos.   
-
-Alternativas:
-A. Certo
-B. Errado

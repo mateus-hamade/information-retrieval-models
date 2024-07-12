@@ -1,9 +1,0 @@
-Sistemas Operacionais Conceitos Básicos em Sistemas Operacionais , Processos , Sistemas Operacionais
-
-Em um sistema operacional multiprogramado interativo, a primeira ação que o Escalonador de Tarefas deve realizar para a correta operação do sistema computacional é:
-
-Alternativas:
-A. escolher o processador para o novo processo
-B. interromper o processo atual
-C. selecionar o novo processo
-D. salvar o contexto da MMU

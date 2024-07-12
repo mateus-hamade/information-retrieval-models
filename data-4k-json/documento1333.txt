@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos
-
-Com relação a estruturas de controle, seleção, repetição e desvio, julgue o item a seguir.     Ao final da execução do algoritmo a seguir, o valor 0 será apresentado.  constante A = 50  enquanto (A > 0)           A -= 5;  fim enquanto  escreva (A);     
-
-Alternativas:
-A. Certo
-B. Errado

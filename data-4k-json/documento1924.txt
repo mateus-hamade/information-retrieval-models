@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-Acerca de construção de algoritmos, avaliação de expressões, variáveis e constantes, julgue o item a seguir. São exemplos de constantes literais “NOME”, “Abacaxi”, “falso”, “304958” e “23/12/99”.
-
-Alternativas:
-A. Certo
-B. Errado

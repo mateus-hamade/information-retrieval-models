@@ -1,9 +1,0 @@
-Segurança da Informação Ataques e ameaças
-
-Analise os incidentes notificados ao CERT.br (Centro de Estudos, Resposta e Tratamento de Incidentes de Segurança no Brasil) de janeiro a dezembro de 2023:                 (Figura 1: Incidentes Notificados ao CERT.br - Jan a Dez 2023. Disponível em: https://stats.cert.br/incidentes/.)        Considerando a descrição das categorias de incidentes reportados ao CERT.br, qual das seguintes atividades é incluída na categoria “Scan”?  
-
-Alternativas:
-A. Tentativas de obter vantagens financeiras por meio de engenharia social.
-B. Ataques específicos visando comprometer servidores web ou desfigurar páginas na internet.
-C. Notificações de ataques bem-sucedidos que resultam em acesso não autorizado a um sistema.
-D. Varreduras em redes de computadores, força bruta de senhas e outros ataques sem sucesso contra serviços de rede.

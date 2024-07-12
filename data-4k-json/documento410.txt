@@ -1,9 +1,0 @@
-Banco de Dados OLAP (On-line Analytical Processing) , BI (Business Intelligence)
-
-O processamento analítico on-line, também conhecido por OLAP (Online Analytical Processing) é um conceito muito utilizado em grandes bases de dados, e supor às ferramentas de BI (Business Intelligence). Dentro dos componentes do OLAP, a que apresenta um conjunto de uma ou mais hierarquias organizadas de níveis em um cubo que um usuário compreende e usa como base para análise de dados se chama:
-
-Alternativas:
-A. Membro
-B. Nível
-C. Hierarquia
-D. Dimensão

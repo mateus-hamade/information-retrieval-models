@@ -1,9 +1,0 @@
-Banco de Dados Banco de Dados Relacionais
-
-A utilização de vetores em programação é imprescindível em muitos casos, por exemplo, quando precisamos armazenar uma sequência de dados relacionados a um determinado objeto. Considerando um vetor de 10 posições, o modo como se acessa o terceiro elemento de um vetor, utilizando a linguagem Java é: 
-
-Alternativas:
-A. vetor[4]
-B. vetor[3]
-C. vetor[2]
-D. vetor[1]

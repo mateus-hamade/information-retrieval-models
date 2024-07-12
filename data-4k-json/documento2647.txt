@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
-
-Julgue o item seguinte, relativos a linguagens de programação.  Em se tratando de linguagens procedimentais, os dados são globais e, portanto, acessíveis a todos os procedimentos.  
-
-Alternativas:
-A. Certo
-B. Errado

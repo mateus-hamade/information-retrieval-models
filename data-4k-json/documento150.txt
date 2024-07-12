@@ -1,9 +1,0 @@
-Banco de Dados SQL
-
-Assinale a funcionalidade do comando JOIN, no SQL. 
-
-Alternativas:
-A. Permite fazer alterações em tabelas.
-B. Permite acrescentar dados em uma tabela.
-C. Permite trazer os dados de duas ou mais tabelas no resultado de um único SELECT.
-D. Permite mostrar somente registros que tenham referências em duas tabelas.

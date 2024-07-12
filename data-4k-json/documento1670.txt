@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
-
-Julgue o item seguinte, considerando a proposição P: “Como nossas reservas de matéria prima se esgotaram e não encontramos um novo nicho de mercado, entramos em falência”.     Caso a proposição “entramos em falência” seja falsa, a proposição P também será falsa.    
-
-Alternativas:
-A. Certo
-B. Errado

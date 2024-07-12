@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-Em qualquer tipo de expressão em um algoritmo temos uma ordem a ser seguida que é chamada de ordem de precedência. Das alternativas, a seguir, qual tem maior precedência, ou seja, qual vai ter a prioridade de execução?
-
-Alternativas:
-A. Comparações.
-B. Funções.
-C. *
-D. <=

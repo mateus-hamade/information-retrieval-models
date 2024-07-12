@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
-
-Texto associado Em uma estrutura de repetição com variável de controle, ou estrutura para, a verificação da condição é realizada antes da execução do corpo da sentença, o que impede a reescrita desse tipo de estrutura por meio de estrutura de repetição pós- testada.
-
-Alternativas:
-A. Certo
-B. Errado

@@ -1,9 +1,0 @@
-Segurança da Informação Ataques e ameaças
-
-O ataque que NÃO explora o software diretamente é denominado: 
-
-Alternativas:
-A. engenharia social
-B. ponteiros pendentes
-C. transbordamento de buffer
-D. ataque por cadeias de caracteres de formato

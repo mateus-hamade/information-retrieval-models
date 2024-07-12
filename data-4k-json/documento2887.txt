@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Fluxogramas , Lógicas de Programação
-
-Julgue o item a seguir, relativos a lógica de programação.  Comumente usados em fluxogramas representativos de sistemas, os símbolos abaixo correspondem, respectivamente, a dados armazenados, processo, documento e entrada manual.  
-
-Alternativas:
-A. Certo
-B. Errado

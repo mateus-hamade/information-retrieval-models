@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-A respeito de análise e desenvolvimento de sistemas, julgue o item subsequente.  Os algoritmos são sequências finitas de instruções que, quando corretamente executadas, levam à solução de um problema. 
-
-Alternativas:
-A. Certo
-B. Errado

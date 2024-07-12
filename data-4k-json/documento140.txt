@@ -1,9 +1,0 @@
-Banco de Dados SGBD - Sistema de Gerenciamento de Banco de Dados
-
-Na monitoração e na otimização de desempenho de SGBD (Sistema Gerenciador de Banco de Dados), o processo de substituir ponteiros no estilo OID (identificadores de objetos) por endereços de memória principal, quando os objetos são lidos para a memória ou gravados no banco de dados, é denominado:
-
-Alternativas:
-A. clustering.
-B. swizzling.
-C. caching.
-D. hashing.

@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Recursividade
-
-Texto associado Quando um algoritmo recursivo recebe como parâmetro o trecho do vetor no qual deve ser realizada a pesquisa, então essa pesquisa é do tipo sequencial.
-
-Alternativas:
-A. Certo
-B. Errado

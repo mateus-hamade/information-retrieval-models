@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-Analise o algoritmo a seguir.   Considere “a mod b” como o resto da divisão inteira entre a e b. O valor retornado, quando os parâmetros a e b forem, respectivamente, 15 e 20, é
-
-Alternativas:
-A. 30.
-B. 60.
-C. 90.
-D. 120.

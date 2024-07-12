@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados
-
-Com relação a programação estruturada e manipulação de dados, assinale a opção correta. 
-
-Alternativas:
-A. LIFO indica que o último elemento inserido na estrutura de processamento será o primeiro a ser processado.
-B. FIFO indica que o primeiro elemento inserido na estrutura de processamento será o último a ser processado.
-C. A fila é um tipo de estrutura que utiliza o procedimento LIFO.
-D. Uma pilha é um tipo de estrutura que utiliza o procedimento FIFO.

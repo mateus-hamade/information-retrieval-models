@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Estrutura de Controle e Repetição
-
-Observe a seguinte estrutura de controle:      repita         <lista de comandos>  até         <condição>     Uma outra estrutura de controle equivalente a essa é: 
-
-Alternativas:
-A. enquanto <não condição> faça <lista de comandos> até
-B. enquanto <condição> faça
-C. repita
-D. <não condição> faça <lista de comandos> até <lista de comandos> fim se

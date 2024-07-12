@@ -1,9 +1,0 @@
-Segurança da Informação Análise de Vulnerabilidade e Gestão de Riscos , Ataques e ameaças , Noções de Segurança ( assuntos)
-
-Uma empresa está sofrendo ataques na sua rede, nos quais o hacker utiliza um código malicioso para entrar na rede por uma porta de acesso TCP/IP, que não está documentada e que geralmente seria utilizada por um administrador para alguma manutenção. Esse tipo de malware também é conhecido como:
-
-Alternativas:
-A. flood
-B. backdoor
-C. pharmimg
-D. man-in-the-middle

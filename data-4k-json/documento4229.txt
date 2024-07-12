@@ -1,9 +1,0 @@
-Segurança da Informação Criptografia
-
-A criptografia é uma técnica de segurança fundamental na proteção de dados e comunicações. Ela envolve a transformação de informações em um formato ilegível, chamado de texto cifrado, usando algoritmos matemáticos e chaves de criptografia. Levando-se em consideração as características fundamentais da criptografia, marque V para as afirmativas verdadeiras e F para as falsas.   ( ) A criptografia de chave pública é geralmente mais lenta do que a criptografia de chave simétrica. ( ) Um exemplo de algoritmo de criptografia assimétrica é o RSA. ( ) Em sistemas criptográficos simétricos, a segurança depende principalmente do segredo da chave compartilhada entre as partes.   A sequência está correta em
-
-Alternativas:
-A. F, F, F.
-B. F, V, F.
-C. V, F, V.
-D. V, V, V.

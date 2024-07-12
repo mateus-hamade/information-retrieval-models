@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Lógicas de Programação
-
-As variáveis que são definidas dentro de um método, sendo utilizadas freqüentemente como posições de memória temporária para ajudar um método a completar sua tarefa são
-
-Alternativas:
-A. globais.
-B. locais.
-C. de parâmetros.
-D. modificadoras.

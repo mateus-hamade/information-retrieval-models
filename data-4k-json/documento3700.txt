@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Vetores
-
-Texto associado Um vetor de interrupções contém uma fila de pares de parâmetros, sendo um parâmetro para o número da interrupção e o outro para o processo destinatário da interrupção.
-
-Alternativas:
-A. Certo
-B. Errado

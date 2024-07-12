@@ -1,9 +1,0 @@
-Banco de Dados SQL
-
-Quando se abre uma Transaction no SQL Server em uma Procedure, é necessário informar um comando para realmente persistir nas tabelas que sofreram INSERT, UPDATE e DELETE no término da ação. Esse comando é chamado de
-
-Alternativas:
-A. Roolback.
-B. Begin Transaction.
-C. Commit.
-D. Try.

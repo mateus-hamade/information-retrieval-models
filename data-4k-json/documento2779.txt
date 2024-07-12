@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Filas , Pilhas
-
-A respeito de análise de algoritmos, programação estruturada e orientada a objetos e estruturas de dados, julgue o item a seguir.   No tipo abstrato de dados denominado fila, a inserção ou eliminação de um item é realizada em uma única extremidade, ao passo que na pilha a inserção é feita em uma extremidade e a remoção, na outra. 
-
-Alternativas:
-A. Certo
-B. Errado

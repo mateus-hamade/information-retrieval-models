@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Tipos de Dados
-
-Uma sequência de números é um Tipo Abstrato de Dados (TAD) que representa um conjunto finito de valores ordenados, no qual um valor pode ocorrer em duplicidade. Considere as seguintes afirmações sobre a implementação de uma sequência de números utilizando arranjos e listas ligadas:  I Arranjos permitem acesso a qualquer elemento da sequência com complexidade de tempo média constante.  II Listas ligadas não permitem a inserção de um elemento no início da sequência com complexidade de tempo média constante.  III Listas ligadas requerem que a sequência seja armazenada em uma faixa contínua de endereços de memória  IV Arranjos não permitem a inserção de um elemento no meio da sequência com complexidade de tempo média constante.  Estão corretas as afirmações  
-
-Alternativas:
-A. I e II.
-B. II e III.
-C. I e IV.
-D. III e IV.

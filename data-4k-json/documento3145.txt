@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Estrutura de Dados ( assuntos)
-
-Texto associado Considere que uma função  ordene os dados de um vetor, que é recebido como parâmetro por referência. Nessa situação, as mudanças de valores do vetor somente poderão ser visualizadas ao término da execução da função .
-
-Alternativas:
-A. Certo
-B. Errado

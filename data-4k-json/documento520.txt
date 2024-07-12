@@ -1,9 +1,0 @@
-Banco de Dados Data Mining
-
-Na Mineração de Dados, qual dos seguintes métodos é usado para identificar padrões sequenciais em conjuntos de dados temporais?  
-
-Alternativas:
-A. Árvores de decisão.
-B. Algoritmos genéticos.
-C. Modelos de Markov ocultos.
-D. Lista duplamente encadeada.

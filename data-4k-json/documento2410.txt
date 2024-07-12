@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
-
-Acerca dos conceitos de árvores e grafos, julgue o item que se segue.     A árvore representada abaixo tem grau 3.       
-
-Alternativas:
-A. Certo
-B. Errado

@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-Algoritmo guloso é uma técnica para resolver problemas de otimização. Um algoritmo que usa essa estratégia faz sempre escolhas que, naquela interação, parecem excelentes. Isso pode levar a uma solução ótima, ou não, mas certamente satisfatória. A respeito dos algoritmos gulosos, é correto afirmar:
-
-Alternativas:
-A. seguem a solução mais promissora sem explorar as outras soluções.
-B. são soluções de programação dinâmica.
-C. após cada iteração, pode-se rever o ótimo corrente, alterar a decisão e seguir para obtenção da solução ótima.
-D. são algoritmos que têm prova de correção simples.

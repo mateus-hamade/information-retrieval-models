@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
-
-No que diz respeito aos conceitos e fundamentos de lógica de programação, julgue o item seguinte. Por característica, o algoritmo quicksort apresenta melhor desempenho que o merge sort.
-
-Alternativas:
-A. Certo
-B. Errado

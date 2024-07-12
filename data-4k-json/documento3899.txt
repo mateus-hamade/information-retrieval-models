@@ -1,9 +1,0 @@
-Banco de Dados PostgreSQL
-
-Considere, abaixo, o script SQL, criado para ser executado em um ambiente PostgreSQL, versão 15.             Ao finalizar, deve se concluir que   
-
-Alternativas:
-A. ocorre um erro de sintaxe de entrada inválida para o tipo booleano, na linha 9.
-B. ocorreu um erro na linha 16, visto que a cláusula where foi definida incorretamente
-C. o script foi executado com sucesso, e a consulta exibe informações do registro cuja coluna chave é igual a 1.
-D. o script foi executado com sucesso, e a consulta exibe informações dos registros cuja coluna chave é igual a 1, 3, 5, 7 e 9.

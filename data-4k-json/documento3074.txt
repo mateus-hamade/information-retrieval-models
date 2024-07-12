@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Conceitos Básicos de Estrutura de Dados
-
-Considere a figura a seguir representando uma estrutura de dados:    São características da estrutura de dados representada, EXCETO:
-
-Alternativas:
-A. Os elementos da estrutura estão duplamente encadeados.
-B. O último elemento inserido é sempre o primeiro a ser retirado da estrutura.
-C. A estrutura representada é circular, ou seja, o último elemento aponta para o primeiro e este, para o último.
-D. Nesse tipo de estrutura, cada elemento possui um ponteiro usado para apontar para o elemento anterior e outro usado para apontar para o próximo elemento da estrutura.

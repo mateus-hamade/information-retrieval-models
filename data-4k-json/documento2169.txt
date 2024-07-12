@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
-
-Assinale a alternativa que apresenta o método de ordenação cuja característica é a comparação do elemento atual com o próximo elemento do conjunto, realizando uma troca entre eles, caso o elemento atual tenha um valor maior que o de seu sucessor.
-
-Alternativas:
-A. Quisk sort
-B. Heap sort
-C. Bubble sort
-D. Radix sort

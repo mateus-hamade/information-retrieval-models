@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Algoritmos de Ordenação
-
-Texto associado O objetivo do algoritmo “ordenação rápida” (quick sort) é resolver o problema da ordenação por partes.
-
-Alternativas:
-A. Certo
-B. Errado

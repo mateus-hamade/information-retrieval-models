@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
-
-A pilha é uma estrutura de dados baseada no princípio LIFO (Last-In, First-Out), que tem fundamentalmente duas operações básicas que são:
-
-Alternativas:
-A. enqueue e pop
-B. enqueue e dequeue
-C. push e dequeue
-D. push e pop

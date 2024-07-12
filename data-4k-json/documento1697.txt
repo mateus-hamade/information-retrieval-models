@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Árvores
-
-“É um grafo acíclico não orientado conectado.” Trata-se do seguinte tipo de árvore:
-
-Alternativas:
-A. Livre.
-B. Ordenada.
-C. Enraizada.
-D. Posicional.

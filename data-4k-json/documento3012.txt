@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos , Estrutura de Controle e Repetição
-
-No que se refere à estrutura de programação e lógica, julgue os próximos itens.  No algoritmo abaixo, é apresentada uma estrutura de desvio condicional encadeada.  
-
-Alternativas:
-A. Certo
-B. Errado

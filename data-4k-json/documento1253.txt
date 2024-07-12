@@ -1,9 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-Sistemas de computação utilizam o sistema binário como forma de representação. Porém, essa numeração só consegue representar normalmente inteiros e maiores que zero. Para que outros tipos de dados sejam representados, é necessário utilizar um sistema de codificação para o sistema de numeração binário. Um exemplo é a representação de números não inteiros usando o ponto flutuante.  Sobre a notação de ponto flutuante, assinale a alternativa incorreta.
-
-Alternativas:
-A. O padrão 754 do ANSI/IEEE trata da representação de números na notação de ponto flutuante com precisão simples e precisão dupla.
-B. A notação de ponto flutuante é formada por: bit de sinal, expoente e mantissa.
-C. Na precisão dupla, o campo mantissa tem 8 bits e o campo expoente tem 23 bits.
-D. A representação usando o ponto flutuante na forma normalizada é análoga à notação científica.

@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Pilhas
-
-A respeito de algoritmos, estruturas de dados e objetos, julgue o  item  que se segue.   Pilha é uma estrutura de dados do tipo lista linear, em que as operações TOP, PUSH e POP são realizadas no topo da pilha e, por isso, são denominadas LIFO.  
-
-Alternativas:
-A. Certo
-B. Errado

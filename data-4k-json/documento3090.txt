@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Estrutura de Dados , Hashing
-
-Texto associado O armazenamento e a recuperação eficientes de itens provenientes de conjuntos estáticos, tais como palavras em linguagem natural, palavras reservadas em linguagens de programação e URLs, podem ser realizados em máquinas de busca pelas funções hash perfeitas mínimas. 
-
-Alternativas:
-A. Certo
-B. Errado

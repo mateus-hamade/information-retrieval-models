@@ -1,7 +1,0 @@
-Algoritmos e Estrutura de Dados Algoritmos , Conceitos Básicos e Algoritmos
-
-No que concerne aos aspectos de linguagens de programação, algoritmos, estrutura de dados e case, julgue o item subsequente.  O algoritmo apresentado a seguir, desenvolvido na linguagem Java, retornará true se não houver elementos comuns entre os arranjos a, b e c, ou seja, se os três conjuntos forem disjuntos.                
-
-Alternativas:
-A. Certo
-B. Errado
